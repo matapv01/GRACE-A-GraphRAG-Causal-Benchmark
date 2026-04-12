@@ -1,0 +1,59 @@
+{
+  "question_id": "22797",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41064",
+    "http://www.wikidata.org/entity/Q128608"
+  ],
+  "gold_path": {
+    "question_id": "22797",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219395",
+        "predicate": "http://www.wikidata.org/prop/direct/P1441",
+        "object": "http://www.wikidata.org/entity/Q41064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41064",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q179461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219395",
+        "predicate": "http://www.wikidata.org/prop/direct/P1441",
+        "object": "http://www.wikidata.org/entity/Q128608"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q128608",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q179461"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q219395",
+      "predicate": "http://www.wikidata.org/prop/P8636",
+      "object": "http://www.wikidata.org/entity/statement/Q219395-f6ce051f-49d7-b381-1bd8-87633df7704b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219395",
+      "predicate": "http://www.wikidata.org/prop/P6385",
+      "object": "http://www.wikidata.org/entity/statement/Q219395-9e30caab-49ad-d8ec-5da4-0636b111aa64"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219395",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219395",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q219395-F8618534-E8AD-4135-8DFF-2C5CB5D3C2E2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219395",
+      "predicate": "http://www.wikidata.org/prop/P12385",
+      "object": "http://www.wikidata.org/entity/statement/Q219395-0ebf238c-ebe6-4404-8655-23234bc4237e"
+    }
+  ]
+}

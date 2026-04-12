@@ -1,0 +1,43 @@
+{
+  "question_id": "14124",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1858"
+  ],
+  "gold_path": {
+    "question_id": "14124",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3111454",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1858"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3111454",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/TrucLam%20CongNgoai.JPG"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3111454",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q3111454-354c3778-4e7d-d204-5b93-c3df23a3fcea"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3111454",
+      "predicate": "http://www.wikidata.org/prop/direct/P38",
+      "object": "http://www.wikidata.org/entity/Q4008482"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3111454",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh97003453"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3111454",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q3111454-4B6716D9-2E70-45BF-A6C4-AC8E3B872F6C"
+    }
+  ]
+}

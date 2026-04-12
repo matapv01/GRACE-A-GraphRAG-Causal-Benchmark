@@ -1,0 +1,43 @@
+{
+  "question_id": "13656",
+  "answers": [
+    "http://www.wikidata.org/entity/Q52985"
+  ],
+  "gold_path": {
+    "question_id": "13656",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q744536",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q52985"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q52985",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q17200760"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q744536",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q744536",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q744536-8DDE1A3F-3638-47F4-8E0F-A9615CD95F83"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q744536",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tintin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q744536",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Las aventuras de Tintin"
+    }
+  ]
+}

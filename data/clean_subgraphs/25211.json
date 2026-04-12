@@ -1,0 +1,53 @@
+{
+  "question_id": "25211",
+  "answers": [
+    "http://www.wikidata.org/entity/Q44996"
+  ],
+  "gold_path": {
+    "question_id": "25211",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44996",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3327521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q44996",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q6257950"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q44996",
+        "predicate": "rdfs:label",
+        "object": "Oxford English Dictionary"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44996",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44996",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Оксфордский словарь английского языка"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44996",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Oxford English Dictionary"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44996",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Oxnaford Englisc Wordbōc"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44996",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "قاموس أكسفورد الإنجليزي"
+    }
+  ]
+}

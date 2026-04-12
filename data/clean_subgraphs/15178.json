@@ -1,0 +1,59 @@
+{
+  "question_id": "15178",
+  "answers": [
+    "1972-11-02T00:00:00Z",
+    "1968-06-25T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "15178",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57385",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q477201"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q477201",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1968-06-25T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57385",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q45042829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45042829",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1972-11-02T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q57385",
+      "predicate": "http://www.wikidata.org/prop/P735",
+      "object": "http://www.wikidata.org/entity/statement/Q57385-29C7596A-8F82-472E-AF7A-DFF9F33CD9CF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57385",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q57385-0eaeecad-4b9f-a53a-37c5-131239ed61da"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57385",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/q57385-5D802C10-0E57-425A-900C-1A69111875DE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57385",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q57385-960AC5DE-21C8-4278-84DD-ED2109154F6B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57385",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q57385-88A1AC1A-32FB-4579-84E0-42CAF62DF307"
+    }
+  ]
+}

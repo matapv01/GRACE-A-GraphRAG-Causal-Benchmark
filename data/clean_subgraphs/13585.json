@@ -1,0 +1,48 @@
+{
+  "question_id": "13585",
+  "answers": [
+    "http://www.wikidata.org/entity/Q803"
+  ],
+  "gold_path": {
+    "question_id": "13585",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q160435",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q803",
+        "predicate": "http://www.wikidata.org/prop/direct/P1383",
+        "object": "http://www.wikidata.org/entity/Q1846873"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q160435",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "person/2b0604d5-88fc-4b5e-8ae0-8d22feee964a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160435",
+      "predicate": "http://www.wikidata.org/prop/direct/P1559",
+      "object": "Gerrit Rietveld"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160435",
+      "predicate": "http://www.wikidata.org/prop/direct/P213",
+      "object": "0000000121219341"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160435",
+      "predicate": "http://www.wikidata.org/prop/direct/P1344",
+      "object": "http://www.wikidata.org/entity/Q265533"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160435",
+      "predicate": "http://www.wikidata.org/prop/direct/P1315",
+      "object": "958155"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_id": "13220",
+  "answers": [
+    "http://www.wikidata.org/entity/Q309788",
+    "http://www.wikidata.org/entity/Q528839"
+  ],
+  "gold_path": {
+    "question_id": "13220",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q559321",
+        "predicate": "http://www.wikidata.org/prop/direct/P161",
+        "object": "http://www.wikidata.org/entity/Q309788"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q559321",
+        "predicate": "http://www.wikidata.org/prop/direct/P161",
+        "object": "http://www.wikidata.org/entity/Q528839"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q559321",
+      "predicate": "http://www.wikidata.org/prop/P5327",
+      "object": "http://www.wikidata.org/entity/statement/Q559321-6D2BB7D8-6515-46E1-B931-11DB30D25FDC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559321",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q559321-006FC2C1-21B3-464C-9F5C-1C94279DE309"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559321",
+      "predicate": "http://www.wikidata.org/prop/P2670",
+      "object": "http://www.wikidata.org/entity/statement/Q559321-DBE9ED65-EEF5-4BA1-B9F5-4FC98EC64945"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559321",
+      "predicate": "http://www.wikidata.org/prop/P2437",
+      "object": "http://www.wikidata.org/entity/statement/Q559321-37D1602C-C09B-4674-8392-8A6CFA93123E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559321",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q559321-3A56D115-5FAE-4553-B940-E2FA427BA756"
+    }
+  ]
+}

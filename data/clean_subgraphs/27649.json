@@ -1,0 +1,73 @@
+{
+  "question_id": "27649",
+  "answers": [
+    "http://www.wikidata.org/entity/Q45935",
+    "http://www.wikidata.org/entity/Q14302",
+    "http://www.wikidata.org/entity/Q17581",
+    "http://www.wikidata.org/entity/Q32159",
+    "http://www.wikidata.org/entity/Q45523",
+    "http://www.wikidata.org/entity/Q733738"
+  ],
+  "gold_path": {
+    "question_id": "27649",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "http://www.wikidata.org/prop/direct/P113",
+        "object": "http://www.wikidata.org/entity/Q14302"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "http://www.wikidata.org/prop/direct/P113",
+        "object": "http://www.wikidata.org/entity/Q17581"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "http://www.wikidata.org/prop/direct/P113",
+        "object": "http://www.wikidata.org/entity/Q32159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "http://www.wikidata.org/prop/direct/P113",
+        "object": "http://www.wikidata.org/entity/Q45523"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "http://www.wikidata.org/prop/direct/P113",
+        "object": "http://www.wikidata.org/entity/Q45935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "http://www.wikidata.org/prop/direct/P113",
+        "object": "http://www.wikidata.org/entity/Q733738"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct/P8060",
+      "object": "3342"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct/P7003",
+      "object": "creators/17672"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.qantas.com"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct/P414",
+      "object": "http://www.wikidata.org/entity/Q732670"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct/P5703",
+      "object": "081"
+    }
+  ]
+}

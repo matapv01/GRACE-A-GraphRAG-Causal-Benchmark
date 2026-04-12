@@ -1,0 +1,53 @@
+{
+  "question_id": "25503",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2696109"
+  ],
+  "gold_path": {
+    "question_id": "25503",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2696109",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17544377"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2696109",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q801"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2696109",
+        "predicate": "rdfs:label",
+        "object": "history of Israel"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2696109",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "18"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2696109",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Raising%20the%20Ink%20Flag%20at%20Umm%20Rashrash%20%28Eilat%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2696109",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "64"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2696109",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "concept/e267df12-1c3a-488d-a22b-51f44063b3f4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2696109",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q2696109-3a6e7728-4b34-94b1-53e9-072dcf6fa000"
+    }
+  ]
+}

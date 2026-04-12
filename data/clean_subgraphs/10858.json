@@ -1,0 +1,58 @@
+{
+  "question_id": "10858",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3586935"
+  ],
+  "gold_path": {
+    "question_id": "10858",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q291169",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q291169-ABDF0A22-F98D-4811-9E59-E9BB076C1847"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q291169-ABDF0A22-F98D-4811-9E59-E9BB076C1847",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q30524718"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q291169-ABDF0A22-F98D-4811-9E59-E9BB076C1847",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q3586935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q291169-ABDF0A22-F98D-4811-9E59-E9BB076C1847",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q741182"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q291169",
+      "predicate": "http://www.wikidata.org/prop/direct/P4527",
+      "object": "299867"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q291169",
+      "predicate": "http://www.wikidata.org/prop/P4527",
+      "object": "http://www.wikidata.org/entity/statement/Q291169-C6CFC5DF-86C3-43CB-A989-EB9721FE1914"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q291169",
+      "predicate": "http://www.wikidata.org/prop/direct/P2015",
+      "object": "mr-jeremy-corbyn"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q291169",
+      "predicate": "http://www.wikidata.org/prop/P2015",
+      "object": "http://www.wikidata.org/entity/statement/Q291169-A704FEB9-46A3-4229-98B0-94D34A37C459"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q291169",
+      "predicate": "http://www.wikidata.org/prop/direct/P1714",
+      "object": "jeremy-corbyn"
+    }
+  ]
+}

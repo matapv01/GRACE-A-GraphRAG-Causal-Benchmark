@@ -1,0 +1,78 @@
+{
+  "question_id": "17063",
+  "answers": [
+    "http://www.wikidata.org/entity/Q336059",
+    "http://www.wikidata.org/entity/Q98526245",
+    "http://www.wikidata.org/entity/Q1711400",
+    "http://www.wikidata.org/entity/Q101720774",
+    "http://www.wikidata.org/entity/Q56064758",
+    "http://www.wikidata.org/entity/Q1366112"
+  ],
+  "gold_path": {
+    "question_id": "17063",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q50845803",
+        "predicate": "http://www.wikidata.org/prop/direct/P179",
+        "object": "http://www.wikidata.org/entity/Q180228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180228",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q336059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180228",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q1366112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180228",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q1711400"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180228",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q56064758"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180228",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q98526245"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180228",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q101720774"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q50845803",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50845803",
+      "predicate": "http://www.wikidata.org/prop/P1258",
+      "object": "http://www.wikidata.org/entity/statement/Q50845803-1E846850-3160-4173-93C6-3EA11DBB3E13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50845803",
+      "predicate": "http://www.wikidata.org/prop/P12096",
+      "object": "http://www.wikidata.org/entity/statement/Q50845803-D2BE2D6F-E4FC-4F4C-9B95-922C416C8EB1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50845803",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Bound"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50845803",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "כבול"
+    }
+  ]
+}

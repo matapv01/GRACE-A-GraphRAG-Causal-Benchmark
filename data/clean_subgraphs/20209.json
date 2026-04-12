@@ -1,0 +1,59 @@
+{
+  "question_id": "20209",
+  "answers": [
+    "http://www.wikidata.org/entity/Q142",
+    "http://www.wikidata.org/entity/Q228"
+  ],
+  "gold_path": {
+    "question_id": "20209",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q228",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q228",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q142",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T14:29:15Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q142",
+      "predicate": "http://schema.org/version",
+      "object": "2480312999"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q142",
+      "predicate": "http://schema.org/description",
+      "object": "ಪಶ್ಚಿಮ ಯುರೋಪ್ನಲ್ಲಿರುವ ಒಂದು ದೇಶ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q142",
+      "predicate": "http://schema.org/description",
+      "object": "서유럽의 국가"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q142",
+      "predicate": "http://schema.org/description",
+      "object": "Welatekî Ewropayê"
+    }
+  ]
+}

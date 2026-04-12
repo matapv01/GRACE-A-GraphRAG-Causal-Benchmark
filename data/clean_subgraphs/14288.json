@@ -1,0 +1,48 @@
+{
+  "question_id": "14288",
+  "answers": [
+    "http://www.wikidata.org/entity/Q526035"
+  ],
+  "gold_path": {
+    "question_id": "14288",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q51231142",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q51231141"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51231141",
+        "predicate": "http://www.wikidata.org/prop/direct/P179",
+        "object": "http://www.wikidata.org/entity/Q526035"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q51231142",
+      "predicate": "http://www.wikidata.org/prop/P8013",
+      "object": "http://www.wikidata.org/entity/statement/Q51231142-f3096e5f-2267-4eae-b52f-def258ffcfc5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51231142",
+      "predicate": "http://www.wikidata.org/prop/direct/P8013",
+      "object": "shows/the-andy-griffith-show/seasons/5/episodes/26"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51231142",
+      "predicate": "http://www.wikidata.org/prop/P156",
+      "object": "http://www.wikidata.org/entity/statement/Q51231142-42DB477D-807E-4E63-9D48-23A4867539A1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51231142",
+      "predicate": "http://www.wikidata.org/prop/P1562",
+      "object": "http://www.wikidata.org/entity/statement/Q51231142-AC6803DD-947D-46F6-9F16-2FC5588EC346"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51231142",
+      "predicate": "http://www.wikidata.org/prop/P155",
+      "object": "http://www.wikidata.org/entity/statement/Q51231142-060781BA-75C9-4391-AEEB-83479177842F"
+    }
+  ]
+}

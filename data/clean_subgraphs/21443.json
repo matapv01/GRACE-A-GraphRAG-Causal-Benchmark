@@ -1,0 +1,48 @@
+{
+  "question_id": "21443",
+  "answers": [
+    "http://www.wikidata.org/entity/Q156551"
+  ],
+  "gold_path": {
+    "question_id": "21443",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2309085",
+        "predicate": "http://www.wikidata.org/prop/direct/P427",
+        "object": "http://www.wikidata.org/entity/Q156551"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156551",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2309085",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "26"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2309085",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "45"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2309085",
+      "predicate": "http://schema.org/description",
+      "object": "جنس من النباتات"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2309085",
+      "predicate": "http://schema.org/description",
+      "object": "xéneru de plantes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2309085",
+      "predicate": "http://schema.org/description",
+      "object": "род растения"
+    }
+  ]
+}

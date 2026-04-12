@@ -1,0 +1,66 @@
+{
+  "question_id": "15380",
+  "answers": [
+    "http://www.wikidata.org/entity/Q50615",
+    "http://www.wikidata.org/entity/Q50614",
+    "http://www.wikidata.org/entity/Q5245991",
+    "http://www.wikidata.org/entity/Q50619"
+  ],
+  "gold_path": {
+    "question_id": "15380",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q471379",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q667456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q667456",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q50614"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q667456",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q50615"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q667456",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q50619"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q667456",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q5245991"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q471379",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Scream"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q471379",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "L'urlo di Munch"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q471379",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tili"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q471379",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Berro"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q471379",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Κραυγή"
+    }
+  ]
+}

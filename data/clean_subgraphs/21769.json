@@ -1,0 +1,48 @@
+{
+  "question_id": "21769",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11758"
+  ],
+  "gold_path": {
+    "question_id": "21769",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q143",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q11758"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11758",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q143",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "اللغة الإسبرانتو"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "لغة إسبرانتو"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "لغة اسبرانتو"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "لغة الاسبراتو"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "internationale Sprache"
+    }
+  ]
+}

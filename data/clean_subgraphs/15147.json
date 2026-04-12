@@ -1,0 +1,48 @@
+{
+  "question_id": "15147",
+  "answers": [
+    "http://www.wikidata.org/entity/Q204989"
+  ],
+  "gold_path": {
+    "question_id": "15147",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18576688",
+        "predicate": "http://www.wikidata.org/prop/direct/P451",
+        "object": "http://www.wikidata.org/entity/Q19325345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19325345",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q204989"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18576688",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1745-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18576688",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Villette%2C%20The%20annals%20of%20Newgate%201776%20Wellcome%20L0030495.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18576688",
+      "predicate": "http://www.wikidata.org/prop/direct/P1816",
+      "object": "mp16955"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18576688",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q1702713"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18576688",
+      "predicate": "http://www.wikidata.org/prop/direct/P6829",
+      "object": "010108"
+    }
+  ]
+}

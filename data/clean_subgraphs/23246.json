@@ -1,0 +1,92 @@
+{
+  "question_id": "23246",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8038235",
+    "http://www.wikidata.org/entity/Q1935235",
+    "http://www.wikidata.org/entity/Q855949",
+    "http://www.wikidata.org/entity/Q2152235",
+    "http://www.wikidata.org/entity/Q187235"
+  ],
+  "gold_path": {
+    "question_id": "23246",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1935235",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q215084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1935235",
+        "predicate": "rdfs:label",
+        "object": "Mittag-Leffler function"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2152235",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q215084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2152235",
+        "predicate": "rdfs:label",
+        "object": "Riemann Xi function"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8038235",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q215084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8038235",
+        "predicate": "rdfs:label",
+        "object": "Wright omega function"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q187235",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q215084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q187235",
+        "predicate": "rdfs:label",
+        "object": "Riemann zeta function"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q855949",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q215084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q855949",
+        "predicate": "rdfs:label",
+        "object": "sinc function"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1935235",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1935235",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Funció de Mittag-Leffler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1935235",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mittag-Leffler-Funktion"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1935235",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mittag-Leffler function"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1935235",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "funkcio de Mittag-Leffler"
+    }
+  ]
+}

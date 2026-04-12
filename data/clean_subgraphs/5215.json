@@ -1,0 +1,60 @@
+{
+  "question_id": "5215",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36844",
+    "http://www.wikidata.org/entity/Q15935",
+    "http://www.wikidata.org/entity/Q180004"
+  ],
+  "gold_path": {
+    "question_id": "5215",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q299138",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q299138-071dc093-4367-052d-1b7f-9b8cededfd93"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q299138-071dc093-4367-052d-1b7f-9b8cededfd93",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1542172"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q299138-071dc093-4367-052d-1b7f-9b8cededfd93",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q15935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q299138-071dc093-4367-052d-1b7f-9b8cededfd93",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q36844"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q299138-071dc093-4367-052d-1b7f-9b8cededfd93",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q180004"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q299138",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kid Cudi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q299138",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "S. Mescudi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q299138",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Scott Ramon Seguro Mescudi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q299138",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Scott Mescudi"
+    }
+  ]
+}

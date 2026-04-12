@@ -10,39 +10,19 @@
     "perturbation_type": "clean",
     "triples": [
       {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q333356"
+      },
+      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P53",
         "object": "http://www.wikidata.org/entity/statement/Q71231-704FCC49-63F4-47CE-8493-124F5DBF7B36"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23906200"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
-        "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q157084"
-      },
-      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P4159",
-        "object": "Charles_II_le_Chauve_(1)"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
@@ -55,9 +35,14 @@
         "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23931012"
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q182840"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
@@ -65,14 +50,9 @@
         "object": "http://www.wikidata.org/entity/statement/Q71231-3B1ABDC2-49BB-4FD2-9E75-4AFEA548C4EE"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P53",
-        "object": "http://www.wikidata.org/entity/Q133602"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
         "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q333356"
+        "object": "http://www.wikidata.org/entity/Q157084"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
@@ -81,18 +61,38 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
-        "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q182840"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
         "predicate": "ps:P97",
         "object": "http://www.wikidata.org/entity/Q29168087"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23906200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "Charles_II_le_Chauve_(1)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P53",
+        "object": "http://www.wikidata.org/entity/Q133602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23931012"
       }
     ]
   },
@@ -112,9 +112,14 @@
         "object": "http://www.wikidata.org/entity/statement/Q71231-704FCC49-63F4-47CE-8493-124F5DBF7B36"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23906200"
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
@@ -123,38 +128,8 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P4159",
-        "object": "Charles_II_le_Chauve_(1)"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P40",
-        "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23931012"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P40",
         "object": "http://www.wikidata.org/entity/statement/Q71231-3B1ABDC2-49BB-4FD2-9E75-4AFEA548C4EE"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P53",
-        "object": "http://www.wikidata.org/entity/Q133602"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
@@ -167,9 +142,34 @@
         "object": "http://www.wikidata.org/entity/Q29168087"
       },
       {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23906200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
+      },
+      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "Charles_II_le_Chauve_(1)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P53",
+        "object": "http://www.wikidata.org/entity/Q133602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23931012"
       }
     ]
   },
@@ -184,39 +184,19 @@
     "perturbation_type": "type_matching",
     "triples": [
       {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q333356"
+      },
+      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P53",
         "object": "http://www.wikidata.org/entity/statement/Q71231-704FCC49-63F4-47CE-8493-124F5DBF7B36"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23906200"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
-        "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q157084"
-      },
-      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P4159",
-        "object": "Charles_II_le_Chauve_(1)"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
@@ -229,9 +209,14 @@
         "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23931012"
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q182840"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
@@ -239,14 +224,9 @@
         "object": "http://www.wikidata.org/entity/statement/Q71231-3B1ABDC2-49BB-4FD2-9E75-4AFEA548C4EE"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P53",
-        "object": "http://www.wikidata.org/entity/Q133602"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
         "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q333356"
+        "object": "http://www.wikidata.org/entity/Q157084"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
@@ -255,13 +235,18 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
-        "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q182840"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
         "predicate": "ps:P97",
         "object": "http://www.wikidata.org/entity/Q29168087"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23906200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
@@ -270,27 +255,42 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "Charles_II_le_Chauve_(1)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P53",
+        "object": "http://www.wikidata.org/entity/Q133602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23931012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/Q23"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/Q42"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/Q76"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/Q80"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/Q91"
       }
     ]
@@ -306,39 +306,19 @@
     "perturbation_type": "topological",
     "triples": [
       {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q333356"
+      },
+      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P53",
         "object": "http://www.wikidata.org/entity/statement/Q71231-704FCC49-63F4-47CE-8493-124F5DBF7B36"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23906200"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
-        "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q157084"
-      },
-      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P4159",
-        "object": "Charles_II_le_Chauve_(1)"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
@@ -351,9 +331,14 @@
         "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23931012"
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q182840"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
@@ -361,14 +346,9 @@
         "object": "http://www.wikidata.org/entity/statement/Q71231-3B1ABDC2-49BB-4FD2-9E75-4AFEA548C4EE"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P53",
-        "object": "http://www.wikidata.org/entity/Q133602"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
         "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q333356"
+        "object": "http://www.wikidata.org/entity/Q157084"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
@@ -377,13 +357,18 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
-        "predicate": "pq:P156",
-        "object": "http://www.wikidata.org/entity/Q182840"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
         "predicate": "ps:P97",
         "object": "http://www.wikidata.org/entity/Q29168087"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23906200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
@@ -392,7 +377,77 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "Charles_II_le_Chauve_(1)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P53",
+        "object": "http://www.wikidata.org/entity/Q133602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23931012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/Q17"
       },
       {
@@ -447,113 +502,58 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
         "object": "http://www.wikidata.org/entity/Q30"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-18C3B0DA-1F3E-4D3F-B3D0-807697C1C023"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-21DEC32B-F8BD-4739-BFC9-2BE0C99A0807"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-2EB3F164-6B7B-42A9-9C74-0C147BCB2A46"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-3AC93759-3B7B-4709-B427-775D6C914D16"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-3CECE4C0-8F65-4CF9-87A6-0544F635C8D6"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-404C37CD-C42D-454C-8D73-70DDFA5C1510"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-428663F8-796C-41AA-A817-1F9ECB537CAA"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-4C0C809A-4570-4326-B8AB-22036464D776"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-4CC70B60-76A2-4350-B8BA-E520B583B8AD"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q30",
-        "predicate": "http://www.wikidata.org/prop/P6",
-        "object": "http://www.wikidata.org/entity/statement/Q30-53F27AC6-EDF7-4277-BC79-193E33E0B5EA"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
-        "object": "http://www.wikidata.org/entity/Q31"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P6",
-        "object": "http://www.wikidata.org/entity/Q336599"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P15",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
+        "subject": "http://www.wikidata.org/entity/Q1860",
         "predicate": "http://www.wikidata.org/prop/direct/P17",
-        "object": "http://www.wikidata.org/entity/Q31"
+        "object": "http://www.wikidata.org/entity/Q114"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P18",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P30",
-        "object": "http://www.wikidata.org/entity/Q46"
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q6256"
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q43702"
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q3624078"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P35",
-        "object": "http://www.wikidata.org/entity/Q155004"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P36",
-        "object": "http://www.wikidata.org/entity/Q239"
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
       }
     ]
   },
@@ -573,9 +573,14 @@
         "object": "http://www.wikidata.org/entity/statement/Q71231-704FCC49-63F4-47CE-8493-124F5DBF7B36"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23906200"
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
@@ -584,38 +589,8 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P97",
-        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P4159",
-        "object": "Charles_II_le_Chauve_(1)"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/P40",
-        "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
-        "predicate": "ps:P97",
-        "object": "http://www.wikidata.org/entity/Q23931012"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P40",
         "object": "http://www.wikidata.org/entity/statement/Q71231-3B1ABDC2-49BB-4FD2-9E75-4AFEA548C4EE"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q71231",
-        "predicate": "http://www.wikidata.org/prop/direct/P53",
-        "object": "http://www.wikidata.org/entity/Q133602"
       },
       {
         "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
@@ -628,12 +603,37 @@
         "object": "http://www.wikidata.org/entity/Q29168087"
       },
       {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23906200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
+      },
+      {
         "subject": "http://www.wikidata.org/entity/Q71231",
         "predicate": "http://www.wikidata.org/prop/P97",
         "object": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "Charles_II_le_Chauve_(1)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/direct/P53",
+        "object": "http://www.wikidata.org/entity/Q133602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23931012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
         "predicate": "pq:P156",
         "object": "http://www.wikidata.org/entity/Q23"
       },
@@ -643,12 +643,12 @@
         "object": "http://www.wikidata.org/entity/Q23"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
         "predicate": "pq:P156",
         "object": "http://www.wikidata.org/entity/Q23"
       },
       {
-        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
         "predicate": "pq:P156",
         "object": "http://www.wikidata.org/entity/Q23"
       }

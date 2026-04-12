@@ -1,0 +1,110 @@
+{
+  "question_id": "24733",
+  "answers": [
+    "http://www.wikidata.org/entity/Q308420",
+    "http://www.wikidata.org/entity/Q316779",
+    "http://www.wikidata.org/entity/Q63644915",
+    "http://www.wikidata.org/entity/Q329894",
+    "http://www.wikidata.org/entity/Q110311",
+    "http://www.wikidata.org/entity/Q308134",
+    "http://www.wikidata.org/entity/Q308245",
+    "http://www.wikidata.org/entity/Q156453"
+  ],
+  "gold_path": {
+    "question_id": "24733",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q63644915",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q63644915",
+        "predicate": "rdfs:label",
+        "object": "Øygarden Municipality"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q110311",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q110311",
+        "predicate": "rdfs:label",
+        "object": "Øvre Eiker"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156453",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156453",
+        "predicate": "rdfs:label",
+        "object": "Ørsta Municipality"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308245",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308245",
+        "predicate": "rdfs:label",
+        "object": "Ørland Municipality"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308420",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308420",
+        "predicate": "rdfs:label",
+        "object": "Østre Toten Municipality"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308134",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308134",
+        "predicate": "rdfs:label",
+        "object": "Øksnes"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q316779",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q316779",
+        "predicate": "rdfs:label",
+        "object": "Øyer"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q329894",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q755707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q329894",
+        "predicate": "rdfs:label",
+        "object": "Øystre Slidre Municipality"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q63644915",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "10"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q63644915",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Øygarden"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "question_id": "23771",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10514119",
+    "http://www.wikidata.org/entity/Q16258166",
+    "http://www.wikidata.org/entity/Q3047244",
+    "http://www.wikidata.org/entity/Q9413",
+    "http://www.wikidata.org/entity/Q99305078",
+    "http://www.wikidata.org/entity/Q728880"
+  ],
+  "gold_path": {
+    "question_id": "23771",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9413",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9413",
+        "predicate": "rdfs:label",
+        "object": "Namokar Mantra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q728880",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q728880",
+        "predicate": "rdfs:label",
+        "object": "Gayatri Mantra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3047244",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3047244",
+        "predicate": "rdfs:label",
+        "object": "Mantra of Light"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10514119",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10514119",
+        "predicate": "rdfs:label",
+        "object": "Medicine Master's Initiation Mantra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16258166",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16258166",
+        "predicate": "rdfs:label",
+        "object": "Pavamana Mantra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q99305078",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q99305078",
+        "predicate": "rdfs:label",
+        "object": "Vajra Guru Mantra"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9413",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q9413-0d1332ea-4f37-a425-c565-08a9f318b647"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9413",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/Q9413-1b0ac2e0-5f7e-4fe2-91d5-efc7ffba7b25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9413",
+      "predicate": "http://www.wikidata.org/prop/P140",
+      "object": "http://www.wikidata.org/entity/statement/Q9413-08ec5258-46ce-7276-ff9e-36c2cf53c751"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9413",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q9413-0C746D4A-B1BE-4293-8E40-6C85F1016AFB"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "question_id": "20197",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18037055",
+    "http://www.wikidata.org/entity/Q14886904",
+    "http://www.wikidata.org/entity/Q18048067",
+    "http://www.wikidata.org/entity/Q17859548"
+  ],
+  "gold_path": {
+    "question_id": "20197",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q272436",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q14886904"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14886904",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q272436",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q17859548"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17859548",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q272436",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q18037055"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18037055",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q272436",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q18048067"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18048067",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7187"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q272436",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Høfeber"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272436",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hooikoors"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272436",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "حساسية الأنف"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272436",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "allergik rinit"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272436",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "сянная ліхаманка"
+    }
+  ]
+}

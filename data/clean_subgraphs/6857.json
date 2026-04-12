@@ -1,0 +1,53 @@
+{
+  "question_id": "6857",
+  "answers": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-febrer-spreadthesign.ogv"
+  ],
+  "gold_path": {
+    "question_id": "6857",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q109",
+        "predicate": "http://www.wikidata.org/prop/P2919",
+        "object": "http://www.wikidata.org/entity/statement/Q109-8298fa70-41bc-2904-271d-8629bd62c80f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109-8298fa70-41bc-2904-271d-8629bd62c80f",
+        "predicate": "ps:P2919",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Csc-febrer-spreadthesign.ogv"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109-8298fa70-41bc-2904-271d-8629bd62c80f",
+        "predicate": "pq:P407",
+        "object": "http://www.wikidata.org/entity/Q35768"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q109",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-08T05:44:46Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "二月"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "лютага"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "lutego"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Feber"
+    }
+  ]
+}

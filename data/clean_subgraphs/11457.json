@@ -1,0 +1,53 @@
+{
+  "question_id": "11457",
+  "answers": [
+    "1932-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11457",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q82248",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/q82248-AC517D42-34DB-432E-AF81-32C0F6D363B2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q82248-AC517D42-34DB-432E-AF81-32C0F6D363B2",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q37922"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q82248-AC517D42-34DB-432E-AF81-32C0F6D363B2",
+        "predicate": "pq:P585",
+        "object": "1932-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q82248",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q82248-76093FA1-8E98-4ABB-93BA-FC5121789A4E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82248",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q82248-bd4b73e1-5ce5-4ca0-9f44-5bc407914be4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82248",
+      "predicate": "http://www.wikidata.org/prop/P434",
+      "object": "http://www.wikidata.org/entity/statement/Q82248-C44B1FDA-E240-47B9-8B64-BC3EB1467F35"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82248",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p25686"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82248",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "john-galsworthy"
+    }
+  ]
+}

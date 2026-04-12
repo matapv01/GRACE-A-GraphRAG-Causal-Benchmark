@@ -1,0 +1,53 @@
+{
+  "question_id": "8646",
+  "answers": [
+    "1859-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8646",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157155",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q157155-CEE99694-03EB-448F-A740-8D4343D1B2CE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157155-CEE99694-03EB-448F-A740-8D4343D1B2CE",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q265058"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157155-CEE99694-03EB-448F-A740-8D4343D1B2CE",
+        "predicate": "pq:P580",
+        "object": "1859-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q157155",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Renan%201876-84.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157155",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q235297"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157155",
+      "predicate": "http://www.wikidata.org/prop/direct/P184",
+      "object": "http://www.wikidata.org/entity/Q289886"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157155",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q157155-5A889324-3869-4883-875F-F790475D74A1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157155",
+      "predicate": "http://www.wikidata.org/prop/direct/P1938",
+      "object": "4527"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "6189",
+  "answers": [
+    "http://www.wikidata.org/entity/Q106301"
+  ],
+  "gold_path": {
+    "question_id": "6189",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q217573",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q217573-5B023227-469A-4DCA-A361-ABDE98D20478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q217573-5B023227-469A-4DCA-A361-ABDE98D20478",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q106301"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q217573-5B023227-469A-4DCA-A361-ABDE98D20478",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q857001"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q217573",
+      "predicate": "http://www.wikidata.org/prop/P1971",
+      "object": "http://www.wikidata.org/entity/statement/Q217573-6A7E6F26-1024-44FE-9BAD-C065BAB8BE2D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217573",
+      "predicate": "http://www.wikidata.org/prop/P11646",
+      "object": "http://www.wikidata.org/entity/statement/Q217573-d6aa4eed-4a7b-c050-27f7-20cf2d157c65"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217573",
+      "predicate": "http://www.wikidata.org/prop/P11683",
+      "object": "http://www.wikidata.org/entity/statement/Q217573-7C22E1B9-6D89-4733-8319-E9333467271C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217573",
+      "predicate": "http://www.wikidata.org/prop/P1953",
+      "object": "http://www.wikidata.org/entity/statement/Q217573-884F504E-8B6F-4F95-876D-D2EA96A85FFB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217573",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q217573-2C115BF4-3987-41A7-9F4D-53CA37A0FFD9"
+    }
+  ]
+}

@@ -92,7 +92,8 @@ class PerturbationModule:
                 res_sibs = self.wikidata_client.execute_query(query_sibling)
                 if res_sibs:
                     start_node = subgraph.gold_path.triples[0].subject if subgraph.gold_path.triples else "http://www.wikidata.org/entity/Q_DUMMY"
-                    dummy_rel = "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH"
+                    # Sao chép y hệt con đường thực tế của Gold Path để nguỵ trang (Camouflage)
+                    dummy_rel = subgraph.gold_path.triples[0].predicate if subgraph.gold_path.triples else "http://www.wikidata.org/prop/direct/P31"
                     for row in res_sibs:
                         if 'sibling' in row:
                             sibling_uri = row['sibling']['value']
@@ -124,7 +125,8 @@ class PerturbationModule:
         ]
         
         chosen_hubs = random.sample(hub_nodes, k=min(3, len(hub_nodes)))
-        dummy_rel = "http://www.wikidata.org/prop/direct/P_DUMMY_HUB"
+        # Sao chép y hệt cạnh của Gold Path để Model lầm tưởng đây là hướng đi đúng thực tế
+        dummy_rel = subgraph.gold_path.triples[0].predicate if subgraph.gold_path.triples else "http://www.wikidata.org/prop/direct/P31"
         
         for hub in chosen_hubs:
             # 1. Nối câu hỏi tới Hub

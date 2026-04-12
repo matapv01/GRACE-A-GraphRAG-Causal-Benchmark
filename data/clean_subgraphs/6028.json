@@ -1,0 +1,53 @@
+{
+  "question_id": "6028",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103618"
+  ],
+  "gold_path": {
+    "question_id": "6028",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q203819",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q203819-97998AC7-0F4D-4589-A22C-17C52A861D70"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q203819-97998AC7-0F4D-4589-A22C-17C52A861D70",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q203819-97998AC7-0F4D-4589-A22C-17C52A861D70",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q132080"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q203819",
+      "predicate": "http://www.wikidata.org/prop/direct/P8796",
+      "object": "10003"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203819",
+      "predicate": "http://www.wikidata.org/prop/direct/P8974",
+      "object": "a/e80e6d25-e6ab-4a3c-8cdd-98623e72d127"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203819",
+      "predicate": "http://www.wikidata.org/prop/direct/P8971",
+      "object": "28302"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203819",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Claudette_Colbert"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203819",
+      "predicate": "http://www.wikidata.org/prop/P8974",
+      "object": "http://www.wikidata.org/entity/statement/Q203819-76F90C4F-A571-4907-BF93-96F3336C4F37"
+    }
+  ]
+}

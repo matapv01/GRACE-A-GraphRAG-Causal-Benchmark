@@ -1,0 +1,59 @@
+{
+  "question_id": "12348",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2912315",
+    "http://www.wikidata.org/entity/Q2920878"
+  ],
+  "gold_path": {
+    "question_id": "12348",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131028",
+        "predicate": "http://www.wikidata.org/prop/direct/P837",
+        "object": "http://www.wikidata.org/entity/Q2912315"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2912315",
+        "predicate": "http://www.wikidata.org/prop/direct/P2922",
+        "object": "http://www.wikidata.org/entity/Q217782"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131028",
+        "predicate": "http://www.wikidata.org/prop/direct/P837",
+        "object": "http://www.wikidata.org/entity/Q2920878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2920878",
+        "predicate": "http://www.wikidata.org/prop/direct/P2922",
+        "object": "http://www.wikidata.org/entity/Q217782"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131028",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T06:19:04Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131028",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "راس السنة العبرية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131028",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "روش هاشاناه"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131028",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "روش هشناة"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131028",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "روش هشنة"
+    }
+  ]
+}

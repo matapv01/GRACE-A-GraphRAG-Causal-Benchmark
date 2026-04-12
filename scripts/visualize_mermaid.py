@@ -46,11 +46,12 @@ def get_wikidata_labels(uris):
     return labels
 
 def clean_id(uri):
-    """Lấy ID thuần túy làm định danh node cho Mermaid"""
+    """Lấy ID thuần túy làm định danh node cho Mermaid (không chứa khoảng trắng/ký tự đặc biệt)"""
     if not uri: return "UNKNOWN"
     text = uri.split('/')[-1]
-    for char in ['"', "'", "[", "]", "(", ")", "{", "}"]:
-        text = text.replace(char, "")
+    # Replaces everything that isn't a letter, number, or underscore with an underscore
+    import re
+    text = re.sub(r'[^a-zA-Z0-9_]', '_', text)
     return text
 
 def clean_label(text):

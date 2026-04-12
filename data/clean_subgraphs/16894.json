@@ -1,0 +1,38 @@
+{
+  "question_id": "16894",
+  "answers": [
+    "2001-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "16894",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q81637",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q2891955"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2891955",
+        "predicate": "http://www.wikidata.org/prop/direct/P576",
+        "object": "2001-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q81637",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Love Regenerator"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81637",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ストーファー"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81637",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Stouffer"
+    }
+  ]
+}

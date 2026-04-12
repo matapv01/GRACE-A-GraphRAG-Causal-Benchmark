@@ -1,0 +1,53 @@
+{
+  "question_id": "4683",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11142"
+  ],
+  "gold_path": {
+    "question_id": "4683",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q312348",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q312348-76CEA346-5F2B-45A2-9EE3-AB78CFD5BE5C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312348-76CEA346-5F2B-45A2-9EE3-AB78CFD5BE5C",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q11144"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312348-76CEA346-5F2B-45A2-9EE3-AB78CFD5BE5C",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q11142"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q312348",
+      "predicate": "http://www.wikidata.org/prop/P12532",
+      "object": "http://www.wikidata.org/entity/statement/Q312348-c943402a-4320-cf35-114d-4cb66ac5ac5d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312348",
+      "predicate": "http://www.wikidata.org/prop/P1284",
+      "object": "http://www.wikidata.org/entity/statement/Q312348-BB1394E4-542F-48D3-A219-9E5BF9127EA5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312348",
+      "predicate": "http://www.wikidata.org/prop/P269",
+      "object": "http://www.wikidata.org/entity/statement/Q312348-64581691-212F-4CC6-89A4-41FB8AB85F43"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312348",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q312348-1A6438C2-2956-4C30-B963-3939DC8EB00E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312348",
+      "predicate": "http://www.wikidata.org/prop/P11496",
+      "object": "http://www.wikidata.org/entity/statement/Q312348-6A2A7B79-6FA9-4803-B4C2-B98E2FE0E7F6"
+    }
+  ]
+}

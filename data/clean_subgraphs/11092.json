@@ -1,0 +1,49 @@
+{
+  "question_id": "11092",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7188",
+    "http://www.wikidata.org/entity/Q309"
+  ],
+  "gold_path": {
+    "question_id": "11092",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q174037",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q174037-4a5ceedb-4c51-c113-f40c-5e616b8e12b1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q174037-4a5ceedb-4c51-c113-f40c-5e616b8e12b1",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q13371"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q174037-4a5ceedb-4c51-c113-f40c-5e616b8e12b1",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q309"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q174037-4a5ceedb-4c51-c113-f40c-5e616b8e12b1",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q7188"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q174037",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Henry Cabot Lodge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174037",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "هنري كابوت لودج"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174037",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "هنرى كابوت لودج"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "question_id": "27058",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16300815",
+    "http://www.wikidata.org/entity/Q85436696"
+  ],
+  "gold_path": {
+    "question_id": "27058",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16300815",
+        "predicate": "http://www.wikidata.org/prop/direct/P3919",
+        "object": "http://www.wikidata.org/entity/Q921217"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q85436696",
+        "predicate": "http://www.wikidata.org/prop/direct/P3919",
+        "object": "http://www.wikidata.org/entity/Q921217"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16300815",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Alfredo Grimaldos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16300815",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Alfredo Grimaldos Feito"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16300815",
+      "predicate": "http://schema.org/version",
+      "object": "2434120848"
+    }
+  ]
+}

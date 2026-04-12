@@ -1,0 +1,60 @@
+{
+  "question_id": "14492",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7270",
+    "http://www.wikidata.org/entity/Q512187",
+    "http://www.wikidata.org/entity/Q49892"
+  ],
+  "gold_path": {
+    "question_id": "14492",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q366505",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P122",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P122",
+        "object": "http://www.wikidata.org/entity/Q49892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P122",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q366505",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q366505-C119BABC-F98E-49BB-BBFF-5FA6713E7164"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366505",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/q366505-B4D39E5A-608A-4E0E-84DB-36E2637B3CFB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366505",
+      "predicate": "http://www.wikidata.org/prop/P3696",
+      "object": "http://www.wikidata.org/entity/statement/Q366505-FE6F117A-47C5-4E07-AC71-618C4BBDBEF8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366505",
+      "predicate": "http://www.wikidata.org/prop/P3646",
+      "object": "http://www.wikidata.org/entity/statement/Q366505-E71FF318-D2C7-41EF-9C67-F2EF44859A59"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366505",
+      "predicate": "http://www.wikidata.org/prop/P647",
+      "object": "http://www.wikidata.org/entity/statement/Q366505-8F696AD5-A18B-41DB-A005-9AD91A80B797"
+    }
+  ]
+}
