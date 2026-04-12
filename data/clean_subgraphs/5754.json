@@ -1,0 +1,53 @@
+{
+  "question_id": "5754",
+  "answers": [
+    "http://www.wikidata.org/entity/Q184453"
+  ],
+  "gold_path": {
+    "question_id": "5754",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28165",
+        "predicate": "http://www.wikidata.org/prop/P1582",
+        "object": "http://www.wikidata.org/entity/statement/Q28165-30111da8-41b1-a245-d366-752dc3eab0ad"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q28165-30111da8-41b1-a245-d366-752dc3eab0ad",
+        "predicate": "ps:P1582",
+        "object": "http://www.wikidata.org/entity/Q370239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q28165-30111da8-41b1-a245-d366-752dc3eab0ad",
+        "predicate": "pq:P361",
+        "object": "http://www.wikidata.org/entity/Q184453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28165",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "kanell"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28165",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "cannelle"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28165",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "肉桂"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28165",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zimt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28165",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "canela"
+    }
+  ]
+}

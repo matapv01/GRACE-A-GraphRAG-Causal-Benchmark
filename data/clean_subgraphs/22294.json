@@ -1,0 +1,103 @@
+{
+  "question_id": "22294",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16",
+    "http://www.wikidata.org/entity/Q36",
+    "http://www.wikidata.org/entity/Q32",
+    "http://www.wikidata.org/entity/Q29999",
+    "http://www.wikidata.org/entity/Q31",
+    "http://www.wikidata.org/entity/Q145"
+  ],
+  "gold_path": {
+    "question_id": "22294",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151340",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151340",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151340",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q32"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151340",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q36"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151340",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151340",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q29999"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29999",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151340",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "معركه فرنسا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151340",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Битката за Франция"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151340",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Падане на Франция"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151340",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Падането на Франция"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151340",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "campanya de França"
+    }
+  ]
+}

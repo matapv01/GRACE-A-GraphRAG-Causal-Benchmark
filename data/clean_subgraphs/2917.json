@@ -1,0 +1,85 @@
+{
+  "question_id": "2917",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21570181",
+    "http://www.wikidata.org/entity/Q21570189",
+    "http://www.wikidata.org/entity/Q19951185"
+  ],
+  "gold_path": {
+    "question_id": "2917",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19951185",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q19951362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19951185",
+        "predicate": "http://www.wikidata.org/prop/direct/P2324",
+        "object": "30734"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19951185",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q544505"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21570189",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q19951362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21570189",
+        "predicate": "http://www.wikidata.org/prop/direct/P2324",
+        "object": "147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21570189",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q544505"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21570181",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q19951362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21570181",
+        "predicate": "http://www.wikidata.org/prop/direct/P2324",
+        "object": "144"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21570181",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q544505"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19951185",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19951185",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19951185",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "La Crouée National Cemetery"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19951185",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "nécropole nationale de La Crouée"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19951185",
+      "predicate": "http://schema.org/version",
+      "object": "1986674715"
+    }
+  ]
+}

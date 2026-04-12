@@ -1,0 +1,96 @@
+{
+  "question_id": "6673",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4631710",
+    "http://www.wikidata.org/entity/Q4630817",
+    "http://www.wikidata.org/entity/Q4635303",
+    "http://www.wikidata.org/entity/Q4632988"
+  ],
+  "gold_path": {
+    "question_id": "6673",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q206856",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q206856-527dab44-4139-de76-3daa-111e3fb309cb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-527dab44-4139-de76-3daa-111e3fb309cb",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1537996"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-527dab44-4139-de76-3daa-111e3fb309cb",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4632988"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206856",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q206856-6eb1cf9c-4e76-856f-25d2-c3d4b270d033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-6eb1cf9c-4e76-856f-25d2-c3d4b270d033",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1537996"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-6eb1cf9c-4e76-856f-25d2-c3d4b270d033",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4635303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206856",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q206856-87a6c67a-43c7-e3f7-3288-c56fbe0f0fd1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-87a6c67a-43c7-e3f7-3288-c56fbe0f0fd1",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1537996"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-87a6c67a-43c7-e3f7-3288-c56fbe0f0fd1",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4631710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206856",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q206856-dd218fed-4736-fb49-8e66-fec2d079d0f9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-dd218fed-4736-fb49-8e66-fec2d079d0f9",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1537996"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206856-dd218fed-4736-fb49-8e66-fec2d079d0f9",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4630817"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q206856",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lansbury"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q206856",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Dame Angela Brigid Lansbury"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q206856",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "أنجيلا لانسبوري"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q206856",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Angela Brigid Lansbury"
+    }
+  ]
+}

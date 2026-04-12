@@ -1,0 +1,43 @@
+{
+  "question_id": "21991",
+  "answers": [
+    "http://www.wikidata.org/entity/Q161562"
+  ],
+  "gold_path": {
+    "question_id": "21991",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q161562"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161562",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3918"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48983",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Полинг, Лайнус"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48983",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Полинг, Лайнус Карл"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48983",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Linus Carl Pauling"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48983",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Linus Pauling"
+    }
+  ]
+}
