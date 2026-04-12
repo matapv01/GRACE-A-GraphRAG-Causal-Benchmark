@@ -1,0 +1,66 @@
+{
+  "question_id": "17890",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4669896",
+    "http://www.wikidata.org/entity/Q1663054",
+    "http://www.wikidata.org/entity/Q21074571",
+    "http://www.wikidata.org/entity/Q4010888"
+  ],
+  "gold_path": {
+    "question_id": "17890",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q211433",
+        "predicate": "http://www.wikidata.org/prop/direct/P1542",
+        "object": "http://www.wikidata.org/entity/Q21174115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21174115",
+        "predicate": "http://www.wikidata.org/prop/direct/P636",
+        "object": "http://www.wikidata.org/entity/Q1663054"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21174115",
+        "predicate": "http://www.wikidata.org/prop/direct/P636",
+        "object": "http://www.wikidata.org/entity/Q4010888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21174115",
+        "predicate": "http://www.wikidata.org/prop/direct/P636",
+        "object": "http://www.wikidata.org/entity/Q4669896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21174115",
+        "predicate": "http://www.wikidata.org/prop/direct/P636",
+        "object": "http://www.wikidata.org/entity/Q21074571"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q211433",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "116"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q211433",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "cyclohexane"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q211433",
+      "predicate": "http://www.wikidata.org/prop/direct/P2119",
+      "object": "78"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q211433",
+      "predicate": "http://www.wikidata.org/prop/direct/P2129",
+      "object": "4472"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q211433",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q211433-B9235881-BDC5-49EB-84B1-F45D44BD9837"
+    }
+  ]
+}

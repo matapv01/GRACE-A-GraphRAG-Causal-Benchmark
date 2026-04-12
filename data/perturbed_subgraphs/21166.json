@@ -1,0 +1,176 @@
+{
+  "clean": {
+    "question_id": "21166",
+    "answers": [
+      "http://www.wikidata.org/entity/Q450628"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://schema.org/description",
+        "object": "US-amerikanische Managerin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "\u05e6\u05e4\u05e8\u05d0 \u05db\u05e5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q19900"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://schema.org/version",
+        "object": "2479996416"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "11"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "21166",
+    "answers": [
+      "http://www.wikidata.org/entity/Q450628"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "21166",
+    "answers": [
+      "http://www.wikidata.org/entity/Q450628"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://schema.org/description",
+        "object": "US-amerikanische Managerin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "\u05e6\u05e4\u05e8\u05d0 \u05db\u05e5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q19900"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://schema.org/version",
+        "object": "2479996416"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "11"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "21166",
+    "answers": [
+      "http://www.wikidata.org/entity/Q450628"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://schema.org/description",
+        "object": "US-amerikanische Managerin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "\u05e6\u05e4\u05e8\u05d0 \u05db\u05e5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q19900"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://schema.org/version",
+        "object": "2479996416"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "11"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450628",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "21166",
+    "answers": [
+      "http://www.wikidata.org/entity/Q450628"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://schema.org/description",
+        "object": "US-amerikanische Managerin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "\u05e6\u05e4\u05e8\u05d0 \u05db\u05e5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q19900"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://schema.org/version",
+        "object": "2479996416"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "11"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "26155",
+  "answers": [
+    "8834"
+  ],
+  "gold_path": {
+    "question_id": "26155",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1199924",
+        "predicate": "http://www.wikidata.org/prop/direct/P3481",
+        "object": "8834"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1199924",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "41"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1199924",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "המוזיאון הימי הלאומי"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1199924",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Museu Marítim de Greenwich"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1199924",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Národní námořní muzeum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1199924",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "National Maritime Museum"
+    }
+  ]
+}

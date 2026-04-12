@@ -1,0 +1,48 @@
+{
+  "question_id": "16909",
+  "answers": [
+    "http://www.wikidata.org/entity/Q19757636"
+  ],
+  "gold_path": {
+    "question_id": "16909",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q299595",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q49108"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49108",
+        "predicate": "http://www.wikidata.org/prop/direct/P488",
+        "object": "http://www.wikidata.org/entity/Q19757636"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q299595",
+      "predicate": "http://www.wikidata.org/prop/P4772",
+      "object": "http://www.wikidata.org/entity/statement/Q299595-2A8151FD-517D-4CDF-80D6-43637923C82B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q299595",
+      "predicate": "http://www.wikidata.org/prop/P7184",
+      "object": "http://www.wikidata.org/entity/statement/Q299595-865AF5B5-E874-490F-9FFD-EDF4A4A42673"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q299595",
+      "predicate": "http://www.wikidata.org/prop/P3468",
+      "object": "http://www.wikidata.org/entity/statement/Q299595-21508B39-44B4-4A3C-B3DB-4E762EE27573"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q299595",
+      "predicate": "http://www.wikidata.org/prop/P7982",
+      "object": "http://www.wikidata.org/entity/statement/Q299595-5742E0FC-C257-4728-81F9-D122585316AD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q299595",
+      "predicate": "http://www.wikidata.org/prop/P735",
+      "object": "http://www.wikidata.org/entity/statement/Q299595-c9991500-42d3-2151-234c-7d16892d97ed"
+    }
+  ]
+}

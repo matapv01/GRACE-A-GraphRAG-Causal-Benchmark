@@ -1,0 +1,272 @@
+{
+  "clean": {
+    "question_id": "4675",
+    "answers": [
+      "2815601",
+      "2817105"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0038679"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13591",
+        "object": "place/6f118121-790b-4b6a-a275-22202d8f0f94"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P11137",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-81648054-C3DA-4224-AF53-7CD6AD76E111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678",
+        "predicate": "ps:P1082",
+        "object": "2815601"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P11137",
+        "object": "lucknow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729",
+        "predicate": "ps:P1082",
+        "object": "2817105"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13204",
+        "object": "x3k7cpmc"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "4675",
+    "answers": [
+      "2815601",
+      "2817105"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0038679"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13591",
+        "object": "place/6f118121-790b-4b6a-a275-22202d8f0f94"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P11137",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-81648054-C3DA-4224-AF53-7CD6AD76E111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P11137",
+        "object": "lucknow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13204",
+        "object": "x3k7cpmc"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "4675",
+    "answers": [
+      "2815601",
+      "2817105"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0038679"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13591",
+        "object": "place/6f118121-790b-4b6a-a275-22202d8f0f94"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P11137",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-81648054-C3DA-4224-AF53-7CD6AD76E111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678",
+        "predicate": "ps:P1082",
+        "object": "2815601"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P11137",
+        "object": "lucknow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729",
+        "predicate": "ps:P1082",
+        "object": "2817105"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13204",
+        "object": "x3k7cpmc"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "4675",
+    "answers": [
+      "2815601",
+      "2817105"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0038679"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13591",
+        "object": "place/6f118121-790b-4b6a-a275-22202d8f0f94"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P11137",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-81648054-C3DA-4224-AF53-7CD6AD76E111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678",
+        "predicate": "ps:P1082",
+        "object": "2815601"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P11137",
+        "object": "lucknow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729",
+        "predicate": "ps:P1082",
+        "object": "2817105"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13204",
+        "object": "x3k7cpmc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "4675",
+    "answers": [
+      "2815601",
+      "2817105"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0038679"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13591",
+        "object": "place/6f118121-790b-4b6a-a275-22202d8f0f94"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P11137",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-81648054-C3DA-4224-AF53-7CD6AD76E111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678",
+        "predicate": "ps:P1082",
+        "object": "2815601"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P11137",
+        "object": "lucknow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729",
+        "predicate": "ps:P1082",
+        "object": "2817105"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-f7a08c11-4510-66f5-b88f-62092035d729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q47916-9a66ca0e-4c3e-414a-5f8b-09ce32433678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47916",
+        "predicate": "http://www.wikidata.org/prop/direct/P13204",
+        "object": "x3k7cpmc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "23602",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6754938"
+  ],
+  "gold_path": {
+    "question_id": "23602",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6754938",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q223638"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6754938",
+        "predicate": "rdfs:label",
+        "object": "מדריך ארץ ישראל"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6754938",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6754938",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Directory of Israel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6754938",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "מדריך ארץ ישראל"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6754938",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "4"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "4059",
+  "answers": [
+    "http://www.wikidata.org/entity/Q51139288"
+  ],
+  "gold_path": {
+    "question_id": "4059",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q288266",
+        "predicate": "http://www.wikidata.org/prop/P4952",
+        "object": "http://www.wikidata.org/entity/statement/Q288266-42A63CF8-A37B-4029-84F5-45933486D0FE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q288266-42A63CF8-A37B-4029-84F5-45933486D0FE",
+        "predicate": "ps:P4952",
+        "object": "http://www.wikidata.org/entity/Q51139288"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q288266-1A45DD66-1B03-4757-8399-E9AF4554CE23"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+      "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2021423"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "magnesium sulfate"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "منیزیوم سولفات"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "сульфат магна"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "6746",
+  "answers": [
+    "1956-01-19T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6746",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7172",
+        "predicate": "http://www.wikidata.org/prop/P47",
+        "object": "http://www.wikidata.org/entity/statement/q7172-569eecbb-442e-038c-3401-865b32f52a28"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q7172-569eecbb-442e-038c-3401-865b32f52a28",
+        "predicate": "ps:P47",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q7172-569eecbb-442e-038c-3401-865b32f52a28",
+        "predicate": "pq:P580",
+        "object": "1956-01-19T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7172",
+      "predicate": "http://schema.org/version",
+      "object": "2479006254"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7172",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "73"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7172",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q5460604"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7172",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7172",
+      "predicate": "http://www.wikidata.org/prop/direct/P3221",
+      "object": "organization/arab-league"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "6509",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14213"
+  ],
+  "gold_path": {
+    "question_id": "6509",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11820",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q11820-3C3C1227-ABF9-4651-AFDB-46549907E2D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11820-3C3C1227-ABF9-4651-AFDB-46549907E2D6",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q14213"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11820-3C3C1227-ABF9-4651-AFDB-46549907E2D6",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q544396"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11820",
+      "predicate": "http://www.wikidata.org/prop/direct/P5361",
+      "object": "VanBurenMartin1782-1862"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11820",
+      "predicate": "http://www.wikidata.org/prop/direct/P8445",
+      "object": "4110"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11820",
+      "predicate": "http://www.wikidata.org/prop/direct/P8826",
+      "object": "H0003788"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11820",
+      "predicate": "http://www.wikidata.org/prop/direct/P8462",
+      "object": "valerius-vancamp.html#109.58.92"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11820",
+      "predicate": "http://www.wikidata.org/prop/direct/P4539",
+      "object": "20253"
+    }
+  ]
+}

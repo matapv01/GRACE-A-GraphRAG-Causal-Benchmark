@@ -1,0 +1,48 @@
+{
+  "question_id": "21308",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7346716"
+  ],
+  "gold_path": {
+    "question_id": "21308",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q200101",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q7346716"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7346716",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q200101",
+      "predicate": "http://www.wikidata.org/prop/P509",
+      "object": "http://www.wikidata.org/entity/statement/Q200101-559777c8-7c88-4222-a6ca-0579ace74114"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200101",
+      "predicate": "http://www.wikidata.org/prop/P5063",
+      "object": "http://www.wikidata.org/entity/statement/Q200101-92A7B4EE-7B3F-4A5B-B6A6-1259E46D3498"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200101",
+      "predicate": "http://www.wikidata.org/prop/P5508",
+      "object": "http://www.wikidata.org/entity/statement/Q200101-10F7BE98-5E15-4C32-BD83-4D79D4EB9E55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200101",
+      "predicate": "http://www.wikidata.org/prop/P551",
+      "object": "http://www.wikidata.org/entity/statement/Q200101-397774EC-46B0-49F7-AA3E-66498E974635"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200101",
+      "predicate": "http://www.wikidata.org/prop/direct/P551",
+      "object": "http://www.wikidata.org/entity/Q30"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "6259",
+  "answers": [
+    "http://www.wikidata.org/entity/Q44585"
+  ],
+  "gold_path": {
+    "question_id": "6259",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7186",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/q7186-74cb0219-4f61-a650-05b6-6ef064beb50f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q7186-74cb0219-4f61-a650-05b6-6ef064beb50f",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q44585"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7186",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q7186-5A8DE62A-EEF3-4CDF-AB0D-EA25CB939E9B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7186",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T11:48:11Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7186",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q270"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7186",
+      "predicate": "http://www.wikidata.org/prop/direct/P109",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Curie%20Sk%C5%82odowska%20Signature%20Polish.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7186",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q7186-A9021866-0AF8-4616-B073-AF922CC5CC98"
+    }
+  ]
+}

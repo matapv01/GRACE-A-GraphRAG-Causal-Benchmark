@@ -1,0 +1,48 @@
+{
+  "question_id": "4761",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18288152"
+  ],
+  "gold_path": {
+    "question_id": "4761",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1256",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q1256-bbab09c8-4b06-475f-9630-744dfff2c8e5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1256-bbab09c8-4b06-475f-9630-744dfff2c8e5",
+        "predicate": "ps:P150",
+        "object": "http://www.wikidata.org/entity/Q18288152"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1256",
+      "predicate": "http://www.wikidata.org/prop/direct/P1584",
+      "object": "383698"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1256",
+      "predicate": "http://www.wikidata.org/prop/direct/P8814",
+      "object": "08826144-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1256",
+      "predicate": "http://www.wikidata.org/prop/direct/P1566",
+      "object": "3174725"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1256",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Liguria%20dal%20satellite.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1256",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q16183"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "clean": {
+    "question_id": "6798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q60037",
+      "http://www.wikidata.org/entity/Q83324"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T23:41:37Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q83324"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Klagenfurt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q60037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/version",
+        "object": "2478398039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041a\u043b\u0430\u0433\u0435\u043d\u0444\u0443\u0440\u0442"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "6798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q60037",
+      "http://www.wikidata.org/entity/Q83324"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T23:41:37Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Klagenfurt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/version",
+        "object": "2478398039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041a\u043b\u0430\u0433\u0435\u043d\u0444\u0443\u0440\u0442"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "6798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q60037",
+      "http://www.wikidata.org/entity/Q83324"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T23:41:37Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q83324"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Klagenfurt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q60037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/version",
+        "object": "2478398039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041a\u043b\u0430\u0433\u0435\u043d\u0444\u0443\u0440\u0442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q14424"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "6798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q60037",
+      "http://www.wikidata.org/entity/Q83324"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T23:41:37Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q83324"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Klagenfurt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q60037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/version",
+        "object": "2478398039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041a\u043b\u0430\u0433\u0435\u043d\u0444\u0443\u0440\u0442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "6798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q60037",
+      "http://www.wikidata.org/entity/Q83324"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T23:41:37Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Klagenfurt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://schema.org/version",
+        "object": "2478398039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041a\u043b\u0430\u0433\u0435\u043d\u0444\u0443\u0440\u0442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q14424"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q14424"
+      }
+    ]
+  }
+}

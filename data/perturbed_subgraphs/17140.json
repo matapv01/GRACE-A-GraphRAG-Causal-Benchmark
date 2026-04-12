@@ -1,0 +1,322 @@
+{
+  "clean": {
+    "question_id": "17140",
+    "answers": [
+      "Point(22.67 44.22)",
+      "Point(19.67 46.18)",
+      "Point(26.7 48.27)"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q403",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(19.67 46.18)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campagne des Balkans (Premi\u00e8re Guerre mondiale)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30d0\u30eb\u30ab\u30f3\u6226\u7dda"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q218",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(26.7 48.27)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(22.67 44.22)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campanya dels Balcans (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Frente Balcanico (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Expedition de Salonique"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q218"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "17140",
+    "answers": [
+      "Point(22.67 44.22)",
+      "Point(19.67 46.18)",
+      "Point(26.7 48.27)"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campagne des Balkans (Premi\u00e8re Guerre mondiale)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30d0\u30eb\u30ab\u30f3\u6226\u7dda"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campanya dels Balcans (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Frente Balcanico (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Expedition de Salonique"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q218"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "17140",
+    "answers": [
+      "Point(22.67 44.22)",
+      "Point(19.67 46.18)",
+      "Point(26.7 48.27)"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q403",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(19.67 46.18)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campagne des Balkans (Premi\u00e8re Guerre mondiale)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30d0\u30eb\u30ab\u30f3\u6226\u7dda"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q218",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(26.7 48.27)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(22.67 44.22)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campanya dels Balcans (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Frente Balcanico (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Expedition de Salonique"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q218"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "17140",
+    "answers": [
+      "Point(22.67 44.22)",
+      "Point(19.67 46.18)",
+      "Point(26.7 48.27)"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q403",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(19.67 46.18)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campagne des Balkans (Premi\u00e8re Guerre mondiale)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30d0\u30eb\u30ab\u30f3\u6226\u7dda"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q218",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(26.7 48.27)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(22.67 44.22)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campanya dels Balcans (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Frente Balcanico (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Expedition de Salonique"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q218"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "17140",
+    "answers": [
+      "Point(22.67 44.22)",
+      "Point(19.67 46.18)",
+      "Point(26.7 48.27)"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q403",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(19.67 46.18)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campagne des Balkans (Premi\u00e8re Guerre mondiale)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30d0\u30eb\u30ab\u30f3\u6226\u7dda"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q218",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(26.7 48.27)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219",
+        "predicate": "http://www.wikidata.org/prop/direct/P1332",
+        "object": "Point(22.67 44.22)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Campanya dels Balcans (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Frente Balcanico (Primera Guerra Mundial)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Expedition de Salonique"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q789406",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q218"
+      }
+    ]
+  }
+}

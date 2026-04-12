@@ -1,0 +1,222 @@
+{
+  "clean": {
+    "question_id": "4069",
+    "answers": [
+      "1959-05-10T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-050C0427-4CCA-4298-8064-F75CD66C2F28"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/direct/P2626",
+        "object": "10264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q2803671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/q161819-E0136A83-79D3-4371-A1D2-5F280F8995BC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "pq:P580",
+        "object": "1959-05-10T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/q161819-07E111EE-3286-4B62-99BF-2B28757E79B4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "4069",
+    "answers": [
+      "1959-05-10T00:00:00Z"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-050C0427-4CCA-4298-8064-F75CD66C2F28"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/direct/P2626",
+        "object": "10264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q2803671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/q161819-E0136A83-79D3-4371-A1D2-5F280F8995BC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/q161819-07E111EE-3286-4B62-99BF-2B28757E79B4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "4069",
+    "answers": [
+      "1959-05-10T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-050C0427-4CCA-4298-8064-F75CD66C2F28"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/direct/P2626",
+        "object": "10264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q2803671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/q161819-E0136A83-79D3-4371-A1D2-5F280F8995BC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "pq:P580",
+        "object": "1959-05-10T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/q161819-07E111EE-3286-4B62-99BF-2B28757E79B4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "4069",
+    "answers": [
+      "1959-05-10T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-050C0427-4CCA-4298-8064-F75CD66C2F28"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/direct/P2626",
+        "object": "10264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q2803671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/q161819-E0136A83-79D3-4371-A1D2-5F280F8995BC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "pq:P580",
+        "object": "1959-05-10T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/q161819-07E111EE-3286-4B62-99BF-2B28757E79B4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "4069",
+    "answers": [
+      "1959-05-10T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-050C0427-4CCA-4298-8064-F75CD66C2F28"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/direct/P2626",
+        "object": "10264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q2803671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/q161819-E0136A83-79D3-4371-A1D2-5F280F8995BC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF",
+        "predicate": "pq:P580",
+        "object": "1959-05-10T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/q161819-07E111EE-3286-4B62-99BF-2B28757E79B4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161819",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q161819-584BA4CF-11D3-473A-B33F-489D87AFACEF"
+      }
+    ]
+  }
+}

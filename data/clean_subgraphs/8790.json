@@ -1,0 +1,53 @@
+{
+  "question_id": "8790",
+  "answers": [
+    "1626-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8790",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q75655",
+        "predicate": "http://www.wikidata.org/prop/P512",
+        "object": "http://www.wikidata.org/entity/statement/Q75655-a1a97d4d-415f-028c-f4cf-eedad31dedca"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q75655-a1a97d4d-415f-028c-f4cf-eedad31dedca",
+        "predicate": "ps:P512",
+        "object": "http://www.wikidata.org/entity/Q798137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q75655-a1a97d4d-415f-028c-f4cf-eedad31dedca",
+        "predicate": "pq:P585",
+        "object": "1626-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q75655",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Pierre-de-Fermat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75655",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "01213776"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75655",
+      "predicate": "http://www.wikidata.org/prop/direct/P2383",
+      "object": "100281"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75655",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Fermat3.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75655",
+      "predicate": "http://www.wikidata.org/prop/direct/P1819",
+      "object": "I00703484"
+    }
+  ]
+}

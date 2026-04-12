@@ -1,0 +1,64 @@
+{
+  "question_id": "10484",
+  "answers": [
+    "http://www.wikidata.org/entity/Q169329",
+    "http://www.wikidata.org/entity/Q235629"
+  ],
+  "gold_path": {
+    "question_id": "10484",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q294192",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q294192-374F951D-DBA3-41EC-8F2A-78EA7A9168C8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q294192-374F951D-DBA3-41EC-8F2A-78EA7A9168C8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q693614"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q294192-374F951D-DBA3-41EC-8F2A-78EA7A9168C8",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q169329"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q294192-374F951D-DBA3-41EC-8F2A-78EA7A9168C8",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q345687"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q294192-374F951D-DBA3-41EC-8F2A-78EA7A9168C8",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q235629"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q294192",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q55502"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294192",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q213638"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294192",
+      "predicate": "http://www.wikidata.org/prop/P735",
+      "object": "http://www.wikidata.org/entity/statement/Q294192-08D327DA-A21F-4480-94AC-3A7CB8AD401C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294192",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/Q294192-bb476d61-4fc8-d57f-f72a-93baa521a2b5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294192",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/Q294192-f17ac328-47ed-f5ea-d6dc-f6d28327a85e"
+    }
+  ]
+}

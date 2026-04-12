@@ -1,0 +1,48 @@
+{
+  "question_id": "4917",
+  "answers": [
+    "http://www.wikidata.org/entity/Q35637"
+  ],
+  "gold_path": {
+    "question_id": "4917",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131117",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q131117-06E51C62-87E8-443B-A27A-BB2E74F304F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131117-06E51C62-87E8-443B-A27A-BB2E74F304F0",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q35637"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131117",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "montessori-maria"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131117",
+      "predicate": "http://www.wikidata.org/prop/direct/P3065",
+      "object": "A003605577"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131117",
+      "predicate": "http://www.wikidata.org/prop/P5019",
+      "object": "http://www.wikidata.org/entity/statement/Q131117-B6757716-DCF1-4420-9505-815D9500ED0C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131117",
+      "predicate": "http://www.wikidata.org/prop/P3065",
+      "object": "http://www.wikidata.org/entity/statement/q131117-41159222-42fe-3d2a-283a-5dc8577cd3f3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131117",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    }
+  ]
+}

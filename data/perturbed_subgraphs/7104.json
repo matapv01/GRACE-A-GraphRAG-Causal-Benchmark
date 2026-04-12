@@ -1,0 +1,227 @@
+{
+  "clean": {
+    "question_id": "7104",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13415154"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Civitas Palestinae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-08T15:06:01Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palaestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestinensesch Autonomiegebidder"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q13415154"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "7104",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13415154"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Civitas Palestinae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-08T15:06:01Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palaestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestinensesch Autonomiegebidder"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "7104",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13415154"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Civitas Palestinae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-08T15:06:01Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palaestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestinensesch Autonomiegebidder"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q13415154"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q838"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "7104",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13415154"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Civitas Palestinae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-08T15:06:01Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palaestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestinensesch Autonomiegebidder"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q13415154"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "7104",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13415154"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Civitas Palestinae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-08T15:06:01Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palaestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219060",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palestinensesch Autonomiegebidder"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q219060-ab6a58af-46ec-4a84-d7cd-facf3d8ea0b4",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  }
+}

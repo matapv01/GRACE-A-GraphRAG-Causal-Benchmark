@@ -32,7 +32,21 @@ Công cụ này quét toàn bộ thư mục data và báo cáo chi tiết: tiế
 uv run python scripts/statistics.py
 ```
 
-### 4. Cách dừng hệ thống khẩn cấp (Kill Process)
+### 4. Xem trước mẫu dữ liệu (Preview Samples)
+Lệnh này hiển thị chi tiết thông tin của các mẫu báo cáo/đồ thị đã được trích xuất (thực thể, quan hệ, nhãn từ Wikidata) giúp bạn kiểm tra nhanh dữ liệu đầu ra và tính chính xác của tiến trình.
+
+```bash
+uv run python scripts/preview_samples.py
+```
+
+### 5. Trực quan hóa cấu trúc đồ thị (Visualize Mermaid)
+Sử dụng script này để in ra cấu trúc dạng Markdown Mermaid phục vụ dán lên các trình duyệt vẽ sơ đồ, giúp biểu diễn trực quan đồ thị Knowledge Graph cho các trạng thái Causal khác nhau đã sinh ra phục vụ mục đích Debug.
+
+```bash
+uv run python scripts/visualize_mermaid.py
+```
+
+### 6. Cách dừng hệ thống khẩn cấp (Kill Process)
 Nếu bạn lỡ chạy nhầm hoặc muốn sửa code dở dang, hãy copy lệnh này để kết liễu mọi tiến trình cào dữ liệu ngầm đang chạy:
 
 ```bash

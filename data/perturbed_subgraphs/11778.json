@@ -1,0 +1,222 @@
+{
+  "clean": {
+    "question_id": "11778",
+    "answers": [
+      "http://www.wikidata.org/entity/Q66656"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q66656",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q10905334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2581",
+        "object": "03234827n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q223655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q13636890"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/01h9m"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q66656"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "11778",
+    "answers": [
+      "http://www.wikidata.org/entity/Q66656"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2581",
+        "object": "03234827n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q223655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q13636890"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/01h9m"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "9"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "11778",
+    "answers": [
+      "http://www.wikidata.org/entity/Q66656"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q66656",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q10905334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2581",
+        "object": "03234827n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q223655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q13636890"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/01h9m"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q66656"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "11778",
+    "answers": [
+      "http://www.wikidata.org/entity/Q66656"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q66656",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q10905334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2581",
+        "object": "03234827n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q223655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q13636890"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/01h9m"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q66656"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "11778",
+    "answers": [
+      "http://www.wikidata.org/entity/Q66656"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2581",
+        "object": "03234827n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q223655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q13636890"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/01h9m"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q10905334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677051",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  }
+}

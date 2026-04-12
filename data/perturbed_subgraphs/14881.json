@@ -1,0 +1,277 @@
+{
+  "clean": {
+    "question_id": "14881",
+    "answers": [
+      "http://www.wikidata.org/entity/Q126095",
+      "http://www.wikidata.org/entity/Q756033",
+      "http://www.wikidata.org/entity/Q82811"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q756033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Wiktor Bespalow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432, \u0412\u0438\u043a\u0442\u043e\u0440 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Viktor Ivanovich Bespalov"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q82811"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q126095"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412. \u0418. \u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q4201666"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432 \u0412. \u0418."
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "14881",
+    "answers": [
+      "http://www.wikidata.org/entity/Q126095",
+      "http://www.wikidata.org/entity/Q756033",
+      "http://www.wikidata.org/entity/Q82811"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Wiktor Bespalow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432, \u0412\u0438\u043a\u0442\u043e\u0440 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Viktor Ivanovich Bespalov"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412. \u0418. \u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q4201666"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432 \u0412. \u0418."
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "14881",
+    "answers": [
+      "http://www.wikidata.org/entity/Q126095",
+      "http://www.wikidata.org/entity/Q756033",
+      "http://www.wikidata.org/entity/Q82811"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q756033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Wiktor Bespalow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432, \u0412\u0438\u043a\u0442\u043e\u0440 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Viktor Ivanovich Bespalov"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q82811"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q126095"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412. \u0418. \u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q4201666"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432 \u0412. \u0418."
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q249"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "14881",
+    "answers": [
+      "http://www.wikidata.org/entity/Q126095",
+      "http://www.wikidata.org/entity/Q756033",
+      "http://www.wikidata.org/entity/Q82811"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q756033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Wiktor Bespalow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432, \u0412\u0438\u043a\u0442\u043e\u0440 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Viktor Ivanovich Bespalov"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q82811"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q126095"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412. \u0418. \u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q4201666"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432 \u0412. \u0418."
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "14881",
+    "answers": [
+      "http://www.wikidata.org/entity/Q126095",
+      "http://www.wikidata.org/entity/Q756033",
+      "http://www.wikidata.org/entity/Q82811"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Wiktor Bespalow"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432, \u0412\u0438\u043a\u0442\u043e\u0440 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Viktor Ivanovich Bespalov"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412. \u0418. \u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q4201666"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28792298",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0411\u0435\u0441\u043f\u0430\u043b\u043e\u0432 \u0412. \u0418."
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q249"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q249"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4201666",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q249"
+      }
+    ]
+  }
+}

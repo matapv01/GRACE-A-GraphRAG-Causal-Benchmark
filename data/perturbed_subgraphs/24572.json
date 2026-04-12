@@ -1,0 +1,176 @@
+{
+  "clean": {
+    "question_id": "24572",
+    "answers": [
+      "http://www.wikidata.org/entity/Q185068"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28171280"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0548\u0582\u0580\u0561\u0580\u057f\u0578\u0582"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "rdfs:label",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ararat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0410\u0440\u0430\u0440\u0430\u0442"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "24572",
+    "answers": [
+      "http://www.wikidata.org/entity/Q185068"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "24572",
+    "answers": [
+      "http://www.wikidata.org/entity/Q185068"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28171280"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0548\u0582\u0580\u0561\u0580\u057f\u0578\u0582"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "rdfs:label",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ararat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0410\u0440\u0430\u0440\u0430\u0442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q327"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "24572",
+    "answers": [
+      "http://www.wikidata.org/entity/Q185068"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28171280"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0548\u0582\u0580\u0561\u0580\u057f\u0578\u0582"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "rdfs:label",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ararat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0410\u0440\u0430\u0440\u0430\u0442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185068",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "24572",
+    "answers": [
+      "http://www.wikidata.org/entity/Q185068"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q327",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28171280"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q327",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0548\u0582\u0580\u0561\u0580\u057f\u0578\u0582"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q327",
+        "predicate": "rdfs:label",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q327",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ararat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q327",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Urartu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q327",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0410\u0440\u0430\u0440\u0430\u0442"
+      }
+    ]
+  }
+}

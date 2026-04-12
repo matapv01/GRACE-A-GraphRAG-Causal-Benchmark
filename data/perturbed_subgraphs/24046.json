@@ -1,0 +1,331 @@
+{
+  "clean": {
+    "question_id": "24046",
+    "answers": [
+      "http://www.wikidata.org/entity/Q105044976",
+      "http://www.wikidata.org/entity/Q2601372",
+      "http://www.wikidata.org/entity/Q17133302",
+      "http://www.wikidata.org/entity/Q55785188"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105044976",
+        "predicate": "rdfs:label",
+        "object": "YARSopathy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17133302",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17133302",
+        "predicate": "rdfs:label",
+        "object": "Yim\u2013Ebbin syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "syndrome Yao"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yao syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q55785188-3B687DBA-D846-4C39-B52E-0B5F46A01AC1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5270",
+        "object": "http://purl.obolibrary.org/obo/MONDO_0015019"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2601372",
+        "predicate": "rdfs:label",
+        "object": "Youssef's syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105044976",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2601372",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "rdfs:label",
+        "object": "Yao syndrome"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "24046",
+    "answers": [
+      "http://www.wikidata.org/entity/Q105044976",
+      "http://www.wikidata.org/entity/Q2601372",
+      "http://www.wikidata.org/entity/Q17133302",
+      "http://www.wikidata.org/entity/Q55785188"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "24046",
+    "answers": [
+      "http://www.wikidata.org/entity/Q105044976",
+      "http://www.wikidata.org/entity/Q2601372",
+      "http://www.wikidata.org/entity/Q17133302",
+      "http://www.wikidata.org/entity/Q55785188"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105044976",
+        "predicate": "rdfs:label",
+        "object": "YARSopathy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17133302",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17133302",
+        "predicate": "rdfs:label",
+        "object": "Yim\u2013Ebbin syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "syndrome Yao"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yao syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q55785188-3B687DBA-D846-4C39-B52E-0B5F46A01AC1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5270",
+        "object": "http://purl.obolibrary.org/obo/MONDO_0015019"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2601372",
+        "predicate": "rdfs:label",
+        "object": "Youssef's syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105044976",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2601372",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "rdfs:label",
+        "object": "Yao syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/P2293"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "24046",
+    "answers": [
+      "http://www.wikidata.org/entity/Q105044976",
+      "http://www.wikidata.org/entity/Q2601372",
+      "http://www.wikidata.org/entity/Q17133302",
+      "http://www.wikidata.org/entity/Q55785188"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105044976",
+        "predicate": "rdfs:label",
+        "object": "YARSopathy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17133302",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17133302",
+        "predicate": "rdfs:label",
+        "object": "Yim\u2013Ebbin syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "syndrome Yao"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yao syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q55785188-3B687DBA-D846-4C39-B52E-0B5F46A01AC1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5270",
+        "object": "http://purl.obolibrary.org/obo/MONDO_0015019"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2601372",
+        "predicate": "rdfs:label",
+        "object": "Youssef's syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105044976",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2601372",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "rdfs:label",
+        "object": "Yao syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55785188",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "24046",
+    "answers": [
+      "http://www.wikidata.org/entity/Q105044976",
+      "http://www.wikidata.org/entity/Q2601372",
+      "http://www.wikidata.org/entity/Q17133302",
+      "http://www.wikidata.org/entity/Q55785188"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "rdfs:label",
+        "object": "YARSopathy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "rdfs:label",
+        "object": "Yim\u2013Ebbin syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "syndrome Yao"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yao syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q55785188-3B687DBA-D846-4C39-B52E-0B5F46A01AC1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5270",
+        "object": "http://purl.obolibrary.org/obo/MONDO_0015019"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "rdfs:label",
+        "object": "Youssef's syndrome"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/P2293",
+        "predicate": "rdfs:label",
+        "object": "Yao syndrome"
+      }
+    ]
+  }
+}

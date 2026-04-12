@@ -1,0 +1,44 @@
+{
+  "question_id": "23241",
+  "answers": [
+    "http://www.wikidata.org/entity/Q392172",
+    "http://www.wikidata.org/entity/Q3573026"
+  ],
+  "gold_path": {
+    "question_id": "23241",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3573026",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q19861951"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3573026",
+        "predicate": "rdfs:label",
+        "object": "torta"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q392172",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q19861951"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q392172",
+        "predicate": "rdfs:label",
+        "object": "Tortas de Aceite"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3573026",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3573026",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "torta"
+    }
+  ]
+}

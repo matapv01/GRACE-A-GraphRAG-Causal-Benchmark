@@ -1,0 +1,222 @@
+{
+  "clean": {
+    "question_id": "5981",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903",
+        "predicate": "pq:P1545",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+        "object": "http://kbpedia.org/kko/rc/EthylEther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+        "object": "https://rdf.wwpdb.org/pdb/4HP2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+        "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL16264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://schema.org/version",
+        "object": "2458184978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/P2260",
+        "object": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P683",
+        "object": "http://purl.obolibrary.org/obo/CHEBI_35702"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "5981",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+        "object": "http://kbpedia.org/kko/rc/EthylEther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+        "object": "https://rdf.wwpdb.org/pdb/4HP2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+        "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL16264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://schema.org/version",
+        "object": "2458184978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/P2260",
+        "object": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P683",
+        "object": "http://purl.obolibrary.org/obo/CHEBI_35702"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "5981",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903",
+        "predicate": "pq:P1545",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+        "object": "http://kbpedia.org/kko/rc/EthylEther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+        "object": "https://rdf.wwpdb.org/pdb/4HP2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+        "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL16264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://schema.org/version",
+        "object": "2458184978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/P2260",
+        "object": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P683",
+        "object": "http://purl.obolibrary.org/obo/CHEBI_35702"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "5981",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903",
+        "predicate": "pq:P1545",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+        "object": "http://kbpedia.org/kko/rc/EthylEther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+        "object": "https://rdf.wwpdb.org/pdb/4HP2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+        "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL16264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://schema.org/version",
+        "object": "2458184978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/P2260",
+        "object": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P683",
+        "object": "http://purl.obolibrary.org/obo/CHEBI_35702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "5981",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903",
+        "predicate": "pq:P1545",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+        "object": "http://kbpedia.org/kko/rc/EthylEther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+        "object": "https://rdf.wwpdb.org/pdb/4HP2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+        "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL16264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://schema.org/version",
+        "object": "2458184978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/P2260",
+        "object": "http://www.wikidata.org/entity/statement/Q202218-FF7FED88-B501-441D-983D-4CBFF68AF903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202218",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P683",
+        "object": "http://purl.obolibrary.org/obo/CHEBI_35702"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "12574",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3857"
+  ],
+  "gold_path": {
+    "question_id": "12574",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1197",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q3857"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3857",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q1882240"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1197",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "NDS"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1197",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ساكسونيا السفلى"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1197",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Niedersachsen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1197",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "DE-NI"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "7601",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11696"
+  ],
+  "gold_path": {
+    "question_id": "7601",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11881",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q11881-4166EEDF-D899-4B7F-9A54-8EA07326B736"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q11881-4166EEDF-D899-4B7F-9A54-8EA07326B736",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q11696"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q11881-4166EEDF-D899-4B7F-9A54-8EA07326B736",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q11869"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11881",
+      "predicate": "http://www.wikidata.org/prop/direct/P2390",
+      "object": "John_Tyler_(U.S._president)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11881",
+      "predicate": "http://www.wikidata.org/prop/direct/P9807",
+      "object": "168656"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11881",
+      "predicate": "http://www.wikidata.org/prop/direct/P910",
+      "object": "http://www.wikidata.org/entity/Q8567567"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11881",
+      "predicate": "http://www.wikidata.org/prop/direct/P7502",
+      "object": "John_Tyler-NVY35K"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11881",
+      "predicate": "http://www.wikidata.org/prop/direct/P8902",
+      "object": "people/85525"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "7378",
+  "answers": [
+    "2000-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7378",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q819127",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q819127-59ED3F26-688B-424C-90E6-A30D5B815D5A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q819127-59ED3F26-688B-424C-90E6-A30D5B815D5A",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q19858080"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q819127-59ED3F26-688B-424C-90E6-A30D5B815D5A",
+        "predicate": "pq:P585",
+        "object": "2000-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q819127",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "超自然力量"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q819127",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Supernatural (Santana)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q819127",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-28T09:54:28Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q819127",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q819127-510F1DDF-FD25-4687-8A0D-3129429A14DE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q819127",
+      "predicate": "http://www.wikidata.org/prop/P1476",
+      "object": "http://www.wikidata.org/entity/statement/Q819127-e909bf32-4ecf-5f0c-5de2-ae3100a7207e"
+    }
+  ]
+}

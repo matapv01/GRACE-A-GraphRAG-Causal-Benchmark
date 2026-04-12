@@ -1,0 +1,54 @@
+{
+  "question_id": "6798",
+  "answers": [
+    "http://www.wikidata.org/entity/Q60037",
+    "http://www.wikidata.org/entity/Q83324"
+  ],
+  "gold_path": {
+    "question_id": "6798",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-24C55513-A2B5-4987-AB3E-BD7A8C69E6EE",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q83324"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41753-569c3e7e-4f70-5935-4d67-747abedc2374",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q60037"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41753",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T23:41:37Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41753",
+      "predicate": "http://schema.org/version",
+      "object": "2478398039"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41753",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Klagenfurt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41753",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Клагенфурт"
+    }
+  ]
+}

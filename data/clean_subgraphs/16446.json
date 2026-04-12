@@ -1,0 +1,48 @@
+{
+  "question_id": "16446",
+  "answers": [
+    "http://www.wikidata.org/entity/Q206813"
+  ],
+  "gold_path": {
+    "question_id": "16446",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21020118",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q38568"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q38568",
+        "predicate": "http://www.wikidata.org/prop/direct/P118",
+        "object": "http://www.wikidata.org/entity/Q206813"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21020118",
+      "predicate": "http://schema.org/version",
+      "object": "2470670588"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21020118",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21020118",
+      "predicate": "http://schema.org/description",
+      "object": "Brasiliaanse sokkerspeler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21020118",
+      "predicate": "http://schema.org/description",
+      "object": "لاعب كرة قدم برازيلي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21020118",
+      "predicate": "http://schema.org/description",
+      "object": "futbolista brasilanu"
+    }
+  ]
+}

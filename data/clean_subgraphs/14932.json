@@ -1,0 +1,43 @@
+{
+  "question_id": "14932",
+  "answers": [
+    "753359540"
+  ],
+  "gold_path": {
+    "question_id": "14932",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179876",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P1098",
+        "object": "753359540"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179876",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Inghilterra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179876",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "England"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179876",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Angleterre"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179876",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Inglaterra"
+    }
+  ]
+}

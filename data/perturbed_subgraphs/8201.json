@@ -1,0 +1,197 @@
+{
+  "clean": {
+    "question_id": "8201",
+    "answers": [
+      "1949-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Willem Frederik Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "pq:P585",
+        "object": "1949-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2705788"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "W.F. Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "WFH"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "8201",
+    "answers": [
+      "1949-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Willem Frederik Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2705788"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "W.F. Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "WFH"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "8201",
+    "answers": [
+      "1949-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Willem Frederik Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "pq:P585",
+        "object": "1949-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2705788"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "W.F. Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "WFH"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "8201",
+    "answers": [
+      "1949-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Willem Frederik Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "pq:P585",
+        "object": "1949-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2705788"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "W.F. Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "WFH"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "8201",
+    "answers": [
+      "1949-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Willem Frederik Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "pq:P585",
+        "object": "1949-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q437771-E004B3DB-66BC-4547-86E7-4B0095A02FA8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2705788"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "W.F. Hermans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q437771",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "WFH"
+      }
+    ]
+  }
+}

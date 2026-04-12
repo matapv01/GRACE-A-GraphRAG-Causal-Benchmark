@@ -1,0 +1,277 @@
+{
+  "clean": {
+    "question_id": "6087",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1270152",
+      "http://www.wikidata.org/entity/Q843097"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q843097"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "Danish association football player"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "\u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062f\u0645 \u062f\u0646\u0645\u0627\u0631\u0643\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista dan\u00e8s"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q1270152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/version",
+        "object": "2480172228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista brasilanu"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "6087",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1270152",
+      "http://www.wikidata.org/entity/Q843097"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "Danish association football player"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "\u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062f\u0645 \u062f\u0646\u0645\u0627\u0631\u0643\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista dan\u00e8s"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/version",
+        "object": "2480172228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista brasilanu"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "6087",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1270152",
+      "http://www.wikidata.org/entity/Q843097"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q843097"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "Danish association football player"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "\u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062f\u0645 \u062f\u0646\u0645\u0627\u0631\u0643\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista dan\u00e8s"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q1270152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/version",
+        "object": "2480172228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista brasilanu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q32970"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "6087",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1270152",
+      "http://www.wikidata.org/entity/Q843097"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q843097"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "Danish association football player"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "\u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062f\u0645 \u062f\u0646\u0645\u0627\u0631\u0643\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista dan\u00e8s"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q1270152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/version",
+        "object": "2480172228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista brasilanu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "6087",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1270152",
+      "http://www.wikidata.org/entity/Q843097"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "Danish association football player"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "\u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062f\u0645 \u062f\u0646\u0645\u0627\u0631\u0643\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista dan\u00e8s"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/version",
+        "object": "2480172228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182314",
+        "predicate": "http://schema.org/description",
+        "object": "futbolista brasilanu"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q182314-DFC9D234-D692-446C-9028-8B2801D05ABA",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q32970"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182314-1AE4D2CC-ECEE-4691-86D5-ECB51D780C04",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q32970"
+      }
+    ]
+  }
+}
