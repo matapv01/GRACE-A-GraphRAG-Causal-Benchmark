@@ -1,0 +1,48 @@
+{
+  "question_id": "7473",
+  "answers": [
+    "R"
+  ],
+  "gold_path": {
+    "question_id": "7473",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3142",
+        "predicate": "http://www.wikidata.org/prop/P1813",
+        "object": "http://www.wikidata.org/entity/statement/Q3142-a32a4adb-4c72-e916-cb79-fef65d27c97c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3142-a32a4adb-4c72-e916-cb79-fef65d27c97c",
+        "predicate": "pq:P1793",
+        "object": "R"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3142",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "लाल"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3142",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "لال"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3142",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "rød"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3142",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "red"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3142",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ڳاڙهو"
+    }
+  ]
+}

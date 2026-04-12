@@ -1,0 +1,582 @@
+{
+  "clean": {
+    "question_id": "20798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q10294045",
+      "http://www.wikidata.org/entity/Q56085709",
+      "http://www.wikidata.org/entity/Q1011547",
+      "http://www.wikidata.org/entity/Q5230793",
+      "http://www.wikidata.org/entity/Q17985761"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1011547",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q5230793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56085709",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q56085709"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P910",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-BBE9A98E-2331-4DC4-BDA6-99EFBF5528D9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10294045",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P8895",
+        "object": "Mary_Tyler_Moore"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8179",
+        "object": "http://www.wikidata.org/entity/statement/q41342-3f487baf-4afc-be76-f500-55d9b9eb926c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8094",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-69DD898B-B36E-4FA6-8F50-34769183930C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5230793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17985761",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1011547"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-d81f2264-4852-189d-5deb-0df6a1dfefe1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q17985761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q10294045"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "20798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q10294045",
+      "http://www.wikidata.org/entity/Q56085709",
+      "http://www.wikidata.org/entity/Q1011547",
+      "http://www.wikidata.org/entity/Q5230793",
+      "http://www.wikidata.org/entity/Q17985761"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P910",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-BBE9A98E-2331-4DC4-BDA6-99EFBF5528D9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P8895",
+        "object": "Mary_Tyler_Moore"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8179",
+        "object": "http://www.wikidata.org/entity/statement/q41342-3f487baf-4afc-be76-f500-55d9b9eb926c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8094",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-69DD898B-B36E-4FA6-8F50-34769183930C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-d81f2264-4852-189d-5deb-0df6a1dfefe1"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "20798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q10294045",
+      "http://www.wikidata.org/entity/Q56085709",
+      "http://www.wikidata.org/entity/Q1011547",
+      "http://www.wikidata.org/entity/Q5230793",
+      "http://www.wikidata.org/entity/Q17985761"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1011547",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q5230793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56085709",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q56085709"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P910",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-BBE9A98E-2331-4DC4-BDA6-99EFBF5528D9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10294045",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P8895",
+        "object": "Mary_Tyler_Moore"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8179",
+        "object": "http://www.wikidata.org/entity/statement/q41342-3f487baf-4afc-be76-f500-55d9b9eb926c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8094",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-69DD898B-B36E-4FA6-8F50-34769183930C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5230793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17985761",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1011547"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-d81f2264-4852-189d-5deb-0df6a1dfefe1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q17985761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q10294045"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/L1531729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q14420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q28003"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q31310"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q44136"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "20798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q10294045",
+      "http://www.wikidata.org/entity/Q56085709",
+      "http://www.wikidata.org/entity/Q1011547",
+      "http://www.wikidata.org/entity/Q5230793",
+      "http://www.wikidata.org/entity/Q17985761"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1011547",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q5230793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56085709",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q56085709"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P910",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-BBE9A98E-2331-4DC4-BDA6-99EFBF5528D9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10294045",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P8895",
+        "object": "Mary_Tyler_Moore"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8179",
+        "object": "http://www.wikidata.org/entity/statement/q41342-3f487baf-4afc-be76-f500-55d9b9eb926c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8094",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-69DD898B-B36E-4FA6-8F50-34769183930C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5230793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17985761",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1011547"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-d81f2264-4852-189d-5deb-0df6a1dfefe1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q17985761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q10294045"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "20798",
+    "answers": [
+      "http://www.wikidata.org/entity/Q10294045",
+      "http://www.wikidata.org/entity/Q56085709",
+      "http://www.wikidata.org/entity/Q1011547",
+      "http://www.wikidata.org/entity/Q5230793",
+      "http://www.wikidata.org/entity/Q17985761"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P910",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-BBE9A98E-2331-4DC4-BDA6-99EFBF5528D9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P8895",
+        "object": "Mary_Tyler_Moore"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8179",
+        "object": "http://www.wikidata.org/entity/statement/q41342-3f487baf-4afc-be76-f500-55d9b9eb926c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P8094",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-69DD898B-B36E-4FA6-8F50-34769183930C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q41342-d81f2264-4852-189d-5deb-0df6a1dfefe1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1531729",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/L1531729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1531729",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/L1531729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1531729",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1531729",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1531729",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/L1531729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/L1531729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41342",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/L1531729"
+      }
+    ]
+  }
+}

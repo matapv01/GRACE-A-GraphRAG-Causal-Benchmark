@@ -1,0 +1,54 @@
+{
+  "question_id": "14305",
+  "answers": [
+    "http://www.wikidata.org/entity/Q24898980",
+    "http://www.wikidata.org/entity/Q932484"
+  ],
+  "gold_path": {
+    "question_id": "14305",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q24898980",
+        "predicate": "http://www.wikidata.org/prop/direct/P3919",
+        "object": "http://www.wikidata.org/entity/Q3521955"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3521955",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q932484"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3521955",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q24898980"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q24898980",
+      "predicate": "http://schema.org/version",
+      "object": "2372264038"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24898980",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24898980",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q24898980-FCCFCC22-67E6-48ED-8CD6-F6B7F71BB98F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24898980",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1975-10-16T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24898980",
+      "predicate": "http://www.wikidata.org/prop/P106",
+      "object": "http://www.wikidata.org/entity/statement/Q24898980-19cd40d2-4709-a336-1740-82c824514bbe"
+    }
+  ]
+}
