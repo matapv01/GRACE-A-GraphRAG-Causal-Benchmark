@@ -1,0 +1,72 @@
+{
+  "question_id": "15626",
+  "answers": [
+    "http://www.wikidata.org/entity/Q20644303",
+    "http://www.wikidata.org/entity/Q20644305",
+    "http://www.wikidata.org/entity/Q20644306",
+    "http://www.wikidata.org/entity/Q20644304",
+    "http://www.wikidata.org/entity/Q20644307"
+  ],
+  "gold_path": {
+    "question_id": "15626",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q590911",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q154770"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q154770",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q20644303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q154770",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q20644304"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q154770",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q20644305"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q154770",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q20644306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q154770",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q20644307"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q590911",
+      "predicate": "http://www.wikidata.org/prop/direct/P5226",
+      "object": "lou-harrison"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q590911",
+      "predicate": "http://www.wikidata.org/prop/P5226",
+      "object": "http://www.wikidata.org/entity/statement/Q590911-AE5B5BEC-CF16-45DE-B08B-52689CD737EA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q590911",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "101306814"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q590911",
+      "predicate": "http://www.wikidata.org/prop/P13509",
+      "object": "http://www.wikidata.org/entity/statement/Q590911-1DD5E8DD-1589-40F5-9F1E-E3A4149F1793"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q590911",
+      "predicate": "http://www.wikidata.org/prop/direct/P13509",
+      "object": "4235"
+    }
+  ]
+}

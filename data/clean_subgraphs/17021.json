@@ -1,0 +1,76 @@
+{
+  "question_id": "17021",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8441",
+    "http://www.wikidata.org/entity/Q7565",
+    "http://www.wikidata.org/entity/Q29514218",
+    "http://www.wikidata.org/entity/Q3031"
+  ],
+  "gold_path": {
+    "question_id": "17021",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3889219",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q467"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q467",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q8441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3889219",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q3010"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3010",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q3031"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3889219",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q7560"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7560",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q7565"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7560",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q29514218"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3889219",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/121qg3w4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3889219",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q3305213"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3889219",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q3889219-0AAF701E-01BD-4F73-B94C-A3A922AA8105"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3889219",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20del%20Cossa%20025.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3889219",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q3889219-31F41A02-6DC8-40E5-9C48-5AEC0D12E6AA"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "question_id": "23618",
+  "answers": [
+    "http://www.wikidata.org/entity/Q193468",
+    "http://www.wikidata.org/entity/Q223189"
+  ],
+  "gold_path": {
+    "question_id": "23618",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193468",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15729598"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193468",
+        "predicate": "rdfs:label",
+        "object": "van"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223189",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15729598"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223189",
+        "predicate": "rdfs:label",
+        "object": "minivan"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193468",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "18"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193468",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "furgoneta"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193468",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "van"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193468",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ون"
+    }
+  ]
+}

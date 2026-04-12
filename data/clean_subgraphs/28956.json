@@ -1,0 +1,38 @@
+{
+  "question_id": "28956",
+  "answers": [
+    "P0767793405"
+  ],
+  "gold_path": {
+    "question_id": "28956",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q84233",
+        "predicate": "http://www.wikidata.org/prop/direct/P4116",
+        "object": "P0767793405"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q84233",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "135"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84233",
+      "predicate": "http://www.wikidata.org/prop/direct/P866",
+      "object": "ludwig-von-mises"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84233",
+      "predicate": "http://www.wikidata.org/prop/direct/P863",
+      "object": "thinker/3590"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84233",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mises"
+    }
+  ]
+}

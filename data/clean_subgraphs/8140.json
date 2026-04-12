@@ -1,0 +1,71 @@
+{
+  "question_id": "8140",
+  "answers": [
+    "http://www.wikidata.org/entity/Q233461",
+    "http://www.wikidata.org/entity/Q212852",
+    "http://www.wikidata.org/entity/Q28984",
+    "http://www.wikidata.org/entity/Q189660"
+  ],
+  "gold_path": {
+    "question_id": "8140",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q82339",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q82339-c10a3579-4a11-fd2c-d48a-cbff7707a681"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-c10a3579-4a11-fd2c-d48a-cbff7707a681",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-c10a3579-4a11-fd2c-d48a-cbff7707a681",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q28984"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-c10a3579-4a11-fd2c-d48a-cbff7707a681",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q189660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-c10a3579-4a11-fd2c-d48a-cbff7707a681",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q212852"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-c10a3579-4a11-fd2c-d48a-cbff7707a681",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q233461"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "90"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5063",
+      "object": "http://globalwordnet.org/ili/i94751"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://www.wikidata.org/prop/P3280",
+      "object": "http://www.wikidata.org/entity/statement/q82339-31c5a91a-44a3-8732-44ce-051ba360a362"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q82339-53672079-F67C-4364-9026-FF74EB8DE206"
+    }
+  ]
+}

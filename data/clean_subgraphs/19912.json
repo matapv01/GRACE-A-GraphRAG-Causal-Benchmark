@@ -1,0 +1,48 @@
+{
+  "question_id": "19912",
+  "answers": [
+    "http://www.wikidata.org/entity/Q130834"
+  ],
+  "gold_path": {
+    "question_id": "19912",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131964",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q130834"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q130834",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131964",
+      "predicate": "http://www.wikidata.org/prop/direct/P38",
+      "object": "http://www.wikidata.org/entity/Q162528"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131964",
+      "predicate": "http://www.wikidata.org/prop/P38",
+      "object": "http://www.wikidata.org/entity/statement/Q131964-1B308A10-9213-496C-B50C-FC4EFCD45FF5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131964",
+      "predicate": "http://www.wikidata.org/prop/direct/P3896",
+      "object": "http://commons.wikimedia.org/data/main/Data:Mitchell+Map+1850+Austrian+Empire+Map.map"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131964",
+      "predicate": "http://www.wikidata.org/prop/direct/P1280",
+      "object": "326758499"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131964",
+      "predicate": "http://www.wikidata.org/prop/direct/P12086",
+      "object": "Keizerrijk_Oostenrijk"
+    }
+  ]
+}

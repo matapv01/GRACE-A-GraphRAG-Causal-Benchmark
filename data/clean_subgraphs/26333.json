@@ -1,0 +1,49 @@
+{
+  "question_id": "26333",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23835349",
+    "http://www.wikidata.org/entity/Q1759646"
+  ],
+  "gold_path": {
+    "question_id": "26333",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199",
+        "predicate": "http://www.wikidata.org/prop/direct/P179",
+        "object": "http://www.wikidata.org/entity/Q1759646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199",
+        "predicate": "http://www.wikidata.org/prop/direct/P179",
+        "object": "http://www.wikidata.org/entity/Q23835349"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://schema.org/description",
+      "object": "натуральное число"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://schema.org/description",
+      "object": "numero naturale"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://schema.org/description",
+      "object": "מספר"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://schema.org/description",
+      "object": "natürliche Zahl"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://schema.org/description",
+      "object": "naturligt tal"
+    }
+  ]
+}

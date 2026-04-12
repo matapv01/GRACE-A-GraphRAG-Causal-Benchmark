@@ -1,0 +1,43 @@
+{
+  "question_id": "12087",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8686"
+  ],
+  "gold_path": {
+    "question_id": "12087",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q37806",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q8686"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q37806",
+      "predicate": "http://www.wikidata.org/prop/direct/P2924",
+      "object": "3160123"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37806",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "place/a69dff88-a235-44d8-b246-bd0e34db42ad"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37806",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Port%20Vila.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37806",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb12490144w#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37806",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "port-vila"
+    }
+  ]
+}

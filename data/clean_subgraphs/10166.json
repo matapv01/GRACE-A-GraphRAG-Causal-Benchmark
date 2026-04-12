@@ -1,0 +1,48 @@
+{
+  "question_id": "10166",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1215884"
+  ],
+  "gold_path": {
+    "question_id": "10166",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q32096",
+        "predicate": "http://www.wikidata.org/prop/direct/P664",
+        "object": "http://www.wikidata.org/entity/Q1215884"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32096",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q41323"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q32096",
+      "predicate": "http://schema.org/description",
+      "object": "冠軍賽"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32096",
+      "predicate": "http://schema.org/description",
+      "object": "фінальны матч, які выяўляе пераможцу Нацыянальнай футбольнай лігі"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32096",
+      "predicate": "http://schema.org/description",
+      "object": "finálový zápas NFL"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32096",
+      "predicate": "http://schema.org/description",
+      "object": "Finale der US-amerikanischen American-Football-Profiliga National Football League"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32096",
+      "predicate": "http://schema.org/description",
+      "object": "National Football League championship game"
+    }
+  ]
+}

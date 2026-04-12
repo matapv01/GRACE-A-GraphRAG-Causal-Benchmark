@@ -1,0 +1,101 @@
+{
+  "question_id": "11693",
+  "answers": [
+    "http://www.wikidata.org/entity/Q150712",
+    "http://www.wikidata.org/entity/Q182840",
+    "http://www.wikidata.org/entity/Q157084",
+    "http://www.wikidata.org/entity/Q333356"
+  ],
+  "gold_path": {
+    "question_id": "11693",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23931012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-39E6909D-B59F-496F-99F6-2049A034B18D",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q333356"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q29168087"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-9135D5D5-C96E-4832-8E3F-A002E34E127C",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q182840"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q271148"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-CB2A4F90-1E43-499F-B9E0-A86562ED7CDD",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q157084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71231",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23906200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q71231-EAD54F02-22D4-492B-82CB-BDADD2015AC8",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q150712"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q71231",
+      "predicate": "http://www.wikidata.org/prop/direct/P4159",
+      "object": "Charles_II_le_Chauve_(1)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q71231",
+      "predicate": "http://www.wikidata.org/prop/P53",
+      "object": "http://www.wikidata.org/entity/statement/Q71231-704FCC49-63F4-47CE-8493-124F5DBF7B36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q71231",
+      "predicate": "http://www.wikidata.org/prop/direct/P53",
+      "object": "http://www.wikidata.org/entity/Q133602"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q71231",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/q71231-2FD00378-425C-4348-AB1C-F442AA2AD16B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q71231",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q71231-3B1ABDC2-49BB-4FD2-9E75-4AFEA548C4EE"
+    }
+  ]
+}

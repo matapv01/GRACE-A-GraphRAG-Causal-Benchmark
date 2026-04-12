@@ -1,0 +1,69 @@
+{
+  "question_id": "11241",
+  "answers": [
+    "5",
+    "264"
+  ],
+  "gold_path": {
+    "question_id": "11241",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2154479",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q2154479-80DBA14B-2D06-4EAD-B57E-D2B4F5657158"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2154479-80DBA14B-2D06-4EAD-B57E-D2B4F5657158",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q47050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2154479-80DBA14B-2D06-4EAD-B57E-D2B4F5657158",
+        "predicate": "pq:P1350",
+        "object": "5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2154479",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q2154479-BB7032F8-4570-481E-BF81-352C08A555D7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q2154479-BB7032F8-4570-481E-BF81-352C08A555D7",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q81888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q2154479-BB7032F8-4570-481E-BF81-352C08A555D7",
+        "predicate": "pq:P1350",
+        "object": "264"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2154479",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n2003103608"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2154479",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q2154479-A448591E-6147-4BCC-AE65-4A5C3B587561"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2154479",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "1958-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2154479",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q2154479-B16E51C5-51F6-4A62-8482-31AA5DC4B8ED"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2154479",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n2003103608"
+    }
+  ]
+}

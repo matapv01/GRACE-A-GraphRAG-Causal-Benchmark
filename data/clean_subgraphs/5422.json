@@ -1,0 +1,48 @@
+{
+  "question_id": "5422",
+  "answers": [
+    "http://www.wikidata.org/entity/Q793241"
+  ],
+  "gold_path": {
+    "question_id": "5422",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44980",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q44980-FD8EC391-7CDB-4DF6-913E-3547894CB645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q44980-FD8EC391-7CDB-4DF6-913E-3547894CB645",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q793241"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44980",
+      "predicate": "http://www.wikidata.org/prop/P413",
+      "object": "http://www.wikidata.org/entity/statement/Q44980-000E8769-1A7D-41B4-BCD1-C38EC2EB1EA2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44980",
+      "predicate": "http://schema.org/version",
+      "object": "2480126301"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44980",
+      "predicate": "http://www.wikidata.org/prop/direct/P413",
+      "object": "http://www.wikidata.org/entity/Q280658"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44980",
+      "predicate": "http://www.wikidata.org/prop/P409",
+      "object": "http://www.wikidata.org/entity/statement/Q44980-0753C502-4842-44C9-A0FC-44BE72B12D5D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44980",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/q44980-0A40E3D7-927B-45A2-9CEB-C4140FADB482"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "question_id": "2780",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1353171",
+    "http://www.wikidata.org/entity/Q4409028",
+    "http://www.wikidata.org/entity/Q4763285",
+    "http://www.wikidata.org/entity/Q1567530",
+    "http://www.wikidata.org/entity/Q15505644"
+  ],
+  "gold_path": {
+    "question_id": "2780",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1353171",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1353171",
+        "predicate": "http://www.wikidata.org/prop/direct/P5230",
+        "object": "164"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1567530",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1567530",
+        "predicate": "http://www.wikidata.org/prop/direct/P5230",
+        "object": "102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4409028",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4409028",
+        "predicate": "http://www.wikidata.org/prop/direct/P5230",
+        "object": "80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4763285",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4763285",
+        "predicate": "http://www.wikidata.org/prop/direct/P5230",
+        "object": "80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15505644",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15505644",
+        "predicate": "http://www.wikidata.org/prop/direct/P5230",
+        "object": "80"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1353171",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "نمدار"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1353171",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Tilia dasystyla"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "question_id": "7992",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23190853",
+    "http://www.wikidata.org/entity/Q1098876"
+  ],
+  "gold_path": {
+    "question_id": "7992",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q373822",
+        "predicate": "http://www.wikidata.org/prop/P2293",
+        "object": "http://www.wikidata.org/entity/statement/Q373822-0CD9F0CB-F83E-41B8-824E-0900E041DF1F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q373822-0CD9F0CB-F83E-41B8-824E-0900E041DF1F",
+        "predicate": "ps:P2293",
+        "object": "http://www.wikidata.org/entity/Q18031050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q373822-0CD9F0CB-F83E-41B8-824E-0900E041DF1F",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q1098876"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q373822-0CD9F0CB-F83E-41B8-824E-0900E041DF1F",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q23190853"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q373822",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ätstörningar"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q373822",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "söömishäired"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q373822",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "eating disorder"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q373822",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "spiseforstyrrelse"
+    }
+  ]
+}

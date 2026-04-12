@@ -1,0 +1,53 @@
+{
+  "question_id": "3891",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1352613"
+  ],
+  "gold_path": {
+    "question_id": "3891",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2632",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q2632-BFBBEBDB-E1ED-42A7-948B-6F48D555CDBE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2632-BFBBEBDB-E1ED-42A7-948B-6F48D555CDBE",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q22344608"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2632-BFBBEBDB-E1ED-42A7-948B-6F48D555CDBE",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q1352613"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "רינגו"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "리처드 스타키"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Richard Starkey"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Старр, Ринго"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "林格·斯塔"
+    }
+  ]
+}

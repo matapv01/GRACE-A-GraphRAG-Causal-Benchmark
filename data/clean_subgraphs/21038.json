@@ -1,0 +1,54 @@
+{
+  "question_id": "21038",
+  "answers": [
+    "http://www.wikidata.org/entity/Q47285",
+    "http://www.wikidata.org/entity/Q326390"
+  ],
+  "gold_path": {
+    "question_id": "21038",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47285",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q7085"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47285",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q326390",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q7085"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q326390",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47285",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/J.J.%20Thomson%20LCCN2014715407.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47285",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/q47285-E6C1E0F9-492C-4DC7-87DA-10A7D321BB5F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47285",
+      "predicate": "http://www.wikidata.org/prop/direct/P184",
+      "object": "http://www.wikidata.org/entity/Q83297"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47285",
+      "predicate": "http://www.wikidata.org/prop/P184",
+      "object": "http://www.wikidata.org/entity/statement/Q47285-D0BCE480-9A20-496B-94C7-C8F0C66A0CB9"
+    }
+  ]
+}

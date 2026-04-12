@@ -82,20 +82,21 @@ class PerturbationModule:
             res_type = self.wikidata_client.execute_query(query_type)
             if res_type and 'type' in res_type[0]:
                 type_uri = res_type[0]['type']['value']
-                # Search for a sibling instance
+                # Search for multiple sibling instances
                 query_sibling = f"""
                 SELECT ?sibling WHERE {{
                     ?sibling wdt:P31 <{type_uri}> .
                     FILTER(?sibling != <{answer_node}>)
-                }} LIMIT 1
+                }} LIMIT 5
                 """
-                res_sib = self.wikidata_client.execute_query(query_sibling)
-                if res_sib and 'sibling' in res_sib[0]:
-                    sibling_uri = res_sib[0]['sibling']['value']
-                    # Add dummy paths
-                    start_node = subgraph.gold_path.triples[0].subject
+                res_sibs = self.wikidata_client.execute_query(query_sibling)
+                if res_sibs:
+                    start_node = subgraph.gold_path.triples[0].subject if subgraph.gold_path.triples else "http://www.wikidata.org/entity/Q_DUMMY"
                     dummy_rel = "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH"
-                    base_triples.append(Triple(subject=start_node, predicate=dummy_rel, object=sibling_uri))
+                    for row in res_sibs:
+                        if 'sibling' in row:
+                            sibling_uri = row['sibling']['value']
+                            base_triples.append(Triple(subject=start_node, predicate=dummy_rel, object=sibling_uri))
 
         return PerturbedSubgraph(
             question_id=subgraph.question_id,
@@ -106,17 +107,43 @@ class PerturbationModule:
 
     def generate_topological(self, subgraph: ReasoningSubgraph) -> PerturbedSubgraph:
         """
-        Biến thể Topological: Bơm thực thể "Ngôi sao" phổ biến, như USA (Q30) hay English (Q1860).
+        Biến thể Topological: Bơm 3 thực thể "Ngôi sao" phổ biến, như USA (Q30) hay English (Q1860).
+        Kèm theo các cạnh hop 1 của chúng để đảm bảo chúng có degree cao trong Subgraph.
         """
         base_triples = self._get_base_triples(subgraph)
         start_node = subgraph.gold_path.triples[0].subject if subgraph.gold_path.triples else "http://www.wikidata.org/entity/Q_DUMMY"
         
         # Hardcode a few highly popular hub entities
-        hub_nodes = ["http://www.wikidata.org/entity/Q30"] # United States
-        chosen_hub = random.choice(hub_nodes)
+        hub_nodes = [
+            "http://www.wikidata.org/entity/Q30",   # United States
+            "http://www.wikidata.org/entity/Q1860", # English language
+            "http://www.wikidata.org/entity/Q142",  # France
+            "http://www.wikidata.org/entity/Q145",  # United Kingdom
+            "http://www.wikidata.org/entity/Q31",   # Belgium
+            "http://www.wikidata.org/entity/Q17",   # Japan
+        ]
         
+        chosen_hubs = random.sample(hub_nodes, k=min(3, len(hub_nodes)))
         dummy_rel = "http://www.wikidata.org/prop/direct/P_DUMMY_HUB"
-        base_triples.append(Triple(subject=start_node, predicate=dummy_rel, object=chosen_hub))
+        
+        for hub in chosen_hubs:
+            # 1. Nối câu hỏi tới Hub
+            base_triples.append(Triple(subject=start_node, predicate=dummy_rel, object=hub))
+            
+            # 2. Lấy Hop 1 của Hub để bơm degree cao (lấy tối đa 10 cạnh để đại diện)
+            query_hop1 = f"""
+            SELECT ?p ?o WHERE {{
+                <{hub}> ?p ?o .
+                FILTER(isIRI(?o))
+            }} LIMIT 10
+            """
+            res_hop1 = self.wikidata_client.execute_query(query_hop1)
+            if res_hop1:
+                for row in res_hop1:
+                    if 'p' in row and 'o' in row:
+                        p_val = row['p']['value']
+                        o_val = row['o']['value']
+                        base_triples.append(Triple(subject=hub, predicate=p_val, object=o_val))
         
         return PerturbedSubgraph(
             question_id=subgraph.question_id,

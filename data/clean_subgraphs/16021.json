@@ -1,0 +1,48 @@
+{
+  "question_id": "16021",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1458155"
+  ],
+  "gold_path": {
+    "question_id": "16021",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6687246",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q939062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q939062",
+        "predicate": "http://www.wikidata.org/prop/direct/P1268",
+        "object": "http://www.wikidata.org/entity/Q1458155"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6687246",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6687246",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6687246",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/Q6687246-6E76DD54-9344-4155-BB0A-0CCE9899818B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6687246",
+      "predicate": "http://schema.org/description",
+      "object": "قس من الولايات المتحدة الأمريكية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6687246",
+      "predicate": "http://schema.org/description",
+      "object": "Amerikaans priester"
+    }
+  ]
+}

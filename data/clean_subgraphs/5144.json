@@ -1,0 +1,53 @@
+{
+  "question_id": "5144",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9027"
+  ],
+  "gold_path": {
+    "question_id": "5144",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q127623",
+        "predicate": "http://www.wikidata.org/prop/P37",
+        "object": "http://www.wikidata.org/entity/statement/Q127623-AE6DA073-C622-4DF6-902E-9D0B6D92D668"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q127623-AE6DA073-C622-4DF6-902E-9D0B6D92D668",
+        "predicate": "ps:P37",
+        "object": "http://www.wikidata.org/entity/Q9027"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q127623-AE6DA073-C622-4DF6-902E-9D0B6D92D668",
+        "predicate": "pq:P3831",
+        "object": "http://www.wikidata.org/entity/Q61566"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q127623",
+      "predicate": "http://www.wikidata.org/prop/P898",
+      "object": "http://www.wikidata.org/entity/statement/Q127623-7aea08db-4646-4ed7-2549-512a31f29d90"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127623",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q127623-167A8E30-AD0A-4042-9EA1-C38601A17600"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127623",
+      "predicate": "http://www.wikidata.org/prop/P571",
+      "object": "http://www.wikidata.org/entity/statement/Q127623-8f405d9c-42b6-7553-614b-9b0abbeb0e3f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127623",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q127623-5D27575B-E048-4FAF-A30A-9ED20115ED63"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127623",
+      "predicate": "http://www.wikidata.org/prop/P473",
+      "object": "http://www.wikidata.org/entity/statement/Q127623-4a144e25-413b-d397-91be-2246663e18d6"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "question_id": "29551",
+  "answers": [
+    "countries/aa",
+    "geographicAreas/e-aa"
+  ],
+  "gold_path": {
+    "question_id": "29551",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q222",
+        "predicate": "http://www.wikidata.org/prop/direct/P4801",
+        "object": "countries/aa"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q222",
+        "predicate": "http://www.wikidata.org/prop/direct/P4801",
+        "object": "geographicAreas/e-aa"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q222",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Albania"
+    }
+  ]
+}

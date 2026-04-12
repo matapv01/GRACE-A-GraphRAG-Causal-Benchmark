@@ -1,0 +1,53 @@
+{
+  "question_id": "4265",
+  "answers": [
+    "1983-06-06T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4265",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q373895",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q373895-2711B14F-D0CD-4734-92E3-64C390A2F439"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q373895-2711B14F-D0CD-4734-92E3-64C390A2F439",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5243447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q373895-2711B14F-D0CD-4734-92E3-64C390A2F439",
+        "predicate": "pq:P585",
+        "object": "1983-06-06T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q373895",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-28T23:52:24Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q373895",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "81"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q373895",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "97"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q373895",
+      "predicate": "http://schema.org/version",
+      "object": "2475983400"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q373895",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Betty White"
+    }
+  ]
+}

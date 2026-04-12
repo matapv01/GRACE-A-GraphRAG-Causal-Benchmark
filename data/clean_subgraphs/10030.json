@@ -1,0 +1,100 @@
+{
+  "question_id": "10030",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7200373",
+    "http://www.wikidata.org/entity/Q181767",
+    "http://www.wikidata.org/entity/Q661936",
+    "http://www.wikidata.org/entity/Q48612",
+    "http://www.wikidata.org/entity/Q651641",
+    "http://www.wikidata.org/entity/Q318917",
+    "http://www.wikidata.org/entity/Q74835210",
+    "http://www.wikidata.org/entity/Q7888569"
+  ],
+  "gold_path": {
+    "question_id": "10030",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q48612"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q181767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q318917"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q651641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q661936"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q7200373"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q7888569"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P4132",
+        "object": "http://www.wikidata.org/entity/Q74835210"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1321",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-08T06:28:45Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1321",
+      "predicate": "http://schema.org/description",
+      "object": "romanskt språk"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1321",
+      "predicate": "http://schema.org/description",
+      "object": "lingua"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1321",
+      "predicate": "http://schema.org/description",
+      "object": "語言"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1321",
+      "predicate": "http://schema.org/description",
+      "object": "lenga romanica"
+    }
+  ]
+}

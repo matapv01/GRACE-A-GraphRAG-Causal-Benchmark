@@ -1,0 +1,48 @@
+{
+  "question_id": "15247",
+  "answers": [
+    "http://www.wikidata.org/entity/Q212928"
+  ],
+  "gold_path": {
+    "question_id": "15247",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2000617",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q178131"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178131",
+        "predicate": "http://www.wikidata.org/prop/direct/P797",
+        "object": "http://www.wikidata.org/entity/Q212928"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2000617",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbor%20A-Frame%20horiz.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2000617",
+      "predicate": "http://www.wikidata.org/prop/direct/P11302",
+      "object": "1164"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2000617",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Snowboards"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2000617",
+      "predicate": "http://www.wikidata.org/prop/direct/P8408",
+      "object": "Snowboard"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2000617",
+      "predicate": "http://www.wikidata.org/prop/direct/P8814",
+      "object": "04258901-n"
+    }
+  ]
+}

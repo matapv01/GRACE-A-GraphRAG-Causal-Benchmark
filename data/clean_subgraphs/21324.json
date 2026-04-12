@@ -1,0 +1,48 @@
+{
+  "question_id": "21324",
+  "answers": [
+    "http://www.wikidata.org/entity/Q518155"
+  ],
+  "gold_path": {
+    "question_id": "21324",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q162269",
+        "predicate": "http://www.wikidata.org/prop/direct/P485",
+        "object": "http://www.wikidata.org/entity/Q518155"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q518155",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1752939"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q162269",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q162269-9349DF1D-FB44-42AB-B26E-083B9F20A96E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162269",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/q162269-EA053A4D-45B8-448E-9B21-708B0331ECFC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162269",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162269",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q162269-9050FDC0-852C-4F7C-9E3C-FE01DB53BC1A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162269",
+      "predicate": "http://www.wikidata.org/prop/P1368",
+      "object": "http://www.wikidata.org/entity/statement/Q162269-98A22D09-E8B3-4CDD-A426-A9CAD90B2BEC"
+    }
+  ]
+}

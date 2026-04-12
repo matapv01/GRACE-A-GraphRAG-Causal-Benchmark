@@ -1,0 +1,48 @@
+{
+  "question_id": "10210",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8134"
+  ],
+  "gold_path": {
+    "question_id": "10210",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q338151",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q338151-32C44742-43DE-4E48-B5AC-BA0FBE9D20E7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q338151-32C44742-43DE-4E48-B5AC-BA0FBE9D20E7",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49108"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q338151-32C44742-43DE-4E48-B5AC-BA0FBE9D20E7",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q8134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q338151-32C44742-43DE-4E48-B5AC-BA0FBE9D20E7",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q338151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Robert James Shiller"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bob Shiller"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Robert Shiller"
+    }
+  ]
+}

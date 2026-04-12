@@ -1,0 +1,69 @@
+{
+  "question_id": "4535",
+  "answers": [
+    "2007-01-01T00:00:00Z",
+    "2010-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4535",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19661",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q19661-75b93013-48da-092e-9168-3ee9c2ac3456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q19661-75b93013-48da-092e-9168-3ee9c2ac3456",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1026939"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q19661-75b93013-48da-092e-9168-3ee9c2ac3456",
+        "predicate": "pq:P582",
+        "object": "2010-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19661",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q19661-B409B560-A45E-4F80-BA1C-675D19F7CB81"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q19661-B409B560-A45E-4F80-BA1C-675D19F7CB81",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1026939"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q19661-B409B560-A45E-4F80-BA1C-675D19F7CB81",
+        "predicate": "pq:P582",
+        "object": "2007-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-30T15:26:12Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P8687",
+      "object": "24000"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P8687",
+      "object": "90400"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P8687",
+      "object": "712405"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P8687",
+      "object": "775906"
+    }
+  ]
+}

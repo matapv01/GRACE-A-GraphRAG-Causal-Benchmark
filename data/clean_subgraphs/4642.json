@@ -1,0 +1,69 @@
+{
+  "question_id": "4642",
+  "answers": [
+    "http://www.wikidata.org/entity/Q191954",
+    "http://www.wikidata.org/entity/Q19808845"
+  ],
+  "gold_path": {
+    "question_id": "4642",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q296076",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q296076-A9F400B3-ECE3-496C-ADDD-2CB2C753B657"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q296076-A9F400B3-ECE3-496C-ADDD-2CB2C753B657",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q19808845"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q296076-A9F400B3-ECE3-496C-ADDD-2CB2C753B657",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q169502"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296076",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q296076-f956c647-4ba6-95c1-4495-76399d2a789f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q296076-f956c647-4ba6-95c1-4495-76399d2a789f",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q191954"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q296076-f956c647-4ba6-95c1-4495-76399d2a789f",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q169502"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q296076",
+      "predicate": "http://www.wikidata.org/prop/direct/P3280",
+      "object": "0000050163"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296076",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "felix-faure"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296076",
+      "predicate": "http://www.wikidata.org/prop/direct/P8034",
+      "object": "495/214368"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296076",
+      "predicate": "http://www.wikidata.org/prop/P3280",
+      "object": "http://www.wikidata.org/entity/statement/q296076-c08de662-4f4d-2331-129c-720d5fa2d7d2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296076",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "12183684h"
+    }
+  ]
+}

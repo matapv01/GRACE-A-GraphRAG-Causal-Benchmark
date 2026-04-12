@@ -1,0 +1,70 @@
+{
+  "question_id": "23551",
+  "answers": [
+    "http://www.wikidata.org/entity/Q138036118",
+    "http://www.wikidata.org/entity/Q28744198",
+    "http://www.wikidata.org/entity/Q7722"
+  ],
+  "gold_path": {
+    "question_id": "23551",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7722",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1260524"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7722",
+        "predicate": "rdfs:label",
+        "object": "morning"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28744198",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1260524"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28744198",
+        "predicate": "rdfs:label",
+        "object": "early morning"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138036118",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1260524"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138036118",
+        "predicate": "rdfs:label",
+        "object": "Jouvert Morning, Aruba"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7722",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-01-12T14:11:40Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7722",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "29"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7722",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "51"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7722",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/15190336-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7722",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/Morning"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "4935",
+  "answers": [
+    "166"
+  ],
+  "gold_path": {
+    "question_id": "4935",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17515",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q17515-CF488A12-C9BD-4F7A-BCEB-C87C32360EEC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17515-CF488A12-C9BD-4F7A-BCEB-C87C32360EEC",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q220621"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17515-CF488A12-C9BD-4F7A-BCEB-C87C32360EEC",
+        "predicate": "pq:P1350",
+        "object": "166"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17515",
+      "predicate": "http://www.wikidata.org/prop/P22",
+      "object": "http://www.wikidata.org/entity/statement/Q17515-87ba8f1a-4a7f-2988-1019-d3582daa3ed3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17515",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/Q17515-0fcc193a-46a8-aae4-a2c6-98b391ee3a1c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17515",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/Q17515-24725AFE-BD56-48B0-8BD6-02BE58C6743F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17515",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T23:44:55Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17515",
+      "predicate": "http://schema.org/version",
+      "object": "2480172122"
+    }
+  ]
+}

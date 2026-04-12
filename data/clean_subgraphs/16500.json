@@ -1,0 +1,48 @@
+{
+  "question_id": "16500",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5482740"
+  ],
+  "gold_path": {
+    "question_id": "16500",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42478",
+        "predicate": "http://www.wikidata.org/prop/direct/P178",
+        "object": "http://www.wikidata.org/entity/Q92597"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q92597",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q5482740"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42478",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Source%20code%20in%20Perl.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42478",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh95010633"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42478",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P950",
+      "object": "https://datos.bne.es/resource/XX542605"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42478",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2777002779"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42478",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pearl"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "8279",
+  "answers": [
+    "http://www.wikidata.org/entity/Q903822"
+  ],
+  "gold_path": {
+    "question_id": "8279",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22368",
+        "predicate": "http://www.wikidata.org/prop/P102",
+        "object": "http://www.wikidata.org/entity/statement/q22368-05059A9B-A6AF-4D89-966E-F7BE325CFD8F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q22368-05059A9B-A6AF-4D89-966E-F7BE325CFD8F",
+        "predicate": "ps:P102",
+        "object": "http://www.wikidata.org/entity/Q903822"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q22368",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q22368-48bca044-42a0-f254-c8f4-b36cf5830961"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22368",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007349662005171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22368",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/q22368-D403DA3C-FE29-4512-B1FF-9D60AE7257C1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22368",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/q22368-9BDEB4FE-063C-4D58-9A59-DE2285674DA3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22368",
+      "predicate": "http://www.wikidata.org/prop/P8189",
+      "object": "http://www.wikidata.org/entity/statement/Q22368-C3CCDCAC-5B23-446E-96DD-D3B50A827C31"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "27424",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16953147"
+  ],
+  "gold_path": {
+    "question_id": "27424",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16953147",
+        "predicate": "http://www.wikidata.org/prop/direct/P3263",
+        "object": "http://www.wikidata.org/entity/Q812880"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16953147",
+      "predicate": "http://schema.org/description",
+      "object": "4-D convex polytope"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16953147",
+      "predicate": "http://schema.org/description",
+      "object": "чотиривимірний многогранник"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16953147",
+      "predicate": "http://www.wikidata.org/prop/P3263",
+      "object": "http://www.wikidata.org/entity/statement/Q16953147-c9ebf36a-4301-d2c9-308f-da69d1c86fd0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16953147",
+      "predicate": "http://www.wikidata.org/prop/direct/P3228",
+      "object": "()∨{4,3}"
+    }
+  ]
+}

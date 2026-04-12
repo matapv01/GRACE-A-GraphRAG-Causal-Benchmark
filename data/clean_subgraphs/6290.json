@@ -1,0 +1,48 @@
+{
+  "question_id": "6290",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16059975"
+  ],
+  "gold_path": {
+    "question_id": "6290",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1844",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q1844-f08d2d3e-48b7-e629-05f2-f7ebe74b2cb6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1844-f08d2d3e-48b7-e629-05f2-f7ebe74b2cb6",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q16059975"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1844",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q347"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1844",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Vaduz-Liechtenstein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1844",
+      "predicate": "http://www.wikidata.org/prop/direct/P3365",
+      "object": "vaduz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1844",
+      "predicate": "http://www.wikidata.org/prop/direct/P1705",
+      "object": "Vaduz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1844",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vaduz%20Liechtenstein-1.svg"
+    }
+  ]
+}

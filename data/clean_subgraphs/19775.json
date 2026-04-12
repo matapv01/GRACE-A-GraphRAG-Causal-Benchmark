@@ -1,0 +1,59 @@
+{
+  "question_id": "19775",
+  "answers": [
+    "http://www.wikidata.org/entity/Q54859684",
+    "http://www.wikidata.org/entity/Q59268184"
+  ],
+  "gold_path": {
+    "question_id": "19775",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q54859684",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q46362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q54859684",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16887380"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q59268184",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q46362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q59268184",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16887380"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q54859684",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q38872"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54859684",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q153015"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54859684",
+      "predicate": "http://www.wikidata.org/prop/direct/P131",
+      "object": "http://www.wikidata.org/entity/Q1202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54859684",
+      "predicate": "http://www.wikidata.org/prop/direct/P1435",
+      "object": "http://www.wikidata.org/entity/Q19413851"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54859684",
+      "predicate": "http://www.wikidata.org/prop/direct/P1708",
+      "object": "09305644"
+    }
+  ]
+}

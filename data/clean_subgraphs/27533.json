@@ -1,0 +1,43 @@
+{
+  "question_id": "27533",
+  "answers": [
+    "1.00115965218059"
+  ],
+  "gold_path": {
+    "question_id": "27533",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2225",
+        "predicate": "http://www.wikidata.org/prop/direct/P2069",
+        "object": "1.00115965218059"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2225",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "concept/89771fc7-76cc-460d-af1e-435cd04c09cf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2225",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q2225-C62338D6-971A-4FBB-8CA8-2CAC19C43913"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2225",
+      "predicate": "http://www.wikidata.org/prop/P13591",
+      "object": "http://www.wikidata.org/entity/statement/Q2225-27B52EEF-618E-4718-A443-5170639F419F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2225",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P683",
+      "object": "http://purl.obolibrary.org/obo/CHEBI_10545"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2225",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p4030"
+    }
+  ]
+}

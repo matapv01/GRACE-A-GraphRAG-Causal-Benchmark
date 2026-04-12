@@ -1,0 +1,48 @@
+{
+  "question_id": "9426",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49112"
+  ],
+  "gold_path": {
+    "question_id": "9426",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11641",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q11641-DB9F3AA7-2CE6-4F01-90B3-3D2B41E22069"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11641-DB9F3AA7-2CE6-4F01-90B3-3D2B41E22069",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49112"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11641",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-22T19:55:55Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11641",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Grace Brewster Murray Hopper"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11641",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "جريس موراي هوبر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11641",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "غريس هوبر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11641",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "قريس هوبر"
+    }
+  ]
+}

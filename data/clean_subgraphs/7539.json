@@ -1,0 +1,53 @@
+{
+  "question_id": "7539",
+  "answers": [
+    "1990-05-04T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7539",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1773",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/q1773-8DB331DA-8C10-4268-838C-6CA71D415C5A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1773-8DB331DA-8C10-4268-838C-6CA71D415C5A",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q211"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1773-8DB331DA-8C10-4268-838C-6CA71D415C5A",
+        "predicate": "pq:P580",
+        "object": "1990-05-04T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1773",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T11:48:59Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1773",
+      "predicate": "http://www.wikidata.org/prop/direct/P242",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Latvija%20R%C4%ABga%202021.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1773",
+      "predicate": "http://www.wikidata.org/prop/direct/P242",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Riga%20in%20Latvia.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1773",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n79013823"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1773",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rige"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "9124",
+  "answers": [
+    "2011-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9124",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44220",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q44220-7b88063e-4959-8d07-9522-b01b3e6b24e2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q44220-7b88063e-4959-8d07-9522-b01b3e6b24e2",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q2319455"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q44220-7b88063e-4959-8d07-9522-b01b3e6b24e2",
+        "predicate": "pq:P582",
+        "object": "2011-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44220",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anders Breivik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44220",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Breivik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44220",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Брейвик"
+    }
+  ]
+}

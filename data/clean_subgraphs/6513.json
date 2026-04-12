@@ -1,0 +1,69 @@
+{
+  "question_id": "6513",
+  "answers": [
+    "1724-01-01T00:00:00Z",
+    "1803-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6513",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q200713",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q200713-ae529753-4718-6f8b-b16b-e887f2b2127c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q200713-ae529753-4718-6f8b-b16b-e887f2b2127c",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q1240096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q200713-ae529753-4718-6f8b-b16b-e887f2b2127c",
+        "predicate": "pq:P580",
+        "object": "1803-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q200713",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q200713-af192aaa-4511-05c5-05e4-4597e8681994"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q200713-af192aaa-4511-05c5-05e4-4597e8681994",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q1240096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q200713-af192aaa-4511-05c5-05e4-4597e8681994",
+        "predicate": "pq:P580",
+        "object": "1724-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q200713",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-21T05:58:14Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200713",
+      "predicate": "http://schema.org/version",
+      "object": "2465157017"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200713",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200713",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "28"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200713",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bibi%20Ka%20Maqbara%20in%20the%20morning%20hours%2C%20Aurangabad%2C%20Maharashtra%2C%20India%2037.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "11867",
+  "answers": [
+    "http://www.wikidata.org/entity/Q217111"
+  ],
+  "gold_path": {
+    "question_id": "11867",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q83319",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q217111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q217111",
+        "predicate": "http://www.wikidata.org/prop/direct/P2176",
+        "object": "http://www.wikidata.org/entity/Q170304"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q83319",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "101"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83319",
+      "predicate": "http://schema.org/version",
+      "object": "2473669789"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83319",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "typhoid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83319",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "טיפוס"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83319",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nervenfieber"
+    }
+  ]
+}

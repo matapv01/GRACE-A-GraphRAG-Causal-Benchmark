@@ -1,0 +1,117 @@
+{
+  "question_id": "11406",
+  "answers": [
+    "1485-12-25T00:00:00Z",
+    "1479-11-15T00:00:00Z",
+    "1482-07-08T00:00:00Z",
+    "1470-10-02T00:00:00Z",
+    "1478-06-30T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11406",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q45859",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q45859-8FBD0C59-FF78-4265-9E6A-A77064A5D5A9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-8FBD0C59-FF78-4265-9E6A-A77064A5D5A9",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q229816"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-8FBD0C59-FF78-4265-9E6A-A77064A5D5A9",
+        "predicate": "pq:P569",
+        "object": "1482-07-08T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45859",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q45859-AA1122ED-4A1D-42DF-AC10-6426B66385ED"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-AA1122ED-4A1D-42DF-AC10-6426B66385ED",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q171136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-AA1122ED-4A1D-42DF-AC10-6426B66385ED",
+        "predicate": "pq:P569",
+        "object": "1479-11-15T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45859",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q45859-E7DA9A68-0C55-4781-A048-ABC2ACE63245"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-E7DA9A68-0C55-4781-A048-ABC2ACE63245",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q466305"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-E7DA9A68-0C55-4781-A048-ABC2ACE63245",
+        "predicate": "pq:P569",
+        "object": "1470-10-02T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45859",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q45859-FC506EB0-EF85-480C-85D1-B441A03EF426"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-FC506EB0-EF85-480C-85D1-B441A03EF426",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q381871"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-FC506EB0-EF85-480C-85D1-B441A03EF426",
+        "predicate": "pq:P569",
+        "object": "1478-06-30T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45859",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/Q45859-549e39d1-45c0-4b73-87d2-e784768535d2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q45859-549e39d1-45c0-4b73-87d2-e784768535d2",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q162819"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q45859-549e39d1-45c0-4b73-87d2-e784768535d2",
+        "predicate": "pq:P569",
+        "object": "1485-12-25T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T00:09:27Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "120034786"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "028141334"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q12860"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Isabella of Castile"
+    }
+  ]
+}

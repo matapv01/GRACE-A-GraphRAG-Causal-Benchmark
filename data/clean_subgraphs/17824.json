@@ -1,0 +1,55 @@
+{
+  "question_id": "17824",
+  "answers": [
+    "972",
+    "214",
+    "469"
+  ],
+  "gold_path": {
+    "question_id": "17824",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q889935",
+        "predicate": "http://www.wikidata.org/prop/direct/P291",
+        "object": "http://www.wikidata.org/entity/Q16557"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16557",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "214"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16557",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "469"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16557",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "972"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q889935",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "DMN"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q889935",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Dallas Morning News"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q889935",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Morning News, Dallas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q889935",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Morning News, Dallas"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_id": "9064",
+  "answers": [
+    "1976-01-01T00:00:00Z",
+    "1984-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9064",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q117710",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q117710-3E1D32A8-030F-403B-910D-A119EFCE52C5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q117710-3E1D32A8-030F-403B-910D-A119EFCE52C5",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5593843"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q117710-3E1D32A8-030F-403B-910D-A119EFCE52C5",
+        "predicate": "pq:P585",
+        "object": "1976-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q117710",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q117710-F05CF0A4-3FE5-4372-9D44-DC43BB96F347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q117710-F05CF0A4-3FE5-4372-9D44-DC43BB96F347",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5593843"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q117710-F05CF0A4-3FE5-4372-9D44-DC43BB96F347",
+        "predicate": "pq:P585",
+        "object": "1984-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q117710",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-28T20:13:48Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117710",
+      "predicate": "http://schema.org/version",
+      "object": "2475930971"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117710",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q117710-F7598570-F1D3-4E6F-914E-C92D45397B07"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117710",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q117710-40eb8833-4b23-dde5-e4af-52981a9638bf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117710",
+      "predicate": "http://www.wikidata.org/prop/P8849",
+      "object": "http://www.wikidata.org/entity/statement/Q117710-EA9221ED-C972-470F-AEF9-4EF1DFD3E7C9"
+    }
+  ]
+}

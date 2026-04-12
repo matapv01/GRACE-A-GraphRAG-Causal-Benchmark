@@ -1,0 +1,48 @@
+{
+  "question_id": "12629",
+  "answers": [
+    "http://www.wikidata.org/entity/Q377800"
+  ],
+  "gold_path": {
+    "question_id": "12629",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q751",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q377800"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q377800",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q527846"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q751",
+      "predicate": "http://schema.org/description",
+      "object": "component quimic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751",
+      "predicate": "http://schema.org/description",
+      "object": "عنصر كيميائي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751",
+      "predicate": "http://schema.org/description",
+      "object": "cheemescht Element"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751",
+      "predicate": "http://schema.org/description",
+      "object": "grunnstoff"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751",
+      "predicate": "http://schema.org/description",
+      "object": "kemial elemente"
+    }
+  ]
+}

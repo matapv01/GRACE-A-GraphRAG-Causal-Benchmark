@@ -1,0 +1,48 @@
+{
+  "question_id": "3029",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21079489"
+  ],
+  "gold_path": {
+    "question_id": "3029",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21079489",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q855769"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21079489",
+        "predicate": "http://www.wikidata.org/prop/direct/P3252",
+        "object": "55"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21079489",
+        "predicate": "http://www.wikidata.org/prop/direct/P2597",
+        "object": "http://www.wikidata.org/entity/Q632006"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21079489",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P685",
+      "object": "http://purl.uniprot.org/taxonomy/160488"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21079489",
+      "predicate": "http://www.wikidata.org/prop/P2946",
+      "object": "http://www.wikidata.org/entity/statement/Q21079489-1e0b3588-4dd0-e3d7-d059-620181fb0218"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21079489",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "KT2440"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21079489",
+      "predicate": "http://schema.org/description",
+      "object": "bacterial strain"
+    }
+  ]
+}

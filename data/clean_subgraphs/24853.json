@@ -1,0 +1,81 @@
+{
+  "question_id": "24853",
+  "answers": [
+    "http://www.wikidata.org/entity/Q194",
+    "http://www.wikidata.org/entity/Q3060",
+    "http://www.wikidata.org/entity/Q48400",
+    "http://www.wikidata.org/entity/Q171473"
+  ],
+  "gold_path": {
+    "question_id": "24853",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q194",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28951811"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q194",
+        "predicate": "rdfs:label",
+        "object": "rings of Saturn"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3060",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28951811"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3060",
+        "predicate": "rdfs:label",
+        "object": "rings of Jupiter"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48400",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28951811"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48400",
+        "predicate": "rdfs:label",
+        "object": "rings of Neptune"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171473",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28951811"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171473",
+        "predicate": "rdfs:label",
+        "object": "rings of Uranus"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q194",
+      "predicate": "http://schema.org/description",
+      "object": "planetêre verskynsels"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194",
+      "predicate": "http://schema.org/description",
+      "object": "أكثر نظم الحلقات الكوكبية امتدادًا من أي كوكب آخر في النظام الشمسي."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194",
+      "predicate": "http://schema.org/description",
+      "object": "Saturn ətrafında fırlanan buzlu hissəciklərin planar toplusu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194",
+      "predicate": "http://schema.org/description",
+      "object": "शनि ग्रह के चारो ओर छल्ला जे बर्फ के कण सभ से बनल"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194",
+      "predicate": "http://schema.org/description",
+      "object": "soustava prstenců planety Saturn"
+    }
+  ]
+}

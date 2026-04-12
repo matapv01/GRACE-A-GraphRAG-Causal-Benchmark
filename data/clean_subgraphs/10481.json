@@ -1,0 +1,58 @@
+{
+  "question_id": "10481",
+  "answers": [
+    "1822-10-12T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10481",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q535",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q535-2DE8F775-558A-4B53-94B1-015034E65966"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q535-2DE8F775-558A-4B53-94B1-015034E65966",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q2825429"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q535-2DE8F775-558A-4B53-94B1-015034E65966",
+        "predicate": "pq:P580",
+        "object": "1822-10-12T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q535-2DE8F775-558A-4B53-94B1-015034E65966",
+        "predicate": "pq:P2842",
+        "object": "http://www.wikidata.org/entity/Q295844"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q535",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T07:10:19Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q535",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Victor Marie Hugo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q535",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Wiktor Hugo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q535",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vitor Hugo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q535",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ocean Man"
+    }
+  ]
+}

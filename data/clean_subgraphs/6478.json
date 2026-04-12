@@ -1,0 +1,48 @@
+{
+  "question_id": "6478",
+  "answers": [
+    "http://www.wikidata.org/entity/Q65"
+  ],
+  "gold_path": {
+    "question_id": "6478",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2177580",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q2177580-6FB60579-0EA6-430B-A8AF-FBC0985382FA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2177580-6FB60579-0EA6-430B-A8AF-FBC0985382FA",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q65"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2177580",
+      "predicate": "http://www.wikidata.org/prop/direct/P4200",
+      "object": "55668"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2177580",
+      "predicate": "http://www.wikidata.org/prop/direct/P570",
+      "object": "2006-12-18T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2177580",
+      "predicate": "http://www.wikidata.org/prop/direct/P2042",
+      "object": "ruth-bernhard"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2177580",
+      "predicate": "http://www.wikidata.org/prop/direct/P2750",
+      "object": "1992"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2177580",
+      "predicate": "http://www.wikidata.org/prop/direct/P1559",
+      "object": "Ruth Bernhard"
+    }
+  ]
+}

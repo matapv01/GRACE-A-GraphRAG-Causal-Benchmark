@@ -1,0 +1,59 @@
+{
+  "question_id": "6667",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23190853",
+    "http://www.wikidata.org/entity/Q1098876"
+  ],
+  "gold_path": {
+    "question_id": "6667",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q133823",
+        "predicate": "http://www.wikidata.org/prop/P2293",
+        "object": "http://www.wikidata.org/entity/statement/Q133823-0D141AA8-9FA5-4657-A4B9-5508C4389FBC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q133823-0D141AA8-9FA5-4657-A4B9-5508C4389FBC",
+        "predicate": "ps:P2293",
+        "object": "http://www.wikidata.org/entity/Q18045527"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q133823-0D141AA8-9FA5-4657-A4B9-5508C4389FBC",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q1098876"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q133823-0D141AA8-9FA5-4657-A4B9-5508C4389FBC",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q23190853"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q133823",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1617",
+      "object": "http://www.bbc.co.uk/things/46fbb3f9-5c1d-49c4-b5c3-2f8a8c2121bd#id"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133823",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "migraines"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133823",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "hemicránea"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133823",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "sakit kepala"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133823",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "צלחה"
+    }
+  ]
+}

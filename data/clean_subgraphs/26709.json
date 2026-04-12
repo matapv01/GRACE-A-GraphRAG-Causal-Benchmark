@@ -1,0 +1,49 @@
+{
+  "question_id": "26709",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4039001",
+    "http://www.wikidata.org/entity/Q1806831"
+  ],
+  "gold_path": {
+    "question_id": "26709",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1806831",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q217298"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4039001",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q217298"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1806831",
+      "predicate": "http://www.wikidata.org/prop/direct/P4983",
+      "object": "4467"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1806831",
+      "predicate": "http://www.wikidata.org/prop/direct/P11460",
+      "object": "5d9c0834ba6eb9001fb9e6ac"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1806831",
+      "predicate": "http://www.wikidata.org/prop/direct/P8278",
+      "object": "late-night-with-david-letterman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1806831",
+      "predicate": "http://www.wikidata.org/prop/direct/P2603",
+      "object": "693678"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1806831",
+      "predicate": "http://www.wikidata.org/prop/P4983",
+      "object": "http://www.wikidata.org/entity/statement/Q1806831-C5A82DCD-678D-42D7-9AD2-76FD467BFBA6"
+    }
+  ]
+}

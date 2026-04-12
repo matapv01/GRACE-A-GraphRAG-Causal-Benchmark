@@ -1,0 +1,60 @@
+{
+  "question_id": "9999",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7414",
+    "http://www.wikidata.org/entity/Q3030499",
+    "http://www.wikidata.org/entity/Q1431781"
+  ],
+  "gold_path": {
+    "question_id": "9999",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q181185",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q7414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181185",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q8704"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181185",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q347432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181185",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q1431781"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181185",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q3030499"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q181185",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "47"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181185",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Disneyland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181185",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ディズニーランド"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181185",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Parc Disneyland"
+    }
+  ]
+}

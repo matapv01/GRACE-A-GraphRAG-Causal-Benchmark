@@ -1,0 +1,59 @@
+{
+  "question_id": "16585",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15976717",
+    "http://www.wikidata.org/entity/Q88372589"
+  ],
+  "gold_path": {
+    "question_id": "16585",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q524648",
+        "predicate": "http://www.wikidata.org/prop/direct/P805",
+        "object": "http://www.wikidata.org/entity/Q160845"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q160845",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q15976717"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q524648",
+        "predicate": "http://www.wikidata.org/prop/direct/P805",
+        "object": "http://www.wikidata.org/entity/Q190375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190375",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q88372589"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q524648",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q524648",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4056508-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q524648",
+      "predicate": "http://www.wikidata.org/prop/direct/P227",
+      "object": "4056508-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q524648",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1149",
+      "object": "http://id.loc.gov/authorities/classification/P142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q524648",
+      "predicate": "http://www.wikidata.org/prop/direct/P1343",
+      "object": "http://www.wikidata.org/entity/Q124156602"
+    }
+  ]
+}

@@ -5,54 +5,67 @@ import requests
 from pathlib import Path
 from rich.console import Console
 from graphrag_benchmark.infrastructure.dataset_loader import DatasetLoader
+import re
 
 def get_wikidata_labels(uris):
     q_ids = []
     uri_mapping = {}
     for uri in uris:
         q_id = uri.split('/')[-1]
-        if q_id:
+        if q_id and re.match(r"^[PQ]\d+$", q_id):
             q_ids.append(q_id)
             uri_mapping[q_id] = uri
             
     if not q_ids: return {}
     
-    url = "https://www.wikidata.org/w/api.php"
-    params = {
-        "action": "wbgetentities",
-        "ids": "|".join(q_ids[:50]),
-        "languages": "en",
-        "props": "labels",
-        "format": "json"
-    }
-    headers = {
-        "User-Agent": "GraphRAG-Benchmark/1.0 (https://github.com/MinhPV/GraphRAG-Benchmark)"
-    }
-    try:
-        resp = requests.get(url, params=params, headers=headers).json()
-        labels = {}
-        for q_id, info in resp.get("entities", {}).items():
-            if "labels" in info and "en" in info["labels"]:
-                labels[uri_mapping[q_id]] = info["labels"]["en"]["value"]
-            else:
-                labels[uri_mapping[q_id]] = q_id
-        return labels
-    except Exception:
-        return {}
+    labels = {}
+    # Lấy nhãn cho từng lô 50 ID để tránh lỗi URL quá dài
+    for i in range(0, len(q_ids), 50):
+        batch = q_ids[i:i+50]
+        url = "https://www.wikidata.org/w/api.php"
+        params = {
+            "action": "wbgetentities",
+            "ids": "|".join(batch),
+            "languages": "en",
+            "props": "labels",
+            "format": "json"
+        }
+        headers = {
+            "User-Agent": "GraphRAG-Benchmark/1.0 (https://github.com/MinhPV/GraphRAG-Benchmark)"
+        }
+        try:
+            resp = requests.get(url, params=params, headers=headers).json()
+            for q_id, info in resp.get("entities", {}).items():
+                if "labels" in info and "en" in info["labels"]:
+                    labels[uri_mapping[q_id]] = info["labels"]["en"]["value"]
+                else:
+                    labels[uri_mapping[q_id]] = q_id
+        except Exception:
+            pass
+            
+    return labels
 
-def clean_text(uri):
-    """Trích xuất ID hoặc dọn dẹp nhãn để không làm vỡ syntax của Mermaid"""
+def clean_id(uri):
+    """Lấy ID thuần túy làm định danh node cho Mermaid"""
     if not uri: return "UNKNOWN"
-    # Lấy đoạn định danh cuối cùng
     text = uri.split('/')[-1]
-    # Xóa các ký tự có thể làm lùi cú pháp Mermaid
     for char in ['"', "'", "[", "]", "(", ")", "{", "}"]:
         text = text.replace(char, "")
     return text
 
-def generate_mermaid_diagram(graph_data, answers):
+def clean_label(text):
+    """Dọn dẹp text hiển thị để không làm vỡ syntax của Mermaid"""
+    if not text: return "UNKNOWN"
+    for char in ['"', "'", "[", "]", "(", ")", "{", "}"]:
+        text = text.replace(char, " ")
+    return text
+
+def generate_mermaid_diagram(graph_data, answers, labels_dict):
     """Sinh chuỗi mã nguồn Mermaid.js từ danh sách các cạnh (triples)"""
-    lines = ["graph TD"]
+    lines = [
+        "%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '18px', 'fontFamily': 'Arial'}, 'flowchart': {'nodeSpacing': 70, 'rankSpacing': 100}}}%%",
+        "graph LR"
+    ]
     triples = graph_data.get("triples", [])
     
     nodes_in_graph = set()
@@ -62,21 +75,28 @@ def generate_mermaid_diagram(graph_data, answers):
         p_uri = t.get("predicate", "")
         o_uri = t.get("object", "")
         
-        s = clean_text(s_uri)
-        p = clean_text(p_uri)
-        o = clean_text(o_uri)
+        s_id = clean_id(s_uri)
+        p_id = clean_id(p_uri)
+        o_id = clean_id(o_uri)
         
-        if s and o:
+        s_label = clean_label(labels_dict.get(s_uri, s_id))
+        p_label = clean_label(labels_dict.get(p_uri, p_id))
+        o_label = clean_label(labels_dict.get(o_uri, o_id))
+        
+        if s_id and o_id:
             # Format của mermaid: Node1["Hiển thị_1"] -- "Cạnh" --> Node2["Hiển thị_2"]
-            lines.append(f'    {s}["{s}"] -- "{p}" --> {o}["{o}"]')
-            nodes_in_graph.add(s)
-            nodes_in_graph.add(o)
+            lines.append(f'    {s_id}["{s_label}"] -- "{p_label}" --> {o_id}["{o_label}"]')
+            nodes_in_graph.add(s_id)
+            nodes_in_graph.add(o_id)
             
     # Tô màu (Highlight) riêng cho các Entity là Đáp án bằng màu Xanh lá
     for ans in answers:
-        a_id = clean_text(ans)
-        if a_id in nodes_in_graph:
-            lines.append(f'    style {a_id} fill:#9f9,stroke:#333,stroke-width:4px')
+        a_id = clean_id(ans)
+        if a_id not in nodes_in_graph:
+            a_label = clean_label(labels_dict.get(ans, a_id))
+            lines.append(f'    {a_id}["{a_label}"]')
+        
+        lines.append(f'    style {a_id} fill:#9f9,stroke:#333,stroke-width:4px')
             
     return "\n".join(lines)
 
@@ -112,11 +132,23 @@ def main():
     orig_q = q_dict.get(q_id)
     question_text = orig_q.question if orig_q else "Unknown"
     
-    # Lấy trực tiếp từ field 'answers' của JSON
     answers = clean.get("answers", [])
     
-    answer_labels = get_wikidata_labels(answers)
-    answer_texts = [f"`{ans}` ({answer_labels.get(ans, ans.split('/')[-1])})" for ans in answers]
+    # 1. Thu thập TẤT CẢ các URI có trong các đồ thị để tra cứu label
+    all_uris = set(answers)
+    for variant, v_data in data.items():
+        if variant == "error": continue
+        for t in v_data.get("triples", []):
+            all_uris.add(t.get("subject", ""))
+            all_uris.add(t.get("predicate", ""))
+            all_uris.add(t.get("object", ""))
+    
+    all_uris = {u for u in all_uris if u} # Loại bỏ chuỗi rỗng
+    
+    console.print(f"Đang gọi Wikidata API để lấy {len(all_uris)} nhãn (labels)...")
+    labels_dict = get_wikidata_labels(list(all_uris))
+    
+    answer_texts = [f"`{ans}` ({labels_dict.get(ans, ans.split('/')[-1])})" for ans in answers]
     
     md_content = f"# Trực quan hóa Biểu đồ: `{q_id}`\n\n"
     md_content += f"**Câu hỏi:** {question_text}\n\n"
@@ -125,12 +157,12 @@ def main():
         md_content += f"- {at}\n"
     md_content += "\n---\n\n"
     
-    # Duyệt qua các biến thể (Clean, Broken, ...)
+    # 2. Duyệt qua các biến thể (Clean, Broken, ...)
     for variant, v_data in data.items():
         if variant == "error": continue
-        md_content += f"## 1. Bản thể `{variant.upper()}`\n\n"
+        md_content += f"## Bản thể `{variant.upper()}`\n\n"
         md_content += "```mermaid\n"
-        md_content += generate_mermaid_diagram(v_data, answers)
+        md_content += generate_mermaid_diagram(v_data, answers, labels_dict)
         md_content += "\n```\n\n"
         
     out_md_file = out_dir / f"{sample_file.stem}.md"

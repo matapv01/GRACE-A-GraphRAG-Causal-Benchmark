@@ -1,0 +1,70 @@
+{
+  "question_id": "4857",
+  "answers": [
+    "http://www.wikidata.org/entity/Q273593",
+    "http://www.wikidata.org/entity/Q337504",
+    "http://www.wikidata.org/entity/Q337480"
+  ],
+  "gold_path": {
+    "question_id": "4857",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q159409",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q159409-65C0D213-FD8D-4BC1-8183-ECAB55D4DA0E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q159409-65C0D213-FD8D-4BC1-8183-ECAB55D4DA0E",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q337504"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q159409",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/q159409-78A61F93-1834-47A8-9199-006B1EEE8A6A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q159409-78A61F93-1834-47A8-9199-006B1EEE8A6A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q273593"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q159409",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q159409-AB7E9F70-9527-4C26-85F3-30C5D3B16CBD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q159409-AB7E9F70-9527-4C26-85F3-30C5D3B16CBD",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q337480"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q159409",
+      "predicate": "http://www.wikidata.org/prop/direct/P3846",
+      "object": "87097968158257"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159409",
+      "predicate": "http://www.wikidata.org/prop/direct/P2741",
+      "object": "louise-bourgeois-2351"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159409",
+      "predicate": "http://www.wikidata.org/prop/direct/P271",
+      "object": "DA06027098"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159409",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL264331A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159409",
+      "predicate": "http://www.wikidata.org/prop/direct/P6488",
+      "object": "louise-bourgeois"
+    }
+  ]
+}

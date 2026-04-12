@@ -1,0 +1,53 @@
+{
+  "question_id": "25274",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11411"
+  ],
+  "gold_path": {
+    "question_id": "25274",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11411",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131436"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11411",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q23929009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11411",
+        "predicate": "rdfs:label",
+        "object": "backgammon"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11411",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "نرد"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11411",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tavla"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11411",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "puf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11411",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "vrchcáby"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11411",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Back Gammon"
+    }
+  ]
+}

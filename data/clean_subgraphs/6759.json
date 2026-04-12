@@ -1,0 +1,48 @@
+{
+  "question_id": "6759",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28841847"
+  ],
+  "gold_path": {
+    "question_id": "6759",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q155768",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q155768-B2FCA98E-2D9A-4219-A705-41BB559E2333"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q155768-B2FCA98E-2D9A-4219-A705-41BB559E2333",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q28841847"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q155768",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "joseph-lister"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q155768",
+      "predicate": "http://www.wikidata.org/prop/direct/P20",
+      "object": "http://www.wikidata.org/entity/Q2551894"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q155768",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q155768",
+      "predicate": "http://www.wikidata.org/prop/direct/P1006",
+      "object": "170154696"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q155768",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "리스터"
+    }
+  ]
+}

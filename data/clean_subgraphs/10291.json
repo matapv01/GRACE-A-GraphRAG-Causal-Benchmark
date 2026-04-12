@@ -1,0 +1,58 @@
+{
+  "question_id": "10291",
+  "answers": [
+    "http://www.wikidata.org/entity/Q741182"
+  ],
+  "gold_path": {
+    "question_id": "10291",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q334239",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q334239-E4997708-D2FC-44C4-BBF4-9C36EBD7FE87"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q334239-E4997708-D2FC-44C4-BBF4-9C36EBD7FE87",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582548"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q334239-E4997708-D2FC-44C4-BBF4-9C36EBD7FE87",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q741182"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q334239-E4997708-D2FC-44C4-BBF4-9C36EBD7FE87",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q1834355"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q334239",
+      "predicate": "http://www.wikidata.org/prop/P1207",
+      "object": "http://www.wikidata.org/entity/statement/Q334239-D4A9C397-97E1-4056-9222-E42715EAB205"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q334239",
+      "predicate": "http://www.wikidata.org/prop/direct/P1207",
+      "object": "n2018170178"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q334239",
+      "predicate": "http://www.wikidata.org/prop/P12749",
+      "object": "http://www.wikidata.org/entity/statement/Q334239-42D88546-7F3E-4A46-82F7-0F65054AD9FA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q334239",
+      "predicate": "http://www.wikidata.org/prop/P1412",
+      "object": "http://www.wikidata.org/entity/statement/Q334239-48A41CE1-2EB5-4065-BB21-AD894E340266"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q334239",
+      "predicate": "http://www.wikidata.org/prop/P119",
+      "object": "http://www.wikidata.org/entity/statement/Q334239-52D67F8A-78B2-495B-BED4-B6E0F7B82E7B"
+    }
+  ]
+}

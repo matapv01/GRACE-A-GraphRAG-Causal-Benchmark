@@ -1,0 +1,58 @@
+{
+  "question_id": "4687",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2567963"
+  ],
+  "gold_path": {
+    "question_id": "4687",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q317792",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q317792-616bdd43-4d30-a6fa-14b8-99962766489a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q317792-616bdd43-4d30-a6fa-14b8-99962766489a",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2567963"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q317792",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q317792-7365C04E-FE6D-4680-BEE1-2519A9FF1149"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q317792-7365C04E-FE6D-4680-BEE1-2519A9FF1149",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2567963"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q317792",
+      "predicate": "http://www.wikidata.org/prop/P119",
+      "object": "http://www.wikidata.org/entity/statement/Q317792-db7ce4b2-46a9-5f75-0e54-bbd80f61a1a9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q317792",
+      "predicate": "http://www.wikidata.org/prop/direct/P119",
+      "object": "http://www.wikidata.org/entity/Q281859"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q317792",
+      "predicate": "http://www.wikidata.org/prop/P10033",
+      "object": "http://www.wikidata.org/entity/statement/Q317792-AD7DF836-E241-4685-8B7E-F8A4667B93E5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q317792",
+      "predicate": "http://www.wikidata.org/prop/P166",
+      "object": "http://www.wikidata.org/entity/statement/Q317792-205500b0-4bee-b36c-262f-b5f22c6e7d4e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q317792",
+      "predicate": "http://www.wikidata.org/prop/P166",
+      "object": "http://www.wikidata.org/entity/statement/Q317792-27B6F75E-0A07-4C6A-A07F-32259C03DCB8"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "question_id": "20570",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1790346",
+    "http://www.wikidata.org/entity/Q1065539"
+  ],
+  "gold_path": {
+    "question_id": "20570",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44294",
+        "predicate": "http://www.wikidata.org/prop/direct/P199",
+        "object": "http://www.wikidata.org/entity/Q1065539"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1065539",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q44294",
+        "predicate": "http://www.wikidata.org/prop/direct/P199",
+        "object": "http://www.wikidata.org/entity/Q1790346"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1790346",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44294",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ford Motor Company"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44294",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ford"
+    }
+  ]
+}

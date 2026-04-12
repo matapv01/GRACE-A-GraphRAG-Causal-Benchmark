@@ -1,0 +1,82 @@
+{
+  "question_id": "17611",
+  "answers": [
+    "Paraguái Tavakuairetã",
+    "República del Paraguay",
+    "República Oriental del Uruguay",
+    "Império do Brasil",
+    "República Argentina"
+  ],
+  "gold_path": {
+    "question_id": "17611",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q58947",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q77"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q77",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "República Oriental del Uruguay"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q58947",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q414",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "República Argentina"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q58947",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q733"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q733",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "República del Paraguay"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q733",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Paraguái Tavakuairetã"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q58947",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q217230"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q217230",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Império do Brasil"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q58947",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tríplice Aliança"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58947",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Guerra Grande"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58947",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "الحرب الباراجوانية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58947",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "حرب التحالف الثلاثي"
+    }
+  ]
+}

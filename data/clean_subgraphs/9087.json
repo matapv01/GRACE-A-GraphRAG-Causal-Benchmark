@@ -1,0 +1,48 @@
+{
+  "question_id": "9087",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18438"
+  ],
+  "gold_path": {
+    "question_id": "9087",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q223139",
+        "predicate": "http://www.wikidata.org/prop/P840",
+        "object": "http://www.wikidata.org/entity/statement/Q223139-1a2e5cc1-4524-353d-1549-d91a8d2f1fb7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q223139-1a2e5cc1-4524-353d-1549-d91a8d2f1fb7",
+        "predicate": "ps:P840",
+        "object": "http://www.wikidata.org/entity/Q18438"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q223139-1a2e5cc1-4524-353d-1549-d91a8d2f1fb7",
+        "predicate": "pq:P915",
+        "object": "http://www.wikidata.org/entity/Q99"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q223139",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Intriga internacional"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223139",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "الشمال الغربي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223139",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "North by Northwest"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223139",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Maisfeldszene"
+    }
+  ]
+}

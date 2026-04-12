@@ -1,0 +1,48 @@
+{
+  "question_id": "21841",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1048192"
+  ],
+  "gold_path": {
+    "question_id": "21841",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3606816",
+        "predicate": "http://www.wikidata.org/prop/direct/P102",
+        "object": "http://www.wikidata.org/entity/Q1048192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1048192",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7278"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3606816",
+      "predicate": "http://www.wikidata.org/prop/P6634",
+      "object": "http://www.wikidata.org/entity/statement/Q3606816-23102EFD-B5CC-4B06-80E8-192D6ACD4A13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3606816",
+      "predicate": "http://www.wikidata.org/prop/direct/P6634",
+      "object": "jacindaardern"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3606816",
+      "predicate": "http://www.wikidata.org/prop/P3618",
+      "object": "http://www.wikidata.org/entity/statement/Q3606816-2B291E47-76E9-4784-BD12-69D1E0D44456"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3606816",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q3606816-29024CBE-3B0A-4F74-BC10-51A61CA3290C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3606816",
+      "predicate": "http://www.wikidata.org/prop/P11194",
+      "object": "http://www.wikidata.org/entity/statement/Q3606816-77BC146F-AEEE-46B1-AB29-40DF03239C2B"
+    }
+  ]
+}

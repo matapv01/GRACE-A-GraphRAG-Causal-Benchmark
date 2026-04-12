@@ -1,0 +1,43 @@
+{
+  "question_id": "12878",
+  "answers": [
+    "http://www.wikidata.org/entity/Q173212"
+  ],
+  "gold_path": {
+    "question_id": "12878",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q272683",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q173212"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173212",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q2632606"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q272683",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0cvbt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272683",
+      "predicate": "http://www.wikidata.org/prop/direct/P12946",
+      "object": "instruction+set+architecture"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272683",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "18"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272683",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/202491316"
+    }
+  ]
+}

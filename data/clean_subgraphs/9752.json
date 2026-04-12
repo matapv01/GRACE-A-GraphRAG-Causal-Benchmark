@@ -1,0 +1,54 @@
+{
+  "question_id": "9752",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1067760",
+    "http://www.wikidata.org/entity/Q501546"
+  ],
+  "gold_path": {
+    "question_id": "9752",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q152057",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q501546"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q152057",
+        "predicate": "http://www.wikidata.org/prop/direct/P488",
+        "object": "http://www.wikidata.org/entity/Q718292"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q152057",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1067760"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q152057",
+      "predicate": "http://www.wikidata.org/prop/direct/P2427",
+      "object": "grid.1236.6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152057",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "no2002055097"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152057",
+      "predicate": "http://www.wikidata.org/prop/direct/P2403",
+      "object": "288120000000"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152057",
+      "predicate": "http://www.wikidata.org/prop/direct/P2924",
+      "object": "1821614"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152057",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Stuckey%27s%20in%20Saline%20County.jpg"
+    }
+  ]
+}

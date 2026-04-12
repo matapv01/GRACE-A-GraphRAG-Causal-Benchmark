@@ -1,0 +1,43 @@
+{
+  "question_id": "20712",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13409231"
+  ],
+  "gold_path": {
+    "question_id": "20712",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13409231",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q216293"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13409231",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q210167"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409231",
+      "predicate": "http://schema.org/version",
+      "object": "2471338099"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409231",
+      "predicate": "http://www.wikidata.org/prop/direct/P7570",
+      "object": "2394"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409231",
+      "predicate": "http://www.wikidata.org/prop/direct/P8027",
+      "object": "atari"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409231",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Atari"
+    }
+  ]
+}

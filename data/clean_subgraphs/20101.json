@@ -1,0 +1,59 @@
+{
+  "question_id": "20101",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4171386",
+    "http://www.wikidata.org/entity/Q203586"
+  ],
+  "gold_path": {
+    "question_id": "20101",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q203586",
+        "predicate": "http://www.wikidata.org/prop/direct/P1318",
+        "object": "http://www.wikidata.org/entity/Q117346"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q203586",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q65943"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4171386",
+        "predicate": "http://www.wikidata.org/prop/direct/P1318",
+        "object": "http://www.wikidata.org/entity/Q117346"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4171386",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q65943"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q203586",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/Q203586-e4a80185-496b-505f-df23-a56e4d688d0b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203586",
+      "predicate": "http://www.wikidata.org/prop/direct/P227",
+      "object": "4517256-0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203586",
+      "predicate": "http://www.wikidata.org/prop/P349",
+      "object": "http://www.wikidata.org/entity/statement/Q203586-bd8a7d08-445e-f317-010d-ffe9af45a2ac"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203586",
+      "predicate": "http://www.wikidata.org/prop/P9775",
+      "object": "http://www.wikidata.org/entity/statement/Q203586-06e6b4e8-4d1d-4083-0d8d-f978122acf0d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203586",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q203586-57cf37a0-cc08-4205-83c1-d2b723433421"
+    }
+  ]
+}
