@@ -1,0 +1,33 @@
+{
+  "question_id": "30182",
+  "answers": [
+    "http://www.wikidata.org/entity/Q239"
+  ],
+  "gold_path": {
+    "question_id": "30182",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q239",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q493522"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Europa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Европа"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "19829",
+  "answers": [
+    "http://www.wikidata.org/entity/Q713414"
+  ],
+  "gold_path": {
+    "question_id": "19829",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18097",
+        "predicate": "http://www.wikidata.org/prop/direct/P2184",
+        "object": "http://www.wikidata.org/entity/Q713414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q713414",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17544377"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18097",
+      "predicate": "http://www.wikidata.org/prop/direct/P6058",
+      "object": "autre-region/Corée/114666"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18097",
+      "predicate": "http://www.wikidata.org/prop/direct/P5250",
+      "object": "1432"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18097",
+      "predicate": "http://www.wikidata.org/prop/direct/P5573",
+      "object": "12196"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18097",
+      "predicate": "http://www.wikidata.org/prop/direct/P206",
+      "object": "http://www.wikidata.org/entity/Q27092"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18097",
+      "predicate": "http://www.wikidata.org/prop/direct/P206",
+      "object": "http://www.wikidata.org/entity/Q37960"
+    }
+  ]
+}

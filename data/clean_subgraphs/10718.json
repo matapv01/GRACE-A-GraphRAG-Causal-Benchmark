@@ -1,0 +1,58 @@
+{
+  "question_id": "10718",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16597"
+  ],
+  "gold_path": {
+    "question_id": "10718",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17427",
+        "predicate": "http://www.wikidata.org/prop/P488",
+        "object": "http://www.wikidata.org/entity/statement/Q17427-bc52fa0a-40af-00da-c7c3-fba7c64aef5f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q17427-bc52fa0a-40af-00da-c7c3-fba7c64aef5f",
+        "predicate": "ps:P488",
+        "object": "http://www.wikidata.org/entity/Q15029"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q17427-bc52fa0a-40af-00da-c7c3-fba7c64aef5f",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q16597"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q17427-bc52fa0a-40af-00da-c7c3-fba7c64aef5f",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q15031"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17427",
+      "predicate": "http://www.wikidata.org/prop/P85",
+      "object": "http://www.wikidata.org/entity/statement/Q17427-86439e85-4ba4-5e04-4fef-56de9f7a65c0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17427",
+      "predicate": "http://www.wikidata.org/prop/P856",
+      "object": "http://www.wikidata.org/entity/statement/Q17427-cc02f26c-47e8-70f3-016d-343797dca905"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17427",
+      "predicate": "http://www.wikidata.org/prop/direct/P5909",
+      "object": "9811106105103406"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17427",
+      "predicate": "http://www.wikidata.org/prop/P571",
+      "object": "http://www.wikidata.org/entity/statement/q17427-282a2a3a-4330-8e25-e8f6-228e1a29e71c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17427",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://12371.cn"
+    }
+  ]
+}

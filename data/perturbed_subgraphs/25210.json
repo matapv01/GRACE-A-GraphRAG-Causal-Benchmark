@@ -1,0 +1,281 @@
+{
+  "clean": {
+    "question_id": "25210",
+    "answers": [
+      "http://www.wikidata.org/entity/Q4539602",
+      "http://www.wikidata.org/entity/Q4342031"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09f0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "rdfs:label",
+        "object": "Yatra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d2a\u0d26\u0d2f\u0d3e\u0d24\u0d4d\u0d30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09b0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "padaj\u00e1tra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "rdfs:label",
+        "object": "Padayatra"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "25210",
+    "answers": [
+      "http://www.wikidata.org/entity/Q4539602",
+      "http://www.wikidata.org/entity/Q4342031"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "25210",
+    "answers": [
+      "http://www.wikidata.org/entity/Q4539602",
+      "http://www.wikidata.org/entity/Q4342031"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09f0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "rdfs:label",
+        "object": "Yatra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d2a\u0d26\u0d2f\u0d3e\u0d24\u0d4d\u0d30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09b0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "padaj\u00e1tra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "rdfs:label",
+        "object": "Padayatra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q583432"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "25210",
+    "answers": [
+      "http://www.wikidata.org/entity/Q4539602",
+      "http://www.wikidata.org/entity/Q4342031"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09f0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "rdfs:label",
+        "object": "Yatra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d2a\u0d26\u0d2f\u0d3e\u0d24\u0d4d\u0d30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09b0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "padaj\u00e1tra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4539602",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "rdfs:label",
+        "object": "Padayatra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4342031",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "25210",
+    "answers": [
+      "http://www.wikidata.org/entity/Q4539602",
+      "http://www.wikidata.org/entity/Q4342031"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09f0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "rdfs:label",
+        "object": "Yatra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d2a\u0d26\u0d2f\u0d3e\u0d24\u0d4d\u0d30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09aa\u09a6\u09af\u09be\u09a4\u09cd\u09b0\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q9089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "padaj\u00e1tra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23847174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1483540",
+        "predicate": "rdfs:label",
+        "object": "Padayatra"
+      }
+    ]
+  }
+}

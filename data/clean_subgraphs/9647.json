@@ -1,0 +1,48 @@
+{
+  "question_id": "9647",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "9647",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13462978",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13462978",
+        "predicate": "http://www.wikidata.org/prop/direct/P140",
+        "object": "http://www.wikidata.org/entity/Q42504"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13462978",
+      "predicate": "http://www.wikidata.org/prop/direct/P345",
+      "object": "nm2924670"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13462978",
+      "predicate": "http://www.wikidata.org/prop/direct/P2562",
+      "object": "Elizabeth Ann Smart-Gilmour"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13462978",
+      "predicate": "http://www.wikidata.org/prop/P345",
+      "object": "http://www.wikidata.org/entity/statement/Q13462978-75d25be0-405d-778e-4f94-fb4320cea8b0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13462978",
+      "predicate": "http://www.wikidata.org/prop/P2003",
+      "object": "http://www.wikidata.org/entity/statement/Q13462978-866db9a3-49f1-762f-0a4e-65facf43e590"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13462978",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "elizabeth_smart_official"
+    }
+  ]
+}

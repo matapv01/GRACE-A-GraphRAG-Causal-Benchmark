@@ -1,0 +1,197 @@
+{
+  "clean": {
+    "question_id": "22108",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1022"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d15\u0d3e\u0d7c\u0d21\u0d3f\u0d2b\u0d4d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0643\u0627\u0631\u062f\u064a\u0641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1022",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q42744322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-03-28T21:39:58Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q1022"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "22108",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1022"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d15\u0d3e\u0d7c\u0d21\u0d3f\u0d2b\u0d4d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0643\u0627\u0631\u062f\u064a\u0641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-03-28T21:39:58Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "22108",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1022"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d15\u0d3e\u0d7c\u0d21\u0d3f\u0d2b\u0d4d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0643\u0627\u0631\u062f\u064a\u0641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1022",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q42744322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-03-28T21:39:58Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q1022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q586"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "22108",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1022"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d15\u0d3e\u0d7c\u0d21\u0d3f\u0d2b\u0d4d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0643\u0627\u0631\u062f\u064a\u0641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1022",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q42744322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-03-28T21:39:58Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q1022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "22108",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1022"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0d15\u0d3e\u0d7c\u0d21\u0d3f\u0d2b\u0d4d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0643\u0627\u0631\u062f\u064a\u0641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-03-28T21:39:58Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q586",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q42744322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q586"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "question_id": "4587",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2280",
+    "http://www.wikidata.org/entity/Q182625",
+    "http://www.wikidata.org/entity/Q25797"
+  ],
+  "gold_path": {
+    "question_id": "4587",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q92161",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q92161-11657233-5938-4A92-A0EC-A5D80DBF3EDD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q92161-11657233-5938-4A92-A0EC-A5D80DBF3EDD",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q2280"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q92161",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q92161-B05544CD-E023-4DC4-B1AD-5E121467899A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q92161-B05544CD-E023-4DC4-B1AD-5E121467899A",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q25797"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q92161",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q92161-F07641A0-F29A-4DC0-9435-B15949A69F96"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q92161-F07641A0-F29A-4DC0-9435-B15949A69F96",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q182625"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q92161",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-17T20:11:49Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92161",
+      "predicate": "http://www.wikidata.org/prop/direct/P473",
+      "object": "431"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92161",
+      "predicate": "http://www.wikidata.org/prop/direct/P10565",
+      "object": "492248"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92161",
+      "predicate": "http://www.wikidata.org/prop/direct/P395",
+      "object": "吉A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92161",
+      "predicate": "http://www.wikidata.org/prop/direct/P13971",
+      "object": "220100"
+    }
+  ]
+}

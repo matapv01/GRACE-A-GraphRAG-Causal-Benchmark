@@ -1,0 +1,53 @@
+{
+  "question_id": "25085",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41127"
+  ],
+  "gold_path": {
+    "question_id": "25085",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41127",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q22989102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41127",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q34201"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41127",
+        "predicate": "rdfs:label",
+        "object": "Poseidon"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41127",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "69"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41127",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptun"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41127",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptune"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41127",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptuno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41127",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Poseidon"
+    }
+  ]
+}

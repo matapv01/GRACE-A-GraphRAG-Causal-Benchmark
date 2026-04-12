@@ -1,0 +1,69 @@
+{
+  "question_id": "14778",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13054561",
+    "http://www.wikidata.org/entity/Q909196"
+  ],
+  "gold_path": {
+    "question_id": "14778",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q369225",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q5849"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5849",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q909196"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5849",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q13054561"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q369225",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q270102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q270102",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q909196"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q270102",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q13054561"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q369225",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Rugby%20member%20unions%20and%20associates.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q369225",
+      "predicate": "http://www.wikidata.org/prop/direct/P463",
+      "object": "http://www.wikidata.org/entity/Q2420112"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q369225",
+      "predicate": "http://www.wikidata.org/prop/P2900",
+      "object": "http://www.wikidata.org/entity/statement/Q369225-d4b18c22-4d3e-dda4-fb49-d8a28e459850"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q369225",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987012798442805171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q369225",
+      "predicate": "http://www.wikidata.org/prop/P463",
+      "object": "http://www.wikidata.org/entity/statement/Q369225-1548C7AD-B14F-4D4C-8064-F524F47A35CF"
+    }
+  ]
+}

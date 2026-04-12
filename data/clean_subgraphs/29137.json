@@ -1,0 +1,43 @@
+{
+  "question_id": "29137",
+  "answers": [
+    "Antonio Vivaldi"
+  ],
+  "gold_path": {
+    "question_id": "29137",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1340",
+        "predicate": "http://www.wikidata.org/prop/direct/P2000",
+        "object": "Antonio Vivaldi"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1340",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Onbekend%20-%20Antonio%20Vivaldi%20-%20Bologna%20Museo%20Internationale%20e%20biblioteca%20della%20musica%20di%20bologna%2028-04-2012%209-21-050.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1340",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/q1340-f1befa9f-416f-69e0-b400-59e1a4d5e25a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1340",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "antonio-vivaldi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1340",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "vivaldi-reperes-chronologiques"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1340",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "1741-01-01T00:00:00Z"
+    }
+  ]
+}

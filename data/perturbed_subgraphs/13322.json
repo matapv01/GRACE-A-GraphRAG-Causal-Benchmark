@@ -1,0 +1,172 @@
+{
+  "clean": {
+    "question_id": "13322",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1635542"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Gynther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1635542",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q15994338"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Albert G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1635542"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "13322",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1635542"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Gynther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Albert G\u00fcnther"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "13322",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1635542"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Gynther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1635542",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q15994338"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Albert G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1635542"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q11346"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "13322",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1635542"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Gynther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1635542",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q15994338"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Albert G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1635542"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "13322",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1635542"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Gynther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Albert G\u00fcnther"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11346",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q15994338"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q11346"
+      }
+    ]
+  }
+}

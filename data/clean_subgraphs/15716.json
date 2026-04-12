@@ -1,0 +1,58 @@
+{
+  "question_id": "15716",
+  "answers": [
+    "http://www.wikidata.org/entity/Q188"
+  ],
+  "gold_path": {
+    "question_id": "15716",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q222419",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q60093"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60093",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q188"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q222419",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q93106"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q93106",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q188"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q222419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Z3電腦"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q222419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Z3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q222419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Z٣"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q222419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "زد٣"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q222419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "زد٣ (حاسوب)"
+    }
+  ]
+}

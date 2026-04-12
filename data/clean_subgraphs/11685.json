@@ -1,0 +1,53 @@
+{
+  "question_id": "11685",
+  "answers": [
+    "1959-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11685",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q364153",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q364153-12b89abe-42ca-a1fe-df51-d8c3adbe1009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q364153-12b89abe-42ca-a1fe-df51-d8c3adbe1009",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q2090463"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q364153-12b89abe-42ca-a1fe-df51-d8c3adbe1009",
+        "predicate": "pq:P582",
+        "object": "1959-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q364153",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q364153-832904E7-58F9-4B11-AF87-A84581D0B237"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q364153",
+      "predicate": "http://www.wikidata.org/prop/P8189",
+      "object": "http://www.wikidata.org/entity/statement/Q364153-DA21769A-50B7-4255-B504-5D485C74939B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q364153",
+      "predicate": "http://www.wikidata.org/prop/P3888",
+      "object": "http://www.wikidata.org/entity/statement/Q364153-F96D8800-0D99-4B81-AA0C-94B9FA835C77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q364153",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Gerard Reve"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q364153",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "جيرارد ريڤى"
+    }
+  ]
+}

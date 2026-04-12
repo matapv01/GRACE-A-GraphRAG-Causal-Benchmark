@@ -1,0 +1,53 @@
+{
+  "question_id": "6351",
+  "answers": [
+    "http://www.wikidata.org/entity/Q149086"
+  ],
+  "gold_path": {
+    "question_id": "6351",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q91",
+        "predicate": "http://www.wikidata.org/prop/P1196",
+        "object": "http://www.wikidata.org/entity/statement/Q91-97636400-4f6b-2a92-f45a-cf0914e6ca0d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q91-97636400-4f6b-2a92-f45a-cf0914e6ca0d",
+        "predicate": "ps:P1196",
+        "object": "http://www.wikidata.org/entity/Q149086"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q91-97636400-4f6b-2a92-f45a-cf0914e6ca0d",
+        "predicate": "pq:P157",
+        "object": "http://www.wikidata.org/entity/Q180914"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q91",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "027490238"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q91",
+      "predicate": "http://www.wikidata.org/prop/direct/P1315",
+      "object": "905294"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q91",
+      "predicate": "http://www.wikidata.org/prop/direct/P1375",
+      "object": "000044248"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q91",
+      "predicate": "http://www.wikidata.org/prop/direct/P1258",
+      "object": "celebrity/abraham_lincoln"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q91",
+      "predicate": "http://www.wikidata.org/prop/direct/P1711",
+      "object": "94185"
+    }
+  ]
+}

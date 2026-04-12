@@ -1,0 +1,48 @@
+{
+  "question_id": "11891",
+  "answers": [
+    "http://www.wikidata.org/entity/Q47434"
+  ],
+  "gold_path": {
+    "question_id": "11891",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193223",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q47434"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47434",
+        "predicate": "http://www.wikidata.org/prop/direct/P734",
+        "object": "http://www.wikidata.org/entity/Q16870415"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193223",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "29"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193223",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Proper%20Motion.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193223",
+      "predicate": "http://www.wikidata.org/prop/direct/P2579",
+      "object": "http://www.wikidata.org/entity/Q181505"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193223",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q193223-c0338dab-451f-9091-278c-6f3eca2f7995"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193223",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p11198"
+    }
+  ]
+}

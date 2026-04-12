@@ -1,0 +1,176 @@
+{
+  "clean": {
+    "question_id": "24488",
+    "answers": [
+      "http://www.wikidata.org/entity/Q7166482"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-435b377a-4bd4-a557-648a-742f177c3c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q134041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "rdfs:label",
+        "object": "Pepsi Blue"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-475b552b-4a68-e9c9-ed64-b4fbbbbff092"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Pepsi%20Blue%2020%20oz%20bottle.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-25AB6912-4B13-443E-8AF8-252B16F28BE9"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "24488",
+    "answers": [
+      "http://www.wikidata.org/entity/Q7166482"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "24488",
+    "answers": [
+      "http://www.wikidata.org/entity/Q7166482"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-435b377a-4bd4-a557-648a-742f177c3c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q134041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "rdfs:label",
+        "object": "Pepsi Blue"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-475b552b-4a68-e9c9-ed64-b4fbbbbff092"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Pepsi%20Blue%2020%20oz%20bottle.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-25AB6912-4B13-443E-8AF8-252B16F28BE9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q1099457"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "24488",
+    "answers": [
+      "http://www.wikidata.org/entity/Q7166482"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-435b377a-4bd4-a557-648a-742f177c3c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q134041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "rdfs:label",
+        "object": "Pepsi Blue"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-475b552b-4a68-e9c9-ed64-b4fbbbbff092"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Pepsi%20Blue%2020%20oz%20bottle.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-25AB6912-4B13-443E-8AF8-252B16F28BE9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7166482",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "24488",
+    "answers": [
+      "http://www.wikidata.org/entity/Q7166482"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1099457",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-435b377a-4bd4-a557-648a-742f177c3c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1099457",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q134041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1099457",
+        "predicate": "rdfs:label",
+        "object": "Pepsi Blue"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1099457",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-475b552b-4a68-e9c9-ed64-b4fbbbbff092"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1099457",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Pepsi%20Blue%2020%20oz%20bottle.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1099457",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q7166482-25AB6912-4B13-443E-8AF8-252B16F28BE9"
+      }
+    ]
+  }
+}

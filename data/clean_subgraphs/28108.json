@@ -1,0 +1,43 @@
+{
+  "question_id": "28108",
+  "answers": [
+    "http://www.wikidata.org/entity/Q24704731"
+  ],
+  "gold_path": {
+    "question_id": "28108",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q24704731",
+        "predicate": "http://www.wikidata.org/prop/direct/P2680",
+        "object": "http://www.wikidata.org/entity/Q57085"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q24704731",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nineteen eighty-four"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24704731",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24704731",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24704731",
+      "predicate": "http://schema.org/description",
+      "object": "uitgave"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24704731",
+      "predicate": "http://schema.org/description",
+      "object": "first edition"
+    }
+  ]
+}

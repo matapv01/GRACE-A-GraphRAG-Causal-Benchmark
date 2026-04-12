@@ -1,0 +1,54 @@
+{
+  "question_id": "14368",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6655",
+    "http://www.wikidata.org/entity/Q6723"
+  ],
+  "gold_path": {
+    "question_id": "14368",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7170",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q220",
+        "predicate": "http://www.wikidata.org/prop/direct/P421",
+        "object": "http://www.wikidata.org/entity/Q6655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q220",
+        "predicate": "http://www.wikidata.org/prop/direct/P421",
+        "object": "http://www.wikidata.org/entity/Q6723"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7170",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-06T21:14:19Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7170",
+      "predicate": "http://www.wikidata.org/prop/direct/P5859",
+      "object": "893"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7170",
+      "predicate": "http://www.wikidata.org/prop/direct/P3065",
+      "object": "A000143388"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7170",
+      "predicate": "http://www.wikidata.org/prop/direct/P1559",
+      "object": "C. Sallustius Qui. Crispus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7170",
+      "predicate": "http://www.wikidata.org/prop/direct/P4223",
+      "object": "gaio-crispo-sallustio"
+    }
+  ]
+}

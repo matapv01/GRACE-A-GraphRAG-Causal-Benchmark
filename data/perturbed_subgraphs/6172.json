@@ -1,0 +1,252 @@
+{
+  "clean": {
+    "question_id": "6172",
+    "answers": [
+      "http://www.wikidata.org/entity/Q106301"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P5882",
+        "object": "M00000097214"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Mira_Sorvino"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q106301"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q903494"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P8796",
+        "object": "10159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6886",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P2387",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-492c553c-4310-206f-e361-b2b31eb3cbcc"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "6172",
+    "answers": [
+      "http://www.wikidata.org/entity/Q106301"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P5882",
+        "object": "M00000097214"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Mira_Sorvino"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q903494"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P8796",
+        "object": "10159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6886",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P2387",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-492c553c-4310-206f-e361-b2b31eb3cbcc"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "6172",
+    "answers": [
+      "http://www.wikidata.org/entity/Q106301"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P5882",
+        "object": "M00000097214"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Mira_Sorvino"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q106301"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q903494"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P8796",
+        "object": "10159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6886",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P2387",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-492c553c-4310-206f-e361-b2b31eb3cbcc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q8610"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "6172",
+    "answers": [
+      "http://www.wikidata.org/entity/Q106301"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P5882",
+        "object": "M00000097214"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Mira_Sorvino"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q106301"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q903494"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P8796",
+        "object": "10159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6886",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P2387",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-492c553c-4310-206f-e361-b2b31eb3cbcc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "6172",
+    "answers": [
+      "http://www.wikidata.org/entity/Q106301"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P5882",
+        "object": "M00000097214"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Mira_Sorvino"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q903494"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P8796",
+        "object": "10159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/direct/P6886",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212026",
+        "predicate": "http://www.wikidata.org/prop/P2387",
+        "object": "http://www.wikidata.org/entity/statement/Q212026-492c553c-4310-206f-e361-b2b31eb3cbcc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212026-F9EC7F74-EF2F-42EB-A998-162D598A690C",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q8610"
+      }
+    ]
+  }
+}

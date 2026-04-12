@@ -1,0 +1,222 @@
+{
+  "clean": {
+    "question_id": "13854",
+    "answers": [
+      "http://www.wikidata.org/entity/Q133279"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q133279",
+        "predicate": "http://www.wikidata.org/prop/direct/P654",
+        "object": "http://www.wikidata.org/entity/Q16938807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+        "object": "http://babelnet.org/rdf/s00730835n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q133279"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q1978815-0FEBA8D1-3C56-4D39-877C-DEC35E9FB54A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+        "object": "http://data.bnf.fr/ark:/12148/cb14572820b#about"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P6405",
+        "object": "http://www.wikidata.org/entity/statement/Q1978815-598d5b8c-4f26-f261-ce7d-4d1ec510aeff"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "13854",
+    "answers": [
+      "http://www.wikidata.org/entity/Q133279"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+        "object": "http://babelnet.org/rdf/s00730835n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q1978815-0FEBA8D1-3C56-4D39-877C-DEC35E9FB54A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+        "object": "http://data.bnf.fr/ark:/12148/cb14572820b#about"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P6405",
+        "object": "http://www.wikidata.org/entity/statement/Q1978815-598d5b8c-4f26-f261-ce7d-4d1ec510aeff"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "13854",
+    "answers": [
+      "http://www.wikidata.org/entity/Q133279"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q133279",
+        "predicate": "http://www.wikidata.org/prop/direct/P654",
+        "object": "http://www.wikidata.org/entity/Q16938807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+        "object": "http://babelnet.org/rdf/s00730835n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q133279"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q1978815-0FEBA8D1-3C56-4D39-877C-DEC35E9FB54A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+        "object": "http://data.bnf.fr/ark:/12148/cb14572820b#about"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P6405",
+        "object": "http://www.wikidata.org/entity/statement/Q1978815-598d5b8c-4f26-f261-ce7d-4d1ec510aeff"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q174647"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "13854",
+    "answers": [
+      "http://www.wikidata.org/entity/Q133279"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q133279",
+        "predicate": "http://www.wikidata.org/prop/direct/P654",
+        "object": "http://www.wikidata.org/entity/Q16938807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+        "object": "http://babelnet.org/rdf/s00730835n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q133279"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q1978815-0FEBA8D1-3C56-4D39-877C-DEC35E9FB54A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+        "object": "http://data.bnf.fr/ark:/12148/cb14572820b#about"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P6405",
+        "object": "http://www.wikidata.org/entity/statement/Q1978815-598d5b8c-4f26-f261-ce7d-4d1ec510aeff"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "13854",
+    "answers": [
+      "http://www.wikidata.org/entity/Q133279"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+        "object": "http://babelnet.org/rdf/s00730835n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q1978815-0FEBA8D1-3C56-4D39-877C-DEC35E9FB54A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+        "object": "http://data.bnf.fr/ark:/12148/cb14572820b#about"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/P6405",
+        "object": "http://www.wikidata.org/entity/statement/Q1978815-598d5b8c-4f26-f261-ce7d-4d1ec510aeff"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q174647",
+        "predicate": "http://www.wikidata.org/prop/direct/P654",
+        "object": "http://www.wikidata.org/entity/Q16938807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1978815",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q174647"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "3708",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30544097",
+    "http://www.wikidata.org/entity/Q1939555"
+  ],
+  "gold_path": {
+    "question_id": "3708",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q567",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q567-87606606-45be-77d9-d068-621c6ec6da63"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q567-87606606-45be-77d9-d068-621c6ec6da63",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q30544097"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q567",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q567-e5ad4a01-4eec-daa7-a177-841368290d67"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q567-e5ad4a01-4eec-daa7-a177-841368290d67",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q1939555"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q567",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q567-0ae62197-49e4-06fe-445e-fb919c006224"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q567",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/q567-4B6CD1BC-80CB-4356-BD73-10B52A81364C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q567",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q567-82c164a5-4c3d-6db2-b720-4693755c8f9a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q567",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q567-d2f1c5fa-43df-0f2c-dd6f-b6c9efdcbe5e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q567",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q567-07a7dc5c-4620-e620-984a-cadce14e8738"
+    }
+  ]
+}

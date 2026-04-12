@@ -1,0 +1,252 @@
+{
+  "clean": {
+    "question_id": "6564",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1072"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P12582",
+        "object": "20110803095434325"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "ps:P119",
+        "object": "http://www.wikidata.org/entity/Q666935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "cs.historika:August_II._Polsk\u00fd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/P119",
+        "object": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P1802",
+        "object": "175a14ef-ea5d-4e6c-9d81-cc4c90658eab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q1072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6482",
+        "object": "Q53437"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "6564",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1072"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P12582",
+        "object": "20110803095434325"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "ps:P119",
+        "object": "http://www.wikidata.org/entity/Q666935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "cs.historika:August_II._Polsk\u00fd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/P119",
+        "object": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P1802",
+        "object": "175a14ef-ea5d-4e6c-9d81-cc4c90658eab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6482",
+        "object": "Q53437"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "6564",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1072"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P12582",
+        "object": "20110803095434325"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "ps:P119",
+        "object": "http://www.wikidata.org/entity/Q666935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "cs.historika:August_II._Polsk\u00fd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/P119",
+        "object": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P1802",
+        "object": "175a14ef-ea5d-4e6c-9d81-cc4c90658eab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q1072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6482",
+        "object": "Q53437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q1073"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "6564",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1072"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P12582",
+        "object": "20110803095434325"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "ps:P119",
+        "object": "http://www.wikidata.org/entity/Q666935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "cs.historika:August_II._Polsk\u00fd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/P119",
+        "object": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P1802",
+        "object": "175a14ef-ea5d-4e6c-9d81-cc4c90658eab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q1072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6482",
+        "object": "Q53437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "6564",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1072"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P12582",
+        "object": "20110803095434325"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "ps:P119",
+        "object": "http://www.wikidata.org/entity/Q666935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "cs.historika:August_II._Polsk\u00fd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/P119",
+        "object": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P1802",
+        "object": "175a14ef-ea5d-4e6c-9d81-cc4c90658eab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53437",
+        "predicate": "http://www.wikidata.org/prop/direct/P6482",
+        "object": "Q53437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q53437-3390A7DE-B779-4D9F-95A3-09E824F8DE89",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q1073"
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "clean": {
+    "question_id": "24358",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56301157",
+      "http://www.wikidata.org/entity/Q9009699",
+      "http://www.wikidata.org/entity/Q1370508",
+      "http://www.wikidata.org/entity/Q1320895",
+      "http://www.wikidata.org/entity/Q671008",
+      "http://www.wikidata.org/entity/Q7703131"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56301157",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P2924",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-6e2eb7f5-44d9-8ecc-fdb1-ac1b3408dd08"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-B254B5A2-66DC-489B-B39B-1EF4607C4EE5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1370508",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1320895",
+        "predicate": "rdfs:label",
+        "object": "Tuanaki"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-5F1B6915-21A9-4DEF-AC9A-0ADDB7B57584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "rdfs:label",
+        "object": "Thule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1320895",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7703131",
+        "predicate": "rdfs:label",
+        "object": "Terra Nova Islands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9009699",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9009699",
+        "predicate": "rdfs:label",
+        "object": "Torca Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56301157",
+        "predicate": "rdfs:label",
+        "object": "Transit Reef"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1370508",
+        "predicate": "rdfs:label",
+        "object": "Thompson Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P2924",
+        "object": "4219038"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7703131",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "24358",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56301157",
+      "http://www.wikidata.org/entity/Q9009699",
+      "http://www.wikidata.org/entity/Q1370508",
+      "http://www.wikidata.org/entity/Q1320895",
+      "http://www.wikidata.org/entity/Q671008",
+      "http://www.wikidata.org/entity/Q7703131"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "24358",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56301157",
+      "http://www.wikidata.org/entity/Q9009699",
+      "http://www.wikidata.org/entity/Q1370508",
+      "http://www.wikidata.org/entity/Q1320895",
+      "http://www.wikidata.org/entity/Q671008",
+      "http://www.wikidata.org/entity/Q7703131"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56301157",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P2924",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-6e2eb7f5-44d9-8ecc-fdb1-ac1b3408dd08"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-B254B5A2-66DC-489B-B39B-1EF4607C4EE5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1370508",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1320895",
+        "predicate": "rdfs:label",
+        "object": "Tuanaki"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-5F1B6915-21A9-4DEF-AC9A-0ADDB7B57584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "rdfs:label",
+        "object": "Thule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1320895",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7703131",
+        "predicate": "rdfs:label",
+        "object": "Terra Nova Islands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9009699",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9009699",
+        "predicate": "rdfs:label",
+        "object": "Torca Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56301157",
+        "predicate": "rdfs:label",
+        "object": "Transit Reef"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1370508",
+        "predicate": "rdfs:label",
+        "object": "Thompson Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P2924",
+        "object": "4219038"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7703131",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q121776793"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "24358",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56301157",
+      "http://www.wikidata.org/entity/Q9009699",
+      "http://www.wikidata.org/entity/Q1370508",
+      "http://www.wikidata.org/entity/Q1320895",
+      "http://www.wikidata.org/entity/Q671008",
+      "http://www.wikidata.org/entity/Q7703131"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56301157",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P2924",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-6e2eb7f5-44d9-8ecc-fdb1-ac1b3408dd08"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-B254B5A2-66DC-489B-B39B-1EF4607C4EE5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1370508",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1320895",
+        "predicate": "rdfs:label",
+        "object": "Tuanaki"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-5F1B6915-21A9-4DEF-AC9A-0ADDB7B57584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "rdfs:label",
+        "object": "Thule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1320895",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7703131",
+        "predicate": "rdfs:label",
+        "object": "Terra Nova Islands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9009699",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9009699",
+        "predicate": "rdfs:label",
+        "object": "Torca Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56301157",
+        "predicate": "rdfs:label",
+        "object": "Transit Reef"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1370508",
+        "predicate": "rdfs:label",
+        "object": "Thompson Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P2924",
+        "object": "4219038"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7703131",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q671008",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "24358",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56301157",
+      "http://www.wikidata.org/entity/Q9009699",
+      "http://www.wikidata.org/entity/Q1370508",
+      "http://www.wikidata.org/entity/Q1320895",
+      "http://www.wikidata.org/entity/Q671008",
+      "http://www.wikidata.org/entity/Q7703131"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/P2924",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-6e2eb7f5-44d9-8ecc-fdb1-ac1b3408dd08"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-B254B5A2-66DC-489B-B39B-1EF4607C4EE5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "rdfs:label",
+        "object": "Tuanaki"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q671008-5F1B6915-21A9-4DEF-AC9A-0ADDB7B57584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "rdfs:label",
+        "object": "Thule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "rdfs:label",
+        "object": "Terra Nova Islands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "rdfs:label",
+        "object": "Torca Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "rdfs:label",
+        "object": "Transit Reef"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "rdfs:label",
+        "object": "Thompson Island"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/direct/P2924",
+        "object": "4219038"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q121776793",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q129264"
+      }
+    ]
+  }
+}

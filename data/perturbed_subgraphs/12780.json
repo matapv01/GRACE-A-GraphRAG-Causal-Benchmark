@@ -1,0 +1,222 @@
+{
+  "clean": {
+    "question_id": "12780",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3224"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/046l0r"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q3224"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P885",
+        "object": "http://www.wikidata.org/entity/Q138100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3224",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q133642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paroo%20River%20Wanaaring-2001-07-01.jpg"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "12780",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3224"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/046l0r"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P885",
+        "object": "http://www.wikidata.org/entity/Q138100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paroo%20River%20Wanaaring-2001-07-01.jpg"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "12780",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3224"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/046l0r"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q3224"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P885",
+        "object": "http://www.wikidata.org/entity/Q138100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3224",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q133642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paroo%20River%20Wanaaring-2001-07-01.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q3206"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "12780",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3224"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/046l0r"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q3224"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P885",
+        "object": "http://www.wikidata.org/entity/Q138100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3224",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q133642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paroo%20River%20Wanaaring-2001-07-01.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "12780",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3224"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/046l0r"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P885",
+        "object": "http://www.wikidata.org/entity/Q138100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paroo%20River%20Wanaaring-2001-07-01.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1628056",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q3206"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3206",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q133642"
+      }
+    ]
+  }
+}

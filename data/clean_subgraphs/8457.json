@@ -1,0 +1,53 @@
+{
+  "question_id": "8457",
+  "answers": [
+    "http://www.wikidata.org/entity/Q199486"
+  ],
+  "gold_path": {
+    "question_id": "8457",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q170502",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q170502-75B4BE39-9955-4097-B570-644970CA7CEA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q170502-75B4BE39-9955-4097-B570-644970CA7CEA",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q19546"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q170502-75B4BE39-9955-4097-B570-644970CA7CEA",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q199486"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q170502",
+      "predicate": "http://www.wikidata.org/prop/direct/P5002",
+      "object": "166143"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170502",
+      "predicate": "http://www.wikidata.org/prop/P5002",
+      "object": "http://www.wikidata.org/entity/statement/Q170502-96C38EB1-A415-4025-A821-9E3854D6BD5C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170502",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q170502-A395A505-6859-48F8-AADE-861E1CC35636"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170502",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "9606871"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170502",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Honorius%20I%20-%20Apse%20mosaic%20-%20Sant%27Agnese%20fuori%20le%20mura%20-%20Rome%202016.jpg"
+    }
+  ]
+}

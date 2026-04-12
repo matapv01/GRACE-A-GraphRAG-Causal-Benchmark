@@ -1,0 +1,33 @@
+{
+  "question_id": "25107",
+  "answers": [
+    "http://www.wikidata.org/entity/Q47461682"
+  ],
+  "gold_path": {
+    "question_id": "25107",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47461682",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q13479982"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47461682",
+        "predicate": "http://www.wikidata.org/prop/direct/P414",
+        "object": "http://www.wikidata.org/entity/Q29647473"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47461682",
+        "predicate": "rdfs:label",
+        "object": "NEO"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47461682",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "NEO"
+    }
+  ]
+}

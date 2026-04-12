@@ -1,0 +1,277 @@
+{
+  "clean": {
+    "question_id": "5550",
+    "answers": [
+      "http://www.wikidata.org/entity/Q672037",
+      "http://www.wikidata.org/entity/Q1667541"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8172",
+        "object": "sw.948663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8179",
+        "object": "ncf12142478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Olga Nawoja Tokarczuk"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u041d\u0430\u0432\u043e\u044f \u0422\u043e\u043a\u0430\u0301\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1667541"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u0422\u043e\u043a\u0430\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q672037"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "5550",
+    "answers": [
+      "http://www.wikidata.org/entity/Q672037",
+      "http://www.wikidata.org/entity/Q1667541"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8172",
+        "object": "sw.948663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8179",
+        "object": "ncf12142478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Olga Nawoja Tokarczuk"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u041d\u0430\u0432\u043e\u044f \u0422\u043e\u043a\u0430\u0301\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u0422\u043e\u043a\u0430\u0440\u0447\u0443\u043a"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "5550",
+    "answers": [
+      "http://www.wikidata.org/entity/Q672037",
+      "http://www.wikidata.org/entity/Q1667541"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8172",
+        "object": "sw.948663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8179",
+        "object": "ncf12142478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Olga Nawoja Tokarczuk"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u041d\u0430\u0432\u043e\u044f \u0422\u043e\u043a\u0430\u0301\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1667541"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u0422\u043e\u043a\u0430\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q672037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q996"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "5550",
+    "answers": [
+      "http://www.wikidata.org/entity/Q672037",
+      "http://www.wikidata.org/entity/Q1667541"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8172",
+        "object": "sw.948663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8179",
+        "object": "ncf12142478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Olga Nawoja Tokarczuk"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u041d\u0430\u0432\u043e\u044f \u0422\u043e\u043a\u0430\u0301\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1667541"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u0422\u043e\u043a\u0430\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q672037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "5550",
+    "answers": [
+      "http://www.wikidata.org/entity/Q672037",
+      "http://www.wikidata.org/entity/Q1667541"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8172",
+        "object": "sw.948663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/direct/P8179",
+        "object": "ncf12142478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Olga Nawoja Tokarczuk"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u041d\u0430\u0432\u043e\u044f \u0422\u043e\u043a\u0430\u0301\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q254032",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u041e\u043b\u044c\u0433\u0430 \u0422\u043e\u043a\u0430\u0440\u0447\u0443\u043a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-802a68a1-4837-3371-ec77-8f446a047ee8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q996"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q254032-fc0b964b-4616-c28c-cc1d-1df523e00d22",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q996"
+      }
+    ]
+  }
+}

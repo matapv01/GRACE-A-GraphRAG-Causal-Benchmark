@@ -1,0 +1,48 @@
+{
+  "question_id": "11930",
+  "answers": [
+    "http://www.wikidata.org/entity/Q100"
+  ],
+  "gold_path": {
+    "question_id": "11930",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1077445",
+        "predicate": "http://www.wikidata.org/prop/direct/P840",
+        "object": "http://www.wikidata.org/entity/Q100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q49143"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1077445",
+      "predicate": "http://www.wikidata.org/prop/direct/P1149",
+      "object": "PS3573.A4255"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1077445",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q1077445-4D217608-AC5A-4CF2-AB61-02B9DD01B4C3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1077445",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/03k6kh"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1077445",
+      "predicate": "http://www.wikidata.org/prop/P5571",
+      "object": "http://www.wikidata.org/entity/statement/Q1077445-6F6EE0DE-ECA9-4BC9-A63C-683DAF08D084"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1077445",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Infinite Jest"
+    }
+  ]
+}

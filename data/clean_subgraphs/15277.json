@@ -1,0 +1,48 @@
+{
+  "question_id": "15277",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1111386"
+  ],
+  "gold_path": {
+    "question_id": "15277",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16845909",
+        "predicate": "http://www.wikidata.org/prop/direct/P115",
+        "object": "http://www.wikidata.org/entity/Q5303202"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5303202",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q1111386"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16845909",
+      "predicate": "http://schema.org/version",
+      "object": "2341926818"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16845909",
+      "predicate": "http://schema.org/description",
+      "object": "klub mell-droad"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16845909",
+      "predicate": "http://schema.org/description",
+      "object": "نادي كرة قدم في الولايات المتحدة"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16845909",
+      "predicate": "http://schema.org/description",
+      "object": "amerikanischer Fußballverein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16845909",
+      "predicate": "http://schema.org/description",
+      "object": "defunct American soccer club"
+    }
+  ]
+}

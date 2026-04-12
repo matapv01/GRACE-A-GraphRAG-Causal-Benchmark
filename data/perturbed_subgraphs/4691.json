@@ -1,0 +1,247 @@
+{
+  "clean": {
+    "question_id": "4691",
+    "answers": [
+      "Point(8.67481 46.632513)"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0646\u0647\u0631 \u0627\u0644\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0930\u093e\u0907\u0928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "le Rhin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "ps:P625",
+        "object": "Point(8.67481 46.632513)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q7376362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Rein"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "4691",
+    "answers": [
+      "Point(8.67481 46.632513)"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0646\u0647\u0631 \u0627\u0644\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0930\u093e\u0907\u0928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "le Rhin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q7376362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Rein"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "4691",
+    "answers": [
+      "Point(8.67481 46.632513)"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0646\u0647\u0631 \u0627\u0644\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0930\u093e\u0907\u0928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "le Rhin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "ps:P625",
+        "object": "Point(8.67481 46.632513)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q7376362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Rein"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "4691",
+    "answers": [
+      "Point(8.67481 46.632513)"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0646\u0647\u0631 \u0627\u0644\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0930\u093e\u0907\u0928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "le Rhin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "ps:P625",
+        "object": "Point(8.67481 46.632513)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q7376362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Rein"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "4691",
+    "answers": [
+      "Point(8.67481 46.632513)"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0646\u0647\u0631 \u0627\u0644\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0930\u093e\u0907\u0928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0631\u0627\u064a\u0646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "le Rhin"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "ps:P625",
+        "object": "Point(8.67481 46.632513)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q584-96286869-632E-409A-A20C-56024DB50D51",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q7376362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q584",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Rein"
+      }
+    ]
+  }
+}

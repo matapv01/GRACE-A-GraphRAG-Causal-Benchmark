@@ -1,0 +1,247 @@
+{
+  "clean": {
+    "question_id": "7385",
+    "answers": [
+      "Point(-85.4102 44.3467)"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "\u00c9tat des \u00c9tats-Unis"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q53329492"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "stan Stan\u00f3w Zjednoczonych"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "r\u012bce \u00fe\u0101ra Ge\u0101ndena R\u012bca American"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "state of the United States of America"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "staat van die Verenigde State van Amerika"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "ps:P5140",
+        "object": "Point(-85.4102 44.3467)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://www.wikidata.org/prop/P5140",
+        "object": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "7385",
+    "answers": [
+      "Point(-85.4102 44.3467)"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "\u00c9tat des \u00c9tats-Unis"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q53329492"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "stan Stan\u00f3w Zjednoczonych"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "r\u012bce \u00fe\u0101ra Ge\u0101ndena R\u012bca American"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "state of the United States of America"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "staat van die Verenigde State van Amerika"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://www.wikidata.org/prop/P5140",
+        "object": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "7385",
+    "answers": [
+      "Point(-85.4102 44.3467)"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "\u00c9tat des \u00c9tats-Unis"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q53329492"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "stan Stan\u00f3w Zjednoczonych"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "r\u012bce \u00fe\u0101ra Ge\u0101ndena R\u012bca American"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "state of the United States of America"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "staat van die Verenigde State van Amerika"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "ps:P5140",
+        "object": "Point(-85.4102 44.3467)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://www.wikidata.org/prop/P5140",
+        "object": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "7385",
+    "answers": [
+      "Point(-85.4102 44.3467)"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "\u00c9tat des \u00c9tats-Unis"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q53329492"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "stan Stan\u00f3w Zjednoczonych"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "r\u012bce \u00fe\u0101ra Ge\u0101ndena R\u012bca American"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "state of the United States of America"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "staat van die Verenigde State van Amerika"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "ps:P5140",
+        "object": "Point(-85.4102 44.3467)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://www.wikidata.org/prop/P5140",
+        "object": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "7385",
+    "answers": [
+      "Point(-85.4102 44.3467)"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "\u00c9tat des \u00c9tats-Unis"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q53329492"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "stan Stan\u00f3w Zjednoczonych"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "r\u012bce \u00fe\u0101ra Ge\u0101ndena R\u012bca American"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "state of the United States of America"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://schema.org/description",
+        "object": "staat van die Verenigde State van Amerika"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb",
+        "predicate": "ps:P5140",
+        "object": "Point(-85.4102 44.3467)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1166",
+        "predicate": "http://www.wikidata.org/prop/P5140",
+        "object": "http://www.wikidata.org/entity/statement/Q1166-55e03fdc-4a79-4bb9-7aef-ee81d008c9fb"
+      }
+    ]
+  }
+}

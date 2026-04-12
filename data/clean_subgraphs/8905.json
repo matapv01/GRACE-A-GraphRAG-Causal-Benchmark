@@ -1,0 +1,85 @@
+{
+  "question_id": "8905",
+  "answers": [
+    "http://www.wikidata.org/entity/Q473280",
+    "http://www.wikidata.org/entity/Q295228",
+    "http://www.wikidata.org/entity/Q442503"
+  ],
+  "gold_path": {
+    "question_id": "8905",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q125414",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/Q125414-602037c8-400c-f33b-586f-a7bde4e8cf20"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q125414-602037c8-400c-f33b-586f-a7bde4e8cf20",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q473280"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q125414-602037c8-400c-f33b-586f-a7bde4e8cf20",
+        "predicate": "pq:P25",
+        "object": "http://www.wikidata.org/entity/Q273616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125414",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/Q125414-7929a4c4-4262-9402-d2fd-df762f712352"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q125414-7929a4c4-4262-9402-d2fd-df762f712352",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q442503"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q125414-7929a4c4-4262-9402-d2fd-df762f712352",
+        "predicate": "pq:P25",
+        "object": "http://www.wikidata.org/entity/Q273616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125414",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/Q125414-f77bacb8-42da-c518-2b3d-d619e81132be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q125414-f77bacb8-42da-c518-2b3d-d619e81132be",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q295228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q125414-f77bacb8-42da-c518-2b3d-d619e81132be",
+        "predicate": "pq:P25",
+        "object": "http://www.wikidata.org/entity/Q273616"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q125414",
+      "predicate": "http://www.wikidata.org/prop/direct/P2359",
+      "object": "http://www.wikidata.org/entity/Q32979356"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125414",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "pompee-lat-cneius-pompeius-magnus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125414",
+      "predicate": "http://www.wikidata.org/prop/direct/P2365",
+      "object": "http://www.wikidata.org/entity/Q2939969"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125414",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "pompejus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125414",
+      "predicate": "http://www.wikidata.org/prop/direct/P2358",
+      "object": "http://www.wikidata.org/entity/Q5574029"
+    }
+  ]
+}

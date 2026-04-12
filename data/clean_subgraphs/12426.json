@@ -1,0 +1,43 @@
+{
+  "question_id": "12426",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11412"
+  ],
+  "gold_path": {
+    "question_id": "12426",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q182717",
+        "predicate": "http://www.wikidata.org/prop/direct/P517",
+        "object": "http://www.wikidata.org/entity/Q11412"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q182717",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/19927"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182717",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4142744-0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182717",
+      "predicate": "http://www.wikidata.org/prop/direct/P5064",
+      "object": "Antiparticle"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182717",
+      "predicate": "http://www.wikidata.org/prop/P5064",
+      "object": "http://www.wikidata.org/entity/statement/Q182717-b2245a97-485a-4fd4-7d02-5547b4f8ea04"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182717",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4732",
+      "object": "http://dx.doi.org/10.1351/goldbook.A00401"
+    }
+  ]
+}

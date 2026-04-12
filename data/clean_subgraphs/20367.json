@@ -1,0 +1,48 @@
+{
+  "question_id": "20367",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6498903"
+  ],
+  "gold_path": {
+    "question_id": "20367",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188784",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q6498903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6498903",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q636497"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188784",
+      "predicate": "http://www.wikidata.org/prop/P8014",
+      "object": "http://www.wikidata.org/entity/statement/Q188784-D47547CD-2E7F-43DE-ABB6-D4DF9D1F15C8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188784",
+      "predicate": "http://www.wikidata.org/prop/P8014",
+      "object": "http://www.wikidata.org/entity/statement/Q188784-E4330BA7-91BF-483F-9FBF-D37FBDDBF78D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188784",
+      "predicate": "http://www.wikidata.org/prop/direct/P8014",
+      "object": "superhelden"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188784",
+      "predicate": "http://www.wikidata.org/prop/direct/P8014",
+      "object": "posthumane-helden"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188784",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "супергероиня"
+    }
+  ]
+}

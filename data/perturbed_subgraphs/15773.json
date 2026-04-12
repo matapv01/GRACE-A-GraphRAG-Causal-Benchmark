@@ -1,0 +1,202 @@
+{
+  "clean": {
+    "question_id": "15773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q714935"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek 12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek Into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.wikidata.org/prop/direct/P364",
+        "object": "http://www.wikidata.org/entity/Q10134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10134",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q714935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek XII"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "15773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q714935"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek 12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek Into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.wikidata.org/prop/direct/P364",
+        "object": "http://www.wikidata.org/entity/Q10134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek XII"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "15773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q714935"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek 12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek Into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.wikidata.org/prop/direct/P364",
+        "object": "http://www.wikidata.org/entity/Q10134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10134",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q714935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek XII"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "15773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q714935"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek 12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek Into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.wikidata.org/prop/direct/P364",
+        "object": "http://www.wikidata.org/entity/Q10134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10134",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q714935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek XII"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "15773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q714935"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek 12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek Into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.wikidata.org/prop/direct/P364",
+        "object": "http://www.wikidata.org/entity/Q10134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek into Darkness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q171711",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Star Trek XII"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10134",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  }
+}

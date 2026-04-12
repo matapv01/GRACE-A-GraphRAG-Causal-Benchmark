@@ -1,0 +1,33 @@
+{
+  "question_id": "26691",
+  "answers": [
+    "e/james-ellroy"
+  ],
+  "gold_path": {
+    "question_id": "26691",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318487",
+        "predicate": "http://www.wikidata.org/prop/direct/P5408",
+        "object": "e/james-ellroy"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318487",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "108"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318487",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ellroy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318487",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lee Earle Ellroy"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_id": "11478",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49",
+    "http://www.wikidata.org/entity/Q17"
+  ],
+  "gold_path": {
+    "question_id": "11478",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173626",
+        "predicate": "http://www.wikidata.org/prop/P123",
+        "object": "http://www.wikidata.org/entity/statement/Q173626-69EBE9B8-50AB-4764-AEAB-700126D75A7A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173626-69EBE9B8-50AB-4764-AEAB-700126D75A7A",
+        "predicate": "ps:P123",
+        "object": "http://www.wikidata.org/entity/Q309996"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173626-69EBE9B8-50AB-4764-AEAB-700126D75A7A",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173626",
+        "predicate": "http://www.wikidata.org/prop/P123",
+        "object": "http://www.wikidata.org/entity/statement/Q173626-e5d111b4-4e14-5937-4da7-d6270b6dcb03"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173626-e5d111b4-4e14-5937-4da7-d6270b6dcb03",
+        "predicate": "ps:P123",
+        "object": "http://www.wikidata.org/entity/Q149947"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173626-e5d111b4-4e14-5937-4da7-d6270b6dcb03",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q49"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.wikidata.org/prop/P195",
+      "object": "http://www.wikidata.org/entity/statement/Q173626-CCBF1AD3-94CA-444C-A462-12721B206A6C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q173626-4ae42492-4b2e-f9f7-0264-1fa94758387b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.wikidata.org/prop/direct/P4859",
+      "object": "13661"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pac-Man%20gameplay%20%281x%20pixel-perfect%20recreation%29.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.wikidata.org/prop/direct/P435",
+      "object": "89bc772b-a157-4481-88f9-45e404602925"
+    }
+  ]
+}

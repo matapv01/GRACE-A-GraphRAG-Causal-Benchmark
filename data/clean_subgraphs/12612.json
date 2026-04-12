@@ -1,0 +1,43 @@
+{
+  "question_id": "12612",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2557178"
+  ],
+  "gold_path": {
+    "question_id": "12612",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q187899",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q2557178"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2557178",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q937297"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q187899",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Deep Thought"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q187899",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "深蓝"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q187899",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Deeper Blue"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q187899",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "IBM Deep Blue"
+    }
+  ]
+}

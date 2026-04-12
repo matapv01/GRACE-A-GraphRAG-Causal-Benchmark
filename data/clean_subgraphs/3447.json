@@ -1,0 +1,112 @@
+{
+  "question_id": "3447",
+  "answers": [
+    "http://www.wikidata.org/entity/Q833",
+    "http://www.wikidata.org/entity/Q945",
+    "http://www.wikidata.org/entity/Q869",
+    "http://www.wikidata.org/entity/Q1037",
+    "http://www.wikidata.org/entity/Q962"
+  ],
+  "gold_path": {
+    "question_id": "3447",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q869",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q869",
+        "predicate": "http://www.wikidata.org/prop/direct/P1198",
+        "object": "0.9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q869",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q656801"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q962",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q962",
+        "predicate": "http://www.wikidata.org/prop/direct/P1198",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q962",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q656801"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1037",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1037",
+        "predicate": "http://www.wikidata.org/prop/direct/P1198",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1037",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q656801"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q945",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q945",
+        "predicate": "http://www.wikidata.org/prop/direct/P1198",
+        "object": "1.9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q945",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q656801"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q833",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q833",
+        "predicate": "http://www.wikidata.org/prop/direct/P1198",
+        "object": "2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q833",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q656801"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Thailand"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Tailandia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Thailandia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "תאילנד"
+    }
+  ]
+}

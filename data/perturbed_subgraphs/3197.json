@@ -1,0 +1,476 @@
+{
+  "clean": {
+    "question_id": "3197",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3000062",
+      "http://www.wikidata.org/entity/Q1101443",
+      "http://www.wikidata.org/entity/Q2951606",
+      "http://www.wikidata.org/entity/Q3957473",
+      "http://www.wikidata.org/entity/Q646110"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "h\u00f6chste Frauen-Fu\u00dfballliga Griechenlands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/version",
+        "object": "2397226321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "\u0444\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u0430 \u043b\u0456\u0433\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "voetbalcompetitie in Griekenland"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2025-08-27T10:42:43Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "3197",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3000062",
+      "http://www.wikidata.org/entity/Q1101443",
+      "http://www.wikidata.org/entity/Q2951606",
+      "http://www.wikidata.org/entity/Q3957473",
+      "http://www.wikidata.org/entity/Q646110"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "3197",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3000062",
+      "http://www.wikidata.org/entity/Q1101443",
+      "http://www.wikidata.org/entity/Q2951606",
+      "http://www.wikidata.org/entity/Q3957473",
+      "http://www.wikidata.org/entity/Q646110"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "h\u00f6chste Frauen-Fu\u00dfballliga Griechenlands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/version",
+        "object": "2397226321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "\u0444\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u0430 \u043b\u0456\u0433\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "voetbalcompetitie in Griekenland"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2025-08-27T10:42:43Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q3298"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "3197",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3000062",
+      "http://www.wikidata.org/entity/Q1101443",
+      "http://www.wikidata.org/entity/Q2951606",
+      "http://www.wikidata.org/entity/Q3957473",
+      "http://www.wikidata.org/entity/Q646110"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "h\u00f6chste Frauen-Fu\u00dfballliga Griechenlands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/version",
+        "object": "2397226321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1101443",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "\u0444\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u0430 \u043b\u0456\u0433\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/description",
+        "object": "voetbalcompetitie in Griekenland"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646110",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2025-08-27T10:42:43Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3957473",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3000062",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2951606",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "3197",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3000062",
+      "http://www.wikidata.org/entity/Q1101443",
+      "http://www.wikidata.org/entity/Q2951606",
+      "http://www.wikidata.org/entity/Q3957473",
+      "http://www.wikidata.org/entity/Q646110"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://schema.org/description",
+        "object": "h\u00f6chste Frauen-Fu\u00dfballliga Griechenlands"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://schema.org/version",
+        "object": "2397226321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://schema.org/description",
+        "object": "\u0444\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u0430 \u043b\u0456\u0433\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2094",
+        "object": "http://www.wikidata.org/entity/Q606060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://schema.org/description",
+        "object": "voetbalcompetitie in Griekenland"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2025-08-27T10:42:43Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3298",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478437"
+      }
+    ]
+  }
+}

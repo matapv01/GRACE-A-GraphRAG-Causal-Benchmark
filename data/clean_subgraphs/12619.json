@@ -1,0 +1,38 @@
+{
+  "question_id": "12619",
+  "answers": [
+    "http://www.wikidata.org/entity/Q813018"
+  ],
+  "gold_path": {
+    "question_id": "12619",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23883085",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q813018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q813018",
+        "predicate": "http://www.wikidata.org/prop/direct/P740",
+        "object": "http://www.wikidata.org/entity/Q60"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23883085",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P1146"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23883085",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ميشيل وولف"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23883085",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Michelle Wolf"
+    }
+  ]
+}

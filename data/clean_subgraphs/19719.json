@@ -1,0 +1,48 @@
+{
+  "question_id": "19719",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3486420"
+  ],
+  "gold_path": {
+    "question_id": "19719",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188920",
+        "predicate": "http://www.wikidata.org/prop/direct/P2813",
+        "object": "http://www.wikidata.org/entity/Q3486420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3486420",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1002697"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188920",
+      "predicate": "http://www.wikidata.org/prop/direct/P414",
+      "object": "http://www.wikidata.org/entity/Q13677"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188920",
+      "predicate": "http://www.wikidata.org/prop/direct/P1830",
+      "object": "http://www.wikidata.org/entity/Q3486420"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188920",
+      "predicate": "http://www.wikidata.org/prop/direct/P8060",
+      "object": "197"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188920",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "72"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188920",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "245"
+    }
+  ]
+}

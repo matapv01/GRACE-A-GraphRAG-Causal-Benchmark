@@ -1,0 +1,61 @@
+{
+  "question_id": "3581",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8060892",
+    "http://www.wikidata.org/entity/Q428819",
+    "http://www.wikidata.org/entity/Q231395",
+    "http://www.wikidata.org/entity/Q2256321"
+  ],
+  "gold_path": {
+    "question_id": "3581",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4109",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q4109-8cdbb12d-49bd-590d-55b4-b79c4e0e408c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4109-8cdbb12d-49bd-590d-55b4-b79c4e0e408c",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q28007406"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4109-8cdbb12d-49bd-590d-55b4-b79c4e0e408c",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q231395"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4109-8cdbb12d-49bd-590d-55b4-b79c4e0e408c",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q428819"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4109-8cdbb12d-49bd-590d-55b4-b79c4e0e408c",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q2256321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4109-8cdbb12d-49bd-590d-55b4-b79c4e0e408c",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q8060892"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4109",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "克里斯·洛克"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4109",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rock"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4109",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Christopher Julius Rock III"
+    }
+  ]
+}

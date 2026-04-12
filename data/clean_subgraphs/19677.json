@@ -1,0 +1,48 @@
+{
+  "question_id": "19677",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10690"
+  ],
+  "gold_path": {
+    "question_id": "19677",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q10690"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10690",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q515"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthog%20-%20Barmouth%20Bridge%20-%2020070915150033.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q25-dc5f87c1-4e0e-14e1-147f-96b4d10002ba"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25",
+      "predicate": "http://www.wikidata.org/prop/direct/P35",
+      "object": "http://www.wikidata.org/entity/Q43274"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25",
+      "predicate": "http://www.wikidata.org/prop/direct/P38",
+      "object": "http://www.wikidata.org/entity/Q25224"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Wales.svg"
+    }
+  ]
+}

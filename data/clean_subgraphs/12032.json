@@ -1,0 +1,48 @@
+{
+  "question_id": "12032",
+  "answers": [
+    "http://www.wikidata.org/entity/Q255"
+  ],
+  "gold_path": {
+    "question_id": "12032",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q723790",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q255"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q255",
+        "predicate": "http://www.wikidata.org/prop/direct/P25",
+        "object": "http://www.wikidata.org/entity/Q14507972"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q723790",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n83162688"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q723790",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q723790-A24E8A9C-0321-4344-B5AD-87D07D9ECB5E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q723790",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n83162688"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q723790",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q723790-ac633cc9-4cec-05c9-2b6a-bc12ac07c9a7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q723790",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb14816875v#about"
+    }
+  ]
+}

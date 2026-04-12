@@ -1,0 +1,196 @@
+{
+  "clean": {
+    "question_id": "21411",
+    "answers": [
+      "http://www.wikidata.org/entity/Q237"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "vat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatikanen"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P1906",
+        "object": "http://www.wikidata.org/entity/Q19546"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatican"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vaticano"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Cit\u00e9 du Vatican"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "21411",
+    "answers": [
+      "http://www.wikidata.org/entity/Q237"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "21411",
+    "answers": [
+      "http://www.wikidata.org/entity/Q237"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "vat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatikanen"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P1906",
+        "object": "http://www.wikidata.org/entity/Q19546"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatican"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vaticano"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Cit\u00e9 du Vatican"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q26273"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "21411",
+    "answers": [
+      "http://www.wikidata.org/entity/Q237"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "vat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatikanen"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P1906",
+        "object": "http://www.wikidata.org/entity/Q19546"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatican"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vaticano"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Cit\u00e9 du Vatican"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "21411",
+    "answers": [
+      "http://www.wikidata.org/entity/Q237"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "vat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatikanen"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.wikidata.org/prop/direct/P1906",
+        "object": "http://www.wikidata.org/entity/Q19546"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vatican"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Vaticano"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Cit\u00e9 du Vatican"
+      }
+    ]
+  }
+}

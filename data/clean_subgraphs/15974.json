@@ -1,0 +1,48 @@
+{
+  "question_id": "15974",
+  "answers": [
+    "http://www.wikidata.org/entity/Q165309"
+  ],
+  "gold_path": {
+    "question_id": "15974",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28113351",
+        "predicate": "http://www.wikidata.org/prop/direct/P913",
+        "object": "http://www.wikidata.org/entity/Q53045737"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q53045737",
+        "predicate": "http://www.wikidata.org/prop/direct/P1535",
+        "object": "http://www.wikidata.org/entity/Q165309"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28113351",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "33"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28113351",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "20"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28113351",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ungleichheit"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28113351",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "desigualdad"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28113351",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "אי-שיוויון"
+    }
+  ]
+}

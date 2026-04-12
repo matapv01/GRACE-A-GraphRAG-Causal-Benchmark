@@ -1,0 +1,48 @@
+{
+  "question_id": "19943",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3565602"
+  ],
+  "gold_path": {
+    "question_id": "19943",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7414",
+        "predicate": "http://www.wikidata.org/prop/direct/P485",
+        "object": "http://www.wikidata.org/entity/Q3565602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3565602",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q166118"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7414",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T19:32:23Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7414",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/09b3v"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7414",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q7414-0D7565DE-D2B1-4D36-9E3E-1306A4E60674"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7414",
+      "predicate": "http://schema.org/version",
+      "object": "2478323359"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7414",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "141"
+    }
+  ]
+}

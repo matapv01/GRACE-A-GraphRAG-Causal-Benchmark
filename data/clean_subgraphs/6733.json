@@ -1,0 +1,49 @@
+{
+  "question_id": "6733",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7243509",
+    "http://www.wikidata.org/entity/Q1542172"
+  ],
+  "gold_path": {
+    "question_id": "6733",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43432",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q43432-3ed07843-4ba1-d268-de9f-be0beb19b37b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43432-3ed07843-4ba1-d268-de9f-be0beb19b37b",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1542172"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43432",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q43432-DEF29FB9-ADCC-4E38-9CF7-CD0F8195ACCD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43432-DEF29FB9-ADCC-4E38-9CF7-CD0F8195ACCD",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q7243509"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43432",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T02:23:21Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43432",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "賈斯汀·提姆布萊克"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43432",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "JT"
+    }
+  ]
+}

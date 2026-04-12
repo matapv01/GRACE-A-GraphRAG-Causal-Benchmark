@@ -1,0 +1,48 @@
+{
+  "question_id": "7703",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34581"
+  ],
+  "gold_path": {
+    "question_id": "7703",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q320",
+        "predicate": "http://www.wikidata.org/prop/P793",
+        "object": "http://www.wikidata.org/entity/statement/Q320-8a70a5bc-416d-e7eb-1368-73129d3b1070"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q320-8a70a5bc-416d-e7eb-1368-73129d3b1070",
+        "predicate": "ps:P793",
+        "object": "http://www.wikidata.org/entity/Q34581"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q320",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T11:08:37Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q320",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q320-6E923594-B913-41C1-B53D-02BF9917316E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q320",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/q320-1D7B7976-37A4-4767-B61E-BD87F40BE6AA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q320",
+      "predicate": "http://www.wikidata.org/prop/direct/P7902",
+      "object": "130818313"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q320",
+      "predicate": "http://www.wikidata.org/prop/direct/P7578",
+      "object": "michelle-bachelet"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "13322",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1635542"
+  ],
+  "gold_path": {
+    "question_id": "13322",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57514",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1635542"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1635542",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q15994338"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q57514",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Günther"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57514",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Gynther"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57514",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Albert Günther"
+    }
+  ]
+}

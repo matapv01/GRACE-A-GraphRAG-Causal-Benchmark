@@ -1,0 +1,53 @@
+{
+  "question_id": "7253",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2639498"
+  ],
+  "gold_path": {
+    "question_id": "7253",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q45936",
+        "predicate": "http://www.wikidata.org/prop/P1066",
+        "object": "http://www.wikidata.org/entity/statement/Q45936-de9cce95-4b47-4ff9-d11c-39c612514dfd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q45936-de9cce95-4b47-4ff9-d11c-39c612514dfd",
+        "predicate": "ps:P1066",
+        "object": "http://www.wikidata.org/entity/Q2639498"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q45936-de9cce95-4b47-4ff9-d11c-39c612514dfd",
+        "predicate": "pq:P1480",
+        "object": "http://www.wikidata.org/entity/Q18122778"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q45936",
+      "predicate": "http://www.wikidata.org/prop/P2799",
+      "object": "http://www.wikidata.org/entity/statement/Q45936-306DCFFE-6C42-4A61-AD0A-705E695789BC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45936",
+      "predicate": "http://www.wikidata.org/prop/P2734",
+      "object": "http://www.wikidata.org/entity/statement/Q45936-0E7DA91F-8A54-4EED-B613-7C49DB1EA538"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45936",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/q45936-7C6CAB77-D36C-471B-A2C1-B8CFE2A53AD5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45936",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q45936-15D3C620-E22F-4222-AEEE-A7299358EE3D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45936",
+      "predicate": "http://www.wikidata.org/prop/P3365",
+      "object": "http://www.wikidata.org/entity/statement/Q45936-C41333DF-EBFD-4DA6-98A9-BA97E31F9F1B"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_id": "11554",
+  "answers": [
+    "http://www.wikidata.org/entity/Q29051",
+    "http://www.wikidata.org/entity/Q23404"
+  ],
+  "gold_path": {
+    "question_id": "11554",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q272637",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q272637-69792550-75C9-4C23-8550-CC49107CFFBC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272637-69792550-75C9-4C23-8550-CC49107CFFBC",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q131252"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272637-69792550-75C9-4C23-8550-CC49107CFFBC",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q23404"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q272637",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q272637-B0F1A204-77E8-4D45-B830-C418FDBE8188"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272637-B0F1A204-77E8-4D45-B830-C418FDBE8188",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q131252"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272637-B0F1A204-77E8-4D45-B830-C418FDBE8188",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q29051"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q272637",
+      "predicate": "http://www.wikidata.org/prop/direct/P4619",
+      "object": "000190887"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272637",
+      "predicate": "http://www.wikidata.org/prop/P4619",
+      "object": "http://www.wikidata.org/entity/statement/Q272637-E3926F8B-7B8C-41A2-82A9-40B6346F64DE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272637",
+      "predicate": "http://www.wikidata.org/prop/direct/P12935",
+      "object": "5947"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272637",
+      "predicate": "http://www.wikidata.org/prop/direct/P4823",
+      "object": "1803919"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272637",
+      "predicate": "http://www.wikidata.org/prop/direct/P2639",
+      "object": "b584a822b30a41ac9e8b296c8b494e33"
+    }
+  ]
+}

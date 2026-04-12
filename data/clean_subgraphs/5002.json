@@ -1,0 +1,69 @@
+{
+  "question_id": "5002",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3110076",
+    "http://www.wikidata.org/entity/Q3110078"
+  ],
+  "gold_path": {
+    "question_id": "5002",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16872",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q16872-2af99f9b-49d7-582b-db2f-e0152810747a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q16872-2af99f9b-49d7-582b-db2f-e0152810747a",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q17500591"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q16872-2af99f9b-49d7-582b-db2f-e0152810747a",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q3110078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16872",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q16872-A201E947-87E4-49F5-BB3A-033622EA6DAD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q16872-A201E947-87E4-49F5-BB3A-033622EA6DAD",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q17500591"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q16872-A201E947-87E4-49F5-BB3A-033622EA6DAD",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q3110076"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16872",
+      "predicate": "http://www.wikidata.org/prop/P12098",
+      "object": "http://www.wikidata.org/entity/statement/Q16872-A2836D92-FAD5-4D08-9F24-37AAB2162F58"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16872",
+      "predicate": "http://www.wikidata.org/prop/P6886",
+      "object": "http://www.wikidata.org/entity/statement/Q16872-3a075b2f-4dec-fab0-f276-6e3683f8a578"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16872",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q16872-4880a1c2-2f54-4aca-b544-546a86ef92f5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16872",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q16872-6cfa4724-c591-45cb-8ecc-9f6f7ada14c9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16872",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q16872-ad2ad5bd-ea8f-43cf-9849-71c6a4a56761"
+    }
+  ]
+}

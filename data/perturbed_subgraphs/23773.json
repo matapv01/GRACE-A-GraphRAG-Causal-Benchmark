@@ -1,0 +1,176 @@
+{
+  "clean": {
+    "question_id": "23773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56255286"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "rdfs:label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://schema.org/version",
+        "object": "1732620481"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "23773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56255286"
+    ],
+    "perturbation_type": "broken",
+    "triples": []
+  },
+  "type_matching": {
+    "question_id": "23773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56255286"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "rdfs:label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://schema.org/version",
+        "object": "1732620481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q42378"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "23773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56255286"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "rdfs:label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://schema.org/version",
+        "object": "1732620481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "23773",
+    "answers": [
+      "http://www.wikidata.org/entity/Q56255286"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42378",
+        "predicate": "rdfs:label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42378",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42378",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42378",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42378",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42378",
+        "predicate": "http://schema.org/version",
+        "object": "1732620481"
+      }
+    ]
+  }
+}

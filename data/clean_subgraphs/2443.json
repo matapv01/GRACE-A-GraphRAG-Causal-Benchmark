@@ -1,0 +1,92 @@
+{
+  "question_id": "2443",
+  "answers": [
+    "http://www.wikidata.org/entity/Q115667",
+    "http://www.wikidata.org/entity/Q83261",
+    "http://www.wikidata.org/entity/Q128961",
+    "http://www.wikidata.org/entity/Q72437",
+    "http://www.wikidata.org/entity/Q128713"
+  ],
+  "gold_path": {
+    "question_id": "2443",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q72437",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1318941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q72437",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83261",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1318941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83261",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115667",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1318941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115667",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q128713",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1318941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q128713",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q128961",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1318941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q128961",
+        "predicate": "http://www.wikidata.org/prop/direct/P2257",
+        "object": "1"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q72437",
+      "predicate": "http://schema.org/description",
+      "object": "американская велогонка женская"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72437",
+      "predicate": "http://schema.org/description",
+      "object": "competició ciclista femenina"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72437",
+      "predicate": "http://schema.org/description",
+      "object": "amerikanskt etapplopp i landsvägscykling för damer"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72437",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-22T21:40:36Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72437",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Women's Challenge"
+    }
+  ]
+}

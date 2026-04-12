@@ -1,0 +1,59 @@
+{
+  "question_id": "4452",
+  "answers": [
+    "http://www.wikidata.org/entity/Q25227",
+    "http://www.wikidata.org/entity/Q29999"
+  ],
+  "gold_path": {
+    "question_id": "4452",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q26273",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q26273-3E824EF7-B2C1-4849-8D4B-033C8B5122EF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q26273-3E824EF7-B2C1-4849-8D4B-033C8B5122EF",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q25227"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26273",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q26273-e7774220-44ea-6766-6a09-c895ca7ced10"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q26273-e7774220-44ea-6766-6a09-c895ca7ced10",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q29999"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q26273",
+      "predicate": "http://www.wikidata.org/prop/direct/P1313",
+      "object": "http://www.wikidata.org/entity/Q2075145"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26273",
+      "predicate": "http://www.wikidata.org/prop/direct/P155",
+      "object": "http://www.wikidata.org/entity/Q25227"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26273",
+      "predicate": "http://www.wikidata.org/prop/direct/P1333",
+      "object": "Point(-63.04359 18.00517)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26273",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q29999"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26273",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-08T20:48:28Z"
+    }
+  ]
+}

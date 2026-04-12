@@ -1,0 +1,48 @@
+{
+  "question_id": "9594",
+  "answers": [
+    "http://www.wikidata.org/entity/Q252837"
+  ],
+  "gold_path": {
+    "question_id": "9594",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7325",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q252837"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7325",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q282220"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7325",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "102"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7325",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "195"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7325",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "евреи"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7325",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ebreji"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7325",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ebrei"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "question_id": "26196",
+  "answers": [
+    "20101"
+  ],
+  "gold_path": {
+    "question_id": "26196",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41753",
+        "predicate": "http://www.wikidata.org/prop/direct/P964",
+        "object": "20101"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41753",
+      "predicate": "http://schema.org/version",
+      "object": "2478398039"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41753",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Klagenfurt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41753",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Клагенфурт"
+    }
+  ]
+}

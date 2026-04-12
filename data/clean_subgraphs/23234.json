@@ -1,0 +1,59 @@
+{
+  "question_id": "23234",
+  "answers": [
+    "http://www.wikidata.org/entity/Q170749",
+    "http://www.wikidata.org/entity/Q112614446"
+  ],
+  "gold_path": {
+    "question_id": "23234",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q112614446",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1293220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q112614446",
+        "predicate": "rdfs:label",
+        "object": "Magnetic surface levels"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q170749",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1293220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q170749",
+        "predicate": "rdfs:label",
+        "object": "surface tension"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q112614446",
+      "predicate": "http://schema.org/description",
+      "object": "Surface quantum levels in a magnetic fiels"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112614446",
+      "predicate": "http://schema.org/description",
+      "object": "Поверхностные квантовые уровни в магнитном поле"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112614446",
+      "predicate": "http://schema.org/description",
+      "object": "Поверхнева квантові рівні в магнітному полі"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112614446",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112614446",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Magnetic surface levels"
+    }
+  ]
+}

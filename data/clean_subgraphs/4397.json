@@ -1,0 +1,48 @@
+{
+  "question_id": "4397",
+  "answers": [
+    "75080"
+  ],
+  "gold_path": {
+    "question_id": "4397",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q61",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q61-0FB120F5-16C2-43F5-990A-A61E49113EE8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q61-0FB120F5-16C2-43F5-990A-A61E49113EE8",
+        "predicate": "ps:P1082",
+        "object": "75080"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q61",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-06T19:57:38Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61",
+      "predicate": "http://schema.org/version",
+      "object": "2478939836"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61",
+      "predicate": "http://schema.org/description",
+      "object": "hlavní město USA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61",
+      "predicate": "http://schema.org/description",
+      "object": "inhlokodolobha yase-United States"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61",
+      "predicate": "http://schema.org/description",
+      "object": "Capital d'os Estaus Unius d'America"
+    }
+  ]
+}

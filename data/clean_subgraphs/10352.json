@@ -1,0 +1,68 @@
+{
+  "question_id": "10352",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3044"
+  ],
+  "gold_path": {
+    "question_id": "10352",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43974",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q43974-E83F7DAF-1C5F-42E9-B3CB-6512E0EF7D2D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43974-E83F7DAF-1C5F-42E9-B3CB-6512E0EF7D2D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43974-E83F7DAF-1C5F-42E9-B3CB-6512E0EF7D2D",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q3044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43974-E83F7DAF-1C5F-42E9-B3CB-6512E0EF7D2D",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q71231"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43974-E83F7DAF-1C5F-42E9-B3CB-6512E0EF7D2D",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q150735"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43974-E83F7DAF-1C5F-42E9-B3CB-6512E0EF7D2D",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q152463"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43974",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "95"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43974",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "174"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43974",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "85"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43974",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/11159082-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43974",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5063",
+      "object": "http://globalwordnet.org/ili/i96010"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "7376",
+  "answers": [
+    "1889-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7376",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4605",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q4605-7e729694-40ae-e5c5-0789-0e510fa84347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4605-7e729694-40ae-e5c5-0789-0e510fa84347",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q6120528"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4605-7e729694-40ae-e5c5-0789-0e510fa84347",
+        "predicate": "pq:P582",
+        "object": "1889-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p5810"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P3373",
+      "object": "http://www.wikidata.org/entity/Q60816241"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P3365",
+      "object": "sarah-bernhardt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P3348",
+      "object": "247960"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P1819",
+      "object": "I00353699"
+    }
+  ]
+}

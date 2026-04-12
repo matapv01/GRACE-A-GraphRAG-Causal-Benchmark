@@ -1,0 +1,48 @@
+{
+  "question_id": "14877",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11220"
+  ],
+  "gold_path": {
+    "question_id": "14877",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105941",
+        "predicate": "http://www.wikidata.org/prop/direct/P26",
+        "object": "http://www.wikidata.org/entity/Q5531333"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5531333",
+        "predicate": "http://www.wikidata.org/prop/direct/P241",
+        "object": "http://www.wikidata.org/entity/Q11220"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105941",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "109"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105941",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "49"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105941",
+      "predicate": "http://www.wikidata.org/prop/direct/P3204",
+      "object": "47474"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105941",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "1982-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105941",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "mirna-loy"
+    }
+  ]
+}

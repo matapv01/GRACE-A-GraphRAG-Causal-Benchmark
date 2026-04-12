@@ -1,0 +1,48 @@
+{
+  "question_id": "22323",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15777"
+  ],
+  "gold_path": {
+    "question_id": "22323",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q15777",
+        "predicate": "http://www.wikidata.org/prop/direct/P287",
+        "object": "http://www.wikidata.org/entity/Q45575"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15777",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q9143"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q15777",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15777",
+      "predicate": "http://www.wikidata.org/prop/direct/P306",
+      "object": "http://www.wikidata.org/entity/Q1406"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15777",
+      "predicate": "http://www.wikidata.org/prop/direct/P306",
+      "object": "http://www.wikidata.org/entity/Q14656"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15777",
+      "predicate": "http://www.wikidata.org/prop/direct/P306",
+      "object": "http://www.wikidata.org/entity/Q174666"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15777",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "C"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "27935",
+  "answers": [
+    "409"
+  ],
+  "gold_path": {
+    "question_id": "27935",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7327",
+        "predicate": "http://www.wikidata.org/prop/direct/P2943",
+        "object": "409"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q7327-AE48B627-190C-46E0-AD03-928C0C3090D6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Yuri%20Gagarin%20portrait%20%28colored%29.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "147"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Yuriy Gagarin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jurij Gagarin"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "question_id": "2892",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1790490",
+    "http://www.wikidata.org/entity/Q2925830",
+    "http://www.wikidata.org/entity/Q3566096",
+    "http://www.wikidata.org/entity/Q9179451",
+    "http://www.wikidata.org/entity/Q3507601"
+  ],
+  "gold_path": {
+    "question_id": "2892",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3566096",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q21851888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3566096",
+        "predicate": "http://www.wikidata.org/prop/direct/P4080",
+        "object": "4954"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2925830",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q21851888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2925830",
+        "predicate": "http://www.wikidata.org/prop/direct/P4080",
+        "object": "4385"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9179451",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q21851888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9179451",
+        "predicate": "http://www.wikidata.org/prop/direct/P4080",
+        "object": "3618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1790490",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q21851888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1790490",
+        "predicate": "http://www.wikidata.org/prop/direct/P4080",
+        "object": "2931"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3507601",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q21851888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3507601",
+        "predicate": "http://www.wikidata.org/prop/direct/P4080",
+        "object": "2929"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566096",
+      "predicate": "http://schema.org/description",
+      "object": "distrikt i Brno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566096",
+      "predicate": "http://schema.org/description",
+      "object": "městská část města Brna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566096",
+      "predicate": "http://schema.org/description",
+      "object": "self-governing District of Brno in South Moravian Region, Czech Republic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566096",
+      "predicate": "http://schema.org/description",
+      "object": "samoupravna četrt Brna v Južnomoravskem okraju na Češkem"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566096",
+      "predicate": "http://schema.org/version",
+      "object": "2461072311"
+    }
+  ]
+}

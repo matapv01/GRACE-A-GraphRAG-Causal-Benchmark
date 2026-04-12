@@ -1,0 +1,197 @@
+{
+  "clean": {
+    "question_id": "19896",
+    "answers": [
+      "http://www.wikidata.org/entity/Q155"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2003",
+        "object": "africanunion_official"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q155",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2002",
+        "object": "_AfricanUnion"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q769802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q484652"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q155"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "19896",
+    "answers": [
+      "http://www.wikidata.org/entity/Q155"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2003",
+        "object": "africanunion_official"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2002",
+        "object": "_AfricanUnion"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q769802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q484652"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "19896",
+    "answers": [
+      "http://www.wikidata.org/entity/Q155"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2003",
+        "object": "africanunion_official"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q155",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2002",
+        "object": "_AfricanUnion"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q769802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q484652"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q155"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q26273"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "19896",
+    "answers": [
+      "http://www.wikidata.org/entity/Q155"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2003",
+        "object": "africanunion_official"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q155",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2002",
+        "object": "_AfricanUnion"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q769802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q484652"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q155"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "19896",
+    "answers": [
+      "http://www.wikidata.org/entity/Q155"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2003",
+        "object": "africanunion_official"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P2002",
+        "object": "_AfricanUnion"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q769802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q484652"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26273",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7159",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q26273"
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "clean": {
+    "question_id": "27941",
+    "answers": [
+      "99312"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.wikidata.org/prop/direct/P3422",
+        "object": "99312"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Demokratiska republiken Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Congo"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "27941",
+    "answers": [
+      "99312"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Demokratiska republiken Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Congo"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "27941",
+    "answers": [
+      "99312"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.wikidata.org/prop/direct/P3422",
+        "object": "99312"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Demokratiska republiken Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Congo"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "27941",
+    "answers": [
+      "99312"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.wikidata.org/prop/direct/P3422",
+        "object": "99312"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Demokratiska republiken Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Congo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "27941",
+    "answers": [
+      "99312"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.wikidata.org/prop/direct/P3422",
+        "object": "99312"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Demokratiska republiken Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Kongo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Congo"
+      }
+    ]
+  }
+}

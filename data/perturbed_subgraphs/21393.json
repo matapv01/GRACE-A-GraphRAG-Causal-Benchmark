@@ -1,0 +1,447 @@
+{
+  "clean": {
+    "question_id": "21393",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1147104",
+      "http://www.wikidata.org/entity/Q192682",
+      "http://www.wikidata.org/entity/Q2056174",
+      "http://www.wikidata.org/entity/Q28310",
+      "http://www.wikidata.org/entity/Q952156",
+      "http://www.wikidata.org/entity/Q1582689"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q1147104"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q30544658"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q952156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q28310"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1582689",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q952156"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q19347291"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28310",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q2056174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q2112423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2056174",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q192682",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q25431158"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Deadpool"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q1582689"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q192682"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1147104",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "21393",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1147104",
+      "http://www.wikidata.org/entity/Q192682",
+      "http://www.wikidata.org/entity/Q2056174",
+      "http://www.wikidata.org/entity/Q28310",
+      "http://www.wikidata.org/entity/Q952156",
+      "http://www.wikidata.org/entity/Q1582689"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q30544658"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q19347291"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q2112423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q25431158"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Deadpool"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "21393",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1147104",
+      "http://www.wikidata.org/entity/Q192682",
+      "http://www.wikidata.org/entity/Q2056174",
+      "http://www.wikidata.org/entity/Q28310",
+      "http://www.wikidata.org/entity/Q952156",
+      "http://www.wikidata.org/entity/Q1582689"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q1147104"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q30544658"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q952156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q28310"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1582689",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q952156"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q19347291"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28310",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q2056174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q2112423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2056174",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q192682",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q25431158"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Deadpool"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q1582689"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q192682"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1147104",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "21393",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1147104",
+      "http://www.wikidata.org/entity/Q192682",
+      "http://www.wikidata.org/entity/Q2056174",
+      "http://www.wikidata.org/entity/Q28310",
+      "http://www.wikidata.org/entity/Q952156",
+      "http://www.wikidata.org/entity/Q1582689"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q1147104"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q30544658"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q952156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q28310"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1582689",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q952156"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q19347291"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28310",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q2056174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q2112423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2056174",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q192682",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q25431158"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Deadpool"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q1582689"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q192682"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1147104",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "21393",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1147104",
+      "http://www.wikidata.org/entity/Q192682",
+      "http://www.wikidata.org/entity/Q2056174",
+      "http://www.wikidata.org/entity/Q28310",
+      "http://www.wikidata.org/entity/Q952156",
+      "http://www.wikidata.org/entity/Q1582689"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q30544658"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q19347291"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q2112423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P4969",
+        "object": "http://www.wikidata.org/entity/Q25431158"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P6262",
+        "object": "disney:Deadpool"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1631090",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "4744",
+  "answers": [
+    "Point(-75.2791 41.939)"
+  ],
+  "gold_path": {
+    "question_id": "4744",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q143762",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q143762-2D580210-7D3E-4938-A66D-D2C4DADEA60C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q143762-2D580210-7D3E-4938-A66D-D2C4DADEA60C",
+        "predicate": "ps:P625",
+        "object": "Point(-75.2791 41.939)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q143762-2D580210-7D3E-4938-A66D-D2C4DADEA60C",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q7376362"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q143762",
+      "predicate": "http://www.wikidata.org/prop/direct/P2053",
+      "object": "36568"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143762",
+      "predicate": "http://www.wikidata.org/prop/direct/P625",
+      "object": "Point(-75.5288 39.4326)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143762",
+      "predicate": "http://www.wikidata.org/prop/direct/P625",
+      "object": "Point(-75.2791 41.939)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143762",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Delaware_-_elv"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q143762",
+      "predicate": "http://www.wikidata.org/prop/P2053",
+      "object": "http://www.wikidata.org/entity/statement/Q143762-4D5E16EC-AC5D-473D-A795-89DEA1549C6B"
+    }
+  ]
+}

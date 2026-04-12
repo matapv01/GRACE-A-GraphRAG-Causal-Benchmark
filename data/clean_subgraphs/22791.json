@@ -1,0 +1,48 @@
+{
+  "question_id": "22791",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1065"
+  ],
+  "gold_path": {
+    "question_id": "22791",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7801",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q1065"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1065",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q484652"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7801",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedenspalast%20Den%20Haag%20%28100MP%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7801",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q7801-0C272260-F26B-4455-98A1-0CADF49B77C8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7801",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q7801-9985a55a-4198-bb7c-f0f4-bf7112fcbf75"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7801",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "026373963"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7801",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "11863379r"
+    }
+  ]
+}

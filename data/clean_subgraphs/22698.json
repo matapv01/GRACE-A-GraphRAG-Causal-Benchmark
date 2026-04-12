@@ -1,0 +1,76 @@
+{
+  "question_id": "22698",
+  "answers": [
+    "http://www.wikidata.org/entity/Q165745",
+    "http://www.wikidata.org/entity/Q203059",
+    "http://www.wikidata.org/entity/Q277626",
+    "http://www.wikidata.org/entity/Q190585"
+  ],
+  "gold_path": {
+    "question_id": "22698",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131324",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q165745"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q165745",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q18127"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131324",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q190585"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190585",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q18127"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131324",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q203059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q203059",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q18127"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131324",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q277626"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q277626",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q18127"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131324",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jackson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131324",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Janet Jackson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131324",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джанет Джексън"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131324",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Janet Damita Jo Jacksonová"
+    }
+  ]
+}

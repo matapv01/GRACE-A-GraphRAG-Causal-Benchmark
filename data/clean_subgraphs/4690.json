@@ -1,0 +1,53 @@
+{
+  "question_id": "4690",
+  "answers": [
+    "Grave of Fernandel (Passy, division 1)"
+  ],
+  "gold_path": {
+    "question_id": "4690",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q129092",
+        "predicate": "http://www.wikidata.org/prop/P119",
+        "object": "http://www.wikidata.org/entity/statement/q129092-F409BB68-8FC7-4507-B9CA-A4A586F1A3E7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q129092-F409BB68-8FC7-4507-B9CA-A4A586F1A3E7",
+        "predicate": "ps:P119",
+        "object": "http://www.wikidata.org/entity/Q1092107"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q129092-F409BB68-8FC7-4507-B9CA-A4A586F1A3E7",
+        "predicate": "pq:P373",
+        "object": "Grave of Fernandel (Passy, division 1)"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q129092",
+      "predicate": "http://www.wikidata.org/prop/P4332",
+      "object": "http://www.wikidata.org/entity/statement/Q129092-E7A6F324-2278-4561-B5F2-326EF4A70B71"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q129092",
+      "predicate": "http://www.wikidata.org/prop/direct/P4332",
+      "object": "141"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q129092",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q129092-dac70fab-4957-9e7f-c1f6-ea4e1319c933"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q129092",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "1970-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q129092",
+      "predicate": "http://www.wikidata.org/prop/direct/P4359",
+      "object": "fernandel"
+    }
+  ]
+}

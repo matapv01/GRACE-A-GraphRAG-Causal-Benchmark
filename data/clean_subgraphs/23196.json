@@ -1,0 +1,38 @@
+{
+  "question_id": "23196",
+  "answers": [
+    "http://www.wikidata.org/entity/Q199385"
+  ],
+  "gold_path": {
+    "question_id": "23196",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199385",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5398426"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199385",
+        "predicate": "rdfs:label",
+        "object": "Zigby"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q199385",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199385",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zigby"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199385",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zigby, das Zebra"
+    }
+  ]
+}

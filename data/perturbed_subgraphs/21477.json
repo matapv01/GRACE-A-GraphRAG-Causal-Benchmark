@@ -1,0 +1,222 @@
+{
+  "clean": {
+    "question_id": "21477",
+    "answers": [
+      "http://www.wikidata.org/entity/Q966556"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q966556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cha\u00eene am\u00e9ricaine de grands magasins"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cadena estadounidense de grandes almacenes"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q966556",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "perusahaan asal Amerika Serikat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u0634\u0631\u0643\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e8\u05e9\u05ea \u05d7\u05e0\u05d5\u05d9\u05d5\u05ea \u05db\u05dc\u05d1\u05d5 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05ea"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "21477",
+    "answers": [
+      "http://www.wikidata.org/entity/Q966556"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cha\u00eene am\u00e9ricaine de grands magasins"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cadena estadounidense de grandes almacenes"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "perusahaan asal Amerika Serikat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u0634\u0631\u0643\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e8\u05e9\u05ea \u05d7\u05e0\u05d5\u05d9\u05d5\u05ea \u05db\u05dc\u05d1\u05d5 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05ea"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "21477",
+    "answers": [
+      "http://www.wikidata.org/entity/Q966556"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q966556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cha\u00eene am\u00e9ricaine de grands magasins"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cadena estadounidense de grandes almacenes"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q966556",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "perusahaan asal Amerika Serikat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u0634\u0631\u0643\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e8\u05e9\u05ea \u05d7\u05e0\u05d5\u05d9\u05d5\u05ea \u05db\u05dc\u05d1\u05d5 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05ea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_TYPE_MATCH",
+        "object": "http://www.wikidata.org/entity/Q66"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "21477",
+    "answers": [
+      "http://www.wikidata.org/entity/Q966556"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q966556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cha\u00eene am\u00e9ricaine de grands magasins"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cadena estadounidense de grandes almacenes"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q966556",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "perusahaan asal Amerika Serikat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u0634\u0631\u0643\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e8\u05e9\u05ea \u05d7\u05e0\u05d5\u05d9\u05d5\u05ea \u05db\u05dc\u05d1\u05d5 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05ea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY_HUB",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "21477",
+    "answers": [
+      "http://www.wikidata.org/entity/Q966556"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cha\u00eene am\u00e9ricaine de grands magasins"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "cadena estadounidense de grandes almacenes"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "perusahaan asal Amerika Serikat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u0634\u0631\u0643\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e8\u05e9\u05ea \u05d7\u05e0\u05d5\u05d9\u05d5\u05ea \u05db\u05dc\u05d1\u05d5 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05ea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6499202",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q66"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q66",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      }
+    ]
+  }
+}

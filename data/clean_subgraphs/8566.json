@@ -1,0 +1,48 @@
+{
+  "question_id": "8566",
+  "answers": [
+    "2018-05-29T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8566",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9589",
+        "predicate": "http://www.wikidata.org/prop/P348",
+        "object": "http://www.wikidata.org/entity/statement/Q9589-87b2974d-4865-934c-3064-a96e52e036e6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9589-87b2974d-4865-934c-3064-a96e52e036e6",
+        "predicate": "pq:P577",
+        "object": "2018-05-29T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9589",
+      "predicate": "http://schema.org/version",
+      "object": "2474615411"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9589",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-22T15:17:39Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9589",
+      "predicate": "http://www.wikidata.org/prop/P12385",
+      "object": "http://www.wikidata.org/entity/statement/Q9589-695be440-dc1e-431b-83c7-7ce89f99836a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9589",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "itunes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9589",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ITunes"
+    }
+  ]
+}

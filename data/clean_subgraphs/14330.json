@@ -1,0 +1,48 @@
+{
+  "question_id": "14330",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1000976"
+  ],
+  "gold_path": {
+    "question_id": "14330",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q178149",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q748"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q748",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q1000976"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q178149",
+      "predicate": "http://www.wikidata.org/prop/direct/P6385",
+      "object": "kultura_i_obrazovanie/religiya/BODHISATTVA.html"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178149",
+      "predicate": "http://www.wikidata.org/prop/direct/P6366",
+      "object": "2777826289"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178149",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "bodhisattva"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178149",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "bodhisattva"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178149",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007282669805171"
+    }
+  ]
+}

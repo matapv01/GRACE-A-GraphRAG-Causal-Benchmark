@@ -1,0 +1,28 @@
+{
+  "question_id": "26372",
+  "answers": [
+    "http://www.wikidata.org/entity/Q622435"
+  ],
+  "gold_path": {
+    "question_id": "26372",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q937186",
+        "predicate": "http://www.wikidata.org/prop/direct/P1441",
+        "object": "http://www.wikidata.org/entity/Q622435"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q937186",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Porky Pig"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q937186",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Schweinchen Dick"
+    }
+  ]
+}

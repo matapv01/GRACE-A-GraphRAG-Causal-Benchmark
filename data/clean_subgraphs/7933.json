@@ -1,0 +1,43 @@
+{
+  "question_id": "7933",
+  "answers": [
+    "1962-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7933",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1338655",
+        "predicate": "http://www.wikidata.org/prop/P371",
+        "object": "http://www.wikidata.org/entity/statement/Q1338655-bc92f259-44d5-b9be-016a-d458e148d49e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1338655-bc92f259-44d5-b9be-016a-d458e148d49e",
+        "predicate": "ps:P371",
+        "object": "http://www.wikidata.org/entity/Q310819"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1338655-bc92f259-44d5-b9be-016a-d458e148d49e",
+        "predicate": "pq:P580",
+        "object": "1962-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1338655",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "The Tonight Show"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1338655",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "더 투나잇 쇼"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1338655",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Tonight Show"
+    }
+  ]
+}

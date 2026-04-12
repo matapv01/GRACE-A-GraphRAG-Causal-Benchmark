@@ -1,0 +1,53 @@
+{
+  "question_id": "9496",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4661865"
+  ],
+  "gold_path": {
+    "question_id": "9496",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q213417",
+        "predicate": "http://www.wikidata.org/prop/direct/P286",
+        "object": "http://www.wikidata.org/entity/Q4661865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q213417",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q60"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q213417",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q692062"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q213417",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q13027888"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213417",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "29"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213417",
+      "predicate": "http://www.wikidata.org/prop/direct/P465",
+      "object": "1C2841"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213417",
+      "predicate": "http://www.wikidata.org/prop/direct/P3984",
+      "object": "NYYankees"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213417",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q213417-a8a75688-48a7-fbf8-f606-88847c02fcf3"
+    }
+  ]
+}
