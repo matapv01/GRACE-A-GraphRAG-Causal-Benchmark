@@ -1,0 +1,43 @@
+{
+  "question_id": "5105",
+  "answers": [
+    "3"
+  ],
+  "gold_path": {
+    "question_id": "5105",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2518",
+        "predicate": "http://www.wikidata.org/prop/P735",
+        "object": "http://www.wikidata.org/entity/statement/Q2518-509569a4-452a-311a-4be8-1b32705e03df"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2518-509569a4-452a-311a-4be8-1b32705e03df",
+        "predicate": "ps:P735",
+        "object": "http://www.wikidata.org/entity/Q4927524"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2518-509569a4-452a-311a-4be8-1b32705e03df",
+        "predicate": "pq:P1545",
+        "object": "3"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2518",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "科尔"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2518",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kohl"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2518",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "科爾"
+    }
+  ]
+}

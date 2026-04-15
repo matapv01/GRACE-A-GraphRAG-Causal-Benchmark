@@ -1,0 +1,43 @@
+{
+  "question_id": "9405",
+  "answers": [
+    "http://www.wikidata.org/entity/Q734036"
+  ],
+  "gold_path": {
+    "question_id": "9405",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36153",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q36153-19e8b8a9-4187-cda5-3843-2c069bb21397"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36153-19e8b8a9-4187-cda5-3843-2c069bb21397",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q734036"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36153-19e8b8a9-4187-cda5-3843-2c069bb21397",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q149358"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q36153",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T16:33:16Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36153",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Beyoncé"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36153",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Queen B"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "question_id": "20011",
+  "answers": [
+    "http://www.wikidata.org/entity/Q561960",
+    "http://www.wikidata.org/entity/Q335552",
+    "http://www.wikidata.org/entity/Q879247"
+  ],
+  "gold_path": {
+    "question_id": "20011",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q918",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q335552"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q335552",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q918",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q561960"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q561960",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q918",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q879247"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q879247",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q918",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Twitter"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q918",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "X"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q918",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "تويتر"
+    }
+  ]
+}

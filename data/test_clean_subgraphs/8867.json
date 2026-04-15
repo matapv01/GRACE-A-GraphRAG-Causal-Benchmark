@@ -1,0 +1,53 @@
+{
+  "question_id": "8867",
+  "answers": [
+    "1707-04-30T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8867",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q79848",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q79848-571e7566-479d-407a-a921-1e543d04c9ab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q79848-571e7566-479d-407a-a921-1e543d04c9ab",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q179876"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q79848-571e7566-479d-407a-a921-1e543d04c9ab",
+        "predicate": "pq:P582",
+        "object": "1707-04-30T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q79848",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "southampton"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79848",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q79848-0C59DE4C-3214-4AF7-9596-2683021B8726"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79848",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4212",
+      "object": "https://ark.frantiq.fr/ark:/26678/pcrtrq2MkuDXgd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79848",
+      "predicate": "http://www.wikidata.org/prop/direct/P421",
+      "object": "http://www.wikidata.org/entity/Q6574"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79848",
+      "predicate": "http://www.wikidata.org/prop/direct/P4212",
+      "object": "pcrtrq2MkuDXgd"
+    }
+  ]
+}

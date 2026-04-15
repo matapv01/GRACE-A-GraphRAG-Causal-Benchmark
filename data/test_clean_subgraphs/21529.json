@@ -1,0 +1,48 @@
+{
+  "question_id": "21529",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7465774"
+  ],
+  "gold_path": {
+    "question_id": "21529",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q487005",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q7465774"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7465774",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1293220"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q487005",
+      "predicate": "http://schema.org/description",
+      "object": "capacity of a material to conduct heat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q487005",
+      "predicate": "http://schema.org/description",
+      "object": "propiedad física de los materiales que tiene la capacidad de conducción de calor"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q487005",
+      "predicate": "http://schema.org/description",
+      "object": "suure, joka kuvaa materiaalin kykyä johtaa lämpöä"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q487005",
+      "predicate": "http://schema.org/description",
+      "object": "schopnost předmětů vést teplo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q487005",
+      "predicate": "http://schema.org/description",
+      "object": "Stoffeigenschaft, die die Wärmeleitung oder die Diffusion eines gelösten Stoffes beschreibt"
+    }
+  ]
+}

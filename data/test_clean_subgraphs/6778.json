@@ -1,0 +1,48 @@
+{
+  "question_id": "6778",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3019369"
+  ],
+  "gold_path": {
+    "question_id": "6778",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q115055",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q115055-42124F0D-3899-4112-B9DD-56BA5BC33B1F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q115055-42124F0D-3899-4112-B9DD-56BA5BC33B1F",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3019369"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q115055",
+      "predicate": "http://www.wikidata.org/prop/P9995",
+      "object": "http://www.wikidata.org/entity/statement/Q115055-BB15033D-F0FC-44CB-B0D8-17963B5921F3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q115055",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ديفيد لورنس غفن"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q115055",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "David Lawrence Geffen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q115055",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ντέιβιντ Γκέφφεν"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q115055",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ντέιβιντ Λόρενς Γκέφεν"
+    }
+  ]
+}

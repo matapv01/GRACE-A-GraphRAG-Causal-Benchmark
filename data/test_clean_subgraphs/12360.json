@@ -1,0 +1,43 @@
+{
+  "question_id": "12360",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1860"
+  ],
+  "gold_path": {
+    "question_id": "12360",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2599",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2599",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "James McCartney"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2599",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Macca"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2599",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Маккартни, Пол"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2599",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "مکا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2599",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "McCartney"
+    }
+  ]
+}

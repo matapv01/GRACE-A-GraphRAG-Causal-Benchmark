@@ -1,0 +1,43 @@
+{
+  "question_id": "13446",
+  "answers": [
+    "http://www.wikidata.org/entity/Q156060"
+  ],
+  "gold_path": {
+    "question_id": "13446",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q146095",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q156060"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q146095",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "73"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q146095",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Viola"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q146095",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "viooltje"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q146095",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "фиалка"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q146095",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "סגל"
+    }
+  ]
+}

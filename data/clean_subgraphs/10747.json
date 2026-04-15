@@ -1,0 +1,58 @@
+{
+  "question_id": "10747",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8134"
+  ],
+  "gold_path": {
+    "question_id": "10747",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22686",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q22686-C13B9312-B46E-43C8-8FEC-C8454545C885"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q22686-C13B9312-B46E-43C8-8FEC-C8454545C885",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1329269"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q22686-C13B9312-B46E-43C8-8FEC-C8454545C885",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q8134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q22686-C13B9312-B46E-43C8-8FEC-C8454545C885",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q787674"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q22686",
+      "predicate": "http://www.wikidata.org/prop/direct/P22",
+      "object": "http://www.wikidata.org/entity/Q3752663"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22686",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Presidential%20Portrait%20of%20President%20Donald%20J.%20Trump%20%282025%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22686",
+      "predicate": "http://www.wikidata.org/prop/direct/P94",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Trump%20%28Davies%29.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22686",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q97354861"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22686",
+      "predicate": "http://www.wikidata.org/prop/direct/P53",
+      "object": "http://www.wikidata.org/entity/Q27907344"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "12365",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2807"
+  ],
+  "gold_path": {
+    "question_id": "12365",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q82180",
+        "predicate": "http://www.wikidata.org/prop/direct/P551",
+        "object": "http://www.wikidata.org/entity/Q2807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2807",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q1479"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q82180",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "175"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82180",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mata Hari"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82180",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "মাতা হারি"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82180",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ماتا ہری"
+    }
+  ]
+}

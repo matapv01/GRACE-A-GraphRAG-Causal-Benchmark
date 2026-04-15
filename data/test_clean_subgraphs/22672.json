@@ -1,0 +1,38 @@
+{
+  "question_id": "22672",
+  "answers": [
+    "http://www.wikidata.org/entity/Q919641"
+  ],
+  "gold_path": {
+    "question_id": "22672",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q919641",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q467752"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q919641",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q726870"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q919641",
+      "predicate": "http://schema.org/version",
+      "object": "2453924749"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q919641",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Verizon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q919641",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cellco Partnership"
+    }
+  ]
+}

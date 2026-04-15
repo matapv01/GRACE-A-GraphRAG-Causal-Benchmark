@@ -1,0 +1,43 @@
+{
+  "question_id": "12061",
+  "answers": [
+    "http://www.wikidata.org/entity/Q729873"
+  ],
+  "gold_path": {
+    "question_id": "12061",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q244994",
+        "predicate": "http://www.wikidata.org/prop/direct/P2695",
+        "object": "http://www.wikidata.org/entity/Q729873"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q729873",
+        "predicate": "http://www.wikidata.org/prop/direct/P3815",
+        "object": "http://www.wikidata.org/entity/Q967776"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q244994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Thiorsauite"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anorthite"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "アノーサイト"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anortite"
+    }
+  ]
+}

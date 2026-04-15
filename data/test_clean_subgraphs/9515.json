@@ -1,0 +1,54 @@
+{
+  "question_id": "9515",
+  "answers": [
+    "http://www.wikidata.org/entity/Q199615",
+    "http://www.wikidata.org/entity/Q551085"
+  ],
+  "gold_path": {
+    "question_id": "9515",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q39222",
+        "predicate": "http://www.wikidata.org/prop/direct/P1542",
+        "object": "http://www.wikidata.org/entity/Q199615"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q39222",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q698976"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q39222",
+        "predicate": "http://www.wikidata.org/prop/direct/P1542",
+        "object": "http://www.wikidata.org/entity/Q551085"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q39222",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "rabies"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39222",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "rage"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39222",
+      "predicate": "http://www.wikidata.org/prop/direct/P443",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%9C%E0%AC%B3%E0%AC%BE%E0%AC%A4%E0%AC%99%E0%AD%8D%E0%AC%95.wav"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39222",
+      "predicate": "http://www.wikidata.org/prop/direct/P7329",
+      "object": "1C82"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39222",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "rabia-0"
+    }
+  ]
+}

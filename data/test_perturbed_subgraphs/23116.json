@@ -1,0 +1,576 @@
+{
+  "clean": {
+    "question_id": "23116",
+    "answers": [
+      "http://www.wikidata.org/entity/Q688503",
+      "http://www.wikidata.org/entity/Q277569",
+      "http://www.wikidata.org/entity/Q22692",
+      "http://www.wikidata.org/entity/Q3237851"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "rdfs:label",
+        "object": "freedom of speech"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3237851",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688503",
+        "predicate": "rdfs:label",
+        "object": "freedom of association"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "83"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688503",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0441\u0432\u0430\u0431\u043e\u0434\u0430 \u0441\u043b\u043e\u0432\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3237851",
+        "predicate": "rdfs:label",
+        "object": "freedom of indifference"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kuma h\u0254r\u0254nya"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430 \u043d\u0430 \u0441\u043b\u043e\u0432\u043e\u0442\u043e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q277569",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09ac\u09be\u0995\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8\u09a4\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q277569",
+        "predicate": "rdfs:label",
+        "object": "freedom of thought"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "23116",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "freedom of speech"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Kuma h\u0254r\u0254nya"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "\u0441\u0432\u0430\u0431\u043e\u0434\u0430 \u0441\u043b\u043e\u0432\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q277569"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q22692"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "\u09ac\u09be\u0995\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8\u09a4\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3237851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q688503"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "83"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "freedom of indifference"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430 \u043d\u0430 \u0441\u043b\u043e\u0432\u043e\u0442\u043e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "freedom of thought"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "freedom of association"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "23116",
+    "answers": [
+      "http://www.wikidata.org/entity/Q688503",
+      "http://www.wikidata.org/entity/Q277569",
+      "http://www.wikidata.org/entity/Q22692",
+      "http://www.wikidata.org/entity/Q3237851"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "rdfs:label",
+        "object": "freedom of speech"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3237851",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688503",
+        "predicate": "rdfs:label",
+        "object": "freedom of association"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "83"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688503",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0441\u0432\u0430\u0431\u043e\u0434\u0430 \u0441\u043b\u043e\u0432\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3237851",
+        "predicate": "rdfs:label",
+        "object": "freedom of indifference"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kuma h\u0254r\u0254nya"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430 \u043d\u0430 \u0441\u043b\u043e\u0432\u043e\u0442\u043e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q277569",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09ac\u09be\u0995\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8\u09a4\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q277569",
+        "predicate": "rdfs:label",
+        "object": "freedom of thought"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q22692"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q277569"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3237851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q5135575"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q11611401"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "23116",
+    "answers": [
+      "http://www.wikidata.org/entity/Q688503",
+      "http://www.wikidata.org/entity/Q277569",
+      "http://www.wikidata.org/entity/Q22692",
+      "http://www.wikidata.org/entity/Q3237851"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "rdfs:label",
+        "object": "freedom of speech"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3237851",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688503",
+        "predicate": "rdfs:label",
+        "object": "freedom of association"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "83"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688503",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0441\u0432\u0430\u0431\u043e\u0434\u0430 \u0441\u043b\u043e\u0432\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3237851",
+        "predicate": "rdfs:label",
+        "object": "freedom of indifference"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kuma h\u0254r\u0254nya"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430 \u043d\u0430 \u0441\u043b\u043e\u0432\u043e\u0442\u043e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q277569",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09ac\u09be\u0995\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8\u09a4\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q277569",
+        "predicate": "rdfs:label",
+        "object": "freedom of thought"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "23116",
+    "answers": [
+      "http://www.wikidata.org/entity/Q22692"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "rdfs:label",
+        "object": "freedom of speech"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "rdfs:label",
+        "object": "freedom of association"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "83"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0441\u0432\u0430\u0431\u043e\u0434\u0430 \u0441\u043b\u043e\u0432\u0430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "rdfs:label",
+        "object": "freedom of indifference"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Kuma h\u0254r\u0254nya"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0421\u0432\u043e\u0431\u043e\u0434\u0430 \u043d\u0430 \u0441\u043b\u043e\u0432\u043e\u0442\u043e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q29556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u09ac\u09be\u0995\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8\u09a4\u09be"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22692",
+        "predicate": "rdfs:label",
+        "object": "freedom of thought"
+      }
+    ]
+  }
+}

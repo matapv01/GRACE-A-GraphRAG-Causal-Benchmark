@@ -1,0 +1,53 @@
+{
+  "question_id": "8307",
+  "answers": [
+    "Marullo, cavaliere"
+  ],
+  "gold_path": {
+    "question_id": "8307",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189234",
+        "predicate": "http://www.wikidata.org/prop/P674",
+        "object": "http://www.wikidata.org/entity/statement/Q189234-844e8115-4a01-f412-e5b1-60c2c87daf1e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189234-844e8115-4a01-f412-e5b1-60c2c87daf1e",
+        "predicate": "ps:P674",
+        "object": "http://www.wikidata.org/entity/Q55000968"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189234-844e8115-4a01-f412-e5b1-60c2c87daf1e",
+        "predicate": "pq:P1932",
+        "object": "Marullo, cavaliere"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189234",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ريجوليتو"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189234",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rigolette"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189234",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ριγολέττος"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189234",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rigoleto"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189234",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Viscardello"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "23020",
+  "answers": [
+    "http://www.wikidata.org/entity/Q623903",
+    "http://www.wikidata.org/entity/Q178871"
+  ],
+  "gold_path": {
+    "question_id": "23020",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q174979",
+        "predicate": "http://www.wikidata.org/prop/direct/P450",
+        "object": "http://www.wikidata.org/entity/Q178871"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178871",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q752783"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q174979",
+        "predicate": "http://www.wikidata.org/prop/direct/P450",
+        "object": "http://www.wikidata.org/entity/Q623903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q623903",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q752783"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q174979",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Alan Shepherd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174979",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "آلان بي شيبارد"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174979",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Алан Шэпард"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174979",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Alan B. Shepard"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174979",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Alan Bartlett Shepard"
+    }
+  ]
+}

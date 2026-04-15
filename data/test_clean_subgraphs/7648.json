@@ -1,0 +1,38 @@
+{
+  "question_id": "7648",
+  "answers": [
+    "http://www.wikidata.org/entity/Q51139288"
+  ],
+  "gold_path": {
+    "question_id": "7648",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q413835",
+        "predicate": "http://www.wikidata.org/prop/P4952",
+        "object": "http://www.wikidata.org/entity/statement/Q413835-F5018DB4-A03C-45FB-9A13-863964B42220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q413835-F5018DB4-A03C-45FB-9A13-863964B42220",
+        "predicate": "ps:P4952",
+        "object": "http://www.wikidata.org/entity/Q51139288"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q413835",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "nitrogen trifluoride"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q413835",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "三氟化氮"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q413835",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ثلاثي فلوريد النتروجين"
+    }
+  ]
+}

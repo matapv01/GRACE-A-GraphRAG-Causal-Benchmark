@@ -1,0 +1,48 @@
+{
+  "question_id": "21287",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23900107"
+  ],
+  "gold_path": {
+    "question_id": "21287",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3968",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q23900107"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23900107",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28640"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3968",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/125565743"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3968",
+      "predicate": "http://schema.org/description",
+      "object": "branca della matematica"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3968",
+      "predicate": "http://schema.org/description",
+      "object": "matematisk lära"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3968",
+      "predicate": "http://schema.org/description",
+      "object": "Teilgebiet der Mathematik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3968",
+      "predicate": "http://schema.org/description",
+      "object": "תחום במתמטיקה"
+    }
+  ]
+}

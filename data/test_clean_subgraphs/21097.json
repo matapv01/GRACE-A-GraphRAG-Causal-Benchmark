@@ -1,0 +1,59 @@
+{
+  "question_id": "21097",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2000528",
+    "http://www.wikidata.org/entity/Q176410"
+  ],
+  "gold_path": {
+    "question_id": "21097",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11299",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q176410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q176410",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7830213"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11299",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q2000528"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2000528",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7830213"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://www.wikidata.org/prop/direct/P3451",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Manhattan%20from%20Weehawken%2C%20NJ.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://www.wikidata.org/prop/direct/P5247",
+      "object": "3035-1613"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://www.wikidata.org/prop/direct/P3984",
+      "object": "manhattan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://www.wikidata.org/prop/direct/P1552",
+      "object": "http://www.wikidata.org/entity/Q13743387"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://www.wikidata.org/prop/direct/P2044",
+      "object": "85"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "22483",
+  "answers": [
+    "http://www.wikidata.org/entity/Q19891914"
+  ],
+  "gold_path": {
+    "question_id": "22483",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19891914",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q66616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19891914",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47443726"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19891914",
+      "predicate": "http://schema.org/version",
+      "object": "2268892281"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19891914",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19891914",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2024-11-02T02:16:17Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19891914",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ATP Challenger Indore"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19891914",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Indore Open ATP Challenger"
+    }
+  ]
+}

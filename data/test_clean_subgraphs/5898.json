@@ -1,0 +1,69 @@
+{
+  "question_id": "5898",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4596654",
+    "http://www.wikidata.org/entity/Q4547994"
+  ],
+  "gold_path": {
+    "question_id": "5898",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q181819",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q181819-04c6b275-46f2-c585-4eda-a1bcb152faea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181819-04c6b275-46f2-c585-4eda-a1bcb152faea",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181819-04c6b275-46f2-c585-4eda-a1bcb152faea",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4547994"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181819",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q181819-dde1ca05-4565-d420-0e9d-67a79656fc77"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181819-dde1ca05-4565-d420-0e9d-67a79656fc77",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181819-dde1ca05-4565-d420-0e9d-67a79656fc77",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4596654"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q181819",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q181819-ECFFD579-A01B-4A1F-A26A-354BA9CE060A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181819",
+      "predicate": "http://www.wikidata.org/prop/P3056",
+      "object": "http://www.wikidata.org/entity/statement/Q181819-26A89F76-2929-420D-B4CB-5DF5D2E97457"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181819",
+      "predicate": "http://www.wikidata.org/prop/P1559",
+      "object": "http://www.wikidata.org/entity/statement/Q181819-53d1e053-404a-44a3-b9a9-334aac7fd0c5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181819",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q181819-C8458679-3156-4EA8-886D-372C0EB1A09F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181819",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "fredric-march"
+    }
+  ]
+}

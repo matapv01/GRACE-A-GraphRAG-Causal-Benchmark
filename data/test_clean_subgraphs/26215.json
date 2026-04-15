@@ -1,0 +1,44 @@
+{
+  "question_id": "26215",
+  "answers": [
+    "sj9PGLAlnmUAAAAAABaABQ",
+    "TNQaWo324IAAAAAAAADZTQ"
+  ],
+  "gold_path": {
+    "question_id": "26215",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151911",
+        "predicate": "http://www.wikidata.org/prop/direct/P4819",
+        "object": "TNQaWo324IAAAAAAAADZTQ"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151911",
+        "predicate": "http://www.wikidata.org/prop/direct/P4819",
+        "object": "sj9PGLAlnmUAAAAAABaABQ"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151911",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jacob Berzelius"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151911",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jöns Berzelius"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151911",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Berzelius"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151911",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Берцелиус"
+    }
+  ]
+}

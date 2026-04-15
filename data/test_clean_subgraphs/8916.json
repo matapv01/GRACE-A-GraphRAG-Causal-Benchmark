@@ -1,0 +1,117 @@
+{
+  "question_id": "8916",
+  "answers": [
+    "1998-01-01T00:00:00Z",
+    "2002-01-01T00:00:00Z",
+    "2004-01-01T00:00:00Z",
+    "1999-01-01T00:00:00Z",
+    "1995-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8916",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1136370",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q1136370-4F399AB3-3D48-4CF9-97ED-323F46F23313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-4F399AB3-3D48-4CF9-97ED-323F46F23313",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5243456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-4F399AB3-3D48-4CF9-97ED-323F46F23313",
+        "predicate": "pq:P585",
+        "object": "2004-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1136370",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q1136370-5497F41C-B774-4E68-810B-D4013B83ACD2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-5497F41C-B774-4E68-810B-D4013B83ACD2",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5243456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-5497F41C-B774-4E68-810B-D4013B83ACD2",
+        "predicate": "pq:P585",
+        "object": "1999-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1136370",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q1136370-585A01C4-4EFC-4AD5-9C12-995C95638BD8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-585A01C4-4EFC-4AD5-9C12-995C95638BD8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5243456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-585A01C4-4EFC-4AD5-9C12-995C95638BD8",
+        "predicate": "pq:P585",
+        "object": "2002-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1136370",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q1136370-A19C0CEC-9E6B-4076-8A0F-2AC6668F8E52"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-A19C0CEC-9E6B-4076-8A0F-2AC6668F8E52",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5243456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-A19C0CEC-9E6B-4076-8A0F-2AC6668F8E52",
+        "predicate": "pq:P585",
+        "object": "1995-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1136370",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q1136370-DE8A2C69-157F-4B44-B632-EA25567E79D4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-DE8A2C69-157F-4B44-B632-EA25567E79D4",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5243456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1136370-DE8A2C69-157F-4B44-B632-EA25567E79D4",
+        "predicate": "pq:P585",
+        "object": "1998-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1136370",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-07T09:32:20Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1136370",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "33"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1136370",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hôpital central"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1136370",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "General Hospital"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1136370",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "المستشفى العام"
+    }
+  ]
+}

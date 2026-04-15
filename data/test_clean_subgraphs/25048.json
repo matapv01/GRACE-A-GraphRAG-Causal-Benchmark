@@ -1,0 +1,53 @@
+{
+  "question_id": "25048",
+  "answers": [
+    "http://www.wikidata.org/entity/Q51636"
+  ],
+  "gold_path": {
+    "question_id": "25048",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q51636",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1406161"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51636",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q284623"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51636",
+        "predicate": "rdfs:label",
+        "object": "crucifixion of Jesus"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q51636",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Crucifixion"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51636",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Crucifixion"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51636",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Calvário"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51636",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Christ on the Cross"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51636",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Crucifixion of Christ"
+    }
+  ]
+}

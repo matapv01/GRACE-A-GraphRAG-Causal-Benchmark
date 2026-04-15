@@ -1,0 +1,48 @@
+{
+  "question_id": "9560",
+  "answers": [
+    "http://www.wikidata.org/entity/Q145"
+  ],
+  "gold_path": {
+    "question_id": "9560",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q74287",
+        "predicate": "http://www.wikidata.org/prop/direct/P495",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q74287",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q74287",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "50"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q74287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hobbit"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q74287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Hobbit"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q74287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Хоббит"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q74287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Хобіт"
+    }
+  ]
+}

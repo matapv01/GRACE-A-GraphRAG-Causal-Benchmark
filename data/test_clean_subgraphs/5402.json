@@ -1,0 +1,53 @@
+{
+  "question_id": "5402",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18577504"
+  ],
+  "gold_path": {
+    "question_id": "5402",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173470",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q173470-f2305f6f-49e5-d3eb-7c88-ecbd897822b1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173470-f2305f6f-49e5-d3eb-7c88-ecbd897822b1",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18577504"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173470-f2305f6f-49e5-d3eb-7c88-ecbd897822b1",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q183452"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q173470",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "67"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173470",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anastasius I."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173470",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anastazio la 1-a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173470",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anastasio I"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173470",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anastasius I"
+    }
+  ]
+}

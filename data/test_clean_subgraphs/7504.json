@@ -1,0 +1,59 @@
+{
+  "question_id": "7504",
+  "answers": [
+    "http://www.wikidata.org/entity/Q180857",
+    "http://www.wikidata.org/entity/Q1130849"
+  ],
+  "gold_path": {
+    "question_id": "7504",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219354",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q219354-BEECFE5C-2094-4252-AD0F-529AAC8F90DD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q219354-BEECFE5C-2094-4252-AD0F-529AAC8F90DD",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q180857"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219354",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q219354-ED01239A-531B-4188-8A35-0B75A63C973C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q219354-ED01239A-531B-4188-8A35-0B75A63C973C",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q1130849"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q219354",
+      "predicate": "http://www.wikidata.org/prop/P413",
+      "object": "http://www.wikidata.org/entity/statement/Q219354-297018B8-8EF0-41DF-B2A9-85D67D2DA27A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219354",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q219354-8DEEA366-F16A-45E2-A36F-E8E8FE38C7E1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219354",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q219354-10ACD434-4E32-4BA3-BD23-7358FFAD0E73"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219354",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q219354-11408334-606D-4043-BE32-30EC2AE7C3AF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219354",
+      "predicate": "http://www.wikidata.org/prop/P1741",
+      "object": "http://www.wikidata.org/entity/statement/Q219354-11D36414-47A3-4C18-9B7A-C7503D2F2338"
+    }
+  ]
+}

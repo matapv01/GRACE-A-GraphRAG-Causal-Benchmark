@@ -1,0 +1,53 @@
+{
+  "question_id": "24920",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36479"
+  ],
+  "gold_path": {
+    "question_id": "24920",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q202866"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P3092",
+        "object": "http://www.wikidata.org/entity/Q205002"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "rdfs:label",
+        "object": "The Lion King"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q36479",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "The Lion King"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36479",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "El rey león"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36479",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Король Лев"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36479",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Løvernes Konge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36479",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Der König der Löwen"
+    }
+  ]
+}

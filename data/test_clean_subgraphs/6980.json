@@ -1,0 +1,53 @@
+{
+  "question_id": "6980",
+  "answers": [
+    "Point(8.722222222 53.922222222)"
+  ],
+  "gold_path": {
+    "question_id": "6980",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1644",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q1644-AD67E1D8-6094-4E06-940F-495E798D4420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1644-AD67E1D8-6094-4E06-940F-495E798D4420",
+        "predicate": "ps:P625",
+        "object": "Point(8.722222222 53.922222222)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1644-AD67E1D8-6094-4E06-940F-495E798D4420",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q1233637"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1644",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Labe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1644",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Elba"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1644",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Elbe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1644",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Elva"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1644",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Łaba"
+    }
+  ]
+}

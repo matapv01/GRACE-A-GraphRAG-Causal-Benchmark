@@ -1,0 +1,53 @@
+{
+  "question_id": "6265",
+  "answers": [
+    "1991-12-25T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6265",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5710",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q5710-6cee0a85-4c8b-ea09-84f1-ecadb1abdec7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5710-6cee0a85-4c8b-ea09-84f1-ecadb1abdec7",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q2184"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5710-6cee0a85-4c8b-ea09-84f1-ecadb1abdec7",
+        "predicate": "pq:P582",
+        "object": "1991-12-25T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5710",
+      "predicate": "http://www.wikidata.org/prop/P706",
+      "object": "http://www.wikidata.org/entity/statement/Q5710-58AC795E-A241-426A-9F42-998ED58813B2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5710",
+      "predicate": "http://www.wikidata.org/prop/P721",
+      "object": "http://www.wikidata.org/entity/statement/q5710-E11959A6-F32C-4554-AF52-A77FA7F505CE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5710",
+      "predicate": "http://www.wikidata.org/prop/P194",
+      "object": "http://www.wikidata.org/entity/statement/Q5710-51edada3-4394-f535-582e-0faa16517149"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5710",
+      "predicate": "http://www.wikidata.org/prop/direct/P194",
+      "object": "http://www.wikidata.org/entity/Q4146671"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5710",
+      "predicate": "http://www.wikidata.org/prop/direct/P721",
+      "object": "80"
+    }
+  ]
+}

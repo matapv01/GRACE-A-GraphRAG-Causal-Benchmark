@@ -1,0 +1,48 @@
+{
+  "question_id": "7136",
+  "answers": [
+    "20"
+  ],
+  "gold_path": {
+    "question_id": "7136",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2270",
+        "predicate": "http://www.wikidata.org/prop/P2054",
+        "object": "http://www.wikidata.org/entity/statement/Q2270-4ea39c64-4a09-4932-4bab-599d84475929"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2270-4ea39c64-4a09-4932-4bab-599d84475929",
+        "predicate": "pq:P2076",
+        "object": "20"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2270",
+      "predicate": "http://www.wikidata.org/prop/direct/P8408",
+      "object": "Benzene"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2270",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85013229"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2270",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4144541-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2270",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q2270-967fb99c-4549-3291-faf7-6f4c9b6bd863"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2270",
+      "predicate": "http://www.wikidata.org/prop/direct/P8814",
+      "object": "14798860-n"
+    }
+  ]
+}

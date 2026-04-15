@@ -1,0 +1,53 @@
+{
+  "question_id": "11242",
+  "answers": [
+    "1848-04-10T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11242",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179126",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q179126-1EB6C871-12C4-4CBC-9EDD-3545C315DB06"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q179126-1EB6C871-12C4-4CBC-9EDD-3545C315DB06",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q271543"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q179126-1EB6C871-12C4-4CBC-9EDD-3545C315DB06",
+        "predicate": "pq:P580",
+        "object": "1848-04-10T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179126",
+      "predicate": "http://www.wikidata.org/prop/direct/P5273",
+      "object": "5697"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179126",
+      "predicate": "http://www.wikidata.org/prop/direct/P5271",
+      "object": "13443"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179126",
+      "predicate": "http://www.wikidata.org/prop/direct/P2252",
+      "object": "6550"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179126",
+      "predicate": "http://www.wikidata.org/prop/direct/P7444",
+      "object": "98999"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179126",
+      "predicate": "http://www.wikidata.org/prop/direct/P7699",
+      "object": "LNB:V*315079;=BL"
+    }
+  ]
+}

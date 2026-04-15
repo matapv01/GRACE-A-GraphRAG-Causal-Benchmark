@@ -1,0 +1,53 @@
+{
+  "question_id": "2959",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4353524"
+  ],
+  "gold_path": {
+    "question_id": "2959",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4353524",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3306242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4353524",
+        "predicate": "http://www.wikidata.org/prop/direct/P2895",
+        "object": "140"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4353524",
+        "predicate": "http://www.wikidata.org/prop/direct/P361",
+        "object": "http://www.wikidata.org/entity/Q4569683"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4353524",
+      "predicate": "http://www.wikidata.org/prop/P502",
+      "object": "http://www.wikidata.org/entity/statement/Q4353524-4c2e5db8-489a-d6df-23a5-76098fd6e41b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4353524",
+      "predicate": "http://www.wikidata.org/prop/direct/P502",
+      "object": "EP121959"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4353524",
+      "predicate": "http://www.wikidata.org/prop/P580",
+      "object": "http://www.wikidata.org/entity/statement/Q4353524-ADD81FF2-36E1-4013-9D1A-69BEA85E52DA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4353524",
+      "predicate": "http://www.wikidata.org/prop/P582",
+      "object": "http://www.wikidata.org/entity/statement/Q4353524-2D8A9DD9-2451-4639-8BEA-1B4C6E28D6AC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4353524",
+      "predicate": "http://www.wikidata.org/prop/direct/P580",
+      "object": "1959-10-22T00:00:00Z"
+    }
+  ]
+}

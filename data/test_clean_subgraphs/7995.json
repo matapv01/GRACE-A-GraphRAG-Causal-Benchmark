@@ -1,0 +1,48 @@
+{
+  "question_id": "7995",
+  "answers": [
+    "http://www.wikidata.org/entity/Q19254253"
+  ],
+  "gold_path": {
+    "question_id": "7995",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17478000",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q17478000-46D70E54-0B19-41EC-9E12-E3EF7A12AFD2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q17478000-46D70E54-0B19-41EC-9E12-E3EF7A12AFD2",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q19254253"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17478000",
+      "predicate": "http://www.wikidata.org/prop/direct/P94",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Iv%C3%A1n%20Duque%20%28Order%20of%20Isabella%20the%20Catholic%29.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17478000",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "no2019089321"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17478000",
+      "predicate": "http://www.wikidata.org/prop/direct/P2397",
+      "object": "UC5wdznN-41mzUBnmMw7f3yw"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17478000",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Iv%C3%A1n%20Duque%20M%C3%A1rquez%20%2849610487797%29%20%28cropped%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17478000",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q2841"
+    }
+  ]
+}

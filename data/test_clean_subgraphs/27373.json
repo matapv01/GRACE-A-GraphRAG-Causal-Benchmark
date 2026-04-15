@@ -1,0 +1,33 @@
+{
+  "question_id": "27373",
+  "answers": [
+    "http://www.wikidata.org/entity/Q19510"
+  ],
+  "gold_path": {
+    "question_id": "27373",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9448",
+        "predicate": "http://www.wikidata.org/prop/direct/P2500",
+        "object": "http://www.wikidata.org/entity/Q19510"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9448",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4527",
+      "object": "http://data.parliament.uk/terms/34664"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9448",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Premier League"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9448",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Английска висша лига"
+    }
+  ]
+}

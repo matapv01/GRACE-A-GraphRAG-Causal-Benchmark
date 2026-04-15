@@ -1,0 +1,49 @@
+{
+  "question_id": "26948",
+  "answers": [
+    "77947",
+    "CI 77947"
+  ],
+  "gold_path": {
+    "question_id": "26948",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190077",
+        "predicate": "http://www.wikidata.org/prop/direct/P2027",
+        "object": "77947"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190077",
+        "predicate": "http://www.wikidata.org/prop/direct/P2027",
+        "object": "CI 77947"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q190077",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P662",
+      "object": "http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID14806"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190077",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P661",
+      "object": "http://rdf.chemspider.com/14122"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190077",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q190077-D3AA9ED3-91B7-4CF5-973D-9C9716C21C15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190077",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P683",
+      "object": "http://purl.obolibrary.org/obo/CHEBI_36560"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190077",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "58"
+    }
+  ]
+}

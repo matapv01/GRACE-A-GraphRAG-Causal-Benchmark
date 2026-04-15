@@ -1,0 +1,48 @@
+{
+  "question_id": "12389",
+  "answers": [
+    "http://www.wikidata.org/entity/Q525"
+  ],
+  "gold_path": {
+    "question_id": "12389",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q601",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q525"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q525",
+        "predicate": "http://www.wikidata.org/prop/direct/P398",
+        "object": "http://www.wikidata.org/entity/Q25395515"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q601",
+      "predicate": "http://www.wikidata.org/prop/direct/P5555",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Haumea.ru.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q601",
+      "predicate": "http://www.wikidata.org/prop/direct/P5555",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Haumea.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q601",
+      "predicate": "http://www.wikidata.org/prop/direct/P5555",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Haumea%20es.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q601",
+      "predicate": "http://www.wikidata.org/prop/direct/P5555",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Haumea%20ring%20moons%20diagram.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q601",
+      "predicate": "http://www.wikidata.org/prop/direct/P5555",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/HaumeaCzech.png"
+    }
+  ]
+}

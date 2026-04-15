@@ -1,0 +1,44 @@
+{
+  "question_id": "28412",
+  "answers": [
+    "ENSG00000274473",
+    "ENSG00000070031"
+  ],
+  "gold_path": {
+    "question_id": "28412",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14820612",
+        "predicate": "http://www.wikidata.org/prop/direct/P594",
+        "object": "ENSG00000070031"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14820612",
+        "predicate": "http://www.wikidata.org/prop/direct/P594",
+        "object": "ENSG00000274473"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14820612",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "11"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14820612",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sekretin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14820612",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sekretyna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14820612",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "SCT"
+    }
+  ]
+}

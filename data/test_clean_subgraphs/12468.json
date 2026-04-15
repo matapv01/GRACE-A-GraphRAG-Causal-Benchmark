@@ -1,0 +1,48 @@
+{
+  "question_id": "12468",
+  "answers": [
+    "http://www.wikidata.org/entity/Q190486"
+  ],
+  "gold_path": {
+    "question_id": "12468",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q190486"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190486",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q833738"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-12T13:36:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.wikidata.org/prop/P3827",
+      "object": "http://www.wikidata.org/entity/statement/Q173412-6BD4ED4E-CC16-4373-8D95-3398803627D3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "radiocarbon-dating"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.wikidata.org/prop/direct/P6385",
+      "object": "nauka_i_tehnika/tehnologiya_i_promyshlennost/RADIOUGLERODNOE_DATIROVANIE.html"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.wikidata.org/prop/P4746",
+      "object": "http://www.wikidata.org/entity/statement/Q173412-B4FB547D-03B2-4DE0-8A68-0682E189F36D"
+    }
+  ]
+}

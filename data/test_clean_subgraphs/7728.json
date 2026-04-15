@@ -1,0 +1,53 @@
+{
+  "question_id": "7728",
+  "answers": [
+    "1929-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7728",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7659829",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q7659829-C4A0B54B-0209-4190-B337-2B74F3E6FB74"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7659829-C4A0B54B-0209-4190-B337-2B74F3E6FB74",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q6869173"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7659829-C4A0B54B-0209-4190-B337-2B74F3E6FB74",
+        "predicate": "pq:P580",
+        "object": "1929-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7659829",
+      "predicate": "http://schema.org/version",
+      "object": "2477169162"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7659829",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7659829",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "32"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7659829",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q7659829-14EDF891-974A-4FF0-8920-150FD42CDF30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7659829",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q7659829-F801D8E0-B5B4-4BF9-87CD-451F13C1D498"
+    }
+  ]
+}

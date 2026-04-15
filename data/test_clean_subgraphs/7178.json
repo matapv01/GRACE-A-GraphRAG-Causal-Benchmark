@@ -1,0 +1,53 @@
+{
+  "question_id": "7178",
+  "answers": [
+    "http://www.wikidata.org/entity/Q183"
+  ],
+  "gold_path": {
+    "question_id": "7178",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q84312",
+        "predicate": "http://www.wikidata.org/prop/P20",
+        "object": "http://www.wikidata.org/entity/statement/q84312-BBF48075-74D7-483D-81A5-3E41219DC5D3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q84312-BBF48075-74D7-483D-81A5-3E41219DC5D3",
+        "predicate": "ps:P20",
+        "object": "http://www.wikidata.org/entity/Q2107"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q84312-BBF48075-74D7-483D-81A5-3E41219DC5D3",
+        "predicate": "pq:P17",
+        "object": "http://www.wikidata.org/entity/Q183"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q84312",
+      "predicate": "http://www.wikidata.org/prop/P5361",
+      "object": "http://www.wikidata.org/entity/statement/Q84312-B13A6149-2F2D-4ABC-B8F3-751EE7C476D4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84312",
+      "predicate": "http://www.wikidata.org/prop/direct/P5361",
+      "object": "NeutraRichardJoseph1892-1970"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84312",
+      "predicate": "http://www.wikidata.org/prop/direct/P11239",
+      "object": "0002817387"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84312",
+      "predicate": "http://www.wikidata.org/prop/direct/P12582",
+      "object": "20110803100230420"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84312",
+      "predicate": "http://www.wikidata.org/prop/direct/P1296",
+      "object": "0045875"
+    }
+  ]
+}

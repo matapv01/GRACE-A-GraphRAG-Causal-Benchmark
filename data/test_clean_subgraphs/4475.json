@@ -1,0 +1,48 @@
+{
+  "question_id": "4475",
+  "answers": [
+    "http://www.wikidata.org/entity/Q900494"
+  ],
+  "gold_path": {
+    "question_id": "4475",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q106057",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q106057-82125D01-1E54-4A55-8CF8-D2EE7D7C4827"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q106057-82125D01-1E54-4A55-8CF8-D2EE7D7C4827",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q900494"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q106057",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q106057-2a0bfad8-4845-c93d-23d4-bda24f397157"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106057",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q106057-CD4FE509-0872-4495-8E18-A84371BE6AB4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106057",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ivo Livi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106057",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "イブ・モンタン"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106057",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ivo Montand"
+    }
+  ]
+}

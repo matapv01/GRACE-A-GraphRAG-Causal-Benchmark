@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "25506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q456"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q22927616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P1456",
+        "object": "http://www.wikidata.org/entity/Q3252117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "rdfs:label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lione"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "135"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "25506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q456"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3252117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "135"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Lione"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q22927616"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "25506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q456"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q22927616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P1456",
+        "object": "http://www.wikidata.org/entity/Q3252117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "rdfs:label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lione"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "135"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8657"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8672"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8848"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8862"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8895"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "25506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q456"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q22927616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P1456",
+        "object": "http://www.wikidata.org/entity/Q3252117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "rdfs:label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lione"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "135"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "25506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q456"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q285",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q285",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q22927616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q285",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q285",
+        "predicate": "http://www.wikidata.org/prop/direct/P1456",
+        "object": "http://www.wikidata.org/entity/Q3252117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q285",
+        "predicate": "rdfs:label",
+        "object": "Lyon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q285",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lione"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q285",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "135"
+      }
+    ]
+  }
+}

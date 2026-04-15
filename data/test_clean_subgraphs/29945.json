@@ -1,0 +1,54 @@
+{
+  "question_id": "29945",
+  "answers": [
+    "http://www.wikidata.org/entity/Q794",
+    "http://www.wikidata.org/entity/Q43"
+  ],
+  "gold_path": {
+    "question_id": "29945",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q794",
+        "predicate": "http://www.wikidata.org/prop/direct/P172",
+        "object": "http://www.wikidata.org/entity/Q12223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q794",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43",
+        "predicate": "http://www.wikidata.org/prop/direct/P172",
+        "object": "http://www.wikidata.org/entity/Q12223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q794",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Persia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q794",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Persien"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q794",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Perse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q794",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Persie"
+    }
+  ]
+}

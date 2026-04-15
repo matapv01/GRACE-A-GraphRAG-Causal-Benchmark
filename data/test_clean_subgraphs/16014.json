@@ -1,0 +1,60 @@
+{
+  "question_id": "16014",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1775461",
+    "http://www.wikidata.org/entity/Q1775415",
+    "http://www.wikidata.org/entity/Q499327"
+  ],
+  "gold_path": {
+    "question_id": "16014",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128085",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775461"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128085",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джордж Солти"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128085",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Дьорд Шолти"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128085",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "György Solti"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128085",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sir Georg Solti"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128085",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Solti"
+    }
+  ]
+}

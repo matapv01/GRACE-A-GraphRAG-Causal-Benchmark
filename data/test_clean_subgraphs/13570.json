@@ -1,0 +1,48 @@
+{
+  "question_id": "13570",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6607"
+  ],
+  "gold_path": {
+    "question_id": "13570",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q346565",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q6607"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6607",
+        "predicate": "http://www.wikidata.org/prop/direct/P186",
+        "object": "http://www.wikidata.org/entity/Q402516"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q346565",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Withers"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q346565",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ويليام هاريسون ويذرز الابن"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q346565",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "William Harrison Withers"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q346565",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bill Withers"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q346565",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ビル・ウィザーズ"
+    }
+  ]
+}

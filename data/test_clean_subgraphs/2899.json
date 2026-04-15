@@ -1,0 +1,101 @@
+{
+  "question_id": "2899",
+  "answers": [
+    "http://www.wikidata.org/entity/Q95205133",
+    "http://www.wikidata.org/entity/Q3295867",
+    "http://www.wikidata.org/entity/Q161140",
+    "http://www.wikidata.org/entity/Q219508"
+  ],
+  "gold_path": {
+    "question_id": "2899",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219508",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q219577"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219508",
+        "predicate": "http://www.wikidata.org/prop/direct/P2403",
+        "object": "1792077000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219508",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q219635"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3295867",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q219577"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3295867",
+        "predicate": "http://www.wikidata.org/prop/direct/P2403",
+        "object": "104333000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3295867",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q219635"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161140",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q219577"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161140",
+        "predicate": "http://www.wikidata.org/prop/direct/P2403",
+        "object": "49322000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161140",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q219635"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161140",
+        "predicate": "http://www.wikidata.org/prop/direct/P2403",
+        "object": "45474000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q95205133",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q219577"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q95205133",
+        "predicate": "http://www.wikidata.org/prop/direct/P2403",
+        "object": "24327000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q95205133",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q219635"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q219508",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سيتي غروب"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219508",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Citigroup"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219508",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Bilirəm"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219508",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سیتیقروپ"
+    }
+  ]
+}

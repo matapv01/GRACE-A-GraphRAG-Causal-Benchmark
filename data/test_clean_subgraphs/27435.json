@@ -1,0 +1,38 @@
+{
+  "question_id": "27435",
+  "answers": [
+    "cantorgeorg"
+  ],
+  "gold_path": {
+    "question_id": "27435",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q76420",
+        "predicate": "http://www.wikidata.org/prop/direct/P2005",
+        "object": "cantorgeorg"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q76420",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "125"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76420",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Георг Кантор"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76420",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "গেয়র্গ কান্টর"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76420",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Georg Cantor"
+    }
+  ]
+}

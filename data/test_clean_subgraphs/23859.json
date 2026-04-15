@@ -1,0 +1,92 @@
+{
+  "question_id": "23859",
+  "answers": [
+    "http://www.wikidata.org/entity/Q29006673",
+    "http://www.wikidata.org/entity/Q29004904",
+    "http://www.wikidata.org/entity/Q29005748",
+    "http://www.wikidata.org/entity/Q29004394",
+    "http://www.wikidata.org/entity/Q29004398"
+  ],
+  "gold_path": {
+    "question_id": "23859",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q29004398",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q169336"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29004398",
+        "predicate": "rdfs:label",
+        "object": "Airexar Spiromax"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29004904",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q169336"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29004904",
+        "predicate": "rdfs:label",
+        "object": "Biresp Spiromax"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29004394",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q169336"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29004394",
+        "predicate": "rdfs:label",
+        "object": "Aerivio Spiromax"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29005748",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q169336"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29005748",
+        "predicate": "rdfs:label",
+        "object": "Duoresp Spiromax"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29006673",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q169336"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29006673",
+        "predicate": "rdfs:label",
+        "object": "Vylaer Spiromax"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q29004398",
+      "predicate": "http://schema.org/description",
+      "object": "pharmaceutical product"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29004398",
+      "predicate": "http://schema.org/description",
+      "object": "фармацевтичний продукт"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29004398",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Airexar Spiromax"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29004398",
+      "predicate": "http://schema.org/version",
+      "object": "2012925951"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29004398",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    }
+  ]
+}

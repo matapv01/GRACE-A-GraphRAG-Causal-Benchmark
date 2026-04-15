@@ -1,0 +1,53 @@
+{
+  "question_id": "6412",
+  "answers": [
+    "636"
+  ],
+  "gold_path": {
+    "question_id": "6412",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5513",
+        "predicate": "http://www.wikidata.org/prop/P2043",
+        "object": "http://www.wikidata.org/entity/statement/Q5513-06c08a7e-4f7f-6fab-01b4-121169c69c0c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5513-06c08a7e-4f7f-6fab-01b4-121169c69c0c",
+        "predicate": "ps:P2043",
+        "object": "636"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5513-06c08a7e-4f7f-6fab-01b4-121169c69c0c",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q10578722"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5513",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "baikal"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5513",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "15381434p"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5513",
+      "predicate": "http://www.wikidata.org/prop/direct/P2614",
+      "object": "http://www.wikidata.org/entity/Q23038981"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5513",
+      "predicate": "http://www.wikidata.org/prop/direct/P2614",
+      "object": "http://www.wikidata.org/entity/Q23038983"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5513",
+      "predicate": "http://www.wikidata.org/prop/direct/P2614",
+      "object": "http://www.wikidata.org/entity/Q23038985"
+    }
+  ]
+}

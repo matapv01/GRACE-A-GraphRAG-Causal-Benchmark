@@ -1,0 +1,69 @@
+{
+  "question_id": "7964",
+  "answers": [
+    "1875-04-01T00:00:00Z",
+    "1886-02-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7964",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5582",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5582-51194f77-43a5-f896-244b-b7345ec3e45c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5582-51194f77-43a5-f896-244b-b7345ec3e45c",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5582-51194f77-43a5-f896-244b-b7345ec3e45c",
+        "predicate": "pq:P580",
+        "object": "1875-04-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5582",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5582-91741f61-427d-cc1e-0ef3-7b439655071d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5582-91741f61-427d-cc1e-0ef3-7b439655071d",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5582-91741f61-427d-cc1e-0ef3-7b439655071d",
+        "predicate": "pq:P580",
+        "object": "1886-02-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/direct/P172",
+      "object": "http://www.wikidata.org/entity/Q200569"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q5582-E1249ED2-64CE-458D-938C-847162F520F4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q5582-C0393772-E163-4BAD-9BC8-240C1733440C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q9883"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Self-Portrait%20-%20Google%20Art%20Project%20%28454045%29.jpg"
+    }
+  ]
+}

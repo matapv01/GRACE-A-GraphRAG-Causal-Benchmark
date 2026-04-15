@@ -1,0 +1,53 @@
+{
+  "question_id": "11453",
+  "answers": [
+    "http://www.wikidata.org/entity/Q56189343"
+  ],
+  "gold_path": {
+    "question_id": "11453",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q50020",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q50020-5AD01D1E-E7CE-4B53-B7BD-0114946727D4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50020-5AD01D1E-E7CE-4B53-B7BD-0114946727D4",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582559"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50020-5AD01D1E-E7CE-4B53-B7BD-0114946727D4",
+        "predicate": "pq:P768",
+        "object": "http://www.wikidata.org/entity/Q56189343"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q50020",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "CFIV019265"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50020",
+      "predicate": "http://www.wikidata.org/prop/direct/P3987",
+      "object": "67964"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50020",
+      "predicate": "http://www.wikidata.org/prop/direct/P6394",
+      "object": "a11166010"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50020",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q41582559"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50020",
+      "predicate": "http://www.wikidata.org/prop/direct/P5617",
+      "object": "john-stuart-mill-1806"
+    }
+  ]
+}

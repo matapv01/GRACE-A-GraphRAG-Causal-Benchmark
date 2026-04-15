@@ -1,0 +1,55 @@
+{
+  "question_id": "12367",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6473930",
+    "http://www.wikidata.org/entity/Q380573",
+    "http://www.wikidata.org/entity/Q7276537"
+  ],
+  "gold_path": {
+    "question_id": "12367",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q311189",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q380573"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q311189",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q6473930"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q311189",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q7276537"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q311189",
+      "predicate": "http://www.wikidata.org/prop/direct/P172",
+      "object": "http://www.wikidata.org/entity/Q145665"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311189",
+      "predicate": "http://www.wikidata.org/prop/P172",
+      "object": "http://www.wikidata.org/entity/statement/Q311189-70C094B1-DE01-4118-8C9E-734F189CC7C2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311189",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Nurhaci"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311189",
+      "predicate": "http://www.wikidata.org/prop/direct/P1785",
+      "object": "太祖"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311189",
+      "predicate": "http://www.wikidata.org/prop/direct/P1785",
+      "object": "ᡨᠠᡳᡯᡠ"
+    }
+  ]
+}

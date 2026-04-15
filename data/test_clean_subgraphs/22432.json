@@ -1,0 +1,48 @@
+{
+  "question_id": "22432",
+  "answers": [
+    "http://www.wikidata.org/entity/Q29006676"
+  ],
+  "gold_path": {
+    "question_id": "22432",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q29006676",
+        "predicate": "http://www.wikidata.org/prop/direct/P3781",
+        "object": "http://www.wikidata.org/entity/Q758"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29006676",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q169336"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q29006676",
+      "predicate": "http://schema.org/description",
+      "object": "pharmaceutical product"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29006676",
+      "predicate": "http://schema.org/description",
+      "object": "фармацевтичний продукт"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29006676",
+      "predicate": "http://schema.org/description",
+      "object": "zdravilo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29006676",
+      "predicate": "http://schema.org/version",
+      "object": "2229569166"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29006676",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q29006676-DB0F7789-D90C-4181-A24B-6B3D0AFB638D"
+    }
+  ]
+}

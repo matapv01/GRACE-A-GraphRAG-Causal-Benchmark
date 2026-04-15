@@ -1,0 +1,80 @@
+{
+  "question_id": "25267",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1151172",
+    "http://www.wikidata.org/entity/Q7639392",
+    "http://www.wikidata.org/entity/Q11337751"
+  ],
+  "gold_path": {
+    "question_id": "25267",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7639392",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q623109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7639392",
+        "predicate": "http://www.wikidata.org/prop/direct/P4794",
+        "object": "http://www.wikidata.org/entity/Q118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7639392",
+        "predicate": "rdfs:label",
+        "object": "Sunday Football League"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11337751",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q623109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11337751",
+        "predicate": "http://www.wikidata.org/prop/direct/P4794",
+        "object": "http://www.wikidata.org/entity/Q118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11337751",
+        "predicate": "rdfs:label",
+        "object": "Hockey Japan League"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1151172",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q623109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1151172",
+        "predicate": "http://www.wikidata.org/prop/direct/P4794",
+        "object": "http://www.wikidata.org/entity/Q118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1151172",
+        "predicate": "rdfs:label",
+        "object": "National Professional Soccer League"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7639392",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7639392",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-06T21:15:44Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7639392",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sunday Football League"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7639392",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sekmadienio futbolo lyga"
+    }
+  ]
+}

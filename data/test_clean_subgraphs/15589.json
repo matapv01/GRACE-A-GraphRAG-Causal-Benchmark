@@ -1,0 +1,54 @@
+{
+  "question_id": "15589",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17034340",
+    "http://www.wikidata.org/entity/Q2917709"
+  ],
+  "gold_path": {
+    "question_id": "15589",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5540398",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q3130"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3130",
+        "predicate": "http://www.wikidata.org/prop/direct/P2184",
+        "object": "http://www.wikidata.org/entity/Q2917709"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3130",
+        "predicate": "http://www.wikidata.org/prop/direct/P2184",
+        "object": "http://www.wikidata.org/entity/Q17034340"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5540398",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "24"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5540398",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q5540398-C3EB65F7-77A1-4F5F-8D31-44CC6D078208"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5540398",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5540398",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/04zzhdb"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5540398",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q5540398-cc09fb7d-4081-4b7f-84b2-3cf4f97f944b"
+    }
+  ]
+}

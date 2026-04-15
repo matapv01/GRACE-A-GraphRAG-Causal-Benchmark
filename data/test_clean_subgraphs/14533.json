@@ -1,0 +1,48 @@
+{
+  "question_id": "14533",
+  "answers": [
+    "110"
+  ],
+  "gold_path": {
+    "question_id": "14533",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q376903",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q739"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q739",
+        "predicate": "http://www.wikidata.org/prop/direct/P2884",
+        "object": "110"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q376903",
+      "predicate": "http://www.wikidata.org/prop/direct/P1830",
+      "object": "http://www.wikidata.org/entity/Q5400098"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q376903",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Valledupar.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q376903",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://www.valledupar.gov.co/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q376903",
+      "predicate": "http://www.wikidata.org/prop/direct/P85",
+      "object": "http://www.wikidata.org/entity/Q17073279"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q376903",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n83205549"
+    }
+  ]
+}

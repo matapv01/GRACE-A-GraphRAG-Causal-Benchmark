@@ -1,0 +1,72 @@
+{
+  "question_id": "16456",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1155964",
+    "http://www.wikidata.org/entity/Q313327",
+    "http://www.wikidata.org/entity/Q1147819",
+    "http://www.wikidata.org/entity/Q848783",
+    "http://www.wikidata.org/entity/Q283993"
+  ],
+  "gold_path": {
+    "question_id": "16456",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q986561",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q380598"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q380598",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q283993"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q380598",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q313327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q380598",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q848783"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q380598",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q1147819"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q380598",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q1155964"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q986561",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q986561",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q986561",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Conquestes de Sun Ce a Jiangdong"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q986561",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sun Ce's conquests in Jiangdong"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q986561",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "孫策の江東平定"
+    }
+  ]
+}

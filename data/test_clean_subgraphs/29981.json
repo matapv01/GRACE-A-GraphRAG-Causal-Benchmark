@@ -1,0 +1,70 @@
+{
+  "question_id": "29981",
+  "answers": [
+    "http://www.wikidata.org/entity/Q773432",
+    "http://www.wikidata.org/entity/Q695565",
+    "http://www.wikidata.org/entity/Q989288"
+  ],
+  "gold_path": {
+    "question_id": "29981",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q505802",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q695565"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q695565",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1093829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q505802",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q773432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q773432",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1093829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q505802",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q989288"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q989288",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1093829"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "48"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T11:25:40Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "75"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/version",
+      "object": "2478525260"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/description",
+      "object": "tutkimusmatka Yhdysvaltojen länsirannikolle vuosina 1804–1806"
+    }
+  ]
+}

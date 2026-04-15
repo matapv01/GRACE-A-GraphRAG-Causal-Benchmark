@@ -1,0 +1,43 @@
+{
+  "question_id": "30119",
+  "answers": [
+    "http://www.wikidata.org/entity/Q408"
+  ],
+  "gold_path": {
+    "question_id": "30119",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q408",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q408",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-14T00:34:04Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Australia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "אוסטרליה"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Australie"
+    }
+  ]
+}

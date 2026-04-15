@@ -1,0 +1,53 @@
+{
+  "question_id": "11404",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5247364"
+  ],
+  "gold_path": {
+    "question_id": "11404",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q83174",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q83174-44E41D10-7639-4F5D-B7FB-DAA75EF0AE92"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q83174-44E41D10-7639-4F5D-B7FB-DAA75EF0AE92",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q826589"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q83174-44E41D10-7639-4F5D-B7FB-DAA75EF0AE92",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q5247364"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q83174",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-29T00:35:59Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83174",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "1201846"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83174",
+      "predicate": "http://www.wikidata.org/prop/direct/P2549",
+      "object": "9670"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83174",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "eugenio-montale"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83174",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Eugenio_Montale"
+    }
+  ]
+}

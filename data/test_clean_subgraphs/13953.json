@@ -1,0 +1,48 @@
+{
+  "question_id": "13953",
+  "answers": [
+    "http://www.wikidata.org/entity/Q231318"
+  ],
+  "gold_path": {
+    "question_id": "13953",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1150344",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q231318"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q231318",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q406"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1150344",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1150344",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "26"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1150344",
+      "predicate": "http://schema.org/version",
+      "object": "2393208469"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1150344",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "22"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1150344",
+      "predicate": "http://schema.org/description",
+      "object": "историческое государство"
+    }
+  ]
+}

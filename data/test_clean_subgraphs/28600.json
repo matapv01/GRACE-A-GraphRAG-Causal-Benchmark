@@ -1,0 +1,49 @@
+{
+  "question_id": "28600",
+  "answers": [
+    "521185",
+    "56366202"
+  ],
+  "gold_path": {
+    "question_id": "28600",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q283221",
+        "predicate": "http://www.wikidata.org/prop/direct/P2723",
+        "object": "521185"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q283221",
+        "predicate": "http://www.wikidata.org/prop/direct/P2723",
+        "object": "56366202"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q283221",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "24"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283221",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ازرق نوعا ما"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283221",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "KoB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283221",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kind of Blue"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283221",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Kind of Blue"
+    }
+  ]
+}

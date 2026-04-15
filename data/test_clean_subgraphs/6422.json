@@ -1,0 +1,59 @@
+{
+  "question_id": "6422",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1140152",
+    "http://www.wikidata.org/entity/Q174193"
+  ],
+  "gold_path": {
+    "question_id": "6422",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189592",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q189592-1ef8b343-44ce-2f28-4aa8-ab849a0784ca"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189592-1ef8b343-44ce-2f28-4aa8-ab849a0784ca",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q1140152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189592",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q189592-f4ea8dc1-4930-e095-128d-e290189fad83"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189592-f4ea8dc1-4930-e095-128d-e290189fad83",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q174193"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189592",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T16:12:54Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189592",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "154812712"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189592",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "148949521"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189592",
+      "predicate": "http://www.wikidata.org/prop/P214",
+      "object": "http://www.wikidata.org/entity/statement/Q189592-4FFE7157-4A32-4678-AF46-27B6A2AF247B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189592",
+      "predicate": "http://www.wikidata.org/prop/P214",
+      "object": "http://www.wikidata.org/entity/statement/Q189592-FBA22704-C0EE-4A6B-AD66-1A17956D7A7D"
+    }
+  ]
+}

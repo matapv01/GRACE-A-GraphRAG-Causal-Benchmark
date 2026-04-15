@@ -1,0 +1,53 @@
+{
+  "question_id": "3963",
+  "answers": [
+    "1940-08-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "3963",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2514",
+        "predicate": "http://www.wikidata.org/prop/P27",
+        "object": "http://www.wikidata.org/entity/statement/Q2514-ada717c4-4971-1487-85ca-fd81b40e6d8e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2514-ada717c4-4971-1487-85ca-fd81b40e6d8e",
+        "predicate": "ps:P27",
+        "object": "http://www.wikidata.org/entity/Q20"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2514-ada717c4-4971-1487-85ca-fd81b40e6d8e",
+        "predicate": "pq:P580",
+        "object": "1940-08-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2514",
+      "predicate": "http://www.wikidata.org/prop/direct/P1225",
+      "object": "10568026"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2514",
+      "predicate": "http://www.wikidata.org/prop/direct/P1953",
+      "object": "430925"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2514",
+      "predicate": "http://www.wikidata.org/prop/direct/P443",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/De-Willy%20Brandt.ogg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2514",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "1362621"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2514",
+      "predicate": "http://www.wikidata.org/prop/direct/P2963",
+      "object": "224550"
+    }
+  ]
+}

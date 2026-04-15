@@ -1,0 +1,58 @@
+{
+  "question_id": "10293",
+  "answers": [
+    "1961-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10293",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/P108",
+        "object": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "ps:P108",
+        "object": "http://www.wikidata.org/entity/Q608427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "1961-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1956-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q50599",
+      "predicate": "http://www.wikidata.org/prop/direct/P2600",
+      "object": "6000000001903788696"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50599",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1923-11-18T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50599",
+      "predicate": "http://www.wikidata.org/prop/direct/P12285",
+      "object": "ted-stevens"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50599",
+      "predicate": "http://www.wikidata.org/prop/direct/P1157",
+      "object": "S000888"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50599",
+      "predicate": "http://www.wikidata.org/prop/direct/P10678",
+      "object": "1474"
+    }
+  ]
+}

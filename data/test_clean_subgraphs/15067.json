@@ -1,0 +1,76 @@
+{
+  "question_id": "15067",
+  "answers": [
+    "051",
+    "031",
+    "0813",
+    "0913"
+  ],
+  "gold_path": {
+    "question_id": "15067",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3708094",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q28587"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28587",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "0813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3708094",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q42053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42053",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "0913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42053",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "031"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3708094",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q131350"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131350",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "051"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3708094",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4212",
+      "object": "https://ark.frantiq.fr/ark:/26678/pcrtRDogQx2UQQ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3708094",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/Q3708094-b2d5a9da-40bb-e624-3dd9-a3912d7a1e3d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3708094",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seljuk%20Empire%20%2816%20Great%20Turkic%20Empires%29%202.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3708094",
+      "predicate": "http://www.wikidata.org/prop/direct/P4212",
+      "object": "pcrtRDogQx2UQQ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3708094",
+      "predicate": "http://www.wikidata.org/prop/P4212",
+      "object": "http://www.wikidata.org/entity/statement/Q3708094-e6c2ec90-40e2-e2d1-9f14-63fbab9002d7"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "question_id": "17329",
+  "answers": [
+    "Fulton County",
+    "State of Georgia"
+  ],
+  "gold_path": {
+    "question_id": "17329",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23556",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q1428"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1428",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "State of Georgia"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23556",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q486633"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q486633",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Fulton County"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23556",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "98"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23556",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-14T03:27:16Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23556",
+      "predicate": "http://schema.org/version",
+      "object": "2481249940"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23556",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Atlanta"
+    }
+  ]
+}

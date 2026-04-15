@@ -1,0 +1,59 @@
+{
+  "question_id": "5861",
+  "answers": [
+    "http://www.wikidata.org/entity/Q765404",
+    "http://www.wikidata.org/entity/Q922379"
+  ],
+  "gold_path": {
+    "question_id": "5861",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q717302",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q717302-4AC40AF2-9DA6-4215-80EE-350D72383C2B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q717302-4AC40AF2-9DA6-4215-80EE-350D72383C2B",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q765404"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q717302",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q717302-EF784C02-B584-4E71-95AB-741B7A750C0D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q717302-EF784C02-B584-4E71-95AB-741B7A750C0D",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q922379"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q717302",
+      "predicate": "http://www.wikidata.org/prop/P8971",
+      "object": "http://www.wikidata.org/entity/statement/Q717302-61b6bb13-7d50-47c0-85a7-5a9ef2204c70"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q717302",
+      "predicate": "http://www.wikidata.org/prop/direct/P8971",
+      "object": "144429"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q717302",
+      "predicate": "http://www.wikidata.org/prop/direct/P9995",
+      "object": "115604"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q717302",
+      "predicate": "http://www.wikidata.org/prop/P9995",
+      "object": "http://www.wikidata.org/entity/statement/Q717302-61C6873F-CB93-42A0-BDA7-628C6327E03E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q717302",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007429346905171"
+    }
+  ]
+}

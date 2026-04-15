@@ -1,0 +1,49 @@
+{
+  "question_id": "7028",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2142",
+    "http://www.wikidata.org/entity/Q752269"
+  ],
+  "gold_path": {
+    "question_id": "7028",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q477916",
+        "predicate": "http://www.wikidata.org/prop/P725",
+        "object": "http://www.wikidata.org/entity/statement/Q477916-96BFE856-F1D9-4424-AD81-8F580BA06663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q477916-96BFE856-F1D9-4424-AD81-8F580BA06663",
+        "predicate": "ps:P725",
+        "object": "http://www.wikidata.org/entity/Q259422"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q477916-96BFE856-F1D9-4424-AD81-8F580BA06663",
+        "predicate": "pq:P453",
+        "object": "http://www.wikidata.org/entity/Q2142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q477916-96BFE856-F1D9-4424-AD81-8F580BA06663",
+        "predicate": "pq:P453",
+        "object": "http://www.wikidata.org/entity/Q752269"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q477916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Dragon Ball Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q477916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "DBZ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q477916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Dragonball"
+    }
+  ]
+}

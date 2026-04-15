@@ -1,0 +1,66 @@
+{
+  "question_id": "14720",
+  "answers": [
+    "http://www.wikidata.org/entity/Q190025",
+    "http://www.wikidata.org/entity/Q774",
+    "http://www.wikidata.org/entity/Q695660",
+    "http://www.wikidata.org/entity/Q68257522"
+  ],
+  "gold_path": {
+    "question_id": "14720",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20676955",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q1555"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1555",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q774"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1555",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q190025"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1555",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q695660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1555",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q68257522"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20676955",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-12-30T18:45:12Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20676955",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q20676955-12B509E6-9731-449E-BB29-ACD40754DD2E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20676955",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1992-04-06T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20676955",
+      "predicate": "http://www.wikidata.org/prop/P2574",
+      "object": "http://www.wikidata.org/entity/statement/Q20676955-9437CBD2-C70C-43B3-BDE7-ADC2D43EFCB2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20676955",
+      "predicate": "http://www.wikidata.org/prop/P5750",
+      "object": "http://www.wikidata.org/entity/statement/Q20676955-01EB98AA-979E-4871-AEB5-85B39A18FDA1"
+    }
+  ]
+}

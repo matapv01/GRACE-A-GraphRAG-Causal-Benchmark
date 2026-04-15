@@ -1,0 +1,54 @@
+{
+  "question_id": "19904",
+  "answers": [
+    "http://www.wikidata.org/entity/Q139497",
+    "http://www.wikidata.org/entity/Q139088"
+  ],
+  "gold_path": {
+    "question_id": "19904",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q139088",
+        "predicate": "http://www.wikidata.org/prop/direct/P501",
+        "object": "http://www.wikidata.org/entity/Q340"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139088",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q171441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139497",
+        "predicate": "http://www.wikidata.org/prop/direct/P501",
+        "object": "http://www.wikidata.org/entity/Q340"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139497",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q171441"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q139088",
+      "predicate": "http://www.wikidata.org/prop/direct/P361",
+      "object": "http://www.wikidata.org/entity/Q656150"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q139088",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q27676416"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q139088",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q104782082"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q139088",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulica%20w%20Mont%20Royal.JPG"
+    }
+  ]
+}

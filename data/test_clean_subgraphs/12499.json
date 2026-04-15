@@ -1,0 +1,48 @@
+{
+  "question_id": "12499",
+  "answers": [
+    "http://www.wikidata.org/entity/Q357792"
+  ],
+  "gold_path": {
+    "question_id": "12499",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179970",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q357792"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q357792",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q26268774"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179970",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179970",
+      "predicate": "http://schema.org/version",
+      "object": "2473416647"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179970",
+      "predicate": "http://schema.org/description",
+      "object": "jezioro"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179970",
+      "predicate": "http://schema.org/description",
+      "object": "بحيرة في أستراليا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179970",
+      "predicate": "http://schema.org/description",
+      "object": "অস্ট্রেলিয়ার হ্রদ"
+    }
+  ]
+}

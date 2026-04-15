@@ -1,0 +1,43 @@
+{
+  "question_id": "28898",
+  "answers": [
+    "1915-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "28898",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q663365",
+        "predicate": "http://www.wikidata.org/prop/direct/P575",
+        "object": "1915-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q663365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Chaos-Spiel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q663365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "هرم سيربنسكي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q663365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Triangle de Sierpinski"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q663365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sierpinski tætning/pakning"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q663365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sierpinski trekant"
+    }
+  ]
+}

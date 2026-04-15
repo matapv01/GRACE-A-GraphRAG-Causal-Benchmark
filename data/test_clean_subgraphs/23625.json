@@ -1,0 +1,38 @@
+{
+  "question_id": "23625",
+  "answers": [
+    "http://www.wikidata.org/entity/Q32110"
+  ],
+  "gold_path": {
+    "question_id": "23625",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q32110",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2661442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32110",
+        "predicate": "rdfs:label",
+        "object": "XSLT"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q32110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Extensible Stylesheet Language Transformations"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "XSLT"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "XSL Transformations"
+    }
+  ]
+}

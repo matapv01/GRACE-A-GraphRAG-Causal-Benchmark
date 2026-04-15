@@ -1,0 +1,49 @@
+{
+  "question_id": "29448",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7707",
+    "http://www.wikidata.org/entity/Q11659512"
+  ],
+  "gold_path": {
+    "question_id": "29448",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7707",
+        "predicate": "http://www.wikidata.org/prop/direct/P797",
+        "object": "http://www.wikidata.org/entity/Q189289"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11659512",
+        "predicate": "http://www.wikidata.org/prop/direct/P797",
+        "object": "http://www.wikidata.org/entity/Q189289"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7707",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007551273505171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7707",
+      "predicate": "http://www.wikidata.org/prop/direct/P8885",
+      "object": "수구"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7707",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "vandpolo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7707",
+      "predicate": "http://www.wikidata.org/prop/direct/P8814",
+      "object": "00465546-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7707",
+      "predicate": "http://www.wikidata.org/prop/direct/P8248",
+      "object": "MY256"
+    }
+  ]
+}

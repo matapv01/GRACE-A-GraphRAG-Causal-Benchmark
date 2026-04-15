@@ -1,0 +1,61 @@
+{
+  "question_id": "28178",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1743216",
+    "http://www.wikidata.org/entity/Q159583",
+    "http://www.wikidata.org/entity/Q665037",
+    "http://www.wikidata.org/entity/Q9592"
+  ],
+  "gold_path": {
+    "question_id": "28178",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19546",
+        "predicate": "http://www.wikidata.org/prop/direct/P2389",
+        "object": "http://www.wikidata.org/entity/Q9592"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19546",
+        "predicate": "http://www.wikidata.org/prop/direct/P2389",
+        "object": "http://www.wikidata.org/entity/Q159583"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19546",
+        "predicate": "http://www.wikidata.org/prop/direct/P2389",
+        "object": "http://www.wikidata.org/entity/Q665037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19546",
+        "predicate": "http://www.wikidata.org/prop/direct/P2389",
+        "object": "http://www.wikidata.org/entity/Q1743216"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19546",
+      "predicate": "http://www.wikidata.org/prop/direct/P2004",
+      "object": "38638"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19546",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "påve"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19546",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "The-Papacy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19546",
+      "predicate": "http://www.wikidata.org/prop/direct/P3241",
+      "object": "12260a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19546",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "00569669"
+    }
+  ]
+}

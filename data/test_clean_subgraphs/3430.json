@@ -1,0 +1,81 @@
+{
+  "question_id": "3430",
+  "answers": [
+    "http://www.wikidata.org/entity/Q332",
+    "http://www.wikidata.org/entity/Q193",
+    "http://www.wikidata.org/entity/Q319",
+    "http://www.wikidata.org/entity/Q324"
+  ],
+  "gold_path": {
+    "question_id": "3430",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q332",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q30014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q332",
+        "predicate": "http://www.wikidata.org/prop/direct/P1096",
+        "object": "0.009456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q324",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q30014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q324",
+        "predicate": "http://www.wikidata.org/prop/direct/P1096",
+        "object": "0.04725744"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q319",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q30014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q319",
+        "predicate": "http://www.wikidata.org/prop/direct/P1096",
+        "object": "0.04839266"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q30014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193",
+        "predicate": "http://www.wikidata.org/prop/direct/P1096",
+        "object": "0.05386179"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "نيڤتون"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "רהב"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Waruna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptuno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nettunu"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "13855",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1553"
+  ],
+  "gold_path": {
+    "question_id": "13855",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9004166",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q1553"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1553",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q495834"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9004166",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Nebraskas historie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9004166",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Geschichte Nebraskas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9004166",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "history of Nebraska"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9004166",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "historio de Nebrasko"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9004166",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "historia de Nebraska"
+    }
+  ]
+}

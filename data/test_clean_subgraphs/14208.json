@@ -1,0 +1,48 @@
+{
+  "question_id": "14208",
+  "answers": [
+    "http://www.wikidata.org/entity/Q220"
+  ],
+  "gold_path": {
+    "question_id": "14208",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q683189",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q220",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q242661"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q683189",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Скаппи, Бартоломео"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q683189",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q683189-4C76890E-CD9A-4011-95AB-86CB5B792172"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q683189",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Scappi.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q683189",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "16"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q683189",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q683189-A833A162-A280-484F-BA89-E911790DC685"
+    }
+  ]
+}

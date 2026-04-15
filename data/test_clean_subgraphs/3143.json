@@ -1,0 +1,53 @@
+{
+  "question_id": "3143",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8077503"
+  ],
+  "gold_path": {
+    "question_id": "3143",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8077503",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12042110"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8077503",
+        "predicate": "http://www.wikidata.org/prop/direct/P2555",
+        "object": "15"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8077503",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7814330"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8077503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "جسر جناق قلعة 1915"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8077503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Most Dardanelly"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8077503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Çanakkale 1915 Bridge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8077503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Çanakkale Suspension Bridge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8077503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Dardanelles Bridge"
+    }
+  ]
+}

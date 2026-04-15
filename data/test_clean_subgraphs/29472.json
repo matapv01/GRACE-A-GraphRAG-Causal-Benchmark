@@ -1,0 +1,43 @@
+{
+  "question_id": "29472",
+  "answers": [
+    "39156-5"
+  ],
+  "gold_path": {
+    "question_id": "29472",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131191",
+        "predicate": "http://www.wikidata.org/prop/direct/P4338",
+        "object": "39156-5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131191",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "50"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131191",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p21142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131191",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2780221984"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131191",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1617",
+      "object": "http://www.bbc.co.uk/things/df4b9eba-a3ea-4fbf-b20b-882566f6e383#id"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131191",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P672",
+      "object": "http://id.nlm.nih.gov/mesh/E01.370.600.115.100.125"
+    }
+  ]
+}

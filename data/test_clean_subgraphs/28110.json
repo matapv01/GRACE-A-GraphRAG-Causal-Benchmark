@@ -1,0 +1,38 @@
+{
+  "question_id": "28110",
+  "answers": [
+    "http://www.wikidata.org/entity/Q46"
+  ],
+  "gold_path": {
+    "question_id": "28110",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q238",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q238",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SMR"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q238",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SM"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q238",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "🇸🇲"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q238",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "sm"
+    }
+  ]
+}

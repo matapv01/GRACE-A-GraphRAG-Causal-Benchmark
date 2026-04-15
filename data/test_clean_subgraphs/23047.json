@@ -1,0 +1,59 @@
+{
+  "question_id": "23047",
+  "answers": [
+    "http://www.wikidata.org/entity/Q188611",
+    "http://www.wikidata.org/entity/Q1869874"
+  ],
+  "gold_path": {
+    "question_id": "23047",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131755",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q188611"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188611",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131755",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q1869874"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1869874",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "циклофрения"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "manodepressiv"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "BD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "TAB"
+    }
+  ]
+}

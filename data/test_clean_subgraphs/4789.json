@@ -1,0 +1,69 @@
+{
+  "question_id": "4789",
+  "answers": [
+    "1974-01-01T00:00:00Z",
+    "1972-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4789",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q505256",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q505256-44D1B09E-1037-4C41-91A9-1F5CE761D5A5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q505256-44D1B09E-1037-4C41-91A9-1F5CE761D5A5",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q835765"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q505256-44D1B09E-1037-4C41-91A9-1F5CE761D5A5",
+        "predicate": "pq:P585",
+        "object": "1974-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q505256",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q505256-75B979BE-054D-4DD7-960B-B8CDF232C6EA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q505256-75B979BE-054D-4DD7-960B-B8CDF232C6EA",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q835765"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q505256-75B979BE-054D-4DD7-960B-B8CDF232C6EA",
+        "predicate": "pq:P585",
+        "object": "1972-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q505256",
+      "predicate": "http://schema.org/version",
+      "object": "2408259681"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505256",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-09-22T08:38:39Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505256",
+      "predicate": "http://schema.org/description",
+      "object": "giocatore di football americano statunitense"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505256",
+      "predicate": "http://schema.org/description",
+      "object": "US-amerikanischer Schauspieler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505256",
+      "predicate": "http://schema.org/description",
+      "object": "usona aktoro"
+    }
+  ]
+}

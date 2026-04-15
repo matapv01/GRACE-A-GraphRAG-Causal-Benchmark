@@ -1,0 +1,43 @@
+{
+  "question_id": "30199",
+  "answers": [
+    "http://www.wikidata.org/entity/Q189608"
+  ],
+  "gold_path": {
+    "question_id": "30199",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189608",
+        "predicate": "http://www.wikidata.org/prop/direct/P306",
+        "object": "http://www.wikidata.org/entity/Q47604"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189608",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q751046"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189608",
+      "predicate": "http://schema.org/version",
+      "object": "1361465048"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189608",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189608",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189608",
+      "predicate": "http://www.wikidata.org/prop/direct/P2067",
+      "object": "14"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "30070",
+  "answers": [
+    "http://www.wikidata.org/entity/Q101333"
+  ],
+  "gold_path": {
+    "question_id": "30070",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9041",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q101333"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q101333",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12015335"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9041",
+      "predicate": "http://www.wikidata.org/prop/direct/P4389",
+      "object": "ap24508"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9041",
+      "predicate": "http://www.wikidata.org/prop/direct/P4389",
+      "object": "cp37593"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9041",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "جيمس وات"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9041",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джэймз Ват"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9041",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джэймз Уат"
+    }
+  ]
+}

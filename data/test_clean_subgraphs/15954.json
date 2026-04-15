@@ -1,0 +1,38 @@
+{
+  "question_id": "15954",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1007356"
+  ],
+  "gold_path": {
+    "question_id": "15954",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q62414",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q1939555"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1939555",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q1007356"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.wikidata.org/prop/P1280",
+      "object": "http://www.wikidata.org/entity/statement/Q62414-2C661D75-7EFA-4E67-B3A5-DA912B9C8A69"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Moritz Pfeil"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "জেন্স ড্যানিয়েল"
+    }
+  ]
+}

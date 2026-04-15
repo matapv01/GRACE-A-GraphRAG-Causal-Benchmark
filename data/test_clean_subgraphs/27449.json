@@ -1,0 +1,43 @@
+{
+  "question_id": "27449",
+  "answers": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Burlington%20Vermont%20City%20Hall%20Feb%2011.jpg"
+  ],
+  "gold_path": {
+    "question_id": "27449",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q31058",
+        "predicate": "http://www.wikidata.org/prop/direct/P5252",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Burlington%20Vermont%20City%20Hall%20Feb%2011.jpg"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q31058",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "BTV"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31058",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "برلینگتن"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31058",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "伯灵顿"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31058",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Queen City"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31058",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Burlington, VT"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "17274",
+  "answers": [
+    "0350-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "17274",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q101017",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q226868"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q226868",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0350-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q101017",
+      "predicate": "http://www.wikidata.org/prop/P672",
+      "object": "http://www.wikidata.org/entity/statement/Q101017-37309f55-4adf-e921-ddbc-57ce6ee3c13a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q101017",
+      "predicate": "http://www.wikidata.org/prop/P3827",
+      "object": "http://www.wikidata.org/entity/statement/Q101017-4832C24F-9EB2-4F57-B41D-0C0AFD5ECCDA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q101017",
+      "predicate": "http://www.wikidata.org/prop/direct/P672",
+      "object": "E05.196.155.249"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q101017",
+      "predicate": "http://www.wikidata.org/prop/P6366",
+      "object": "http://www.wikidata.org/entity/statement/Q101017-31457286-81A5-4CF3-A359-58F529427387"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q101017",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "distillation"
+    }
+  ]
+}

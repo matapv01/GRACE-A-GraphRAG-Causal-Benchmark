@@ -1,0 +1,76 @@
+{
+  "question_id": "20187",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16543745",
+    "http://www.wikidata.org/entity/Q48623554",
+    "http://www.wikidata.org/entity/Q126145530",
+    "http://www.wikidata.org/entity/Q50183178"
+  ],
+  "gold_path": {
+    "question_id": "20187",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16543745",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16543745",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4164871"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48623554",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48623554",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4164871"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50183178",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50183178",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4164871"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126145530",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126145530",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4164871"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16543745",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/12z84m57g"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16543745",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16543745",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16543745",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q294414"
+    }
+  ]
+}

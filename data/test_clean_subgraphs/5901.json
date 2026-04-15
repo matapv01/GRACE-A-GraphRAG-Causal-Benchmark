@@ -1,0 +1,53 @@
+{
+  "question_id": "5901",
+  "answers": [
+    "1995-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5901",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318736",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q318736-A12327B3-27B0-48C5-9137-7C935DC2B0F8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318736-A12327B3-27B0-48C5-9137-7C935DC2B0F8",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3319305"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318736-A12327B3-27B0-48C5-9137-7C935DC2B0F8",
+        "predicate": "pq:P585",
+        "object": "1995-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318736",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fern%C3%A1n%20G%C3%B3mez.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318736",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q2868"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318736",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q318736-66401149-E2DA-47C8-9CD9-8F63DC8B61E4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318736",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q318736-018EEA79-4BE7-4ABB-9EBF-5255B69FC470"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318736",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-12T09:18:14Z"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "17911",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34493"
+  ],
+  "gold_path": {
+    "question_id": "17911",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4562689",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q750080"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q750080",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q34493"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4562689",
+      "predicate": "http://schema.org/description",
+      "object": "British motorcycle speedway season"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4562689",
+      "predicate": "http://schema.org/description",
+      "object": "sportseizoen van een Speedwaycompetitie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4562689",
+      "predicate": "http://schema.org/version",
+      "object": "2018773101"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4562689",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "1930 Speedway Northern League"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4562689",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "8597",
+  "answers": [
+    "1960-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8597",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q511533",
+        "predicate": "http://www.wikidata.org/prop/P1037",
+        "object": "http://www.wikidata.org/entity/statement/Q511533-c931fc4f-43ac-c3e6-89c5-7ae99a4b8043"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q511533-c931fc4f-43ac-c3e6-89c5-7ae99a4b8043",
+        "predicate": "ps:P1037",
+        "object": "http://www.wikidata.org/entity/Q11689899"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q511533-c931fc4f-43ac-c3e6-89c5-7ae99a4b8043",
+        "predicate": "pq:P582",
+        "object": "1960-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q511533",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-20T13:31:06Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q511533",
+      "predicate": "http://schema.org/version",
+      "object": "2464957114"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q511533",
+      "predicate": "http://schema.org/description",
+      "object": "egunkaria"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q511533",
+      "predicate": "http://schema.org/description",
+      "object": "krant uit Spanje"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q511533",
+      "predicate": "http://schema.org/description",
+      "object": "periódico español"
+    }
+  ]
+}

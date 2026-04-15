@@ -1,0 +1,402 @@
+{
+  "clean": {
+    "question_id": "14071",
+    "answers": [
+      "http://www.wikidata.org/entity/Q332"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptunus II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptune II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q332",
+        "predicate": "http://www.wikidata.org/prop/direct/P398",
+        "object": "http://www.wikidata.org/entity/Q3218345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q332"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "N\u00e9iriad"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03b1\u03c2 \u0399\u0399"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptun II"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "14071",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptunus II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptune II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "N\u00e9iriad"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03b1\u03c2 \u0399\u0399"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptun II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3218345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q332"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "14071",
+    "answers": [
+      "http://www.wikidata.org/entity/Q332"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptunus II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptune II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q332",
+        "predicate": "http://www.wikidata.org/prop/direct/P398",
+        "object": "http://www.wikidata.org/entity/Q3218345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q332"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "N\u00e9iriad"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03b1\u03c2 \u0399\u0399"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptun II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q193"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q319"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q324"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "14071",
+    "answers": [
+      "http://www.wikidata.org/entity/Q332"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptunus II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptune II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q332",
+        "predicate": "http://www.wikidata.org/prop/direct/P398",
+        "object": "http://www.wikidata.org/entity/Q3218345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q332"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "N\u00e9iriad"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03b1\u03c2 \u0399\u0399"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptun II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q142-d0efe03e-460e-0603-c864-444448fdbf9c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-0a78333d-4256-b9ff-4ac0-680bcbd5ce91"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-2562fdfb-49b4-db9c-675c-e946811d8eae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-5119cd99-49cf-6faf-583c-6cf6aa6df4a2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-72e51c60-4125-a47e-fadb-2341929d3878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-8fedf193-460c-25db-a41d-2cd162414eb8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-b53f1550-4044-084a-cb95-f920391acd31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-c018bfd5-498c-82fa-30ca-2f5cc4fe5370"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-d47f828a-47dd-69e7-1649-fef43859de9d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/q142-d8d9fb9a-42e9-634e-92a4-e38c7b1eda4c"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "14071",
+    "answers": [
+      "http://www.wikidata.org/entity/Q193"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptunus II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptune II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "N\u00e9iriad"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03b1\u03c2 \u0399\u0399"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Neptun II"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193",
+        "predicate": "http://www.wikidata.org/prop/direct/P398",
+        "object": "http://www.wikidata.org/entity/Q3218345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q193"
+      }
+    ]
+  }
+}

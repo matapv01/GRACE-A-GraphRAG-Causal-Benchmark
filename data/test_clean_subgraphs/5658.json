@@ -1,0 +1,53 @@
+{
+  "question_id": "5658",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36669"
+  ],
+  "gold_path": {
+    "question_id": "5658",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q36669"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q178269",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-05T23:37:32Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178269",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ivano-Frankivská oblasť"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178269",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ivanofrankovská oblasť"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178269",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ivano-Frankivska oblast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178269",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "UA-26"
+    }
+  ]
+}

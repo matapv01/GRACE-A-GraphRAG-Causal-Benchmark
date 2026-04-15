@@ -1,0 +1,59 @@
+{
+  "question_id": "21777",
+  "answers": [
+    "http://www.wikidata.org/entity/Q191633",
+    "http://www.wikidata.org/entity/Q11565578"
+  ],
+  "gold_path": {
+    "question_id": "21777",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8274",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q191633"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191633",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28640"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8274",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q11565578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11565578",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28640"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8274",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "57"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8274",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "128"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8274",
+      "predicate": "http://schema.org/description",
+      "object": "tegneserier lavet i Japan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8274",
+      "predicate": "http://schema.org/description",
+      "object": "aus Japan stammende Comics"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8274",
+      "predicate": "http://schema.org/description",
+      "object": "ιαπωνικά κόμικς"
+    }
+  ]
+}

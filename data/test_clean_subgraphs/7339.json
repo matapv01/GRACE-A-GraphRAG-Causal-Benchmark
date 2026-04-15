@@ -1,0 +1,53 @@
+{
+  "question_id": "7339",
+  "answers": [
+    "1987-01-03T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7339",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2094491",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q2094491-18bbcb9e-4b8b-fa12-928b-3e86a9e5af99"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2094491-18bbcb9e-4b8b-fa12-928b-3e86a9e5af99",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q912994"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2094491-18bbcb9e-4b8b-fa12-928b-3e86a9e5af99",
+        "predicate": "pq:P582",
+        "object": "1987-01-03T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2094491",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "O'Neill-343"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2094491",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q2094491-A31B50EC-5237-4A14-B06C-0F72E1BB3C09"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2094491",
+      "predicate": "http://www.wikidata.org/prop/direct/P5421",
+      "object": "122139"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2094491",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q2094491-C6CA180F-F1DF-4DB1-8D00-98ABDF869925"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2094491",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q106129855"
+    }
+  ]
+}

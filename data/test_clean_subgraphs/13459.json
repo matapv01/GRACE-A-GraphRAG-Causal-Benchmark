@@ -1,0 +1,43 @@
+{
+  "question_id": "13459",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6581097"
+  ],
+  "gold_path": {
+    "question_id": "13459",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q24766",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581097"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q24766",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5361",
+      "object": "https://bl.natbib-lod.org/wd-MandevilleJohnSir"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24766",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/00541318"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24766",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q24766-612F7911-F178-4714-9839-FE3F27E555D2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24766",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Mandeville"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24766",
+      "predicate": "http://www.wikidata.org/prop/P349",
+      "object": "http://www.wikidata.org/entity/statement/Q24766-60D80EDB-7B69-427A-BDDA-84B7DE45153C"
+    }
+  ]
+}

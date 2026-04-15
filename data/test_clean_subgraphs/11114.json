@@ -1,0 +1,69 @@
+{
+  "question_id": "11114",
+  "answers": [
+    "0",
+    "2"
+  ],
+  "gold_path": {
+    "question_id": "11114",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q600090",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q600090-4C92D7D2-C53A-4DBA-9477-3F01CD146E8C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q600090-4C92D7D2-C53A-4DBA-9477-3F01CD146E8C",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q15668112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q600090-4C92D7D2-C53A-4DBA-9477-3F01CD146E8C",
+        "predicate": "pq:P1351",
+        "object": "0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q600090",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q600090-4DC5A319-11A1-4AB8-AC00-17F43E2ED602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q600090-4DC5A319-11A1-4AB8-AC00-17F43E2ED602",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q4823750"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q600090-4DC5A319-11A1-4AB8-AC00-17F43E2ED602",
+        "predicate": "pq:P1351",
+        "object": "0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q600090",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q600090-A6D4B76B-173A-4E03-B448-36F43A9E39AF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q600090-A6D4B76B-173A-4E03-B448-36F43A9E39AF",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q2936203"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q600090-A6D4B76B-173A-4E03-B448-36F43A9E39AF",
+        "predicate": "pq:P1351",
+        "object": "2"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q600090",
+      "predicate": "http://www.wikidata.org/prop/P859",
+      "object": "http://www.wikidata.org/entity/statement/Q600090-9FFE4012-D0B6-4231-A686-83713E4E68AB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q600090",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ellyse Alexandra Perry"
+    }
+  ]
+}

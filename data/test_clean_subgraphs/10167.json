@@ -1,0 +1,63 @@
+{
+  "question_id": "10167",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4740868"
+  ],
+  "gold_path": {
+    "question_id": "10167",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179200",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q4740868"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179200",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q465224"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179200",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q891732"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179200",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q6715753"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179200",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q7225902"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179200",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179200",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Metro-Goldwyn-Mayer%20%E2%80%94%20Slats%20the%20Lion%20%281926%29.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179200",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "62"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179200",
+      "predicate": "http://www.wikidata.org/prop/direct/P1830",
+      "object": "http://www.wikidata.org/entity/Q219400"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179200",
+      "predicate": "http://www.wikidata.org/prop/direct/P1830",
+      "object": "http://www.wikidata.org/entity/Q304509"
+    }
+  ]
+}

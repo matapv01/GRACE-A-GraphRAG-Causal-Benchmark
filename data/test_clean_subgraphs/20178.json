@@ -1,0 +1,48 @@
+{
+  "question_id": "20178",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18043309"
+  ],
+  "gold_path": {
+    "question_id": "20178",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1092",
+        "predicate": "http://www.wikidata.org/prop/direct/P1434",
+        "object": "http://www.wikidata.org/entity/Q18043309"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18043309",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q559618"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1092",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/06mv6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1092",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "startrek"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1092",
+      "predicate": "http://www.wikidata.org/prop/direct/P5357",
+      "object": "star_trek"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1092",
+      "predicate": "http://www.wikidata.org/prop/direct/P5382",
+      "object": "Star-Trek"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1092",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q1092-52F58A6B-34B1-412B-B1D9-48A57212D3E0"
+    }
+  ]
+}

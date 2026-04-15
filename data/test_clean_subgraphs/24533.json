@@ -1,0 +1,48 @@
+{
+  "question_id": "24533",
+  "answers": [
+    "http://www.wikidata.org/entity/Q189701"
+  ],
+  "gold_path": {
+    "question_id": "24533",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189701",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15063586"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189701",
+        "predicate": "rdfs:label",
+        "object": "Terengganu"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189701",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189701",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/q189701-85997993-B493-412F-8950-AAB71E9F7529"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189701",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Terengganu.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189701",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q189701-0ec15ada-b110-41f7-8a73-b509738f98c2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189701",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4308110-1"
+    }
+  ]
+}

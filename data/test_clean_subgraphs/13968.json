@@ -1,0 +1,48 @@
+{
+  "question_id": "13968",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9123"
+  ],
+  "gold_path": {
+    "question_id": "13968",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2294",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q9123"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9123",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q11181006"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2294",
+      "predicate": "http://www.wikidata.org/prop/P234",
+      "object": "http://www.wikidata.org/entity/statement/Q2294-3643ace5-4be0-c7b0-8120-8c0b092c0107"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2294",
+      "predicate": "http://www.wikidata.org/prop/direct/P234",
+      "object": "InChI=1S/p+1/i/hH"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2294",
+      "predicate": "http://www.wikidata.org/prop/P235",
+      "object": "http://www.wikidata.org/entity/statement/Q2294-be483bd9-47b9-87d4-14c9-eda031e35635"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2294",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Protons"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2294",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q2294-0C5DBD41-DD41-461E-9CCA-B0E6C7681694"
+    }
+  ]
+}

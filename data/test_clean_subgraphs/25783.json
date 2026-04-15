@@ -1,0 +1,49 @@
+{
+  "question_id": "25783",
+  "answers": [
+    "2327-7793",
+    "0015-7120"
+  ],
+  "gold_path": {
+    "question_id": "25783",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135577",
+        "predicate": "http://www.wikidata.org/prop/direct/P236",
+        "object": "2327-7793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135577",
+        "predicate": "http://www.wikidata.org/prop/direct/P236",
+        "object": "0015-7120"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1135577",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "41"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1135577",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "ForeignAffairs"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1135577",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "foreignaffairscph"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1135577",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P236",
+      "object": "urn:ISSN:2327-7793"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1135577",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P236",
+      "object": "urn:ISSN:0015-7120"
+    }
+  ]
+}

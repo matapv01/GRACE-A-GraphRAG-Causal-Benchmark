@@ -1,0 +1,53 @@
+{
+  "question_id": "4738",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41719"
+  ],
+  "gold_path": {
+    "question_id": "4738",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43915",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/Q43915-90DB9D2B-AD11-414A-89C9-4CB53F0BD708"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43915-90DB9D2B-AD11-414A-89C9-4CB53F0BD708",
+        "predicate": "ps:P19",
+        "object": "http://www.wikidata.org/entity/Q564351"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43915-90DB9D2B-AD11-414A-89C9-4CB53F0BD708",
+        "predicate": "pq:P5102",
+        "object": "http://www.wikidata.org/entity/Q41719"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43915",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Оттон I"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43915",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "オットー2世"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43915",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Otto I"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43915",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Атон I"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43915",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Отон I"
+    }
+  ]
+}

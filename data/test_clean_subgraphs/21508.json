@@ -1,0 +1,59 @@
+{
+  "question_id": "21508",
+  "answers": [
+    "http://www.wikidata.org/entity/Q54173",
+    "http://www.wikidata.org/entity/Q5276922"
+  ],
+  "gold_path": {
+    "question_id": "21508",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q864060",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q54173"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q54173",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q864060",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q5276922"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5276922",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q864060",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q15142894"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864060",
+      "predicate": "http://www.wikidata.org/prop/direct/P607",
+      "object": "http://www.wikidata.org/entity/Q8740"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864060",
+      "predicate": "http://www.wikidata.org/prop/P607",
+      "object": "http://www.wikidata.org/entity/statement/Q864060-8231E99C-D5F3-499B-99F3-DF8AB064C3C2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864060",
+      "predicate": "http://www.wikidata.org/prop/direct/P2670",
+      "object": "http://www.wikidata.org/entity/Q487192"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864060",
+      "predicate": "http://www.wikidata.org/prop/direct/P571",
+      "object": "1960-01-01T00:00:00Z"
+    }
+  ]
+}

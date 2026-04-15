@@ -1,0 +1,48 @@
+{
+  "question_id": "5411",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21578"
+  ],
+  "gold_path": {
+    "question_id": "5411",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q223677",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q223677-C4F297F9-EE7E-45DD-BF63-5D95E738F039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q223677-C4F297F9-EE7E-45DD-BF63-5D95E738F039",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q21578"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q223677",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T01:31:48Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223677",
+      "predicate": "http://www.wikidata.org/prop/direct/P410",
+      "object": "http://www.wikidata.org/entity/Q19100"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223677",
+      "predicate": "http://www.wikidata.org/prop/direct/P410",
+      "object": "http://www.wikidata.org/entity/Q983927"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223677",
+      "predicate": "http://www.wikidata.org/prop/direct/P8899",
+      "object": "Dulles,-John-Foster"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223677",
+      "predicate": "http://www.wikidata.org/prop/direct/P8094",
+      "object": "dullesj"
+    }
+  ]
+}

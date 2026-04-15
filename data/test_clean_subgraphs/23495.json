@@ -1,0 +1,60 @@
+{
+  "question_id": "23495",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4125696",
+    "http://www.wikidata.org/entity/Q4361842",
+    "http://www.wikidata.org/entity/Q27061774"
+  ],
+  "gold_path": {
+    "question_id": "23495",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4125696",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q192287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4125696",
+        "predicate": "rdfs:label",
+        "object": "Voronovo (Kozhevnikovo District, Tomsk Oblast)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4361842",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q192287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4361842",
+        "predicate": "rdfs:label",
+        "object": "Petukhovo, Tomsk Oblast"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q27061774",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q192287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q27061774",
+        "predicate": "rdfs:label",
+        "object": "Pritomsky"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4125696",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4125696",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Вороново"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4125696",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Voronovo"
+    }
+  ]
+}

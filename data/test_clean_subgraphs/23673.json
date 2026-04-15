@@ -1,0 +1,125 @@
+{
+  "question_id": "23673",
+  "answers": [
+    "http://www.wikidata.org/entity/Q510450",
+    "http://www.wikidata.org/entity/Q120717785",
+    "http://www.wikidata.org/entity/Q124967596",
+    "http://www.wikidata.org/entity/Q20979395",
+    "http://www.wikidata.org/entity/Q27913309",
+    "http://www.wikidata.org/entity/Q158952",
+    "http://www.wikidata.org/entity/Q338430",
+    "http://www.wikidata.org/entity/Q106806281"
+  ],
+  "gold_path": {
+    "question_id": "23673",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q338430",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q338430",
+        "predicate": "rdfs:label",
+        "object": "Wonder Woman"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q510450",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q510450",
+        "predicate": "rdfs:label",
+        "object": "Invisible Woman"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q158952",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q158952",
+        "predicate": "rdfs:label",
+        "object": "Catwoman"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q27913309",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q27913309",
+        "predicate": "rdfs:label",
+        "object": "Grand Councilwoman"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106806281",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106806281",
+        "predicate": "rdfs:label",
+        "object": "Bird Woman"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q120717785",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q120717785",
+        "predicate": "rdfs:label",
+        "object": "War Woman"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124967596",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124967596",
+        "predicate": "rdfs:label",
+        "object": "Superwoman"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20979395",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711870"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20979395",
+        "predicate": "rdfs:label",
+        "object": "Spider-Woman"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q338430",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "66"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338430",
+      "predicate": "http://schema.org/description",
+      "object": "ডি সি কমিক্সের চরিত্র"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338430",
+      "predicate": "http://schema.org/description",
+      "object": "personaggio immaginario dell'Universo DC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338430",
+      "predicate": "http://schema.org/description",
+      "object": "personatge de ficció"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338430",
+      "predicate": "http://schema.org/description",
+      "object": "Kurgusal karakter"
+    }
+  ]
+}

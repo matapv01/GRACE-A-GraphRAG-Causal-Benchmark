@@ -1,0 +1,48 @@
+{
+  "question_id": "4715",
+  "answers": [
+    "2017-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4715",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2131",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q2131-b81dc446-4e7b-c9c3-f1e3-622203ce3b58"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2131-b81dc446-4e7b-c9c3-f1e3-622203ce3b58",
+        "predicate": "pq:P585",
+        "object": "2017-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2131",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Metropolitan%20Region%2C%20Chile.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2131",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/q2131-482E5F08-94F6-45A2-A11E-3DA68DB56A6E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2131",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-01-26T06:00:55Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2131",
+      "predicate": "http://www.wikidata.org/prop/direct/P901",
+      "object": "CI12"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2131",
+      "predicate": "http://www.wikidata.org/prop/direct/P8519",
+      "object": "41497"
+    }
+  ]
+}

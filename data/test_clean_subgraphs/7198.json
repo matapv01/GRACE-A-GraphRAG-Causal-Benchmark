@@ -1,0 +1,53 @@
+{
+  "question_id": "7198",
+  "answers": [
+    "1975-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7198",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23760",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/q23760-bf51059d-439c-87c6-7a1f-cb85922f17ab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q23760-bf51059d-439c-87c6-7a1f-cb85922f17ab",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q73094"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q23760-bf51059d-439c-87c6-7a1f-cb85922f17ab",
+        "predicate": "pq:P580",
+        "object": "1975-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mr. Bean"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rowan Sebastian Atkinson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "mr bean"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "रोवन अटकिन्सन"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "মি. বিন"
+    }
+  ]
+}

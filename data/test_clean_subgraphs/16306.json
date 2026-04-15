@@ -1,0 +1,48 @@
+{
+  "question_id": "16306",
+  "answers": [
+    "http://www.wikidata.org/entity/Q211526"
+  ],
+  "gold_path": {
+    "question_id": "16306",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4656009",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q275535"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275535",
+        "predicate": "http://www.wikidata.org/prop/direct/P737",
+        "object": "http://www.wikidata.org/entity/Q211526"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4656009",
+      "predicate": "http://schema.org/version",
+      "object": "2210985936"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4656009",
+      "predicate": "http://schema.org/description",
+      "object": "ألبوم"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4656009",
+      "predicate": "http://schema.org/description",
+      "object": "muziekalbum van Jane Siberry"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4656009",
+      "predicate": "http://schema.org/description",
+      "object": "album by Jane Siberry"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4656009",
+      "predicate": "http://schema.org/description",
+      "object": "album de Jane Siberry"
+    }
+  ]
+}

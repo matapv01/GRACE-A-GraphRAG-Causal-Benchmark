@@ -1,0 +1,69 @@
+{
+  "question_id": "11070",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3148862",
+    "http://www.wikidata.org/entity/Q285519"
+  ],
+  "gold_path": {
+    "question_id": "11070",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8581",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/q8581-31b069db-4181-81b7-3885-3c0aad9479d5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q8581-31b069db-4181-81b7-3885-3c0aad9479d5",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q54493575"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q8581-31b069db-4181-81b7-3885-3c0aad9479d5",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q285519"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8581",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q8581-44281098-4ec9-2190-7d8c-f32b9071a799"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q8581-44281098-4ec9-2190-7d8c-f32b9071a799",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q53709195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q8581-44281098-4ec9-2190-7d8c-f32b9071a799",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q3148862"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8581",
+      "predicate": "http://www.wikidata.org/prop/P172",
+      "object": "http://www.wikidata.org/entity/statement/Q8581-ceda72d4-41f9-6e06-fa61-20f35801a2cb"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8581",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q8581-8d29ccff-4d6e-9b68-0cb5-c59b9ee8cf16"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8581",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q8581-791C6E90-6996-40AD-9370-600FB1C9D445"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8581",
+      "predicate": "http://www.wikidata.org/prop/P119",
+      "object": "http://www.wikidata.org/entity/statement/Q8581-E8E4BD01-B85D-44F8-84F2-8CA48D8115F2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8581",
+      "predicate": "http://www.wikidata.org/prop/direct/P1711",
+      "object": "114764"
+    }
+  ]
+}

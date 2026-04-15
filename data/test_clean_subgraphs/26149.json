@@ -1,0 +1,43 @@
+{
+  "question_id": "26149",
+  "answers": [
+    "http://www.wikidata.org/entity/Q338869"
+  ],
+  "gold_path": {
+    "question_id": "26149",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q338869",
+        "predicate": "http://www.wikidata.org/prop/direct/P4599",
+        "object": "http://www.wikidata.org/entity/Q146368"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q338869",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85143414"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338869",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P486",
+      "object": "http://id.nlm.nih.gov/mesh/D014752"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338869",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/01048640"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338869",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+      "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2311071"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q338869",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1014",
+      "object": "http://vocab.getty.edu/aat/300379997"
+    }
+  ]
+}

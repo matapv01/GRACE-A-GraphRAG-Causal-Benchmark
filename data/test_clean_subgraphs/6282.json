@@ -1,0 +1,48 @@
+{
+  "question_id": "6282",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1417"
+  ],
+  "gold_path": {
+    "question_id": "6282",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1419",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q1419-7500B23B-931E-45D4-8F95-54AF2A2826CB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1419-7500B23B-931E-45D4-8F95-54AF2A2826CB",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q842606"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1419-7500B23B-931E-45D4-8F95-54AF2A2826CB",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q1417"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1419",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "130"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "فيسباسيان"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vespasiano"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1419",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vespasianus"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "question_id": "11578",
+  "answers": [
+    "2010-03-31T00:00:00Z",
+    "1993-11-01T00:00:00Z",
+    "2009-12-01T00:00:00Z",
+    "2010-05-21T00:00:00Z",
+    "2002-07-23T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11578",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-02fd98cf-4255-e05d-0f67-9d407f4edde3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-02fd98cf-4255-e05d-0f67-9d407f4edde3",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q260487"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-02fd98cf-4255-e05d-0f67-9d407f4edde3",
+        "predicate": "pq:P576",
+        "object": "2009-12-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-7dd787a1-4e75-eb0c-7100-19060ad380d8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-7dd787a1-4e75-eb0c-7100-19060ad380d8",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q52847"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-7dd787a1-4e75-eb0c-7100-19060ad380d8",
+        "predicate": "pq:P576",
+        "object": "1993-11-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-bbdcc604-475f-c5bb-c682-5228e23cf650"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-bbdcc604-475f-c5bb-c682-5228e23cf650",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q161549"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-bbdcc604-475f-c5bb-c682-5228e23cf650",
+        "predicate": "pq:P576",
+        "object": "2002-07-23T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-bc0f1d31-4079-acb5-ba49-8136a8f235a4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-bc0f1d31-4079-acb5-ba49-8136a8f235a4",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q845737"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-bc0f1d31-4079-acb5-ba49-8136a8f235a4",
+        "predicate": "pq:P576",
+        "object": "2010-05-21T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-df63bc5c-491e-deeb-bbe0-9e4d76d28246"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-df63bc5c-491e-deeb-bbe0-9e4d76d28246",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q189946"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-df63bc5c-491e-deeb-bbe0-9e4d76d28246",
+        "predicate": "pq:P576",
+        "object": "2010-03-31T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q1072012"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.wikidata.org/prop/direct/P30",
+      "object": "http://www.wikidata.org/entity/Q46"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "693"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://schema.org/description",
+      "object": "organización supranacional formata por 27 estatos d'a rechión europea"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://schema.org/description",
+      "object": "اتحاد اقتصادي وسياسي لدول تقع في أوروبا"
+    }
+  ]
+}

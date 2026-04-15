@@ -1,0 +1,470 @@
+{
+  "clean": {
+    "question_id": "24377",
+    "answers": [
+      "http://www.wikidata.org/entity/Q18064632",
+      "http://www.wikidata.org/entity/Q179911"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "\u062d\u062c\u0631 \u0634\u0628\u0647 \u0643\u0631\u064a\u0645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "mineral"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "minerale"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e7\u05d1\u05d5\u05e6\u05ea \u05de\u05d9\u05e0\u05e8\u05dc\u05d9\u05dd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "rdfs:label",
+        "object": "titanium disilicate-block supergroup"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "grup d'esp\u00e8cies de minerals de la classe dels silicats"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "rdfs:label",
+        "object": "tourmalines"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "24377",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "\u062d\u062c\u0631 \u0634\u0628\u0647 \u0643\u0631\u064a\u0645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "\u05e7\u05d1\u05d5\u05e6\u05ea \u05de\u05d9\u05e0\u05e8\u05dc\u05d9\u05dd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "titanium disilicate-block supergroup"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q18064632"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "grup d'esp\u00e8cies de minerals de la classe dels silicats"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "tourmalines"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "minerale"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q179911"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "mineral"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "24377",
+    "answers": [
+      "http://www.wikidata.org/entity/Q18064632",
+      "http://www.wikidata.org/entity/Q179911"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "\u062d\u062c\u0631 \u0634\u0628\u0647 \u0643\u0631\u064a\u0645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "mineral"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "minerale"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e7\u05d1\u05d5\u05e6\u05ea \u05de\u05d9\u05e0\u05e8\u05dc\u05d9\u05dd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "rdfs:label",
+        "object": "titanium disilicate-block supergroup"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "grup d'esp\u00e8cies de minerals de la classe dels silicats"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "rdfs:label",
+        "object": "tourmalines"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q114675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q179911"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3777570"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3777636"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "24377",
+    "answers": [
+      "http://www.wikidata.org/entity/Q18064632",
+      "http://www.wikidata.org/entity/Q179911"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "\u062d\u062c\u0631 \u0634\u0628\u0647 \u0643\u0631\u064a\u0645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "mineral"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "minerale"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e7\u05d1\u05d5\u05e6\u05ea \u05de\u05d9\u05e0\u05e8\u05dc\u05d9\u05dd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "rdfs:label",
+        "object": "titanium disilicate-block supergroup"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://schema.org/description",
+        "object": "grup d'esp\u00e8cies de minerals de la classe dels silicats"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "rdfs:label",
+        "object": "tourmalines"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "24377",
+    "answers": [
+      "http://www.wikidata.org/entity/Q17159"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "http://schema.org/description",
+        "object": "\u062d\u062c\u0631 \u0634\u0628\u0647 \u0643\u0631\u064a\u0645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "http://schema.org/description",
+        "object": "mineral"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "http://schema.org/description",
+        "object": "minerale"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "http://schema.org/description",
+        "object": "\u05e7\u05d1\u05d5\u05e6\u05ea \u05de\u05d9\u05e0\u05e8\u05dc\u05d9\u05dd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "rdfs:label",
+        "object": "titanium disilicate-block supergroup"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "http://schema.org/description",
+        "object": "grup d'esp\u00e8cies de minerals de la classe dels silicats"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "rdfs:label",
+        "object": "tourmalines"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      }
+    ]
+  }
+}

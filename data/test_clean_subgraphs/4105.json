@@ -1,0 +1,53 @@
+{
+  "question_id": "4105",
+  "answers": [
+    "1992-11-09T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4105",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q52028",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q52028-8a04dc08-4ec7-173f-1bc3-63b28801994a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52028-8a04dc08-4ec7-173f-1bc3-63b28801994a",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q128186"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52028-8a04dc08-4ec7-173f-1bc3-63b28801994a",
+        "predicate": "pq:P580",
+        "object": "1992-11-09T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q52028",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T03:14:12Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52028",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "chiang-mai"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52028",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chiang%20Mai%20City%20Municipality.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52028",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Panoramic%20view%20of%20Chiang%20Mai%20City.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52028",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "98"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "12404",
+  "answers": [
+    "http://www.wikidata.org/entity/Q302"
+  ],
+  "gold_path": {
+    "question_id": "12404",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36380",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q302"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q36380",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SJ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36380",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ישועי"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36380",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ישועיים"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36380",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jesuits"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "14219",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5461414"
+  ],
+  "gold_path": {
+    "question_id": "14219",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q201517",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q5461414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5461414",
+        "predicate": "http://www.wikidata.org/prop/direct/P115",
+        "object": "http://www.wikidata.org/entity/Q7071713"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q201517",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lochte"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201517",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Райън Локти"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201517",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Райън Лохте"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201517",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Раян Лохте"
+    }
+  ]
+}

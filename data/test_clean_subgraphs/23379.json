@@ -1,0 +1,48 @@
+{
+  "question_id": "23379",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13703"
+  ],
+  "gold_path": {
+    "question_id": "23379",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13703",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15733622"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13703",
+        "predicate": "rdfs:label",
+        "object": "Mesoamerica"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13703",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "29"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13703",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Месаамерыка"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13703",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Мэзаамэрыка"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13703",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Мезоамерика"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13703",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "মেসোআমেরিকা"
+    }
+  ]
+}

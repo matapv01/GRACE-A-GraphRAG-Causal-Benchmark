@@ -1,0 +1,48 @@
+{
+  "question_id": "6915",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2600170"
+  ],
+  "gold_path": {
+    "question_id": "6915",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1520",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q1520-b7951cb7-4533-ee4a-90d2-65b5811c100c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1520-b7951cb7-4533-ee4a-90d2-65b5811c100c",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q2600170"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1520",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-13T07:12:27Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1520",
+      "predicate": "http://schema.org/description",
+      "object": "Ҡаҙағстандың баш ҡалаһы"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1520",
+      "predicate": "http://schema.org/description",
+      "object": "ibu kota Kazakhstan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1520",
+      "predicate": "http://schema.org/description",
+      "object": "kapitolio ti Kazakhstan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1520",
+      "predicate": "http://schema.org/description",
+      "object": "capitale del Kazakistan"
+    }
+  ]
+}

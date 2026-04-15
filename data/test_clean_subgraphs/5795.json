@@ -1,0 +1,53 @@
+{
+  "question_id": "5795",
+  "answers": [
+    "1471-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5795",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28573",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q28573-d2cf59a4-44d6-594a-8ad0-a3c4135b2283"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q28573-d2cf59a4-44d6-594a-8ad0-a3c4135b2283",
+        "predicate": "ps:P35",
+        "object": "http://www.wikidata.org/entity/Q213758"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q28573-d2cf59a4-44d6-594a-8ad0-a3c4135b2283",
+        "predicate": "pq:P582",
+        "object": "1471-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28573",
+      "predicate": "http://www.wikidata.org/prop/P6573",
+      "object": "http://www.wikidata.org/entity/statement/Q28573-B2B93EC0-D740-441F-BADA-74479ABDDC23"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28573",
+      "predicate": "http://www.wikidata.org/prop/direct/P6573",
+      "object": "Inka"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28573",
+      "predicate": "http://www.wikidata.org/prop/direct/P3569",
+      "object": "geschiedenis-1450-1815/incas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28573",
+      "predicate": "http://www.wikidata.org/prop/direct/P582",
+      "object": "1533-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28573",
+      "predicate": "http://www.wikidata.org/prop/direct/P1343",
+      "object": "http://www.wikidata.org/entity/Q602358"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "20546",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3493554"
+  ],
+  "gold_path": {
+    "question_id": "20546",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q503308",
+        "predicate": "http://www.wikidata.org/prop/direct/P2813",
+        "object": "http://www.wikidata.org/entity/Q3493554"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3493554",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1002697"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q503308",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "80"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503308",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "54"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503308",
+      "predicate": "http://www.wikidata.org/prop/direct/P3430",
+      "object": "w6bk6bhx"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503308",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pietvakarių oro linijos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503308",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "साउथवेस्ट एअरलाईन्स"
+    }
+  ]
+}

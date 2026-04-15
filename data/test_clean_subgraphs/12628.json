@@ -1,0 +1,33 @@
+{
+  "question_id": "12628",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13955"
+  ],
+  "gold_path": {
+    "question_id": "12628",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13477",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q13955"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13477",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "57"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13477",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "আল জাজিরা"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13477",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Al Jazeera"
+    }
+  ]
+}

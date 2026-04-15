@@ -1,0 +1,467 @@
+{
+  "clean": {
+    "question_id": "17029",
+    "answers": [
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl",
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q578786",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ripo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "kostezenn"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q8481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "rib"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q578786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ribben"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u0646\u062f\u0647"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "17029",
+    "answers": [
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl",
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ripo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "kostezenn"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q8481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "rib"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q578786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ribben"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u0646\u062f\u0647"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "17029",
+    "answers": [
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl",
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q578786",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ripo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "kostezenn"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q8481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "rib"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q578786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ribben"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u0646\u062f\u0647"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "qzns://nezwadp.bemaxezui.idq/qosi/Jjexiuz:LinoNusn/ZedsSixrq6H%36Vvimecuq%11mazdadkii.gdb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "rdlw://ruyzusp.pojurojue.ozl/zusa/Khuqaam:SehaKovv/WoppZossg1H%75Npexumig%13golqiryiu.vmx"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "pjrq://xotcowp.qodatixeu.ugl/rija/Lzuxeoc:QidoZaql/ZoxcDewxt6H%37Pzosikag%95qojredtao.pwc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "mnkx://bezrivd.gijeyavui.obb/bubo/Jhajiud:QonoBozh/KirbFuxqn8B%17Ffoqolud%23zobfazvoa.bcz"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "wspn://tukridm.xabulugee.egp/mohi/Mxahaox:MokeKicl/YiwqBeddc9Z%93Mtuziveq%76rivleqnoe.bqv"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "17029",
+    "answers": [
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl",
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q578786",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ripo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "kostezenn"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q8481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "rib"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q578786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ribben"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u0646\u062f\u0647"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "17029",
+    "answers": [
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl",
+      "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ripo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "kostezenn"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q8481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "rib"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q578786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "ribben"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u0646\u062f\u0647"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q578786",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "fzbz://gegjezg.ciyigihiu.osd/heji/Wguguuq:RoseHeyh/DurkBopth6X%51Pjuyicuw%40pitwiggoa.mhk"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "fzbz://gegjezg.ciyigihiu.osd/heji/Wguguuq:RoseHeyh/DurkBopth6X%51Pjuyicuw%40pitwiggoa.mhk"
+      }
+    ]
+  }
+}

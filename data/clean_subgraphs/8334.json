@@ -1,0 +1,53 @@
+{
+  "question_id": "8334",
+  "answers": [
+    "1871-03-21T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8334",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8442",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q8442-3D5E9DF7-DEF1-412D-B8F1-B2C0880D19AF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q8442-3D5E9DF7-DEF1-412D-B8F1-B2C0880D19AF",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q885840"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q8442-3D5E9DF7-DEF1-412D-B8F1-B2C0880D19AF",
+        "predicate": "pq:P582",
+        "object": "1871-03-21T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8442",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q59974"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8442",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "241"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8442",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "RAVV058267"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8442",
+      "predicate": "http://www.wikidata.org/prop/direct/P570",
+      "object": "1898-07-30T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8442",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1815-04-01T00:00:00Z"
+    }
+  ]
+}

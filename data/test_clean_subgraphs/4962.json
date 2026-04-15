@@ -1,0 +1,48 @@
+{
+  "question_id": "4962",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1808301"
+  ],
+  "gold_path": {
+    "question_id": "4962",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189408",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q189408-5603358A-33C3-43E1-B6B4-5534768F5A23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189408-5603358A-33C3-43E1-B6B4-5534768F5A23",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1808301"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189408",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q189408-4CFDB54F-F4BF-4079-8BF0-DF9C85D52B42"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Бьёрндален Уле-Эйнар, Бьёрндален, Бьорндален"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Бьорндален"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Оле Ейнър Бьорндален"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ole Einar Bjorndalen"
+    }
+  ]
+}

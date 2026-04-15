@@ -6,6 +6,7 @@ from typing import List, Dict, Any
 
 logger = logging.getLogger(__name__)
 
+
 class WikidataClient:
     def __init__(self, endpoint_url: str = "https://query.wikidata.org/sparql"):
         self.endpoint_url = endpoint_url
@@ -19,11 +20,11 @@ class WikidataClient:
         self.sparql.setQuery(query)
         retries = 0
         backoff = 2.0  # Initial 2 seconds backoff
-        
+
         while True:
             try:
                 # To politely respect the 2 RPS rule from Wikidata
-                time.sleep(0.5) 
+                time.sleep(0.5)
                 results = self.sparql.query().convert()
                 if "results" in results and "bindings" in results["results"]:
                     return results["results"]["bindings"]
@@ -31,9 +32,13 @@ class WikidataClient:
             except HTTPError as e:
                 if e.code == 429:
                     retries += 1
-                    logger.warning(f"Wikidata Rate Limit (429). Retrying in {backoff}s... (Attempt {retries})")
+                    logger.warning(
+                        f"Wikidata Rate Limit (429). Retrying in {backoff}s... (Attempt {retries})"
+                    )
                     time.sleep(backoff)
-                    backoff = min(backoff * 2, 60.0)  # Tăng dần nhưng tối đa đợi 60s rồi thử lại
+                    backoff = min(
+                        backoff * 2, 60.0
+                    )  # Tăng dần nhưng tối đa đợi 60s rồi thử lại
                 else:
                     logger.error(f"Error executing SPARQL query: {e}")
                     raise

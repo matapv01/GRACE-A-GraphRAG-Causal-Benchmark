@@ -1,0 +1,64 @@
+{
+  "question_id": "2924",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11332",
+    "http://www.wikidata.org/entity/Q11099"
+  ],
+  "gold_path": {
+    "question_id": "2924",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11332",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11276"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11332",
+        "predicate": "http://www.wikidata.org/prop/direct/P2583",
+        "object": "33300"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11332",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q722528"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11099",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11276"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11099",
+        "predicate": "http://www.wikidata.org/prop/direct/P2583",
+        "object": "0.012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11099",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q722528"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11332",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-01-12T15:30:32Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11332",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Messier%2015%20HST.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11332",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q11332-6E698ED8-B2B3-4C0B-B7C3-82E9E53B21D3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "مسييه ١٥"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "question_id": "15242",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18362",
+    "http://www.wikidata.org/entity/Q133327",
+    "http://www.wikidata.org/entity/Q1",
+    "http://www.wikidata.org/entity/Q234181",
+    "http://www.wikidata.org/entity/Q1437042",
+    "http://www.wikidata.org/entity/Q395",
+    "http://www.wikidata.org/entity/Q43514"
+  ],
+  "gold_path": {
+    "question_id": "15242",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1003845",
+        "predicate": "http://www.wikidata.org/prop/direct/P161",
+        "object": "http://www.wikidata.org/entity/Q60815"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60815",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60815",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q395"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60815",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q18362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60815",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q43514"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60815",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q133327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60815",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q234181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60815",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q1437042"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1003845",
+      "predicate": "http://schema.org/description",
+      "object": "film"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1003845",
+      "predicate": "http://schema.org/description",
+      "object": "cinta de 2000 dirichita por Gregory Hoblit"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1003845",
+      "predicate": "http://schema.org/description",
+      "object": "فيلم أنتج عام 2000"
+    }
+  ]
+}

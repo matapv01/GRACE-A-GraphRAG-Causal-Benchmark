@@ -1,0 +1,53 @@
+{
+  "question_id": "9337",
+  "answers": [
+    "http://www.wikidata.org/entity/Q215506"
+  ],
+  "gold_path": {
+    "question_id": "9337",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23728",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q23728-615dfece-4c52-b361-597f-2ae5f10ef020"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23728-615dfece-4c52-b361-597f-2ae5f10ef020",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2110156"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23728-615dfece-4c52-b361-597f-2ae5f10ef020",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q215506"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23728",
+      "predicate": "http://www.wikidata.org/prop/P463",
+      "object": "http://www.wikidata.org/entity/statement/Q23728-7ca30f99-4daf-7162-17fe-17515d9ca7bb"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23728",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q23728-C46F39E3-3D3E-4C9E-BC16-90DD09B48CA6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23728",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "75"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23728",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q23728-57B56236-906F-42C7-A911-5BB360B48707"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23728",
+      "predicate": "http://www.wikidata.org/prop/P1006",
+      "object": "http://www.wikidata.org/entity/statement/Q23728-0FF54D87-4100-4FF8-9A05-BE3F3E5D1027"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "13400",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2749"
+  ],
+  "gold_path": {
+    "question_id": "13400",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q154577",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q2749"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2749",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q170247"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q154577",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rijksdag van Augsburg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q154577",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "صلح آوغسبورغ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q154577",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "صلح اوغسبورغ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q154577",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Augsburský mír"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q154577",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Abschied der Röm. königl. Majestät und gemeiner Stände auff dem Reichs-Tag zu Augsburg auffgericht, im Jahr 1555"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "4336",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49122"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1559",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-00846c66-48b5-ddfe-2cf5-4cddb1197584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "John Glover Roberts"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49122"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1417",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-DA85F342-D5B6-4D9A-9404-1C680BACD23F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1617",
+        "object": "97e198d1-ba68-437e-b87f-a9e13c5b447f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1617",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-c28e0ea0-bac0-41b5-a318-8479b66a11eb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "4336",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49122"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1559",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-00846c66-48b5-ddfe-2cf5-4cddb1197584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "John Glover Roberts"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1417",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-DA85F342-D5B6-4D9A-9404-1C680BACD23F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1617",
+        "object": "97e198d1-ba68-437e-b87f-a9e13c5b447f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1617",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-c28e0ea0-bac0-41b5-a318-8479b66a11eb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q49122"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "4336",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49122"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1559",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-00846c66-48b5-ddfe-2cf5-4cddb1197584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "John Glover Roberts"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49122"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1417",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-DA85F342-D5B6-4D9A-9404-1C680BACD23F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1617",
+        "object": "97e198d1-ba68-437e-b87f-a9e13c5b447f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1617",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-c28e0ea0-bac0-41b5-a318-8479b66a11eb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q85285"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q152303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q167049"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q167102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q386348"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "4336",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49122"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1559",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-00846c66-48b5-ddfe-2cf5-4cddb1197584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "John Glover Roberts"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49122"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1417",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-DA85F342-D5B6-4D9A-9404-1C680BACD23F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1617",
+        "object": "97e198d1-ba68-437e-b87f-a9e13c5b447f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1617",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-c28e0ea0-bac0-41b5-a318-8479b66a11eb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "4336",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49122"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1559",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-00846c66-48b5-ddfe-2cf5-4cddb1197584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1559",
+        "object": "John Glover Roberts"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1417",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-DA85F342-D5B6-4D9A-9404-1C680BACD23F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/direct/P1617",
+        "object": "97e198d1-ba68-437e-b87f-a9e13c5b447f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P1617",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-c28e0ea0-bac0-41b5-a318-8479b66a11eb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11153",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11153-763BF9C2-D151-4FFA-BEC4-C338B65AB915",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q85285"
+      }
+    ]
+  }
+}

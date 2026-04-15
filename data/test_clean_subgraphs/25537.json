@@ -1,0 +1,69 @@
+{
+  "question_id": "25537",
+  "answers": [
+    "http://www.wikidata.org/entity/Q139464",
+    "http://www.wikidata.org/entity/Q604259"
+  ],
+  "gold_path": {
+    "question_id": "25537",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q604259",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20643955"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q604259",
+        "predicate": "http://www.wikidata.org/prop/direct/P411",
+        "object": "http://www.wikidata.org/entity/Q43115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q604259",
+        "predicate": "rdfs:label",
+        "object": "Zechariah"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139464",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20643955"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139464",
+        "predicate": "http://www.wikidata.org/prop/direct/P411",
+        "object": "http://www.wikidata.org/entity/Q43115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139464",
+        "predicate": "rdfs:label",
+        "object": "Zechariah"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q604259",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "37"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q604259",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1871",
+      "object": "http://thesaurus.cerl.org/record/cnp00938345"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q604259",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/118642103"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q604259",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2163",
+      "object": "http://id.worldcat.org/fast/1634227"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q604259",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5063",
+      "object": "http://globalwordnet.org/ili/i97529"
+    }
+  ]
+}

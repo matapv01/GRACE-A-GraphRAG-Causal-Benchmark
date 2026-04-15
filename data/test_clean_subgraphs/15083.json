@@ -1,0 +1,54 @@
+{
+  "question_id": "15083",
+  "answers": [
+    "http://www.wikidata.org/entity/Q47534",
+    "http://www.wikidata.org/entity/Q84122"
+  ],
+  "gold_path": {
+    "question_id": "15083",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17449805",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q46491"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q46491",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q47534"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q46491",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q84122"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17449805",
+      "predicate": "http://www.wikidata.org/prop/P217",
+      "object": "http://www.wikidata.org/entity/statement/Q17449805-da4cdc24-49ee-0f43-27f1-d0d1ac6e50b1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17449805",
+      "predicate": "http://www.wikidata.org/prop/P195",
+      "object": "http://www.wikidata.org/entity/statement/Q17449805-67db4398-4bb4-ad6c-25a9-4d5926f58fac"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17449805",
+      "predicate": "http://www.wikidata.org/prop/P276",
+      "object": "http://www.wikidata.org/entity/statement/Q17449805-759f3334-43d1-9859-173c-6220088ce8fd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17449805",
+      "predicate": "http://www.wikidata.org/prop/P276",
+      "object": "http://www.wikidata.org/entity/statement/Q17449805-c88d7f3c-461f-d901-dbce-a85837f21cf2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17449805",
+      "predicate": "http://www.wikidata.org/prop/P189",
+      "object": "http://www.wikidata.org/entity/statement/Q17449805-1a506ad0-4752-9857-5622-4fa97aa65f7d"
+    }
+  ]
+}

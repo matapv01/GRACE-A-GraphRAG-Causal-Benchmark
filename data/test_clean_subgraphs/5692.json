@@ -1,0 +1,53 @@
+{
+  "question_id": "5692",
+  "answers": [
+    "http://www.wikidata.org/entity/Q553229"
+  ],
+  "gold_path": {
+    "question_id": "5692",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q336497",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q336497-b1b27044-4734-c649-7d62-810066d3d702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q336497-b1b27044-4734-c649-7d62-810066d3d702",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q251724"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q336497-b1b27044-4734-c649-7d62-810066d3d702",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q553229"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q336497",
+      "predicate": "http://www.wikidata.org/prop/direct/P4928",
+      "object": "b/Bryce_J/life"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336497",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Bryce-1230"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336497",
+      "predicate": "http://www.wikidata.org/prop/direct/P5587",
+      "object": "rp36c2m9435mkwr"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336497",
+      "predicate": "http://www.wikidata.org/prop/direct/P8496",
+      "object": "bryce-james-1838-1922-viscount-bryce-politician"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336497",
+      "predicate": "http://www.wikidata.org/prop/direct/P8849",
+      "object": "57614949"
+    }
+  ]
+}

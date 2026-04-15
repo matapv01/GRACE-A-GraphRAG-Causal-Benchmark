@@ -1,0 +1,38 @@
+{
+  "question_id": "24581",
+  "answers": [
+    "http://www.wikidata.org/entity/Q207182"
+  ],
+  "gold_path": {
+    "question_id": "24581",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q207182",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1514415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q207182",
+        "predicate": "rdfs:label",
+        "object": "Zlatkoisierung"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q207182",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207182",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q207182-0652fa2c-4de6-0822-087b-bb2e674b7b7c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207182",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zlatkoisierung"
+    }
+  ]
+}

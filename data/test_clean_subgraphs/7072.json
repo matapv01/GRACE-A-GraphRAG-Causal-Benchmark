@@ -1,0 +1,53 @@
+{
+  "question_id": "7072",
+  "answers": [
+    "1936-06-11T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7072",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220105",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q220105-320DF6F0-D2E5-45E8-B4AE-CE1E7E9E9667"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q220105-320DF6F0-D2E5-45E8-B4AE-CE1E7E9E9667",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q26248695"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q220105-320DF6F0-D2E5-45E8-B4AE-CE1E7E9E9667",
+        "predicate": "pq:P580",
+        "object": "1936-06-11T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220105",
+      "predicate": "http://www.wikidata.org/prop/P512",
+      "object": "http://www.wikidata.org/entity/statement/Q220105-F3BFDB21-6BC8-4EA5-9340-00A40BBF0CD1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220105",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q100137722"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220105",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q220105-37e2985f-4ab3-ebd6-e444-a72822053f19"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220105",
+      "predicate": "http://www.wikidata.org/prop/direct/P53",
+      "object": "http://www.wikidata.org/entity/Q126193617"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220105",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Galeazzo%20Ciano%201936.jpg"
+    }
+  ]
+}

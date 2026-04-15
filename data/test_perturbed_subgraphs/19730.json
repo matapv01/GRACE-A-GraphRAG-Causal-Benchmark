@@ -1,0 +1,417 @@
+{
+  "clean": {
+    "question_id": "19730",
+    "answers": [
+      "http://www.wikidata.org/entity/Q19867"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P747",
+        "object": "http://www.wikidata.org/entity/Q66058337"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0cv62"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q191072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P3241",
+        "object": "05103a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "domesday-book"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P88",
+        "object": "http://www.wikidata.org/entity/Q37594"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "istoriya/KNIGA_STRASHNOGO_SUDA.html"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "19730",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q66058337"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "05103a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "istoriya/KNIGA_STRASHNOGO_SUDA.html"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q191072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "/m/0cv62"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q19867"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "domesday-book"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q37594"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "19730",
+    "answers": [
+      "http://www.wikidata.org/entity/Q19867"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P747",
+        "object": "http://www.wikidata.org/entity/Q66058337"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0cv62"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q191072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P3241",
+        "object": "05103a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "domesday-book"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P88",
+        "object": "http://www.wikidata.org/entity/Q37594"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "istoriya/KNIGA_STRASHNOGO_SUDA.html"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q12767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q29736"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q36617"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q41469"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q48447"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "19730",
+    "answers": [
+      "http://www.wikidata.org/entity/Q19867"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P747",
+        "object": "http://www.wikidata.org/entity/Q66058337"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0cv62"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q191072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P3241",
+        "object": "05103a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "domesday-book"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P88",
+        "object": "http://www.wikidata.org/entity/Q37594"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19867",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "istoriya/KNIGA_STRASHNOGO_SUDA.html"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P163",
+        "object": "http://www.wikidata.org/entity/statement/q31-D3102687-E4C4-489F-BF18-02E5ED305AF5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P194",
+        "object": "http://www.wikidata.org/entity/statement/q31-6B7B707E-9D1E-42E8-8DC4-B4D04C0B9A5B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P206",
+        "object": "http://www.wikidata.org/entity/statement/Q31-18162585-F431-4107-A9EF-24F1499E04F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P208",
+        "object": "http://www.wikidata.org/entity/statement/q31-d50158e6-48c9-18e6-4e7f-888ad3e53902"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P209",
+        "object": "http://www.wikidata.org/entity/statement/q31-02002a92-4e4e-c7c1-bc20-0cd430ae9d70"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P209",
+        "object": "http://www.wikidata.org/entity/statement/q31-89815ea8-4984-d16f-990a-4dcb09afba70"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P209",
+        "object": "http://www.wikidata.org/entity/statement/q31-ae8782ea-48a6-d7f3-7e94-21433d67deea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P213",
+        "object": "http://www.wikidata.org/entity/statement/Q31-e7be1e16-41fa-49bf-196b-37505813c2db"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P214",
+        "object": "http://www.wikidata.org/entity/statement/q31-42978a96-4563-08b4-566a-45ff2ebea55f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/q31-2588394D-CC64-4E73-A1EB-F938D860AF41"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1097949"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1288568"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20162172"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P51",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AuE%20vowel%20length%20sentence.ogg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P51",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20Independence%20Part%201.ogg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P51",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/For%20example%2C%20in%20many%20places%20women%20vaccinate%20people.ogg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P51",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Recording%20of%20speaker%20of%20British%20English%20%28Received%20Pronunciation%29.ogg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q21"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P218",
+        "object": "http://id.loc.gov/vocabulary/iso639-1/en"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P220",
+        "object": "http://lexvo.org/id/iso639-3/eng"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "19730",
+    "answers": [
+      "http://www.wikidata.org/entity/Q568779"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q568779",
+        "predicate": "http://www.wikidata.org/prop/direct/P747",
+        "object": "http://www.wikidata.org/entity/Q66058337"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q568779",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0cv62"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q568779",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q191072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q568779",
+        "predicate": "http://www.wikidata.org/prop/direct/P3241",
+        "object": "05103a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q568779",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "domesday-book"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q568779",
+        "predicate": "http://www.wikidata.org/prop/direct/P88",
+        "object": "http://www.wikidata.org/entity/Q37594"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q568779",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "istoriya/KNIGA_STRASHNOGO_SUDA.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "23518",
+  "answers": [
+    "http://www.wikidata.org/entity/Q55989903"
+  ],
+  "gold_path": {
+    "question_id": "23518",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q55989903",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15711994"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55989903",
+        "predicate": "rdfs:label",
+        "object": "trioxanes"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q55989903",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55989903",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "تریاکسان"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55989903",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "トリオキサン"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55989903",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ট্রাইঅক্সেন"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55989903",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "trioxanes"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "15746",
+  "answers": [
+    "http://www.wikidata.org/entity/Q506204"
+  ],
+  "gold_path": {
+    "question_id": "15746",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q15286320",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q15286318"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15286318",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q506204"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q15286320",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "مستر أولمبيا ١٩٩١"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15286320",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "مستر أولمبيا 1991"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15286320",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "1991 Mr. Olympia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15286320",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mr. Olympia 1991"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15286320",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Мистер Олимпия 1991"
+    }
+  ]
+}

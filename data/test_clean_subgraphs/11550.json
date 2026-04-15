@@ -1,0 +1,69 @@
+{
+  "question_id": "11550",
+  "answers": [
+    "http://www.wikidata.org/entity/Q798132",
+    "http://www.wikidata.org/entity/Q950900"
+  ],
+  "gold_path": {
+    "question_id": "11550",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23760",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/q23760-0c7ba705-41e1-b76f-6494-2ae62eda0315"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q23760-0c7ba705-41e1-b76f-6494-2ae62eda0315",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q837164"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q23760-0c7ba705-41e1-b76f-6494-2ae62eda0315",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q798132"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23760",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/q23760-bf51059d-439c-87c6-7a1f-cb85922f17ab"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q23760-bf51059d-439c-87c6-7a1f-cb85922f17ab",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q73094"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q23760-bf51059d-439c-87c6-7a1f-cb85922f17ab",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q950900"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.wikidata.org/prop/direct/P2638",
+      "object": "people/rowan-atkinson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "28715"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q22669972"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mr. Bean"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23760",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rowan Sebastian Atkinson"
+    }
+  ]
+}

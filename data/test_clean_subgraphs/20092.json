@@ -1,0 +1,48 @@
+{
+  "question_id": "20092",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1123431"
+  ],
+  "gold_path": {
+    "question_id": "20092",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q163700",
+        "predicate": "http://www.wikidata.org/prop/direct/P3729",
+        "object": "http://www.wikidata.org/entity/Q1123431"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1123431",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q193622"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q163700",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "37"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q163700",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "レジオン・ド＝ヌール勲章"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q163700",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "レジオン・ドヌール"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q163700",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "レジオン・ドヌール勲章"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q163700",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "レジョン・ド・ヌール"
+    }
+  ]
+}

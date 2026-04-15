@@ -1,0 +1,58 @@
+{
+  "question_id": "10456",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7299047"
+  ],
+  "gold_path": {
+    "question_id": "10456",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179051",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q179051-B9E080C9-1A95-41D3-991F-325C5C6D8FFA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q179051-B9E080C9-1A95-41D3-991F-325C5C6D8FFA",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q16918963"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q179051-B9E080C9-1A95-41D3-991F-325C5C6D8FFA",
+        "predicate": "pq:P1346",
+        "object": "http://www.wikidata.org/entity/Q7299047"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q179051-B9E080C9-1A95-41D3-991F-325C5C6D8FFA",
+        "predicate": "pq:P585",
+        "object": "2013-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179051",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q179051-a4e8a6cb-47a3-823b-6a9d-4164598cceb7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179051",
+      "predicate": "http://www.wikidata.org/prop/P409",
+      "object": "http://www.wikidata.org/entity/statement/q179051-54eddd41-4baf-0735-33c2-60ddde20cc0f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179051",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q179051-2acf8ffc-4bb1-1f05-55a7-1362c99b6001"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179051",
+      "predicate": "http://www.wikidata.org/prop/P1695",
+      "object": "http://www.wikidata.org/entity/statement/Q179051-dd5c06ac-4d92-49b6-8547-00024cce373a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179051",
+      "predicate": "http://www.wikidata.org/prop/P2067",
+      "object": "http://www.wikidata.org/entity/statement/Q179051-F82EBA36-A944-4A26-A155-91DC67A0FA2D"
+    }
+  ]
+}

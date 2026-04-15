@@ -1,0 +1,43 @@
+{
+  "question_id": "25877",
+  "answers": [
+    "arnold-schwarzenegger"
+  ],
+  "gold_path": {
+    "question_id": "25877",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2685",
+        "predicate": "http://www.wikidata.org/prop/direct/P2857",
+        "object": "arnold-schwarzenegger"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2685",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "285"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Terminator"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Arnie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "द टर्मिनेटर"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Schwarzenegger"
+    }
+  ]
+}

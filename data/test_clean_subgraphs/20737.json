@@ -1,0 +1,48 @@
+{
+  "question_id": "20737",
+  "answers": [
+    "http://www.wikidata.org/entity/Q182524"
+  ],
+  "gold_path": {
+    "question_id": "20737",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7327",
+        "predicate": "http://www.wikidata.org/prop/direct/P450",
+        "object": "http://www.wikidata.org/entity/Q182524"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182524",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q624038"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.wikidata.org/prop/direct/P906",
+      "object": "187847"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Yuri%20Gagarin%20portrait%20%28colored%29.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.wikidata.org/prop/direct/P1890",
+      "object": "000474789"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ユーリ・ガガーリン"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7327",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ユリ・ガガーリン"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "26759",
+  "answers": [
+    "ralf-schumann"
+  ],
+  "gold_path": {
+    "question_id": "26759",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P4053",
+        "object": "ralf-schumann"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ralf Schumann"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Шуман, Ральф"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://schema.org/version",
+      "object": "2458168428"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q553279-562CFC5C-F00C-4A4F-BEDE-4F14150089BD"
+    }
+  ]
+}

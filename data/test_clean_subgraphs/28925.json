@@ -1,0 +1,61 @@
+{
+  "question_id": "28925",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1959925",
+    "http://www.wikidata.org/entity/Q2715430",
+    "http://www.wikidata.org/entity/Q1121549",
+    "http://www.wikidata.org/entity/Q25000687"
+  ],
+  "gold_path": {
+    "question_id": "28925",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1121549",
+        "predicate": "http://www.wikidata.org/prop/direct/P3279",
+        "object": "http://www.wikidata.org/entity/Q36159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1959925",
+        "predicate": "http://www.wikidata.org/prop/direct/P3279",
+        "object": "http://www.wikidata.org/entity/Q36159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2715430",
+        "predicate": "http://www.wikidata.org/prop/direct/P3279",
+        "object": "http://www.wikidata.org/entity/Q36159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25000687",
+        "predicate": "http://www.wikidata.org/prop/direct/P3279",
+        "object": "http://www.wikidata.org/entity/Q36159"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1121549",
+      "predicate": "http://www.wikidata.org/prop/P580",
+      "object": "http://www.wikidata.org/entity/statement/Q1121549-C117A55F-A55F-4702-A925-00B52F93D8AA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1121549",
+      "predicate": "http://www.wikidata.org/prop/P3450",
+      "object": "http://www.wikidata.org/entity/statement/Q1121549-2F2A1325-22AD-4096-8281-46A4C454A413"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1121549",
+      "predicate": "http://www.wikidata.org/prop/P2094",
+      "object": "http://www.wikidata.org/entity/statement/Q1121549-0DB48573-A0A4-4ADA-95AA-56F1C337D8FC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1121549",
+      "predicate": "http://www.wikidata.org/prop/P582",
+      "object": "http://www.wikidata.org/entity/statement/Q1121549-B24D9B3D-DF84-4FD4-9F3B-CBAF702E605F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1121549",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/Q1121549-1698DDE6-C489-4984-ACC6-AE590763F34D"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "question_id": "12551",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13371"
+  ],
+  "gold_path": {
+    "question_id": "12551",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q122972",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q13371"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13371",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q45137420"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q122972",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Agassiz"
+    }
+  ]
+}

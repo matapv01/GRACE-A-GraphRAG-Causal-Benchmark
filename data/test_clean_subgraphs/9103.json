@@ -1,0 +1,48 @@
+{
+  "question_id": "9103",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3423322"
+  ],
+  "gold_path": {
+    "question_id": "9103",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q15897",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/Q15897-8C78961C-2AA0-4EF6-8699-682BA70C273F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q15897-8C78961C-2AA0-4EF6-8699-682BA70C273F",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q3423322"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q15897",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-29T15:32:04Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15897",
+      "predicate": "http://www.wikidata.org/prop/direct/P2909",
+      "object": "22392"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15897",
+      "predicate": "http://www.wikidata.org/prop/direct/P935",
+      "object": "Amy Winehouse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15897",
+      "predicate": "http://www.wikidata.org/prop/direct/P358",
+      "object": "http://www.wikidata.org/entity/Q1188598"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15897",
+      "predicate": "http://www.wikidata.org/prop/direct/P998",
+      "object": "Arts/Music/Bands_and_Artists/W/Winehouse,_Amy/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "23892",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4053427"
+  ],
+  "gold_path": {
+    "question_id": "23892",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4053427",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q184759"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4053427",
+        "predicate": "rdfs:label",
+        "object": "YUSCII"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4053427",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4053427",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "YUSCII"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4053427",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "CROSCII"
+    }
+  ]
+}

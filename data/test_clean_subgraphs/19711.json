@@ -1,0 +1,59 @@
+{
+  "question_id": "19711",
+  "answers": [
+    "http://www.wikidata.org/entity/Q42976",
+    "http://www.wikidata.org/entity/Q101534"
+  ],
+  "gold_path": {
+    "question_id": "19711",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34266",
+        "predicate": "http://www.wikidata.org/prop/direct/P770",
+        "object": "http://www.wikidata.org/entity/Q42976"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42976",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10931"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q34266",
+        "predicate": "http://www.wikidata.org/prop/direct/P770",
+        "object": "http://www.wikidata.org/entity/Q101534"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q101534",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10931"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q546048"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q2027257"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q34266"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gorskii%2004422u.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P35",
+      "object": "http://www.wikidata.org/entity/Q8479"
+    }
+  ]
+}

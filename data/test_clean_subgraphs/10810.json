@@ -1,0 +1,58 @@
+{
+  "question_id": "10810",
+  "answers": [
+    "http://www.wikidata.org/entity/Q333319"
+  ],
+  "gold_path": {
+    "question_id": "10810",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3044",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q3044-7C4B3DCF-29D0-4C8C-8EB6-DD9E13504015"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3044-7C4B3DCF-29D0-4C8C-8EB6-DD9E13504015",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22997793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3044-7C4B3DCF-29D0-4C8C-8EB6-DD9E13504015",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q333319"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3044-7C4B3DCF-29D0-4C8C-8EB6-DD9E13504015",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q297520"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Carolus Magnus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Karl I."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Charles I"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Charles Ier"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "シャルル1世"
+    }
+  ]
+}

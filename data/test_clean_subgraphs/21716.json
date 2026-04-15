@@ -1,0 +1,48 @@
+{
+  "question_id": "21716",
+  "answers": [
+    "http://www.wikidata.org/entity/Q165403"
+  ],
+  "gold_path": {
+    "question_id": "21716",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q165403",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q231458"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q165403",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q165403",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165403",
+      "predicate": "http://www.wikidata.org/prop/P3911",
+      "object": "http://www.wikidata.org/entity/statement/Q165403-368AFA9F-936B-496B-BFF4-0C8279D29B8D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165403",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "എണ്ണപ്പന"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165403",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "palmier à huile"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165403",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Elaeis guineensis"
+    }
+  ]
+}

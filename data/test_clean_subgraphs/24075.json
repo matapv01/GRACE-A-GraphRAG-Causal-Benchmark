@@ -1,0 +1,48 @@
+{
+  "question_id": "24075",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11702990"
+  ],
+  "gold_path": {
+    "question_id": "24075",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11702990",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q179600"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11702990",
+        "predicate": "rdfs:label",
+        "object": "T-type brown dwarf"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11702990",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11702990",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "T-type brown dwarf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11702990",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Naine T"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11702990",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "T型褐色矮星"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11702990",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Typ widmowy T"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "question_id": "17540",
+  "answers": [
+    "Kača",
+    "Serpent",
+    "Змея",
+    "Slang",
+    "Schlange"
+  ],
+  "gold_path": {
+    "question_id": "17540",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q698547",
+        "predicate": "http://www.wikidata.org/prop/direct/P59",
+        "object": "http://www.wikidata.org/entity/Q8910"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8910",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Schlange"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8910",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Serpent"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8910",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Kača"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8910",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Змея"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8910",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "Slang"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q698547",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20arp%20220.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q698547",
+      "predicate": "http://www.wikidata.org/prop/direct/P2216",
+      "object": "5427"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q698547",
+      "predicate": "http://www.wikidata.org/prop/direct/P223",
+      "object": "SAd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q698547",
+      "predicate": "http://www.wikidata.org/prop/direct/P1215",
+      "object": "13.88"
+    }
+  ]
+}

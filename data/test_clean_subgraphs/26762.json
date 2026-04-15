@@ -1,0 +1,43 @@
+{
+  "question_id": "26762",
+  "answers": [
+    "1-2223353"
+  ],
+  "gold_path": {
+    "question_id": "26762",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34316",
+        "predicate": "http://www.wikidata.org/prop/direct/P3414",
+        "object": "1-2223353"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34316",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "94"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34316",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/311477105"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34316",
+      "predicate": "http://www.wikidata.org/prop/direct/P86",
+      "object": "http://www.wikidata.org/entity/Q957357"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34316",
+      "predicate": "http://www.wikidata.org/prop/P86",
+      "object": "http://www.wikidata.org/entity/statement/Q34316-57370cfc-4590-9fa4-cdaf-325f60f9faca"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34316",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "311477105"
+    }
+  ]
+}

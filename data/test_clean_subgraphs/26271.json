@@ -1,0 +1,91 @@
+{
+  "question_id": "26271",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2724527",
+    "http://www.wikidata.org/entity/Q66710",
+    "http://www.wikidata.org/entity/Q1191",
+    "http://www.wikidata.org/entity/Q1437",
+    "http://www.wikidata.org/entity/Q408",
+    "http://www.wikidata.org/entity/Q1061",
+    "http://www.wikidata.org/entity/Q14552167",
+    "http://www.wikidata.org/entity/Q668",
+    "http://www.wikidata.org/entity/Q1720882"
+  ],
+  "gold_path": {
+    "question_id": "26271",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q408",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q668",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1061",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1191",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1437",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q66710",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1720882",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2724527",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14552167",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5137"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "澳大利亞"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nova Hollandia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Down Under"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Oz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Stria"
+    }
+  ]
+}

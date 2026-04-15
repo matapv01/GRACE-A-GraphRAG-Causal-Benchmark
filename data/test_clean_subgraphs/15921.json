@@ -1,0 +1,72 @@
+{
+  "question_id": "15921",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5726646",
+    "http://www.wikidata.org/entity/Q4725732",
+    "http://www.wikidata.org/entity/Q105142385",
+    "http://www.wikidata.org/entity/Q78902270",
+    "http://www.wikidata.org/entity/Q23603371"
+  ],
+  "gold_path": {
+    "question_id": "15921",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q51407220",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q1341617"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1341617",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q4725732"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1341617",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q5726646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1341617",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q23603371"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1341617",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q78902270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1341617",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q105142385"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q51407220",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q51407220-A1667BCD-938D-4607-981C-7AE006CA74D0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51407220",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL23320306M"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51407220",
+      "predicate": "http://www.wikidata.org/prop/direct/P4327",
+      "object": "13233"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51407220",
+      "predicate": "http://www.wikidata.org/prop/P4327",
+      "object": "http://www.wikidata.org/entity/statement/Q51407220-9EF88EBC-DFC5-40ED-89A2-881C36D3F327"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51407220",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q3331189"
+    }
+  ]
+}

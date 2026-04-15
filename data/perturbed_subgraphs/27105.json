@@ -1,0 +1,387 @@
+{
+  "clean": {
+    "question_id": "27105",
+    "answers": [
+      "fmt/134"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct/P2748",
+        "object": "fmt/134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+        "object": "http://www.yso.fi/onto/yso/p21853"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/statement/Q42591-75e79a95-49a5-1805-a176-5e2ec2c75c74"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh00000865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "http://id.loc.gov/vocabulary/mencformat/mp3"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "27105",
+    "answers": [
+      "fmt/134"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+        "object": "http://www.yso.fi/onto/yso/p21853"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/statement/Q42591-75e79a95-49a5-1805-a176-5e2ec2c75c74"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh00000865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "http://id.loc.gov/vocabulary/mencformat/mp3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "fmt/134"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "27105",
+    "answers": [
+      "fmt/134"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct/P2748",
+        "object": "fmt/134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+        "object": "http://www.yso.fi/onto/yso/p21853"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/statement/Q42591-75e79a95-49a5-1805-a176-5e2ec2c75c74"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh00000865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "http://id.loc.gov/vocabulary/mencformat/mp3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "ckt/671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "mwd/621"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "pkn/842"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "sdb/614"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "ntj/722"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "27105",
+    "answers": [
+      "fmt/134"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct/P2748",
+        "object": "fmt/134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+        "object": "http://www.yso.fi/onto/yso/p21853"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/statement/Q42591-75e79a95-49a5-1805-a176-5e2ec2c75c74"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh00000865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "http://id.loc.gov/vocabulary/mencformat/mp3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "27105",
+    "answers": [
+      "fmt/134"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "51"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+        "object": "http://www.yso.fi/onto/yso/p21853"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/P3266",
+        "object": "http://www.wikidata.org/entity/statement/Q42591-75e79a95-49a5-1805-a176-5e2ec2c75c74"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh00000865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+        "object": "http://id.loc.gov/vocabulary/mencformat/mp3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct/P2748",
+        "object": "qck/134"
+      }
+    ]
+  }
+}

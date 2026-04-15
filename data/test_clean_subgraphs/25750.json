@@ -1,0 +1,38 @@
+{
+  "question_id": "25750",
+  "answers": [
+    "6551"
+  ],
+  "gold_path": {
+    "question_id": "25750",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q183221",
+        "predicate": "http://www.wikidata.org/prop/direct/P1795",
+        "object": "6551"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q183221",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "193"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183221",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "69"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183221",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Antoine Watteau"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183221",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "أنطوان واتو"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "29908",
+  "answers": [
+    "http://www.wikidata.org/entity/Q149947"
+  ],
+  "gold_path": {
+    "question_id": "29908",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220665",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q149947"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q149947",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "space-invaders"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0jvd8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q1406"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q10677"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q23882"
+    }
+  ]
+}

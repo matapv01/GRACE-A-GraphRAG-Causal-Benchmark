@@ -1,0 +1,53 @@
+{
+  "question_id": "3407",
+  "answers": [
+    "http://www.wikidata.org/entity/Q42313338"
+  ],
+  "gold_path": {
+    "question_id": "3407",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42313338",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2441216"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42313338",
+        "predicate": "http://www.wikidata.org/prop/direct/P2325",
+        "object": "35.037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42313338",
+        "predicate": "http://www.wikidata.org/prop/direct/P65",
+        "object": "http://www.wikidata.org/entity/Q1075600"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42313338",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42313338",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+      "object": "http://babelnet.org/rdf/s21126241n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42313338",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "১আই/ঔমুয়ামুয়া"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42313338",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "1I/'Oumuamua"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42313338",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "\"Oumuamua\""
+    }
+  ]
+}

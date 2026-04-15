@@ -1,0 +1,60 @@
+{
+  "question_id": "21945",
+  "answers": [
+    "http://www.wikidata.org/entity/Q38066670",
+    "http://www.wikidata.org/entity/Q118192652",
+    "http://www.wikidata.org/entity/Q2093437"
+  ],
+  "gold_path": {
+    "question_id": "21945",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2093437",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q159766"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2093437",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11446"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q38066670",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q159766"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q38066670",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11446"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q118192652",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q159766"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q118192652",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11446"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2093437",
+      "predicate": "http://www.wikidata.org/prop/direct/P8047",
+      "object": "http://www.wikidata.org/entity/Q170072"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2093437",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2093437",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0g9zk53"
+    }
+  ]
+}

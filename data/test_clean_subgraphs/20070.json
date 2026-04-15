@@ -1,0 +1,48 @@
+{
+  "question_id": "20070",
+  "answers": [
+    "http://www.wikidata.org/entity/Q739465"
+  ],
+  "gold_path": {
+    "question_id": "20070",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q739465",
+        "predicate": "http://www.wikidata.org/prop/direct/P2578",
+        "object": "http://www.wikidata.org/entity/Q9288"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q739465",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4671286"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q739465",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q739465",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "hebraísmo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q739465",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hebrew studies"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q739465",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hebrew linguistics"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q739465",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "hebreologio"
+    }
+  ]
+}

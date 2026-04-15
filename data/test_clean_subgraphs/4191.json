@@ -1,0 +1,43 @@
+{
+  "question_id": "4191",
+  "answers": [
+    "0890-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4191",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193198",
+        "predicate": "http://www.wikidata.org/prop/P569",
+        "object": "http://www.wikidata.org/entity/statement/Q193198-fb1f7bf3-4241-e02f-17ba-f228e5296ee3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193198-fb1f7bf3-4241-e02f-17ba-f228e5296ee3",
+        "predicate": "ps:P569",
+        "object": "0890-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193198-fb1f7bf3-4241-e02f-17ba-f228e5296ee3",
+        "predicate": "pq:P1480",
+        "object": "http://www.wikidata.org/entity/Q5727902"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193198",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-21T12:53:10Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193198",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Olga"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193198",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Вольга"
+    }
+  ]
+}

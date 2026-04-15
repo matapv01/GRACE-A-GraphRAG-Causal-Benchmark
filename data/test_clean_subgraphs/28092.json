@@ -1,0 +1,33 @@
+{
+  "question_id": "28092",
+  "answers": [
+    "90276"
+  ],
+  "gold_path": {
+    "question_id": "28092",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q223597",
+        "predicate": "http://www.wikidata.org/prop/direct/P962",
+        "object": "90276"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q223597",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "29"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223597",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Oomycetes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q223597",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Oomicetoj"
+    }
+  ]
+}

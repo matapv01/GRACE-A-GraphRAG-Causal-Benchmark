@@ -1,0 +1,53 @@
+{
+  "question_id": "4899",
+  "answers": [
+    "http://www.wikidata.org/entity/Q880198"
+  ],
+  "gold_path": {
+    "question_id": "4899",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23685",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q23685-88C7ECD3-DB69-4054-8B1A-38FCF979702F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23685-88C7ECD3-DB69-4054-8B1A-38FCF979702F",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q880198"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23685-88C7ECD3-DB69-4054-8B1A-38FCF979702F",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q885384"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23685",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T10:45:17Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23685",
+      "predicate": "http://schema.org/version",
+      "object": "2480268600"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23685",
+      "predicate": "http://schema.org/description",
+      "object": "শান্তিতে নোবেল পুরষ্কার বিজয়ী"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23685",
+      "predicate": "http://schema.org/description",
+      "object": "39ú huachtarán na Stát Aontaithe (1977–1981)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23685",
+      "predicate": "http://schema.org/description",
+      "object": "presidente dos Estados Unidos de América de 1977 a 1981"
+    }
+  ]
+}

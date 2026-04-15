@@ -1,0 +1,84 @@
+{
+  "question_id": "17362",
+  "answers": [
+    "http://www.wikidata.org/entity/Q559546",
+    "http://www.wikidata.org/entity/Q1865588",
+    "http://www.wikidata.org/entity/Q923232",
+    "http://www.wikidata.org/entity/Q5502728",
+    "http://www.wikidata.org/entity/Q1143406",
+    "http://www.wikidata.org/entity/Q809666",
+    "http://www.wikidata.org/entity/Q1628056"
+  ],
+  "gold_path": {
+    "question_id": "17362",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6817083",
+        "predicate": "http://www.wikidata.org/prop/direct/P200",
+        "object": "http://www.wikidata.org/entity/Q181482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181482",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q559546"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181482",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q809666"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181482",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q923232"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181482",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q1143406"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181482",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q1628056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181482",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q1865588"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181482",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q5502728"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6817083",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Menindee%20Lakes%20in%20NSW%20from%2016%2C000ft.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6817083",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6817083",
+      "predicate": "http://schema.org/version",
+      "object": "2408221239"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6817083",
+      "predicate": "http://schema.org/description",
+      "object": "rivier in Australië"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6817083",
+      "predicate": "http://schema.org/description",
+      "object": "אגם באוסטרליה"
+    }
+  ]
+}

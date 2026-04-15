@@ -1,0 +1,53 @@
+{
+  "question_id": "8391",
+  "answers": [
+    "http://www.wikidata.org/entity/Q263324"
+  ],
+  "gold_path": {
+    "question_id": "8391",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190373",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q190373-387b258e-4942-3576-920d-46f0a1606393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190373-387b258e-4942-3576-920d-46f0a1606393",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q17985761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190373-387b258e-4942-3576-920d-46f0a1606393",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q263324"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q190373",
+      "predicate": "http://www.wikidata.org/prop/P1988",
+      "object": "http://www.wikidata.org/entity/statement/Q190373-8FCF0219-DD12-4962-8D1D-197014D5D43F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190373",
+      "predicate": "http://www.wikidata.org/prop/P2168",
+      "object": "http://www.wikidata.org/entity/statement/Q190373-e0e89626-4e15-c83b-1340-cf72c17c393b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190373",
+      "predicate": "http://www.wikidata.org/prop/P2163",
+      "object": "http://www.wikidata.org/entity/statement/Q190373-111B14F2-0CC0-4ECD-BE23-4F6DB31C959E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190373",
+      "predicate": "http://www.wikidata.org/prop/P213",
+      "object": "http://www.wikidata.org/entity/statement/q190373-2EB03025-14F4-4238-834B-AA5D36556221"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190373",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/q190373-78F69481-67F6-4F0B-8F27-6DC0A31E6682"
+    }
+  ]
+}

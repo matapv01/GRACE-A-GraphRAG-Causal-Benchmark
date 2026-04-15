@@ -1,0 +1,48 @@
+{
+  "question_id": "12399",
+  "answers": [
+    "http://www.wikidata.org/entity/Q859"
+  ],
+  "gold_path": {
+    "question_id": "12399",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188745",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q859"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q859",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q6499786"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188745",
+      "predicate": "http://schema.org/description",
+      "object": "متعددات الوجوه المنتظمة المحدبة ذات نفس عدد الوجوه عند كل رأس"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188745",
+      "predicate": "http://schema.org/description",
+      "object": "সুষম বহুভুজ বিশিষ্ট সুষম উত্তল বহুতলক"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188745",
+      "predicate": "http://schema.org/description",
+      "object": "políedre regular i convex"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188745",
+      "predicate": "http://schema.org/description",
+      "object": "Vielflächner höchster Symmetrie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188745",
+      "predicate": "http://schema.org/description",
+      "object": "convex regular polyhedra with the same number of faces at each vertex"
+    }
+  ]
+}

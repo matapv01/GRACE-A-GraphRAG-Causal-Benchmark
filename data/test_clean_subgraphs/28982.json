@@ -1,0 +1,55 @@
+{
+  "question_id": "28982",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1907875",
+    "http://www.wikidata.org/entity/Q749020",
+    "http://www.wikidata.org/entity/Q163727"
+  ],
+  "gold_path": {
+    "question_id": "28982",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q183816",
+        "predicate": "http://www.wikidata.org/prop/direct/P4967",
+        "object": "http://www.wikidata.org/entity/Q163727"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q183816",
+        "predicate": "http://www.wikidata.org/prop/direct/P4967",
+        "object": "http://www.wikidata.org/entity/Q749020"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q183816",
+        "predicate": "http://www.wikidata.org/prop/direct/P4967",
+        "object": "http://www.wikidata.org/entity/Q1907875"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q183816",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4706762-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183816",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/MastersDegree"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183816",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8168",
+      "object": "https://database.factgrid.de/entity/Q456359"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183816",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p4649"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183816",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P7033",
+      "object": "http://vocabulary.curriculum.edu.au/scot/10720"
+    }
+  ]
+}

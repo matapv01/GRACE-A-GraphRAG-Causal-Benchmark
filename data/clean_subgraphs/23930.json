@@ -1,0 +1,98 @@
+{
+  "question_id": "23930",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7892355",
+    "http://www.wikidata.org/entity/Q87629158",
+    "http://www.wikidata.org/entity/Q125497908",
+    "http://www.wikidata.org/entity/Q7564130",
+    "http://www.wikidata.org/entity/Q133818671",
+    "http://www.wikidata.org/entity/Q128601395"
+  ],
+  "gold_path": {
+    "question_id": "23930",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7564130",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1020018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7564130",
+        "predicate": "rdfs:label",
+        "object": "Souk Al-Manakh stock market crash"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7892355",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1020018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7892355",
+        "predicate": "rdfs:label",
+        "object": "United States bear market of 2007–09"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q87629158",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1020018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q87629158",
+        "predicate": "rdfs:label",
+        "object": "2020 stock market crash"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125497908",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1020018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125497908",
+        "predicate": "rdfs:label",
+        "object": "Saudi Stock Market Crash of 2006"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q128601395",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1020018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q128601395",
+        "predicate": "rdfs:label",
+        "object": "2024 stock market decline"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q133818671",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1020018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q133818671",
+        "predicate": "rdfs:label",
+        "object": "2025 stock market crash"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7564130",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سوق المناخ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7564130",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Souk Al-Manakh stock market crash"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7564130",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7564130",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q7564130-166A1B9A-1CA2-4A2F-9B89-CEF5A06B5A5E"
+    }
+  ]
+}

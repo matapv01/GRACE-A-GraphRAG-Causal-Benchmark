@@ -1,0 +1,58 @@
+{
+  "question_id": "10526",
+  "answers": [
+    "33"
+  ],
+  "gold_path": {
+    "question_id": "10526",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188632",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q188632-5F753EEE-3F83-40DA-ADE7-2F3E6ED66191"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q188632-5F753EEE-3F83-40DA-ADE7-2F3E6ED66191",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q18656"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q188632-5F753EEE-3F83-40DA-ADE7-2F3E6ED66191",
+        "predicate": "pq:P1351",
+        "object": "33"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q188632-5F753EEE-3F83-40DA-ADE7-2F3E6ED66191",
+        "predicate": "pq:P1350",
+        "object": "326"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188632",
+      "predicate": "http://schema.org/description",
+      "object": "Bal tãongra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188632",
+      "predicate": "http://schema.org/description",
+      "object": "futbolista irlandés"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188632",
+      "predicate": "http://schema.org/description",
+      "object": "footballeur irlandais"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188632",
+      "predicate": "http://schema.org/description",
+      "object": "irski nogometaš"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188632",
+      "predicate": "http://schema.org/description",
+      "object": "voetballer uit Ierland"
+    }
+  ]
+}

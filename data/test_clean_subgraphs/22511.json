@@ -1,0 +1,43 @@
+{
+  "question_id": "22511",
+  "answers": [
+    "http://www.wikidata.org/entity/Q216065"
+  ],
+  "gold_path": {
+    "question_id": "22511",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q216065",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q585"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q216065",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q369639"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q216065",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Østlandet"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216065",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/051fn0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216065",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q216065-0EA426D6-D9F1-4A05-BB8C-F2450A8DD3BB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216065",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ostland"
+    }
+  ]
+}

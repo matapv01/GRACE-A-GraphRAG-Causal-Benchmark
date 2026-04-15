@@ -1,0 +1,53 @@
+{
+  "question_id": "5385",
+  "answers": [
+    "3"
+  ],
+  "gold_path": {
+    "question_id": "5385",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q161233",
+        "predicate": "http://www.wikidata.org/prop/P4952",
+        "object": "http://www.wikidata.org/entity/statement/Q161233-BB386440-3641-4DB1-8E19-91C70BFFB4AD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q161233-BB386440-3641-4DB1-8E19-91C70BFFB4AD",
+        "predicate": "ps:P4952",
+        "object": "http://www.wikidata.org/entity/Q51139288"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q161233-BB386440-3641-4DB1-8E19-91C70BFFB4AD",
+        "predicate": "pq:P993",
+        "object": "3"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q161233",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "formic acid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161233",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "myresyre"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161233",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "kyselina mravenčí"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161233",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ácido fórmico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161233",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "myrsyra"
+    }
+  ]
+}

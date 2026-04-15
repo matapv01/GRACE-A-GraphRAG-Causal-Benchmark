@@ -1,0 +1,73 @@
+{
+  "question_id": "16777",
+  "answers": [
+    "http://www.wikidata.org/entity/Q208370",
+    "http://www.wikidata.org/entity/Q9759",
+    "http://www.wikidata.org/entity/Q212952",
+    "http://www.wikidata.org/entity/Q7749",
+    "http://www.wikidata.org/entity/Q203775",
+    "http://www.wikidata.org/entity/Q1195630"
+  ],
+  "gold_path": {
+    "question_id": "16777",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1973871",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q736099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q736099",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q7749"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q736099",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q9759"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q736099",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q203775"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q736099",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q208370"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q736099",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q212952"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q736099",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q1195630"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1973871",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Americano"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1973871",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tu Vuò Fà L'Americano (cantar de Renato Carosone)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1973871",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tu Vuò Fà L'Americano"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1973871",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tu vuò fà l'americano"
+    }
+  ]
+}

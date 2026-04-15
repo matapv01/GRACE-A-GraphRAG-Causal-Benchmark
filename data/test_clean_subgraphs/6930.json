@@ -1,0 +1,53 @@
+{
+  "question_id": "6930",
+  "answers": [
+    "1353-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6930",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11911",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q11911-745237b9-4014-44e6-2f71-5b8ce0d100f9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11911-745237b9-4014-44e6-2f71-5b8ce0d100f9",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q435583"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11911-745237b9-4014-44e6-2f71-5b8ce0d100f9",
+        "predicate": "pq:P580",
+        "object": "1353-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11911",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T20:21:29Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11911",
+      "predicate": "http://schema.org/version",
+      "object": "2478334971"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11911",
+      "predicate": "http://schema.org/description",
+      "object": "canton of Switzerland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11911",
+      "predicate": "http://schema.org/description",
+      "object": "كانتون سويسري"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11911",
+      "predicate": "http://schema.org/description",
+      "object": "Sveitsin kantoni"
+    }
+  ]
+}

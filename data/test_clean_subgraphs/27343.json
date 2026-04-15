@@ -1,0 +1,38 @@
+{
+  "question_id": "27343",
+  "answers": [
+    "01877"
+  ],
+  "gold_path": {
+    "question_id": "27343",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13169",
+        "predicate": "http://www.wikidata.org/prop/direct/P999",
+        "object": "01877"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13169",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2778250807"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13169",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Fomalhaut"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13169",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "فم الحوت"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13169",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Fəməlhut"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "question_id": "24724",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4006946",
+    "http://www.wikidata.org/entity/Q56255286",
+    "http://www.wikidata.org/entity/Q2505193",
+    "http://www.wikidata.org/entity/Q1229202"
+  ],
+  "gold_path": {
+    "question_id": "24724",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4006946",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4006946",
+        "predicate": "rdfs:label",
+        "object": "VESA Plug and Display"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56255286",
+        "predicate": "rdfs:label",
+        "object": "VirtualLink"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1229202",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1229202",
+        "predicate": "rdfs:label",
+        "object": "VESA DPMS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2505193",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6046311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2505193",
+        "predicate": "rdfs:label",
+        "object": "V.24"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4006946",
+      "predicate": "http://schema.org/description",
+      "object": "Schnittstellenstandard für Bildschirme und Peripheriegeräte"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4006946",
+      "predicate": "http://schema.org/description",
+      "object": "interface standard for displays and peripherals"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4006946",
+      "predicate": "http://schema.org/description",
+      "object": "standard interfejsu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4006946",
+      "predicate": "http://schema.org/version",
+      "object": "2378896794"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4006946",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    }
+  ]
+}

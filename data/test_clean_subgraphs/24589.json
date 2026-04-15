@@ -1,0 +1,76 @@
+{
+  "question_id": "24589",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10521",
+    "http://www.wikidata.org/entity/Q10519",
+    "http://www.wikidata.org/entity/Q8842",
+    "http://www.wikidata.org/entity/Q10437"
+  ],
+  "gold_path": {
+    "question_id": "24589",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8842",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8842",
+        "predicate": "rdfs:label",
+        "object": "Virgo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10437",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10437",
+        "predicate": "rdfs:label",
+        "object": "Volans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10521",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10521",
+        "predicate": "rdfs:label",
+        "object": "Vela"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10519",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10519",
+        "predicate": "rdfs:label",
+        "object": "Vulpecula"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8842",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4029017-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8842",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/728145424648886831449"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8842",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/09495106-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8842",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q4193029"
+    }
+  ]
+}

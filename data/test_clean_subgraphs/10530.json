@@ -1,0 +1,58 @@
+{
+  "question_id": "10530",
+  "answers": [
+    "8"
+  ],
+  "gold_path": {
+    "question_id": "10530",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q336916",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q336916-073DB00F-C25D-4CBD-92E7-D1674EB7C341"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q336916-073DB00F-C25D-4CBD-92E7-D1674EB7C341",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q283545"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q336916-073DB00F-C25D-4CBD-92E7-D1674EB7C341",
+        "predicate": "pq:P1350",
+        "object": "8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q336916-073DB00F-C25D-4CBD-92E7-D1674EB7C341",
+        "predicate": "pq:P1351",
+        "object": "7"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q336916",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q336916-F5793115-41EB-47D7-B92C-BEF90A3EB294"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336916",
+      "predicate": "http://www.wikidata.org/prop/P2020",
+      "object": "http://www.wikidata.org/entity/statement/Q336916-7DEE3D86-DDF7-404D-9E83-AA08063D93F6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336916",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "1999-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336916",
+      "predicate": "http://www.wikidata.org/prop/direct/P2020",
+      "object": "abedi-pele"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q336916",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q336916-fbf28bcb-4fd6-e1c7-5718-025f33c5a588"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "question_id": "10515",
+  "answers": [
+    "647.14"
+  ],
+  "gold_path": {
+    "question_id": "10515",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q283",
+        "predicate": "http://www.wikidata.org/prop/P873",
+        "object": "http://www.wikidata.org/entity/statement/Q283-6b0cf964-4a26-11b7-4197-b3626807ac09"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q283-6b0cf964-4a26-11b7-4197-b3626807ac09",
+        "predicate": "ps:P873",
+        "object": "http://www.wikidata.org/entity/Q111059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q283-6b0cf964-4a26-11b7-4197-b3626807ac09",
+        "predicate": "pq:P2076",
+        "object": "647.14"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q283-6b0cf964-4a26-11b7-4197-b3626807ac09",
+        "predicate": "pq:P515",
+        "object": "http://www.wikidata.org/entity/Q11432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q283-6b0cf964-4a26-11b7-4197-b3626807ac09",
+        "predicate": "pq:P515",
+        "object": "http://www.wikidata.org/entity/Q11435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q283-6b0cf964-4a26-11b7-4197-b3626807ac09",
+        "predicate": "pq:P515",
+        "object": "http://www.wikidata.org/entity/Q682585"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "molecola costituita da due atomi di idrogeno e uno di ossigeno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "ജീവന്റെ നിലനില്പിന് അത്യന്താപേക്ഷിതമായ ദ്രാവകമാണ് ജലം"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "chemische verbinding van twee waterstofatomen en een zuurstofatoom"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "agua"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "compositum chemicum"
+    }
+  ]
+}

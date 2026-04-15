@@ -1,0 +1,48 @@
+{
+  "question_id": "17954",
+  "answers": [
+    "http://www.wikidata.org/entity/Q22683249"
+  ],
+  "gold_path": {
+    "question_id": "17954",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3492",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q1239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1239",
+        "predicate": "http://www.wikidata.org/prop/direct/P2184",
+        "object": "http://www.wikidata.org/entity/Q22683249"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3492",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T18:44:11Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3492",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Sumatra%20in%20Atlas%20sekolah%20Hindia%20Nederland.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3492",
+      "predicate": "http://www.wikidata.org/prop/direct/P12086",
+      "object": "Sumatra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3492",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "sumatra-0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3492",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "sh85130407"
+    }
+  ]
+}

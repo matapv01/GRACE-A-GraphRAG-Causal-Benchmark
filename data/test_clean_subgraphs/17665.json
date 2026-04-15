@@ -1,0 +1,54 @@
+{
+  "question_id": "17665",
+  "answers": [
+    "http://www.wikidata.org/entity/Q32505",
+    "http://www.wikidata.org/entity/Q43715"
+  ],
+  "gold_path": {
+    "question_id": "17665",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131842",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q3266236"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3266236",
+        "predicate": "http://www.wikidata.org/prop/direct/P941",
+        "object": "http://www.wikidata.org/entity/Q32505"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3266236",
+        "predicate": "http://www.wikidata.org/prop/direct/P941",
+        "object": "http://www.wikidata.org/entity/Q43715"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131842",
+      "predicate": "http://www.wikidata.org/prop/P7975",
+      "object": "http://www.wikidata.org/entity/statement/Q131842-14ac5a8e-4d2e-2f5e-63b0-9a218342d3a2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131842",
+      "predicate": "http://www.wikidata.org/prop/P674",
+      "object": "http://www.wikidata.org/entity/statement/Q131842-E1909920-7F38-4DE5-8DDA-7256F31C0F9C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131842",
+      "predicate": "http://www.wikidata.org/prop/P750",
+      "object": "http://www.wikidata.org/entity/statement/Q131842-FF7B7306-661A-41DE-8882-F900463C1FA5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131842",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q131842-C95D2141-3141-4949-91D4-0D418AE5A7E6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131842",
+      "predicate": "http://www.wikidata.org/prop/direct/P7975",
+      "object": "22584"
+    }
+  ]
+}

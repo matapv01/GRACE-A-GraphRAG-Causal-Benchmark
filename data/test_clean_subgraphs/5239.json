@@ -1,0 +1,53 @@
+{
+  "question_id": "5239",
+  "answers": [
+    "2007-05-10T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5239",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q168847",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q168847-17649A32-7AF5-4369-ACB4-738E53E670B4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q168847-17649A32-7AF5-4369-ACB4-738E53E670B4",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q645704"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q168847-17649A32-7AF5-4369-ACB4-738E53E670B4",
+        "predicate": "pq:P580",
+        "object": "2007-05-10T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q168847",
+      "predicate": "http://www.wikidata.org/prop/P8189",
+      "object": "http://www.wikidata.org/entity/statement/Q168847-1E4E11AB-5B36-4480-B67A-B60AC642EEEC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168847",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007325082405171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168847",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "111344"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168847",
+      "predicate": "http://www.wikidata.org/prop/direct/P8895",
+      "object": "Brittany_Murphy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168847",
+      "predicate": "http://www.wikidata.org/prop/direct/P2688",
+      "object": "brittanymurphy"
+    }
+  ]
+}

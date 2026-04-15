@@ -1,0 +1,48 @@
+{
+  "question_id": "21067",
+  "answers": [
+    "http://www.wikidata.org/entity/Q239344"
+  ],
+  "gold_path": {
+    "question_id": "21067",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1001",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q239344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q239344",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q754479"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Gandhi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ગાંધી"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "বাপু"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ബാപ്പുജി"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ഗാന്ധി"
+    }
+  ]
+}

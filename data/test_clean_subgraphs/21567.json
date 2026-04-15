@@ -1,0 +1,33 @@
+{
+  "question_id": "21567",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1741"
+  ],
+  "gold_path": {
+    "question_id": "21567",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1741",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q131964"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1741",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q871419"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1741",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vienna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1741",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Wien"
+    }
+  ]
+}

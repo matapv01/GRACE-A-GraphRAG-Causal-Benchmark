@@ -1,0 +1,48 @@
+{
+  "question_id": "13197",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23306"
+  ],
+  "gold_path": {
+    "question_id": "13197",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23240",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q23306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23306",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q188801"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Swydd Essex"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Έσσεξ, Αγγλία"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Έσσεξ, Ανατολική Αγγλία"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "エセックス州"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Törensel Essex Kontluğu"
+    }
+  ]
+}

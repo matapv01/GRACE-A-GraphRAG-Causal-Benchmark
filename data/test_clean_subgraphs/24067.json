@@ -1,0 +1,59 @@
+{
+  "question_id": "24067",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11705477",
+    "http://www.wikidata.org/entity/Q8066517"
+  ],
+  "gold_path": {
+    "question_id": "24067",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8066517",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581450"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8066517",
+        "predicate": "rdfs:label",
+        "object": "Zaqiel"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11705477",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581450"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11705477",
+        "predicate": "rdfs:label",
+        "object": "Ziminiar"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8066517",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8066517",
+      "predicate": "http://schema.org/version",
+      "object": "2349044542"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8066517",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8066517",
+      "predicate": "http://schema.org/description",
+      "object": "cennetten kovulan melek"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8066517",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "2"
+    }
+  ]
+}

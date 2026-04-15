@@ -1,0 +1,48 @@
+{
+  "question_id": "3919",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13004"
+  ],
+  "gold_path": {
+    "question_id": "3919",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13002",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q13002-5DC7BBA6-F49F-4514-8A03-167A9C65F414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q13002-5DC7BBA6-F49F-4514-8A03-167A9C65F414",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q13004"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13002",
+      "predicate": "http://www.wikidata.org/prop/P3047",
+      "object": "http://www.wikidata.org/entity/statement/Q13002-44fd01dd-4cf6-675d-a4be-dfe38b97a239"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13002",
+      "predicate": "http://www.wikidata.org/prop/direct/P3047",
+      "object": "34072"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13002",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "1500563"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13002",
+      "predicate": "http://www.wikidata.org/prop/P10302",
+      "object": "http://www.wikidata.org/entity/statement/Q13002-03acfd5b-c6ad-4b8d-a5a6-057768a01094"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13002",
+      "predicate": "http://www.wikidata.org/prop/direct/P10302",
+      "object": "paul-gascoigne"
+    }
+  ]
+}

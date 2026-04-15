@@ -1,0 +1,58 @@
+{
+  "question_id": "10974",
+  "answers": [
+    "1772-09-15T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10974",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11806",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/Q11806-1BD643CD-FC64-4ADD-8248-3363A7BD3CE0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11806-1BD643CD-FC64-4ADD-8248-3363A7BD3CE0",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q7787805"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11806-1BD643CD-FC64-4ADD-8248-3363A7BD3CE0",
+        "predicate": "pq:P569",
+        "object": "1772-09-15T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11806-1BD643CD-FC64-4ADD-8248-3363A7BD3CE0",
+        "predicate": "pq:P25",
+        "object": "http://www.wikidata.org/entity/Q206191"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q11806-CB661000-75B6-46C0-BA9F-BDFD6DA07A74"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "John-Adams"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P2390",
+      "object": "John_Adams_(U.S._president)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "01133474"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P1670",
+      "object": "0040H9483"
+    }
+  ]
+}

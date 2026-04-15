@@ -1,0 +1,43 @@
+{
+  "question_id": "7917",
+  "answers": [
+    "http://www.wikidata.org/entity/Q47983"
+  ],
+  "gold_path": {
+    "question_id": "7917",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23086",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q23086-57ef2394-4d9c-9427-8eac-7eaa104ceb81"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23086-57ef2394-4d9c-9427-8eac-7eaa104ceb81",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q47983"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23086-57ef2394-4d9c-9427-8eac-7eaa104ceb81",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q894094"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23086",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "North Yorkshire"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23086",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Nort-Yorkşir"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23086",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Паўночны Ёркшыр"
+    }
+  ]
+}

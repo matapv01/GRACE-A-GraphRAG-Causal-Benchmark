@@ -1,0 +1,48 @@
+{
+  "question_id": "4478",
+  "answers": [
+    "http://www.wikidata.org/entity/Q737051"
+  ],
+  "gold_path": {
+    "question_id": "4478",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212446",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q212446-ECD4D2A6-47C3-40B0-8E6D-74A89E861E79"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q212446-ECD4D2A6-47C3-40B0-8E6D-74A89E861E79",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q737051"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q212446",
+      "predicate": "http://www.wikidata.org/prop/P570",
+      "object": "http://www.wikidata.org/entity/statement/q212446-F3AED71F-BD55-4FD2-9C93-0E9DB2F6AC8F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212446",
+      "predicate": "http://www.wikidata.org/prop/direct/P570",
+      "object": "1972-10-26T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212446",
+      "predicate": "http://www.wikidata.org/prop/P7699",
+      "object": "http://www.wikidata.org/entity/statement/Q212446-89fc46bd-4ac3-93a0-ca6c-5cb5fae38c5b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212446",
+      "predicate": "http://www.wikidata.org/prop/direct/P7699",
+      "object": "LNB:V*332700;=BB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212446",
+      "predicate": "http://www.wikidata.org/prop/P1006",
+      "object": "http://www.wikidata.org/entity/statement/Q212446-59C93725-D18C-42BA-8201-0D8CEAACFB4D"
+    }
+  ]
+}

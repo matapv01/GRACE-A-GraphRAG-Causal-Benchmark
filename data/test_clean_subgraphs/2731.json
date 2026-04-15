@@ -1,0 +1,82 @@
+{
+  "question_id": "2731",
+  "answers": [
+    "http://www.wikidata.org/entity/Q108569059",
+    "http://www.wikidata.org/entity/Q56263726",
+    "http://www.wikidata.org/entity/Q1453477",
+    "http://www.wikidata.org/entity/Q61081250",
+    "http://www.wikidata.org/entity/Q68966143"
+  ],
+  "gold_path": {
+    "question_id": "2731",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q61081250",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7094076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61081250",
+        "predicate": "http://www.wikidata.org/prop/direct/P1661",
+        "object": "10031177"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108569059",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7094076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108569059",
+        "predicate": "http://www.wikidata.org/prop/direct/P1661",
+        "object": "8884320"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1453477",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7094076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1453477",
+        "predicate": "http://www.wikidata.org/prop/direct/P1661",
+        "object": "3380989"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56263726",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7094076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56263726",
+        "predicate": "http://www.wikidata.org/prop/direct/P1661",
+        "object": "2266832"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q68966143",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7094076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q68966143",
+        "predicate": "http://www.wikidata.org/prop/direct/P1661",
+        "object": "2100823"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q61081250",
+      "predicate": "http://schema.org/version",
+      "object": "2458086701"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61081250",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "شينامار"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61081250",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "CinemaRX"
+    }
+  ]
+}

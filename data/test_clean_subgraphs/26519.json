@@ -1,0 +1,43 @@
+{
+  "question_id": "26519",
+  "answers": [
+    "j/Joyce_JA/lifes/life1"
+  ],
+  "gold_path": {
+    "question_id": "26519",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6882",
+        "predicate": "http://www.wikidata.org/prop/direct/P4928",
+        "object": "j/Joyce_JA/lifes/life1"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6882",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "295"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6882",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "1453"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6882",
+      "predicate": "http://www.wikidata.org/prop/direct/P866",
+      "object": "james-joyce"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6882",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL31827A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6882",
+      "predicate": "http://schema.org/version",
+      "object": "2480923725"
+    }
+  ]
+}

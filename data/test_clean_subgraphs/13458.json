@@ -1,0 +1,43 @@
+{
+  "question_id": "13458",
+  "answers": [
+    "http://www.wikidata.org/entity/Q26448072"
+  ],
+  "gold_path": {
+    "question_id": "13458",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q717819",
+        "predicate": "http://www.wikidata.org/prop/direct/P734",
+        "object": "http://www.wikidata.org/entity/Q26448072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26448072",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q717819",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Matsuzaka Keiko"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q717819",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "한경자"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q717819",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Мацудзака, Кэико"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q717819",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "42"
+    }
+  ]
+}

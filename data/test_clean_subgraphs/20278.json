@@ -1,0 +1,92 @@
+{
+  "question_id": "20278",
+  "answers": [
+    "http://www.wikidata.org/entity/Q447117",
+    "http://www.wikidata.org/entity/Q50868",
+    "http://www.wikidata.org/entity/Q123735278",
+    "http://www.wikidata.org/entity/Q1852329",
+    "http://www.wikidata.org/entity/Q657330"
+  ],
+  "gold_path": {
+    "question_id": "20278",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q50868",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q132659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50868",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q45762"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q447117",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q132659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q447117",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q45762"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q657330",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q132659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q657330",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q45762"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1852329",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q132659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1852329",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q45762"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q123735278",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q132659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q123735278",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q45762"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q50868",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ókori egyiptomi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50868",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "bahasa Mesir kuno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50868",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "bahasa Mesir Kuno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50868",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "lingua egizia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50868",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "lingua egiziana"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "9524",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2913000"
+  ],
+  "gold_path": {
+    "question_id": "9524",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173626",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q2913000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173626",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q13717398"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "鬼魂"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Comecocos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "幽靈"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173626",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pacman"
+    }
+  ]
+}

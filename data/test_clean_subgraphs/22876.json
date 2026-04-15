@@ -1,0 +1,48 @@
+{
+  "question_id": "22876",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1143510"
+  ],
+  "gold_path": {
+    "question_id": "22876",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219578",
+        "predicate": "http://www.wikidata.org/prop/direct/P3729",
+        "object": "http://www.wikidata.org/entity/Q1143510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1143510",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4240305"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q219578",
+      "predicate": "http://www.wikidata.org/prop/direct/P2425",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/UK%20Victoria%20Cross%20ribbon%20bar.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219578",
+      "predicate": "http://www.wikidata.org/prop/direct/P1684",
+      "object": "FOR VALOUR"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219578",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Victoriakorset"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219578",
+      "predicate": "http://www.wikidata.org/prop/direct/P1343",
+      "object": "http://www.wikidata.org/entity/Q602358"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219578",
+      "predicate": "http://www.wikidata.org/prop/direct/P1343",
+      "object": "http://www.wikidata.org/entity/Q3181656"
+    }
+  ]
+}

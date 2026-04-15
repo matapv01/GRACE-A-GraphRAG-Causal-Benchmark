@@ -1,0 +1,48 @@
+{
+  "question_id": "13123",
+  "answers": [
+    "http://www.wikidata.org/entity/Q233"
+  ],
+  "gold_path": {
+    "question_id": "13123",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q243842",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q233",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q668"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q243842",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "topic/history-of-Malta"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243842",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "History-of-Malta"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243842",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "History of Malta"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243842",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "sh85080202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243842",
+      "predicate": "http://www.wikidata.org/prop/direct/P935",
+      "object": "Malta"
+    }
+  ]
+}

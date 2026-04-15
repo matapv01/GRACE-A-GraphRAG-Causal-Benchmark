@@ -1,0 +1,48 @@
+{
+  "question_id": "3903",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4028"
+  ],
+  "gold_path": {
+    "question_id": "3903",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q108941",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q108941-fe54d8e2-42e4-90d3-4474-cc35c497c66a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q108941-fe54d8e2-42e4-90d3-4474-cc35c497c66a",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q4028"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q108941",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "122000970"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108941",
+      "predicate": "http://www.wikidata.org/prop/direct/P2688",
+      "object": "carriefisher"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108941",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL575487A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108941",
+      "predicate": "http://www.wikidata.org/prop/direct/P2963",
+      "object": "90150"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108941",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://carriefisher.com/"
+    }
+  ]
+}

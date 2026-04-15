@@ -1,0 +1,48 @@
+{
+  "question_id": "16019",
+  "answers": [
+    "http://www.wikidata.org/entity/Q712914"
+  ],
+  "gold_path": {
+    "question_id": "16019",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4747920",
+        "predicate": "http://www.wikidata.org/prop/direct/P156",
+        "object": "http://www.wikidata.org/entity/Q7992839"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7992839",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q712914"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4747920",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q4747920-370749B2-665F-4C27-A738-404D97CD48D8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4747920",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0g9wj1f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4747920",
+      "predicate": "http://www.wikidata.org/prop/P577",
+      "object": "http://www.wikidata.org/entity/statement/Q4747920-BE9F0CB1-6569-4C2B-AF41-76FBF64D1263"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4747920",
+      "predicate": "http://schema.org/version",
+      "object": "2480133020"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4747920",
+      "predicate": "http://www.wikidata.org/prop/direct/P577",
+      "object": "1970-10-19T00:00:00Z"
+    }
+  ]
+}

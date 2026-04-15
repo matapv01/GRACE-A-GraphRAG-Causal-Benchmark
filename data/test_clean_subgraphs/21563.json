@@ -1,0 +1,43 @@
+{
+  "question_id": "21563",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5627"
+  ],
+  "gold_path": {
+    "question_id": "21563",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1394",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q5627"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5627",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7930989"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1394",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-07T01:16:46Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1394",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lenine"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1394",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lenin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1394",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ленин"
+    }
+  ]
+}

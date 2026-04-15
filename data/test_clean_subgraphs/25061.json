@@ -1,0 +1,53 @@
+{
+  "question_id": "25061",
+  "answers": [
+    "http://www.wikidata.org/entity/Q134883"
+  ],
+  "gold_path": {
+    "question_id": "25061",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q134883",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2319498"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q134883",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q919169"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q134883",
+        "predicate": "rdfs:label",
+        "object": "CN Tower"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q134883",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "24"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134883",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/q134883-4BB6D4F5-92DA-450E-BD32-486AF6BB9E40"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134883",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q134883-6DBC7C14-DCF7-4F04-9FE8-541EBF7CECDC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134883",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q134883-d585a560-4b05-ddf3-02ca-e66e0fb42d55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134883",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q134883-f226b47c-4b7e-1a7b-3572-2a45165a424d"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "4664",
+  "answers": [
+    "36275"
+  ],
+  "gold_path": {
+    "question_id": "4664",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q26430",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q26430-3E9828AB-3297-4855-9A75-F9484895CE3D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q26430-3E9828AB-3297-4855-9A75-F9484895CE3D",
+        "predicate": "ps:P1082",
+        "object": "36275"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q26430",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T21:49:40Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26430",
+      "predicate": "http://www.wikidata.org/prop/P5436",
+      "object": "http://www.wikidata.org/entity/statement/Q26430-81392ea0-4d9a-4dff-91c8-64fa40cf170e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26430",
+      "predicate": "http://schema.org/version",
+      "object": "2478359314"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26430",
+      "predicate": "http://www.wikidata.org/prop/direct/P5436",
+      "object": "791795"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26430",
+      "predicate": "http://www.wikidata.org/prop/P1281",
+      "object": "http://www.wikidata.org/entity/statement/Q26430-4DBDACBB-95B3-40C9-A111-F1696068DCB6"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "13063",
+  "answers": [
+    "http://www.wikidata.org/entity/Q124115"
+  ],
+  "gold_path": {
+    "question_id": "13063",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q938102",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q124115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124115",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q23042350"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q938102",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q938102",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/00561186"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q938102",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "eliptické funkce"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q938102",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "funciones elípticas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q938102",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Elliptiset funktiot"
+    }
+  ]
+}

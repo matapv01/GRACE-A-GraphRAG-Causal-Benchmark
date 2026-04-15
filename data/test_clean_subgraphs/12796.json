@@ -1,0 +1,48 @@
+{
+  "question_id": "12796",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12652673"
+  ],
+  "gold_path": {
+    "question_id": "12796",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q449030",
+        "predicate": "http://www.wikidata.org/prop/direct/P734",
+        "object": "http://www.wikidata.org/entity/Q12652673"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12652673",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q12765083"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q449030",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "79"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q449030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1006",
+      "object": "http://data.bibliotheken.nl/id/thes/p074891642"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q449030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P950",
+      "object": "https://datos.bne.es/resource/XX4578446"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q449030",
+      "predicate": "http://www.wikidata.org/prop/direct/P509",
+      "object": "http://www.wikidata.org/entity/Q12202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q449030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/001161802"
+    }
+  ]
+}

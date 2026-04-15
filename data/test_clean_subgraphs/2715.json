@@ -1,0 +1,92 @@
+{
+  "question_id": "2715",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17985664",
+    "http://www.wikidata.org/entity/Q17739057",
+    "http://www.wikidata.org/entity/Q17741814",
+    "http://www.wikidata.org/entity/Q18036013",
+    "http://www.wikidata.org/entity/Q18035957"
+  ],
+  "gold_path": {
+    "question_id": "2715",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18035957",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q26213387"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18035957",
+        "predicate": "http://www.wikidata.org/prop/direct/P2103",
+        "object": "554"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17741814",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q26213387"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17741814",
+        "predicate": "http://www.wikidata.org/prop/direct/P2103",
+        "object": "465"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17739057",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q26213387"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17739057",
+        "predicate": "http://www.wikidata.org/prop/direct/P2103",
+        "object": "422"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17985664",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q26213387"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17985664",
+        "predicate": "http://www.wikidata.org/prop/direct/P2103",
+        "object": "421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18036013",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q26213387"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18036013",
+        "predicate": "http://www.wikidata.org/prop/direct/P2103",
+        "object": "412"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18035957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "الولايات المتحدة في الألعاب الأولمبية الصيفية ٢٠١٦"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18035957",
+      "predicate": "http://schema.org/version",
+      "object": "2450839826"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18035957",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q18035957-344086fe-41a9-0367-3bc5-401a41c37f52"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18035957",
+      "predicate": "http://schema.org/description",
+      "object": "εθνική συμμετοχή στους Ολυμπιακούς Αγώνες"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18035957",
+      "predicate": "http://schema.org/description",
+      "object": "sporta delegacio"
+    }
+  ]
+}

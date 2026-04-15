@@ -1,0 +1,38 @@
+{
+  "question_id": "28431",
+  "answers": [
+    "Diabetes_mellitus"
+  ],
+  "gold_path": {
+    "question_id": "28431",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12206",
+        "predicate": "http://www.wikidata.org/prop/direct/P3291",
+        "object": "Diabetes_mellitus"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "DM"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "диабет"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "diabete"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "diabetes"
+    }
+  ]
+}

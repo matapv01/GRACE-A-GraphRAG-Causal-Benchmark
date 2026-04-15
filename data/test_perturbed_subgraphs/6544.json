@@ -1,0 +1,437 @@
+{
+  "clean": {
+    "question_id": "6544",
+    "answers": [
+      "2002-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Paquin%20Comic-Con%202012.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "pq:P585",
+        "object": "2002-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P2019",
+        "object": "p198605"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-78cd18b3-4ba6-2037-d8b0-b8b394a00c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AnnaPaquinToronto2018%20%28cropped%29.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P5254",
+        "object": "16537"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1131356"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "6544",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Paquin%20Comic-Con%202012.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P2019",
+        "object": "p198605"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-78cd18b3-4ba6-2037-d8b0-b8b394a00c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AnnaPaquinToronto2018%20%28cropped%29.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P5254",
+        "object": "16537"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1131356"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "2002-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "6544",
+    "answers": [
+      "2002-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Paquin%20Comic-Con%202012.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "pq:P585",
+        "object": "2002-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P2019",
+        "object": "p198605"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-78cd18b3-4ba6-2037-d8b0-b8b394a00c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AnnaPaquinToronto2018%20%28cropped%29.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P5254",
+        "object": "16537"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1131356"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "2006-10-06T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "1998-10-30T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "1997-08-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "1999-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "2002-10-30T00:00:00Z"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "6544",
+    "answers": [
+      "2002-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Paquin%20Comic-Con%202012.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "pq:P585",
+        "object": "2002-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P2019",
+        "object": "p198605"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-78cd18b3-4ba6-2037-d8b0-b8b394a00c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AnnaPaquinToronto2018%20%28cropped%29.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P5254",
+        "object": "16537"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1131356"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "6544",
+    "answers": [
+      "2003-01-20T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Paquin%20Comic-Con%202012.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P2019",
+        "object": "p198605"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/P2019",
+        "object": "http://www.wikidata.org/entity/statement/Q199884-78cd18b3-4ba6-2037-d8b0-b8b394a00c26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AnnaPaquinToronto2018%20%28cropped%29.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199884",
+        "predicate": "http://www.wikidata.org/prop/direct/P5254",
+        "object": "16537"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1131356"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199884-F68D969C-6CCC-4434-82C0-7F6D04B747DB",
+        "predicate": "pq:P585",
+        "object": "2003-01-20T00:00:00Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "9858",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11223"
+  ],
+  "gold_path": {
+    "question_id": "9858",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q218636",
+        "predicate": "http://www.wikidata.org/prop/direct/P137",
+        "object": "http://www.wikidata.org/entity/Q11223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q218636",
+        "predicate": "http://www.wikidata.org/prop/direct/P516",
+        "object": "http://www.wikidata.org/entity/Q218657"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q218636",
+      "predicate": "http://schema.org/version",
+      "object": "2469393977"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q218636",
+      "predicate": "http://schema.org/description",
+      "object": "americký bombardovací letoun"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q218636",
+      "predicate": "http://schema.org/description",
+      "object": "американский бомбардировщик"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q218636",
+      "predicate": "http://schema.org/description",
+      "object": "στρατηγικό βομβαρδιστικό"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q218636",
+      "predicate": "http://schema.org/description",
+      "object": "Amerikaans militair vliegtuig"
+    }
+  ]
+}

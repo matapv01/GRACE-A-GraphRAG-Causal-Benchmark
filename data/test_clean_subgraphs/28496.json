@@ -1,0 +1,61 @@
+{
+  "question_id": "28496",
+  "answers": [
+    "http://www.wikidata.org/entity/Q79927",
+    "http://www.wikidata.org/entity/Q79899",
+    "http://www.wikidata.org/entity/Q14645596",
+    "http://www.wikidata.org/entity/Q29548"
+  ],
+  "gold_path": {
+    "question_id": "28496",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43656",
+        "predicate": "http://www.wikidata.org/prop/direct/P681",
+        "object": "http://www.wikidata.org/entity/Q29548"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43656",
+        "predicate": "http://www.wikidata.org/prop/direct/P681",
+        "object": "http://www.wikidata.org/entity/Q79899"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43656",
+        "predicate": "http://www.wikidata.org/prop/direct/P681",
+        "object": "http://www.wikidata.org/entity/Q79927"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43656",
+        "predicate": "http://www.wikidata.org/prop/direct/P681",
+        "object": "http://www.wikidata.org/entity/Q14645596"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43656",
+      "predicate": "http://schema.org/description",
+      "object": "kemia kombinaĵo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43656",
+      "predicate": "http://schema.org/description",
+      "object": "compuesto quimico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43656",
+      "predicate": "http://schema.org/description",
+      "object": "مركب كيميائي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43656",
+      "predicate": "http://schema.org/description",
+      "object": "compuestu químicu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43656",
+      "predicate": "http://schema.org/description",
+      "object": "রাসায়নিক যৌগ"
+    }
+  ]
+}

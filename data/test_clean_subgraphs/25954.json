@@ -1,0 +1,43 @@
+{
+  "question_id": "25954",
+  "answers": [
+    "130000000"
+  ],
+  "gold_path": {
+    "question_id": "25954",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23633",
+        "predicate": "http://www.wikidata.org/prop/direct/P3744",
+        "object": "130000000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23633",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb13881197b#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23633",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "13881197b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23633",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q23633-6EADB01F-58F9-4ECE-9D76-756619A53834"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23633",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+      "object": "http://www.idref.fr/15728283X/id"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23633",
+      "predicate": "http://www.wikidata.org/prop/direct/P3221",
+      "object": "company/home-box-office-inc"
+    }
+  ]
+}

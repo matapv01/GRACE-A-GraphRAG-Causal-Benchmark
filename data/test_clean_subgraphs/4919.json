@@ -1,0 +1,81 @@
+{
+  "question_id": "4919",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2671505",
+    "http://www.wikidata.org/entity/Q2671955",
+    "http://www.wikidata.org/entity/Q944955",
+    "http://www.wikidata.org/entity/Q21405589"
+  ],
+  "gold_path": {
+    "question_id": "4919",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q150894",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q150894-2479e7d4-4d19-b6af-74f4-6a23e2bba636"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150894-2479e7d4-4d19-b6af-74f4-6a23e2bba636",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2671505"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q150894",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q150894-7b69b05d-4189-f6f8-06fe-45eacd749531"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150894-7b69b05d-4189-f6f8-06fe-45eacd749531",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q944955"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q150894",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q150894-9cd52c4f-45b6-030a-4bc3-d2228ac3187b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150894-9cd52c4f-45b6-030a-4bc3-d2228ac3187b",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q21405589"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q150894",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q150894-e405f4f4-4a1f-cb6d-0912-3f8960ccfa36"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150894-e405f4f4-4a1f-cb6d-0912-3f8960ccfa36",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2671955"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q150894",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q150894-96DD5B46-6A8D-4CAE-BEFC-5C2020FEFA3B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150894",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q150894-2544e656-4ed1-06ea-c4e3-0e7cef352572"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150894",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q150894-c5223864-459f-4eab-f0a1-57b1915c83ce"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150894",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q150894-10029D79-0396-413C-9F36-E13892F5519F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150894",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Maréchal Vassilievski"
+    }
+  ]
+}

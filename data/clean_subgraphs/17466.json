@@ -1,0 +1,65 @@
+{
+  "question_id": "17466",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3574371",
+    "http://www.wikidata.org/entity/Q80831",
+    "http://www.wikidata.org/entity/Q11035"
+  ],
+  "gold_path": {
+    "question_id": "17466",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4634305",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q2031258"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2031258",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q11035"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4634305",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q4410293"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4410293",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q80831"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4410293",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q3574371"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4634305",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q115673666"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4634305",
+      "predicate": "http://www.wikidata.org/prop/direct/P279",
+      "object": "http://www.wikidata.org/entity/Q115903231"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4634305",
+      "predicate": "http://www.wikidata.org/prop/direct/P366",
+      "object": "http://www.wikidata.org/entity/Q786212"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4634305",
+      "predicate": "http://www.wikidata.org/prop/direct/P366",
+      "object": "http://www.wikidata.org/entity/Q3092713"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4634305",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "300B"
+    }
+  ]
+}

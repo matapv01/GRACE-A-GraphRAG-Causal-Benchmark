@@ -1,0 +1,48 @@
+{
+  "question_id": "13726",
+  "answers": [
+    "http://www.wikidata.org/entity/Q666578"
+  ],
+  "gold_path": {
+    "question_id": "13726",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q264269",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q666578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q666578",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q20678656"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q264269",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "79"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264269",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1871",
+      "object": "http://thesaurus.cerl.org/record/cnp00519738"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264269",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P11496",
+      "object": "https://cir.nii.ac.jp/crid/1140282266681457408.rdf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264269",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8168",
+      "object": "https://database.factgrid.de/entity/Q1197354"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264269",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P7444",
+      "object": "https://id.rijksmuseum.nl/3104190"
+    }
+  ]
+}

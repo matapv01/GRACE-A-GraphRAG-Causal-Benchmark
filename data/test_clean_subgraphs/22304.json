@@ -1,0 +1,43 @@
+{
+  "question_id": "22304",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6500001"
+  ],
+  "gold_path": {
+    "question_id": "22304",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6500001",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q185724"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6500001",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q24856"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Остин Пауэрз"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Остин Пауэрз (серия фильмов)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500001",
+      "predicate": "http://www.wikidata.org/prop/direct/P910",
+      "object": "http://www.wikidata.org/entity/Q7900891"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500001",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4953",
+      "object": "http://id.loc.gov/authorities/genreForms/gf2011026028"
+    }
+  ]
+}

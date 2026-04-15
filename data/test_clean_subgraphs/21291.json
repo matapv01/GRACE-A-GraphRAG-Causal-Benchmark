@@ -1,0 +1,43 @@
+{
+  "question_id": "21291",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18176971"
+  ],
+  "gold_path": {
+    "question_id": "21291",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q45792",
+        "predicate": "http://www.wikidata.org/prop/direct/P1080",
+        "object": "http://www.wikidata.org/entity/Q18176971"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18176971",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q559618"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q45792",
+      "predicate": "http://www.wikidata.org/prop/P551",
+      "object": "http://www.wikidata.org/entity/statement/Q45792-574cbecd-483d-dc2f-ba87-e38eb31b599c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45792",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "King Arthur"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45792",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Artus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45792",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Король Артур"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "6347",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8605"
+  ],
+  "gold_path": {
+    "question_id": "6347",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189779",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q189779-59C87545-E222-48C2-B191-6E460CFB042C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189779-59C87545-E222-48C2-B191-6E460CFB042C",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q373548"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189779-59C87545-E222-48C2-B191-6E460CFB042C",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q8605"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189779",
+      "predicate": "http://www.wikidata.org/prop/P4813",
+      "object": "http://www.wikidata.org/entity/statement/Q189779-F11EB8C9-7259-4754-B0D2-CDF5AB5F45BB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189779",
+      "predicate": "http://www.wikidata.org/prop/P3788",
+      "object": "http://www.wikidata.org/entity/statement/Q189779-C49D34C1-1031-40D2-8DED-F68C3529E5C3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189779",
+      "predicate": "http://www.wikidata.org/prop/direct/P3788",
+      "object": "000024407"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189779",
+      "predicate": "http://www.wikidata.org/prop/direct/P4813",
+      "object": "134606"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189779",
+      "predicate": "http://www.wikidata.org/prop/direct/P7929",
+      "object": "p=antonio+jose;n=de+sucre"
+    }
+  ]
+}

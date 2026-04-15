@@ -1,0 +1,38 @@
+{
+  "question_id": "27240",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4662095"
+  ],
+  "gold_path": {
+    "question_id": "27240",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q951591",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q4662095"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q951591",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Out"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q951591",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "out.com"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q951591",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Out magazine"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q951591",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.out.com/"
+    }
+  ]
+}

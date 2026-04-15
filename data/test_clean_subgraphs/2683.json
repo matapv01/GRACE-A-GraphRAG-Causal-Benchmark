@@ -1,0 +1,92 @@
+{
+  "question_id": "2683",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9001763",
+    "http://www.wikidata.org/entity/Q22086884",
+    "http://www.wikidata.org/entity/Q846854",
+    "http://www.wikidata.org/entity/Q557473",
+    "http://www.wikidata.org/entity/Q66491347"
+  ],
+  "gold_path": {
+    "question_id": "2683",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q66491347",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q66491347",
+        "predicate": "http://www.wikidata.org/prop/direct/P2060",
+        "object": "1480000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q846854",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q846854",
+        "predicate": "http://www.wikidata.org/prop/direct/P2060",
+        "object": "724000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q557473",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q557473",
+        "predicate": "http://www.wikidata.org/prop/direct/P2060",
+        "object": "316000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9001763",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9001763",
+        "predicate": "http://www.wikidata.org/prop/direct/P2060",
+        "object": "301000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22086884",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22086884",
+        "predicate": "http://www.wikidata.org/prop/direct/P2060",
+        "object": "275000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q66491347",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "CPD-58 2618, ESK2003 103"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q66491347",
+      "predicate": "http://schema.org/version",
+      "object": "2469648392"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q66491347",
+      "predicate": "http://schema.org/description",
+      "object": "stjerne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q66491347",
+      "predicate": "http://schema.org/description",
+      "object": "ster"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q66491347",
+      "predicate": "http://schema.org/description",
+      "object": "déréalta"
+    }
+  ]
+}

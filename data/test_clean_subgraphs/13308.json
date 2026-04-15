@@ -1,0 +1,48 @@
+{
+  "question_id": "13308",
+  "answers": [
+    "http://www.wikidata.org/entity/Q134649"
+  ],
+  "gold_path": {
+    "question_id": "13308",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q170068",
+        "predicate": "http://www.wikidata.org/prop/direct/P1050",
+        "object": "http://www.wikidata.org/entity/Q134649"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q134649",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q131649"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q170068",
+      "predicate": "http://www.wikidata.org/prop/direct/P2538",
+      "object": "3140"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170068",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "akseli-gallen-kallela"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170068",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q170068-5254054f-4081-c49b-d97c-493cc288b43a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170068",
+      "predicate": "http://www.wikidata.org/prop/P166",
+      "object": "http://www.wikidata.org/entity/statement/Q170068-0751efc2-4e7e-e363-dfe7-13b77e410c85"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170068",
+      "predicate": "http://www.wikidata.org/prop/P166",
+      "object": "http://www.wikidata.org/entity/statement/Q170068-1e823b51-4287-6dce-cea3-75084aefdfa9"
+    }
+  ]
+}

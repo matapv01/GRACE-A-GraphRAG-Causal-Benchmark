@@ -1,0 +1,53 @@
+{
+  "question_id": "4071",
+  "answers": [
+    "1938-11-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4071",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17455",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q17455-7E715FC4-3DF2-4AD3-993A-24EDB0DE5D46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q17455-7E715FC4-3DF2-4AD3-993A-24EDB0DE5D46",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q14100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q17455-7E715FC4-3DF2-4AD3-993A-24EDB0DE5D46",
+        "predicate": "pq:P580",
+        "object": "1938-11-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17455",
+      "predicate": "http://www.wikidata.org/prop/direct/P800",
+      "object": "http://www.wikidata.org/entity/Q77887"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17455",
+      "predicate": "http://www.wikidata.org/prop/direct/P800",
+      "object": "http://www.wikidata.org/entity/Q189088"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17455",
+      "predicate": "http://www.wikidata.org/prop/direct/P800",
+      "object": "http://www.wikidata.org/entity/Q278770"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17455",
+      "predicate": "http://www.wikidata.org/prop/direct/P800",
+      "object": "http://www.wikidata.org/entity/Q1766038"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17455",
+      "predicate": "http://www.wikidata.org/prop/direct/P800",
+      "object": "http://www.wikidata.org/entity/Q458556"
+    }
+  ]
+}

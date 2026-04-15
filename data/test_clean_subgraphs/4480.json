@@ -1,0 +1,48 @@
+{
+  "question_id": "4480",
+  "answers": [
+    "1963-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4480",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1221",
+        "predicate": "http://www.wikidata.org/prop/P1813",
+        "object": "http://www.wikidata.org/entity/statement/Q1221-30C111A9-CA95-4764-AD93-5F00014C318A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1221-30C111A9-CA95-4764-AD93-5F00014C318A",
+        "predicate": "pq:P580",
+        "object": "1963-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1221",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "126"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1221",
+      "predicate": "http://www.wikidata.org/prop/direct/P418",
+      "object": "http://www.wikidata.org/entity/Q1523657"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1221",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Idaho.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1221",
+      "predicate": "http://www.wikidata.org/prop/P418",
+      "object": "http://www.wikidata.org/entity/statement/Q1221-2F99E62D-1299-4107-A415-F1B1453C125B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1221",
+      "predicate": "http://www.wikidata.org/prop/direct/P457",
+      "object": "http://www.wikidata.org/entity/Q64362976"
+    }
+  ]
+}

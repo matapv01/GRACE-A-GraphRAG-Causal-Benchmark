@@ -1,0 +1,78 @@
+{
+  "question_id": "15341",
+  "answers": [
+    "http://www.wikidata.org/entity/Q212688",
+    "http://www.wikidata.org/entity/Q9794",
+    "http://www.wikidata.org/entity/Q54365",
+    "http://www.wikidata.org/entity/Q573484",
+    "http://www.wikidata.org/entity/Q188994",
+    "http://www.wikidata.org/entity/Q1102161"
+  ],
+  "gold_path": {
+    "question_id": "15341",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2708231",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q315417"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315417",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q9794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315417",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q54365"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315417",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q188994"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315417",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q212688"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315417",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q573484"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315417",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q1102161"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2708231",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "you're my guitar hero!"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2708231",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q134556"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2708231",
+      "predicate": "http://www.wikidata.org/prop/direct/P577",
+      "object": "1977-09-23T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2708231",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/092h3b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2708231",
+      "predicate": "http://www.wikidata.org/prop/direct/P1954",
+      "object": "15042"
+    }
+  ]
+}

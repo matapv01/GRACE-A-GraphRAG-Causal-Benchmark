@@ -1,0 +1,417 @@
+{
+  "clean": {
+    "question_id": "24129",
+    "answers": [
+      "http://www.wikidata.org/entity/Q184664"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+        "object": "http://id.ndl.go.jp/auth/ndlna/00575072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1014",
+        "object": "http://vocab.getty.edu/aat/300137858"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "object": "https://makg.org/entity/2778616369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1964442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh85135644"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "rdfs:label",
+        "object": "tithe"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+        "object": "https://d-nb.info/gnd/4190572-6"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "24129",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q184664"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "https://d-nb.info/gnd/4190572-6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://id.ndl.go.jp/auth/ndlna/00575072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "tithe"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://vocab.getty.edu/aat/300137858"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://id.loc.gov/authorities/names/sh85135644"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "https://makg.org/entity/2778616369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1964442"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "24129",
+    "answers": [
+      "http://www.wikidata.org/entity/Q184664"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+        "object": "http://id.ndl.go.jp/auth/ndlna/00575072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1014",
+        "object": "http://vocab.getty.edu/aat/300137858"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "object": "https://makg.org/entity/2778616369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1964442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh85135644"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "rdfs:label",
+        "object": "tithe"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+        "object": "https://d-nb.info/gnd/4190572-6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1034676"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q2808655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3072990"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3072995"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q12149082"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "24129",
+    "answers": [
+      "http://www.wikidata.org/entity/Q184664"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+        "object": "http://id.ndl.go.jp/auth/ndlna/00575072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1014",
+        "object": "http://vocab.getty.edu/aat/300137858"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "object": "https://makg.org/entity/2778616369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1964442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh85135644"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "rdfs:label",
+        "object": "tithe"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184664",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+        "object": "https://d-nb.info/gnd/4190572-6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q827525"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q842490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q899770"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1043527"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1072120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1331152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1377612"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1480793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1764511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1928989"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "24129",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1034676"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1034676",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+        "object": "http://id.ndl.go.jp/auth/ndlna/00575072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1034676",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1014",
+        "object": "http://vocab.getty.edu/aat/300137858"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1034676",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "object": "https://makg.org/entity/2778616369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1034676",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1964442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1034676",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/sh85135644"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1034676",
+        "predicate": "rdfs:label",
+        "object": "tithe"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1034676",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+        "object": "https://d-nb.info/gnd/4190572-6"
+      }
+    ]
+  }
+}

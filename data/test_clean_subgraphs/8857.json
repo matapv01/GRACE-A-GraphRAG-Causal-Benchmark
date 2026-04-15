@@ -1,0 +1,48 @@
+{
+  "question_id": "8857",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3447"
+  ],
+  "gold_path": {
+    "question_id": "8857",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3426",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q3426-866CDDD4-0C96-4650-9F04-25191A3421E9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3426-866CDDD4-0C96-4650-9F04-25191A3421E9",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q3447"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3426",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q3426-ABB7DD87-124E-4498-BD1E-C3A4769BE6DB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3426",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "voroneje"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3426",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-30T09:29:37Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3426",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n79150484"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3426",
+      "predicate": "http://www.wikidata.org/prop/direct/P242",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Districts%20of%20voronezh.png"
+    }
+  ]
+}

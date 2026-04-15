@@ -1,0 +1,61 @@
+{
+  "question_id": "17490",
+  "answers": [
+    "http://www.wikidata.org/entity/Q146078",
+    "http://www.wikidata.org/entity/Q131105",
+    "http://www.wikidata.org/entity/Q146233",
+    "http://www.wikidata.org/entity/Q145599"
+  ],
+  "gold_path": {
+    "question_id": "17490",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44068",
+        "predicate": "http://www.wikidata.org/prop/direct/P103",
+        "object": "http://www.wikidata.org/entity/Q188"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188",
+        "predicate": "http://www.wikidata.org/prop/direct/P2989",
+        "object": "http://www.wikidata.org/entity/Q131105"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188",
+        "predicate": "http://www.wikidata.org/prop/direct/P2989",
+        "object": "http://www.wikidata.org/entity/Q145599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188",
+        "predicate": "http://www.wikidata.org/prop/direct/P2989",
+        "object": "http://www.wikidata.org/entity/Q146078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188",
+        "predicate": "http://www.wikidata.org/prop/direct/P2989",
+        "object": "http://www.wikidata.org/entity/Q146233"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44068",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jugador del Año Europeo de la FIBA 2009"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44068",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jugador del Año Europeo de la FIBA 2010"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44068",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nowitzki"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44068",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "诺维茨基"
+    }
+  ]
+}

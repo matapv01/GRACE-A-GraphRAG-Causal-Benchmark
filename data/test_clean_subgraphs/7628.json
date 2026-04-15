@@ -1,0 +1,48 @@
+{
+  "question_id": "7628",
+  "answers": [
+    "2020301"
+  ],
+  "gold_path": {
+    "question_id": "7628",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40236",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q40236-41330C3B-9702-499D-940E-89A517105470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q40236-41330C3B-9702-499D-940E-89A517105470",
+        "predicate": "ps:P1082",
+        "object": "2020301"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40236",
+      "predicate": "http://www.wikidata.org/prop/P2013",
+      "object": "http://www.wikidata.org/entity/statement/Q40236-1AA3F3A6-68D4-479B-B845-699B21B294AD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40236",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "place/Manaus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40236",
+      "predicate": "http://www.wikidata.org/prop/P1417",
+      "object": "http://www.wikidata.org/entity/statement/Q40236-45BB62B9-2BCA-42E5-A820-E456763AAD3A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40236",
+      "predicate": "http://www.wikidata.org/prop/direct/P2013",
+      "object": "prefeiturademanaus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40236",
+      "predicate": "http://www.wikidata.org/prop/direct/P1792",
+      "object": "http://www.wikidata.org/entity/Q9225659"
+    }
+  ]
+}

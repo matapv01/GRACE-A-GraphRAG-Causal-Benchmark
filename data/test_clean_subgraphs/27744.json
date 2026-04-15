@@ -1,0 +1,45 @@
+{
+  "question_id": "27744",
+  "answers": [
+    "http://www.wikidata.org/entity/Q193",
+    "http://www.wikidata.org/entity/Q319",
+    "http://www.wikidata.org/entity/Q41872"
+  ],
+  "gold_path": {
+    "question_id": "27744",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48469",
+        "predicate": "http://www.wikidata.org/prop/direct/P1444",
+        "object": "http://www.wikidata.org/entity/Q193"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48469",
+        "predicate": "http://www.wikidata.org/prop/direct/P1444",
+        "object": "http://www.wikidata.org/entity/Q319"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48469",
+        "predicate": "http://www.wikidata.org/prop/direct/P1444",
+        "object": "http://www.wikidata.org/entity/Q41872"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48469",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "97"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48469",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Voyager 1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48469",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ߕߊ߯ߡߊߘߋ߲ ߁߭"
+    }
+  ]
+}

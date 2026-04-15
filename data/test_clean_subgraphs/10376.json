@@ -1,0 +1,63 @@
+{
+  "question_id": "10376",
+  "answers": [
+    "http://www.wikidata.org/entity/Q395"
+  ],
+  "gold_path": {
+    "question_id": "10376",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17457",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/q17457-0A45F12C-78E9-48D9-85DC-8106D6526C5E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17457-0A45F12C-78E9-48D9-85DC-8106D6526C5E",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1047060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17457-0A45F12C-78E9-48D9-85DC-8106D6526C5E",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q395"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17457-0A45F12C-78E9-48D9-85DC-8106D6526C5E",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q787674"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17457-0A45F12C-78E9-48D9-85DC-8106D6526C5E",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q950900"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17457",
+      "predicate": "http://www.wikidata.org/prop/direct/P1005",
+      "object": "175320"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17457",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "00445973"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17457",
+      "predicate": "http://www.wikidata.org/prop/direct/P1006",
+      "object": "073185043"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17457",
+      "predicate": "http://www.wikidata.org/prop/direct/P485",
+      "object": "http://www.wikidata.org/entity/Q964035"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17457",
+      "predicate": "http://www.wikidata.org/prop/direct/P1263",
+      "object": "571/000023502"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "question_id": "6244",
+  "answers": [
+    "http://www.wikidata.org/entity/Q982295",
+    "http://www.wikidata.org/entity/Q1034290"
+  ],
+  "gold_path": {
+    "question_id": "6244",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1149",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q1149-DEC0DF12-C63B-4F9A-A213-66F5FB512EC1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1149-DEC0DF12-C63B-4F9A-A213-66F5FB512EC1",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q3533315"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1149-DEC0DF12-C63B-4F9A-A213-66F5FB512EC1",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q982295"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1149",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q1149-ebe03283-411f-b07b-3afb-03deceea2fd4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1149-ebe03283-411f-b07b-3afb-03deceea2fd4",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q3533315"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1149-ebe03283-411f-b07b-3afb-03deceea2fd4",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q1034290"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1149",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n79064593"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1149",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q1149-967EEED8-EA47-4D5F-A21A-835BB7C3094C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1149",
+      "predicate": "http://www.wikidata.org/prop/direct/P2639",
+      "object": "981991402eed4bc48f0b2f0212fe6400"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1149",
+      "predicate": "http://www.wikidata.org/prop/direct/P25",
+      "object": "http://www.wikidata.org/entity/Q3633365"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1149",
+      "predicate": "http://www.wikidata.org/prop/direct/P22",
+      "object": "http://www.wikidata.org/entity/Q1047"
+    }
+  ]
+}

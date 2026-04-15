@@ -1,0 +1,43 @@
+{
+  "question_id": "23741",
+  "answers": [
+    "http://www.wikidata.org/entity/Q672024"
+  ],
+  "gold_path": {
+    "question_id": "23741",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q672024",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q101965"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q672024",
+        "predicate": "rdfs:label",
+        "object": "TOTEM experiment"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q672024",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q672024",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q672024",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Total Elastic and Diffractive Cross Section Measurement"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q672024",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Medición de la Sección Transversal Elástica y Difractiva Total"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "25298",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7299348"
+  ],
+  "gold_path": {
+    "question_id": "25298",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7299348",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2401485"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7299348",
+        "predicate": "http://www.wikidata.org/prop/direct/P1427",
+        "object": "http://www.wikidata.org/entity/Q38022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7299348",
+        "predicate": "rdfs:label",
+        "object": "Raynolds Expedition"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7299348",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Expedicion Raynolds"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7299348",
+      "predicate": "http://www.wikidata.org/prop/P1427",
+      "object": "http://www.wikidata.org/entity/statement/Q7299348-4deecb9b-4387-101a-5f98-65153a9c954b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7299348",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7299348",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/Q7299348-C0D9594B-CCC0-4CEE-B06B-90DB5E4663F6"
+    }
+  ]
+}

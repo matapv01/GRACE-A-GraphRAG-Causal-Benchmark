@@ -1,0 +1,48 @@
+{
+  "question_id": "20054",
+  "answers": [
+    "http://www.wikidata.org/entity/Q983176"
+  ],
+  "gold_path": {
+    "question_id": "20054",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220665",
+        "predicate": "http://www.wikidata.org/prop/direct/P287",
+        "object": "http://www.wikidata.org/entity/Q983176"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q983176",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0jvd8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P8076",
+      "object": "11180"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P8059",
+      "object": "100168"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "space-invaders"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Space Invaders Virtual Collection"
+    }
+  ]
+}

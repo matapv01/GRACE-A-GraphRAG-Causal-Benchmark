@@ -1,0 +1,48 @@
+{
+  "question_id": "29801",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8791"
+  ],
+  "gold_path": {
+    "question_id": "29801",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q32141",
+        "predicate": "http://www.wikidata.org/prop/direct/P121",
+        "object": "http://www.wikidata.org/entity/Q8791"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8791",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15056995"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q32141",
+      "predicate": "http://www.wikidata.org/prop/direct/P414",
+      "object": "http://www.wikidata.org/entity/Q496672"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32141",
+      "predicate": "http://www.wikidata.org/prop/direct/P432",
+      "object": "CATHAY"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32141",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4527",
+      "object": "http://data.parliament.uk/terms/19191"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32141",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n93031264"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32141",
+      "predicate": "http://www.wikidata.org/prop/direct/P4527",
+      "object": "19191"
+    }
+  ]
+}

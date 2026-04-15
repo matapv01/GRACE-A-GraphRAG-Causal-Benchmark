@@ -1,0 +1,48 @@
+{
+  "question_id": "4095",
+  "answers": [
+    "http://www.wikidata.org/entity/Q704931"
+  ],
+  "gold_path": {
+    "question_id": "4095",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q268147",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q268147-FCD3920C-D2FF-4659-8749-4AAA4EF52FA1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q268147-FCD3920C-D2FF-4659-8749-4AAA4EF52FA1",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q704931"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q268147",
+      "predicate": "http://www.wikidata.org/prop/P4985",
+      "object": "http://www.wikidata.org/entity/statement/Q268147-3D051924-2454-4DB4-94ED-E9ED4A3ED5B9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q268147",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q268147-B6401E16-7F12-47BC-AC4C-44429E926AE2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q268147",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "1007415"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q268147",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "McCarthy-7986"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q268147",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q268147-604A2122-B657-4D10-A2A3-7FFE87080D4C"
+    }
+  ]
+}

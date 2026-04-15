@@ -1,0 +1,48 @@
+{
+  "question_id": "20484",
+  "answers": [
+    "http://www.wikidata.org/entity/Q843816"
+  ],
+  "gold_path": {
+    "question_id": "20484",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q122508",
+        "predicate": "http://www.wikidata.org/prop/direct/P1880",
+        "object": "http://www.wikidata.org/entity/Q843816"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q843816",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q286017"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q122508",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q122508-475A2A50-67B5-4E38-901D-D7A2AD6272CC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122508",
+      "predicate": "http://www.wikidata.org/prop/P8313",
+      "object": "http://www.wikidata.org/entity/statement/Q122508-0178E411-0063-4968-B86A-C6536690EA6A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122508",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "28"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122508",
+      "predicate": "http://www.wikidata.org/prop/P7305",
+      "object": "http://www.wikidata.org/entity/statement/Q122508-BD3DB0DA-7A4F-4BD3-8739-FE741A90A84D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122508",
+      "predicate": "http://www.wikidata.org/prop/P6262",
+      "object": "http://www.wikidata.org/entity/statement/Q122508-b7f11a3e-4d0b-f22f-9194-69072b76b33c"
+    }
+  ]
+}

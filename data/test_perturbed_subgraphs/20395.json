@@ -1,0 +1,387 @@
+{
+  "clean": {
+    "question_id": "20395",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13409231"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0623\u062a\u0627\u0631\u064a \u0662\u0666\u0660\u0660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13409231",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1137109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q13409231"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Atari VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "2456436670"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "VCS"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "20395",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0623\u062a\u0627\u0631\u064a \u0662\u0666\u0660\u0660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Atari VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "2456436670"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1137109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q13409231"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "20395",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13409231"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0623\u062a\u0627\u0631\u064a \u0662\u0666\u0660\u0660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13409231",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1137109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q13409231"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Atari VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "2456436670"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q8093"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q18594"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q23901"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q24188"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q24228"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "20395",
+    "answers": [
+      "http://www.wikidata.org/entity/Q13409231"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0623\u062a\u0627\u0631\u064a \u0662\u0666\u0660\u0660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13409231",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1137109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q13409231"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Atari VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "2456436670"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "20395",
+    "answers": [
+      "http://www.wikidata.org/entity/Q8093"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0623\u062a\u0627\u0631\u064a \u0662\u0666\u0660\u0660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Atari VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://schema.org/version",
+        "object": "2456436670"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "VCS"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8093",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1137109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206261",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q8093"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "4520",
+  "answers": [
+    "http://www.wikidata.org/entity/Q188228",
+    "http://www.wikidata.org/entity/Q974515"
+  ],
+  "gold_path": {
+    "question_id": "4520",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q762497",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q762497-0D1A1897-C94A-4313-B4B4-0B5B1E026477"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q762497-0D1A1897-C94A-4313-B4B4-0B5B1E026477",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q188228"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762497",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q762497-D741E5A4-7503-4C33-90C1-F5AF340898FC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q762497-D741E5A4-7503-4C33-90C1-F5AF340898FC",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q974515"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q762497",
+      "predicate": "http://schema.org/version",
+      "object": "2473539623"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q762497",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-19T10:01:45Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q762497",
+      "predicate": "http://www.wikidata.org/prop/P735",
+      "object": "http://www.wikidata.org/entity/statement/Q762497-67CECC14-6C1F-4475-AC35-51EFF89B6B8C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q762497",
+      "predicate": "http://www.wikidata.org/prop/P413",
+      "object": "http://www.wikidata.org/entity/statement/Q762497-CD787ED1-92D0-4603-831C-D7881F5AC8E2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q762497",
+      "predicate": "http://www.wikidata.org/prop/P734",
+      "object": "http://www.wikidata.org/entity/statement/Q762497-48A421F8-949C-4A20-ADA0-F1A124669989"
+    }
+  ]
+}

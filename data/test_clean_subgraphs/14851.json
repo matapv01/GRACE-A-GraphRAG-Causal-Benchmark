@@ -1,0 +1,48 @@
+{
+  "question_id": "14851",
+  "answers": [
+    "http://www.wikidata.org/entity/Q310992"
+  ],
+  "gold_path": {
+    "question_id": "14851",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16977577",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q1861"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1861",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q310992"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16977577",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q16977577-CA37281B-19A3-4289-A933-204DC5A1B32E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16977577",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q16977577-c823b3f9-4a20-6119-bb53-4a6068c910d4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16977577",
+      "predicate": "http://www.wikidata.org/prop/P641",
+      "object": "http://www.wikidata.org/entity/statement/Q16977577-2AC20CDA-C81B-49A2-89B5-8D0AA3F52710"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16977577",
+      "predicate": "http://schema.org/version",
+      "object": "2458032243"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16977577",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q16977577-BDAE4E91-3578-4761-A9AA-3CF3EC500029"
+    }
+  ]
+}

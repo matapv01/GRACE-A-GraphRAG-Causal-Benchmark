@@ -1,0 +1,71 @@
+{
+  "question_id": "9853",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12947813",
+    "http://www.wikidata.org/entity/Q52191708",
+    "http://www.wikidata.org/entity/Q217675",
+    "http://www.wikidata.org/entity/Q5432619"
+  ],
+  "gold_path": {
+    "question_id": "9853",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q204",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q217675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q204",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q204"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q204",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q205"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q204",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q5432619"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q204",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q12947813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q204",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q52191708"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q204",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P8865"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "113"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204",
+      "predicate": "http://schema.org/description",
+      "object": "عدد"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204",
+      "predicate": "http://schema.org/description",
+      "object": "Zahl"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204",
+      "predicate": "http://schema.org/description",
+      "object": "luku"
+    }
+  ]
+}

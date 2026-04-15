@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "29967",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49297"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://schema.org/description",
+        "object": "Amerikaanse revolutie"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/statement/q40949-4999BDD8-B309-43E3-BE47-BCB69434CBFF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-E8C3E3DF-F6EE-4DEB-A04E-27A2765B4F78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P361",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-5BA44693-8846-4C48-B851-868B5CFD05C2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49297",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-557eaff9-4795-8c37-763a-0c18558dd65d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q49297"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "29967",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://schema.org/description",
+        "object": "Amerikaanse revolutie"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/statement/q40949-4999BDD8-B309-43E3-BE47-BCB69434CBFF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-E8C3E3DF-F6EE-4DEB-A04E-27A2765B4F78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P361",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-5BA44693-8846-4C48-B851-868B5CFD05C2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-557eaff9-4795-8c37-763a-0c18558dd65d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q41710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q49297"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "29967",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49297"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://schema.org/description",
+        "object": "Amerikaanse revolutie"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/statement/q40949-4999BDD8-B309-43E3-BE47-BCB69434CBFF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-E8C3E3DF-F6EE-4DEB-A04E-27A2765B4F78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P361",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-5BA44693-8846-4C48-B851-868B5CFD05C2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49297",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-557eaff9-4795-8c37-763a-0c18558dd65d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q49297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/Q58669"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/Q58843"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/Q60046"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/Q60269"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/Q60510"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "29967",
+    "answers": [
+      "http://www.wikidata.org/entity/Q49297"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://schema.org/description",
+        "object": "Amerikaanse revolutie"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/statement/q40949-4999BDD8-B309-43E3-BE47-BCB69434CBFF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-E8C3E3DF-F6EE-4DEB-A04E-27A2765B4F78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P361",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-5BA44693-8846-4C48-B851-868B5CFD05C2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49297",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-557eaff9-4795-8c37-763a-0c18558dd65d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q49297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-8d4cefa3-4a4d-73b6-d4dc-0ba28613bf4e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-90b1b24a-45f9-f86b-f179-e1ec9509b201"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-94fb04a1-4bb6-3801-8ff4-f0f1b45321ce"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-9c52daf8-48af-9297-12f8-2705e9cfbc90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a0622d0c-4bc2-d861-a5c3-58d7df7988f4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a0afb026-4667-f53e-33ae-9e6595ad5db7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-a1944d75-483d-a7fc-591c-52c4bafa9044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a66d331f-4144-2c47-480b-19d991677dcb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-ac6fe0cf-410c-c888-13e0-f566701e5862"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-bb8e0277-4591-815b-e34e-604379259e49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "29967",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1026"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://schema.org/description",
+        "object": "Amerikaanse revolutie"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P373",
+        "object": "http://www.wikidata.org/entity/statement/q40949-4999BDD8-B309-43E3-BE47-BCB69434CBFF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-E8C3E3DF-F6EE-4DEB-A04E-27A2765B4F78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P361",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-5BA44693-8846-4C48-B851-868B5CFD05C2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/P268",
+        "object": "http://www.wikidata.org/entity/statement/Q40949-557eaff9-4795-8c37-763a-0c18558dd65d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1026",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40949",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q1026"
+      }
+    ]
+  }
+}

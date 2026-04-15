@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "5690",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4619",
+        "object": "000430053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P396",
+        "object": "UBOV386482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "pq:P1545",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P3365",
+        "object": "john-flamsteed"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "5690",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4619",
+        "object": "000430053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P396",
+        "object": "UBOV386482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P3365",
+        "object": "john-flamsteed"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "5690",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4619",
+        "object": "000430053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P396",
+        "object": "UBOV386482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "pq:P1545",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P3365",
+        "object": "john-flamsteed"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "0"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "5690",
+    "answers": [
+      "1"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4619",
+        "object": "000430053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P396",
+        "object": "UBOV386482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "pq:P1545",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P3365",
+        "object": "john-flamsteed"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P122",
+        "object": "http://www.wikidata.org/entity/statement/Q145-c465a94d-4b7e-29c3-1b2c-8b514844649c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P138",
+        "object": "http://www.wikidata.org/entity/statement/Q145-b2a23847-45e2-5957-7823-a01d44912251"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P140",
+        "object": "http://www.wikidata.org/entity/statement/Q145-2201ee55-42e5-cd5e-ace9-6a5910591371"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q145-0784612D-7E1D-4243-9720-CC30D1C3E0FC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q145-1965CD88-D889-435A-82C8-151A018BE297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q145-8B0E4113-4EE2-4FCB-AC48-588D675098E8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q145-B877C6AD-442E-4996-A6D3-3C9C13338C33"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q145-f8243e81-4bb1-a9de-2346-f6e38ad8c8ae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/Q145-C59F5250-F44F-4A9E-9D19-C08FF09EDEEC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/P158",
+        "object": "http://www.wikidata.org/entity/statement/Q145-B22AE5A1-24B7-4A92-BA5C-5C060C29534E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P163",
+        "object": "http://www.wikidata.org/entity/statement/q31-D3102687-E4C4-489F-BF18-02E5ED305AF5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P194",
+        "object": "http://www.wikidata.org/entity/statement/q31-6B7B707E-9D1E-42E8-8DC4-B4D04C0B9A5B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P206",
+        "object": "http://www.wikidata.org/entity/statement/Q31-18162585-F431-4107-A9EF-24F1499E04F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P208",
+        "object": "http://www.wikidata.org/entity/statement/q31-d50158e6-48c9-18e6-4e7f-888ad3e53902"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P209",
+        "object": "http://www.wikidata.org/entity/statement/q31-02002a92-4e4e-c7c1-bc20-0cd430ae9d70"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P209",
+        "object": "http://www.wikidata.org/entity/statement/q31-89815ea8-4984-d16f-990a-4dcb09afba70"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P209",
+        "object": "http://www.wikidata.org/entity/statement/q31-ae8782ea-48a6-d7f3-7e94-21433d67deea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P213",
+        "object": "http://www.wikidata.org/entity/statement/Q31-e7be1e16-41fa-49bf-196b-37505813c2db"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P214",
+        "object": "http://www.wikidata.org/entity/statement/q31-42978a96-4563-08b4-566a-45ff2ebea55f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/P227",
+        "object": "http://www.wikidata.org/entity/statement/q31-2588394D-CC64-4E73-A1EB-F938D860AF41"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "5690",
+    "answers": [
+      "0"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4619",
+        "object": "000430053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P396",
+        "object": "UBOV386482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/direct/P3365",
+        "object": "john-flamsteed"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "pq:P1545",
+        "object": "0"
+      }
+    ]
+  }
+}

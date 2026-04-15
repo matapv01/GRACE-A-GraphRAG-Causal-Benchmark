@@ -1,0 +1,58 @@
+{
+  "question_id": "10870",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11459"
+  ],
+  "gold_path": {
+    "question_id": "10870",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11578",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q11578-04C63C54-4A73-4A8F-9B3B-9132E5C8E5F5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11578-04C63C54-4A73-4A8F-9B3B-9132E5C8E5F5",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q6952077"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11578-04C63C54-4A73-4A8F-9B3B-9132E5C8E5F5",
+        "predicate": "pq:P1346",
+        "object": "http://www.wikidata.org/entity/Q11459"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11578-04C63C54-4A73-4A8F-9B3B-9132E5C8E5F5",
+        "predicate": "pq:P585",
+        "object": "2003-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11578",
+      "predicate": "http://www.wikidata.org/prop/P1695",
+      "object": "http://www.wikidata.org/entity/statement/Q11578-4bb4bd5d-1772-4b34-8fe9-b058eeb46d25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11578",
+      "predicate": "http://www.wikidata.org/prop/P2067",
+      "object": "http://www.wikidata.org/entity/statement/Q11578-1550A642-0C9F-4587-974D-CD67107E7B0E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11578",
+      "predicate": "http://www.wikidata.org/prop/P2013",
+      "object": "http://www.wikidata.org/entity/statement/Q11578-CF95743F-EDAC-4EB4-B1A4-A774D2106F84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11578",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q11578-31cd767b-4881-f7a5-c8f1-dec5d1395e2d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11578",
+      "predicate": "http://www.wikidata.org/prop/P1006",
+      "object": "http://www.wikidata.org/entity/statement/Q11578-EF99F969-2ADC-4F40-9EDC-DCAEE4E9B9E2"
+    }
+  ]
+}

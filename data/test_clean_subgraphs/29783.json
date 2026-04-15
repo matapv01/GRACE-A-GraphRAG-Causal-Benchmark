@@ -1,0 +1,48 @@
+{
+  "question_id": "29783",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "29783",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7976",
+        "predicate": "http://www.wikidata.org/prop/direct/P495",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2777939226"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P220"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P1394"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P10369",
+      "object": "https://lingualibre.org/entity/Q123271"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p10370"
+    }
+  ]
+}

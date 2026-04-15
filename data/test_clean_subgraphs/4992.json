@@ -1,0 +1,43 @@
+{
+  "question_id": "4992",
+  "answers": [
+    "http://www.wikidata.org/entity/Q212129"
+  ],
+  "gold_path": {
+    "question_id": "4992",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q94992",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q94992-22B900F4-7965-4863-AD19-DC6B5C0ABCC5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q94992-22B900F4-7965-4863-AD19-DC6B5C0ABCC5",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q106291"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q94992-22B900F4-7965-4863-AD19-DC6B5C0ABCC5",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q212129"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q94992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mladen George Sekulovich"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q94992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mladen Sekulovič"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q94992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Младен Ђорђе Секуловић"
+    }
+  ]
+}

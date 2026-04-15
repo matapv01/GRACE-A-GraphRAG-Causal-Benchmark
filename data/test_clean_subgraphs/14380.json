@@ -1,0 +1,68 @@
+{
+  "question_id": "14380",
+  "answers": [
+    "http://www.wikidata.org/entity/Q215006",
+    "http://www.wikidata.org/entity/Q316568",
+    "http://www.wikidata.org/entity/Q70140",
+    "http://www.wikidata.org/entity/Q704368",
+    "http://www.wikidata.org/entity/Q888645",
+    "http://www.wikidata.org/entity/Q11806"
+  ],
+  "gold_path": {
+    "question_id": "14380",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23844",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q463303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q463303",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q11806"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q463303",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q888645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23844",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q594712"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q594712",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q70140"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q594712",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q215006"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q594712",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q316568"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q594712",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q704368"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23844",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "George Timothy Clooney"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23844",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "George Timoty Clooney"
+    }
+  ]
+}

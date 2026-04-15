@@ -1,0 +1,48 @@
+{
+  "question_id": "5004",
+  "answers": [
+    "http://www.wikidata.org/entity/Q215057"
+  ],
+  "gold_path": {
+    "question_id": "5004",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1439",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q1439-bb1981ac-423b-5db2-807c-b893663c5b16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1439-bb1981ac-423b-5db2-807c-b893663c5b16",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q215057"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1439",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q112078"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1439",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q112086"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1439",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q112115"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1439",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q112125"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1439",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q112149"
+    }
+  ]
+}

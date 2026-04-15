@@ -1,0 +1,43 @@
+{
+  "question_id": "26554",
+  "answers": [
+    "12201"
+  ],
+  "gold_path": {
+    "question_id": "26554",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8958",
+        "predicate": "http://www.wikidata.org/prop/direct/P3603",
+        "object": "12201"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8958",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "152"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8958",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/q8958-5A1C7528-1C57-4773-ACF4-BB333E760D99"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8958",
+      "predicate": "http://www.wikidata.org/prop/direct/P5617",
+      "object": "johannes-gutenberg-5966"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8958",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "gutenberg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8958",
+      "predicate": "http://www.wikidata.org/prop/direct/P6385",
+      "object": "nauka_i_tehnika/tehnologiya_i_promyshlennost/GUTENBERG_IOGANN.html"
+    }
+  ]
+}

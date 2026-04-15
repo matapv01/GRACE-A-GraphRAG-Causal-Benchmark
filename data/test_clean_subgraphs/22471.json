@@ -1,0 +1,48 @@
+{
+  "question_id": "22471",
+  "answers": [
+    "http://www.wikidata.org/entity/Q333353"
+  ],
+  "gold_path": {
+    "question_id": "22471",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131221",
+        "predicate": "http://www.wikidata.org/prop/direct/P1382",
+        "object": "http://www.wikidata.org/entity/Q333353"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q333353",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q32880"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131221",
+      "predicate": "http://www.wikidata.org/prop/direct/P6385",
+      "object": "kultura_i_obrazovanie/teatr_i_kino/FUTURIZM.html"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131221",
+      "predicate": "http://www.wikidata.org/prop/direct/P6706",
+      "object": "futurismo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131221",
+      "predicate": "http://www.wikidata.org/prop/direct/P6404",
+      "object": "futurismo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131221",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "futurisme"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131221",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01hl64"
+    }
+  ]
+}

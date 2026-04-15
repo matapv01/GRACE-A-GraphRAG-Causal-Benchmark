@@ -1,0 +1,53 @@
+{
+  "question_id": "7311",
+  "answers": [
+    "2022-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7311",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q134279",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q134279-B133794F-BC5B-419B-A4F6-7639BD8E89A1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q134279-B133794F-BC5B-419B-A4F6-7639BD8E89A1",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q16746854"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q134279-B133794F-BC5B-419B-A4F6-7639BD8E89A1",
+        "predicate": "pq:P580",
+        "object": "2022-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q134279",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Luhansk-Ukraine"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134279",
+      "predicate": "http://www.wikidata.org/prop/P2013",
+      "object": "http://www.wikidata.org/entity/statement/Q134279-962863ef-4c17-802d-b12a-062133315e91"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134279",
+      "predicate": "http://www.wikidata.org/prop/P1791",
+      "object": "http://www.wikidata.org/entity/statement/Q134279-30cc4a90-4ed6-0d1d-a76f-df4fb9ed5117"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134279",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q212"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134279",
+      "predicate": "http://www.wikidata.org/prop/P5163",
+      "object": "http://www.wikidata.org/entity/statement/Q134279-06f5a611-439b-55a7-b30c-d9d3f00ca67e"
+    }
+  ]
+}

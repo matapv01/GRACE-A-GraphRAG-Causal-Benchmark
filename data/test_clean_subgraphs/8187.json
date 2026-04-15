@@ -1,0 +1,81 @@
+{
+  "question_id": "8187",
+  "answers": [
+    "http://www.wikidata.org/entity/Q873186",
+    "http://www.wikidata.org/entity/Q1077902",
+    "http://www.wikidata.org/entity/Q431093",
+    "http://www.wikidata.org/entity/Q368451"
+  ],
+  "gold_path": {
+    "question_id": "8187",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q182462",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q182462-088F0E0B-31F4-4767-BAE5-4A0230307835"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182462-088F0E0B-31F4-4767-BAE5-4A0230307835",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182462-088F0E0B-31F4-4767-BAE5-4A0230307835",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q368451"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182462-088F0E0B-31F4-4767-BAE5-4A0230307835",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q431093"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182462-088F0E0B-31F4-4767-BAE5-4A0230307835",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q1077902"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182462",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q182462-39BBEDD0-D1C0-48CC-993E-A588424A1D36"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182462-39BBEDD0-D1C0-48CC-993E-A588424A1D36",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182462-39BBEDD0-D1C0-48CC-993E-A588424A1D36",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q873186"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q182462",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "119372"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182462",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb12320469f#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182462",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "12320469f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182462",
+      "predicate": "http://www.wikidata.org/prop/direct/P11683",
+      "object": "dzhanet-gejnor"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182462",
+      "predicate": "http://www.wikidata.org/prop/direct/P2604",
+      "object": "218095"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "26472",
+  "answers": [
+    "VTax1433"
+  ],
+  "gold_path": {
+    "question_id": "26472",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q147096",
+        "predicate": "http://www.wikidata.org/prop/direct/P5179",
+        "object": "VTax1433"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q147096",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "60"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147096",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "نارنج"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147096",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "חושחש"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147096",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Bitterorange"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147096",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Aurantium"
+    }
+  ]
+}

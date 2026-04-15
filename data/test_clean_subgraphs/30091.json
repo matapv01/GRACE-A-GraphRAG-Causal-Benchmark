@@ -1,0 +1,48 @@
+{
+  "question_id": "30091",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "30091",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34266",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q34266"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gorskii%2004422u.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q546048"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q2027257"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34266",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q3024240"
+    }
+  ]
+}

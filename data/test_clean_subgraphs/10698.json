@@ -1,0 +1,58 @@
+{
+  "question_id": "10698",
+  "answers": [
+    "2000-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10698",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1392178",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q1392178-6245569E-FE23-44CE-81C9-45A68FD9D25C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1392178-6245569E-FE23-44CE-81C9-45A68FD9D25C",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q2725667"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1392178-6245569E-FE23-44CE-81C9-45A68FD9D25C",
+        "predicate": "pq:P580",
+        "object": "2000-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1392178-6245569E-FE23-44CE-81C9-45A68FD9D25C",
+        "predicate": "pq:P582",
+        "object": "2000-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-31T22:41:50Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://schema.org/version",
+      "object": "2476822627"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "غلين ماكغراث"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ഗ്ലെൻ മക്ഗ്രാത്ത്"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ग्लेन मॅकग्रा"
+    }
+  ]
+}

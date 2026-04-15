@@ -1,0 +1,53 @@
+{
+  "question_id": "3657",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2264347"
+  ],
+  "gold_path": {
+    "question_id": "3657",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q202735",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q202735-76CDCC17-1A0A-415C-AC8D-94EC8C161624"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202735-76CDCC17-1A0A-415C-AC8D-94EC8C161624",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q107258"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202735-76CDCC17-1A0A-415C-AC8D-94EC8C161624",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q2264347"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q202735",
+      "predicate": "http://www.wikidata.org/prop/direct/P3065",
+      "object": "A008782528"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202735",
+      "predicate": "http://www.wikidata.org/prop/direct/P3056",
+      "object": "191675"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202735",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202735",
+      "predicate": "http://www.wikidata.org/prop/direct/P3136",
+      "object": "1993279"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202735",
+      "predicate": "http://www.wikidata.org/prop/direct/P5007",
+      "object": "Billy-Bob-Thornton"
+    }
+  ]
+}

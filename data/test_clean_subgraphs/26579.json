@@ -1,0 +1,38 @@
+{
+  "question_id": "26579",
+  "answers": [
+    "482936"
+  ],
+  "gold_path": {
+    "question_id": "26579",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34253",
+        "predicate": "http://www.wikidata.org/prop/direct/P3144",
+        "object": "482936"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34253",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "122"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34253",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Линус"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34253",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Торвальдс"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34253",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Torvalds"
+    }
+  ]
+}

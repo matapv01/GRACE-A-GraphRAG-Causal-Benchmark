@@ -1,0 +1,48 @@
+{
+  "question_id": "6908",
+  "answers": [
+    "http://www.wikidata.org/entity/Q52414904"
+  ],
+  "gold_path": {
+    "question_id": "6908",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318508",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q318508-8770fe98-4615-b153-50d1-5a2f368548f7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318508-8770fe98-4615-b153-50d1-5a2f368548f7",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q52414904"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318508",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q318508-49B26897-6EB6-44D3-9B0C-9501C6F0B4D5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318508",
+      "predicate": "http://www.wikidata.org/prop/P1741",
+      "object": "http://www.wikidata.org/entity/statement/Q318508-988F31FC-A7E1-427B-9E45-24197AE113E2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318508",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Andres-Manuel-Lopez-Obrador-1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318508",
+      "predicate": "http://www.wikidata.org/prop/P345",
+      "object": "http://www.wikidata.org/entity/statement/Q318508-bc5d8c93-4241-c6a6-95a3-fd93e81042f3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318508",
+      "predicate": "http://www.wikidata.org/prop/direct/P1741",
+      "object": "127303"
+    }
+  ]
+}

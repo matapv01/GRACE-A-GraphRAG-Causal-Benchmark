@@ -1,0 +1,49 @@
+{
+  "question_id": "29249",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7496060",
+    "http://www.wikidata.org/entity/Q187549"
+  ],
+  "gold_path": {
+    "question_id": "29249",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q177549",
+        "predicate": "http://www.wikidata.org/prop/direct/P193",
+        "object": "http://www.wikidata.org/entity/Q187549"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q177549",
+        "predicate": "http://www.wikidata.org/prop/direct/P193",
+        "object": "http://www.wikidata.org/entity/Q7496060"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q177549",
+      "predicate": "http://www.wikidata.org/prop/direct/P6058",
+      "object": "divers/wd/187129"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177549",
+      "predicate": "http://www.wikidata.org/prop/direct/P361",
+      "object": "http://www.wikidata.org/entity/Q15604681"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177549",
+      "predicate": "http://www.wikidata.org/prop/direct/P757",
+      "object": "1229-001"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177549",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "13336061c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177549",
+      "predicate": "http://www.wikidata.org/prop/direct/P7772",
+      "object": "krack-des-chevaliers"
+    }
+  ]
+}

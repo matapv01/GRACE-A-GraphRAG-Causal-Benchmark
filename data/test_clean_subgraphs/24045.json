@@ -1,0 +1,49 @@
+{
+  "question_id": "24045",
+  "answers": [
+    "http://www.wikidata.org/entity/Q941",
+    "http://www.wikidata.org/entity/Q1855"
+  ],
+  "gold_path": {
+    "question_id": "24045",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1855",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1855",
+        "predicate": "rdfs:label",
+        "object": "ytterbium"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q941",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q941",
+        "predicate": "rdfs:label",
+        "object": "yttrium"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "鐿"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ytterbium"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "איטרביום"
+    }
+  ]
+}

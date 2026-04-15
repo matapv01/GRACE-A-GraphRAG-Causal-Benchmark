@@ -1,0 +1,48 @@
+{
+  "question_id": "25506",
+  "answers": [
+    "http://www.wikidata.org/entity/Q456"
+  ],
+  "gold_path": {
+    "question_id": "25506",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q22927616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P1456",
+        "object": "http://www.wikidata.org/entity/Q3252117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "rdfs:label",
+        "object": "Lyon"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "135"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "195"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lione"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lyon"
+    }
+  ]
+}

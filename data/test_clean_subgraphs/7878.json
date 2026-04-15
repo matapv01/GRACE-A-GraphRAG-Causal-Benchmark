@@ -1,0 +1,69 @@
+{
+  "question_id": "7878",
+  "answers": [
+    "2010-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7878",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q202237",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q202237-065AD026-7DF8-47BE-9FCC-69E97D0A152E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q202237-065AD026-7DF8-47BE-9FCC-69E97D0A152E",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q5794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q202237-065AD026-7DF8-47BE-9FCC-69E97D0A152E",
+        "predicate": "pq:P580",
+        "object": "2010-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q202237",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q202237-D8ADAA7D-2510-452A-98DC-15428B876DDF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202237-D8ADAA7D-2510-452A-98DC-15428B876DDF",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q5794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q202237-D8ADAA7D-2510-452A-98DC-15428B876DDF",
+        "predicate": "pq:P580",
+        "object": "2012-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q202237",
+      "predicate": "http://schema.org/version",
+      "object": "2480170091"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202237",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T23:32:23Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202237",
+      "predicate": "http://schema.org/description",
+      "object": "لاعب كرة قدم أمريكي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202237",
+      "predicate": "http://schema.org/description",
+      "object": "American soccer player"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202237",
+      "predicate": "http://schema.org/description",
+      "object": "американський футболіст"
+    }
+  ]
+}

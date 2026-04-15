@@ -1,0 +1,59 @@
+{
+  "question_id": "13771",
+  "answers": [
+    "http://www.wikidata.org/entity/Q388433",
+    "http://www.wikidata.org/entity/Q1414482"
+  ],
+  "gold_path": {
+    "question_id": "13771",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3196775",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q388433"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q388433",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q464578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3196775",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1414482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1414482",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q464578"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3196775",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q3196775-A5138D22-742F-43CB-A747-B37128C12564"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3196775",
+      "predicate": "http://www.wikidata.org/prop/P1559",
+      "object": "http://www.wikidata.org/entity/statement/Q3196775-C6D66A22-6FF6-412F-A112-FCB8FFB82EA3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3196775",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q3196775-18180179-4ca3-6615-f7f8-8d2a3d9aebe6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3196775",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q3196775-1ea141a7-4754-0d6e-95e2-8edd561c7505"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3196775",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q3196775-4622b90c-42ba-9b3b-9640-d29936f2746f"
+    }
+  ]
+}

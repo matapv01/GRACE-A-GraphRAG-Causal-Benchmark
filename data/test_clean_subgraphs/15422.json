@@ -1,0 +1,38 @@
+{
+  "question_id": "15422",
+  "answers": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Pt-br-Brasil.ogg"
+  ],
+  "gold_path": {
+    "question_id": "15422",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q39444",
+        "predicate": "http://www.wikidata.org/prop/direct/P1532",
+        "object": "http://www.wikidata.org/entity/Q155"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q155",
+        "predicate": "http://www.wikidata.org/prop/direct/P443",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pt-br-Brasil.ogg"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q39444",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "جائزة الكرة الذهبية الأوروبية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39444",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ronaldinho"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39444",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "神の子"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "12565",
+  "answers": [
+    "http://www.wikidata.org/entity/Q145"
+  ],
+  "gold_path": {
+    "question_id": "12565",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18221",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q4033111"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18221",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "iles-turks-et-caiques"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18221",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "78"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18221",
+      "predicate": "http://www.wikidata.org/prop/direct/P12086",
+      "object": "Turks-_en_Caicoseilanden"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18221",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q18221-377A274D-B0BB-4CB3-ACCA-C2C6C1D0E705"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18221",
+      "predicate": "http://www.wikidata.org/prop/direct/P1296",
+      "object": "0067967"
+    }
+  ]
+}

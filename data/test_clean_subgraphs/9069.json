@@ -1,0 +1,53 @@
+{
+  "question_id": "9069",
+  "answers": [
+    "2001-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9069",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193645",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q193645-001236DA-4C13-4FB6-849E-1CCBA3AB2415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193645-001236DA-4C13-4FB6-849E-1CCBA3AB2415",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q6761828"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193645-001236DA-4C13-4FB6-849E-1CCBA3AB2415",
+        "predicate": "pq:P585",
+        "object": "2001-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193645",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-28T20:03:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193645",
+      "predicate": "http://schema.org/version",
+      "object": "2475928081"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193645",
+      "predicate": "http://schema.org/description",
+      "object": "Americký jazzový hudebník, skladatel, aranžér, kapelník, zpěvák, hráč na trumpetu a piano, hudební producent (1933–2024)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193645",
+      "predicate": "http://schema.org/description",
+      "object": "cynhyrchydd, actor a chyfansoddwr (1933–2024)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193645",
+      "predicate": "http://schema.org/description",
+      "object": "amerikansk musikproducer, dirigent, musikalsk arrangør og filmkomponist (1933–2024)"
+    }
+  ]
+}

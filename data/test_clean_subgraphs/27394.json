@@ -1,0 +1,38 @@
+{
+  "question_id": "27394",
+  "answers": [
+    "zlatan-ibrahimovic"
+  ],
+  "gold_path": {
+    "question_id": "27394",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q46896",
+        "predicate": "http://www.wikidata.org/prop/direct/P2020",
+        "object": "zlatan-ibrahimovic"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q46896",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46896",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "2023-06-04T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46896",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q46896-77DFB566-BD29-4DFE-95ED-EFB5F8AF6E34"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46896",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q46896-85b3874c-c73a-464d-befc-fa82e3fdd3de"
+    }
+  ]
+}

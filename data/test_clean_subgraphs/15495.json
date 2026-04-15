@@ -1,0 +1,43 @@
+{
+  "question_id": "15495",
+  "answers": [
+    "http://www.wikidata.org/entity/Q57155167"
+  ],
+  "gold_path": {
+    "question_id": "15495",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q972216",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q7414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7414",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q57155167"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q972216",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q972216",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q972216",
+      "predicate": "http://schema.org/version",
+      "object": "2384107814"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q972216",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Disney Magicboard Online"
+    }
+  ]
+}

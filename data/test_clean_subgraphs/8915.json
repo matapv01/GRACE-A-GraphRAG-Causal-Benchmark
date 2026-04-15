@@ -1,0 +1,48 @@
+{
+  "question_id": "8915",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11344"
+  ],
+  "gold_path": {
+    "question_id": "8915",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q740",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q740-8CEFE2A8-3CA6-4EA6-9AD3-094EB45F2950"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q740-8CEFE2A8-3CA6-4EA6-9AD3-094EB45F2950",
+        "predicate": "ps:P31",
+        "object": "http://www.wikidata.org/entity/Q11344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q740-8CEFE2A8-3CA6-4EA6-9AD3-094EB45F2950",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q744"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q740",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "₂₇Co"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q740",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "grunnstoff 27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q740",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "elemento 27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q740",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "coban"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "12789",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "12789",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1415",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q1649"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1415",
+      "predicate": "http://www.wikidata.org/prop/direct/P5456",
+      "object": "indiana"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1415",
+      "predicate": "http://www.wikidata.org/prop/direct/P1278",
+      "object": "Q8JDSMXPZ6YQWY5J7W63"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1415",
+      "predicate": "http://www.wikidata.org/prop/direct/P6592",
+      "object": "7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1415",
+      "predicate": "http://www.wikidata.org/prop/direct/P4725",
+      "object": "22214"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1415",
+      "predicate": "http://www.wikidata.org/prop/direct/P1465",
+      "object": "http://www.wikidata.org/entity/Q32724664"
+    }
+  ]
+}

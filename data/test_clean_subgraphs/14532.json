@@ -1,0 +1,59 @@
+{
+  "question_id": "14532",
+  "answers": [
+    "http://www.wikidata.org/entity/Q52139",
+    "http://www.wikidata.org/entity/Q757520"
+  ],
+  "gold_path": {
+    "question_id": "14532",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18157846",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q1113838"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1113838",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q52139"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18157846",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q17276189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17276189",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q757520"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18157846",
+      "predicate": "http://www.wikidata.org/prop/direct/P496",
+      "object": "0000-0003-3032-7875"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18157846",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q2260734"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18157846",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "no2002105860"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18157846",
+      "predicate": "http://www.wikidata.org/prop/direct/P734",
+      "object": "http://www.wikidata.org/entity/Q37465859"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18157846",
+      "predicate": "http://www.wikidata.org/prop/P496",
+      "object": "http://www.wikidata.org/entity/statement/Q18157846-946179A9-10B7-40D6-AB9B-3EC08C0BDAE1"
+    }
+  ]
+}

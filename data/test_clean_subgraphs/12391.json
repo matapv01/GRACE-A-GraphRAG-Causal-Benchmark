@@ -1,0 +1,48 @@
+{
+  "question_id": "12391",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1339"
+  ],
+  "gold_path": {
+    "question_id": "12391",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q392734",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q1339"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1339",
+        "predicate": "http://www.wikidata.org/prop/direct/P802",
+        "object": "http://www.wikidata.org/entity/Q60965"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q392734",
+      "predicate": "http://www.wikidata.org/prop/P1827",
+      "object": "http://www.wikidata.org/entity/statement/Q392734-b23f59d1-4851-85b7-cac3-dfdb274a5340"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q392734",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q392734-5bf5d840-4046-404c-cd7e-59584d0a77cd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q392734",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Toccata-Fugue-BWV565%20Bach-intro.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q392734",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q392734-5027958c-45a0-a935-fe0c-961629571fac"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q392734",
+      "predicate": "http://www.wikidata.org/prop/P528",
+      "object": "http://www.wikidata.org/entity/statement/Q392734-7bbf7485-43df-fad0-8edf-d46d716e479e"
+    }
+  ]
+}

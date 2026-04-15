@@ -1,0 +1,48 @@
+{
+  "question_id": "9923",
+  "answers": [
+    "http://www.wikidata.org/entity/Q101951"
+  ],
+  "gold_path": {
+    "question_id": "9923",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q483412",
+        "predicate": "http://www.wikidata.org/prop/direct/P110",
+        "object": "http://www.wikidata.org/entity/Q101951"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483412",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q9204"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q483412",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483412",
+      "predicate": "http://www.wikidata.org/prop/direct/P7648",
+      "object": "the-chronicles-of-narnia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483412",
+      "predicate": "http://www.wikidata.org/prop/direct/P7648",
+      "object": "纳尼亚传奇"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483412",
+      "predicate": "http://www.wikidata.org/prop/direct/P674",
+      "object": "http://www.wikidata.org/entity/Q582234"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483412",
+      "predicate": "http://www.wikidata.org/prop/direct/P674",
+      "object": "http://www.wikidata.org/entity/Q762731"
+    }
+  ]
+}

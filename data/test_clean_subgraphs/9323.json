@@ -1,0 +1,68 @@
+{
+  "question_id": "9323",
+  "answers": [
+    "http://www.wikidata.org/entity/Q841760"
+  ],
+  "gold_path": {
+    "question_id": "9323",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q153509",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q153509-56865c25-4617-2bbd-61d4-3a499ae04422"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q153509-56865c25-4617-2bbd-61d4-3a499ae04422",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q841760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153509",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q153509-7d35095a-4170-a5f6-48b5-c40f70a4b688"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q153509-7d35095a-4170-a5f6-48b5-c40f70a4b688",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q841760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153509",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q153509-9da583a4-453d-fd5f-17b7-1c38d4ef0685"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q153509-9da583a4-453d-fd5f-17b7-1c38d4ef0685",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q841760"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q153509",
+      "predicate": "http://www.wikidata.org/prop/direct/P5002",
+      "object": "2561422"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153509",
+      "predicate": "http://www.wikidata.org/prop/P5002",
+      "object": "http://www.wikidata.org/entity/statement/Q153509-55fd627f-4711-3fcb-3bf4-58e901d7de3b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153509",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "00448571"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153509",
+      "predicate": "http://www.wikidata.org/prop/direct/P701",
+      "object": "P16540"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153509",
+      "predicate": "http://www.wikidata.org/prop/direct/P3348",
+      "object": "23248"
+    }
+  ]
+}

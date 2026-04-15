@@ -1,0 +1,48 @@
+{
+  "question_id": "16303",
+  "answers": [
+    "http://www.wikidata.org/entity/Q273969"
+  ],
+  "gold_path": {
+    "question_id": "16303",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4234544",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q1413128"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1413128",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q273969"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4234544",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4234544",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "73"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4234544",
+      "predicate": "http://schema.org/description",
+      "object": "فقيه لغة روسي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4234544",
+      "predicate": "http://schema.org/description",
+      "object": "filólogo ruso"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4234544",
+      "predicate": "http://schema.org/description",
+      "object": "philologue russe"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "10170",
+  "answers": [
+    "http://www.wikidata.org/entity/Q26"
+  ],
+  "gold_path": {
+    "question_id": "10170",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10686",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10686",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q1140130"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10686",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "belfast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10686",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q10686-0079A89A-AFE7-4206-A3BC-04E6D6652BCA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10686",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Wikibelfast1.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10686",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Belfast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10686",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "貝爾法斯特"
+    }
+  ]
+}

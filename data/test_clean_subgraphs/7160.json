@@ -1,0 +1,48 @@
+{
+  "question_id": "7160",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2177054"
+  ],
+  "gold_path": {
+    "question_id": "7160",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q165721",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q165721-1ec16452-48b2-d369-d889-14f06086ba0a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q165721-1ec16452-48b2-d369-d889-14f06086ba0a",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q2177054"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q165721",
+      "predicate": "http://www.wikidata.org/prop/direct/P1280",
+      "object": "26597731"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165721",
+      "predicate": "http://www.wikidata.org/prop/direct/P12614",
+      "object": "m/mejerholxd_w_e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165721",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "vsevolod-emilevic-meyerhold"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165721",
+      "predicate": "http://www.wikidata.org/prop/direct/P1296",
+      "object": "0042324"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165721",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "2116130"
+    }
+  ]
+}

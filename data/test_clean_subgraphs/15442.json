@@ -1,0 +1,90 @@
+{
+  "question_id": "15442",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34687",
+    "http://www.wikidata.org/entity/Q1036729",
+    "http://www.wikidata.org/entity/Q235155",
+    "http://www.wikidata.org/entity/Q123592266",
+    "http://www.wikidata.org/entity/Q181791",
+    "http://www.wikidata.org/entity/Q49005",
+    "http://www.wikidata.org/entity/Q2367101",
+    "http://www.wikidata.org/entity/Q189299"
+  ],
+  "gold_path": {
+    "question_id": "15442",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q312096",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q18591108"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q34687"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q49005"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q181791"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q189299"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q235155"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q1036729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q2367101"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18591108",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q123592266"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q312096",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "lawrence-thomas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312096",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0jr57"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312096",
+      "predicate": "http://www.wikidata.org/prop/direct/P3846",
+      "object": "87097991337258"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312096",
+      "predicate": "http://www.wikidata.org/prop/direct/P5063",
+      "object": "i95910"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312096",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Thomas Lawrence"
+    }
+  ]
+}

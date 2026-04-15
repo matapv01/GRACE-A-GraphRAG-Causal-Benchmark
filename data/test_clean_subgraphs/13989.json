@@ -1,0 +1,43 @@
+{
+  "question_id": "13989",
+  "answers": [
+    "http://www.wikidata.org/entity/Q954166"
+  ],
+  "gold_path": {
+    "question_id": "13989",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q217825",
+        "predicate": "http://www.wikidata.org/prop/direct/P144",
+        "object": "http://www.wikidata.org/entity/Q954166"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q217825",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-08-04T12:32:17Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217825",
+      "predicate": "http://schema.org/version",
+      "object": "2387987011"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217825",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Stout.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217825",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q217825-AB38639B-61D9-4FEC-B190-0BA2EB05768D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217825",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/07906327-n"
+    }
+  ]
+}

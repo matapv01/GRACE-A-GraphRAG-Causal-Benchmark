@@ -1,0 +1,53 @@
+{
+  "question_id": "8284",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1474410"
+  ],
+  "gold_path": {
+    "question_id": "8284",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48337",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q48337-a2b31425-4869-6cd9-a702-1a5db86a1f79"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q48337-a2b31425-4869-6cd9-a702-1a5db86a1f79",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1474410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q48337-a2b31425-4869-6cd9-a702-1a5db86a1f79",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4635113"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48337",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Freeman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48337",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ڨ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48337",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Morgan Porterfield Freeman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48337",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "مورجان فريمان"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48337",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "مورغن فريمان"
+    }
+  ]
+}

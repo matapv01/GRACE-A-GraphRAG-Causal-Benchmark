@@ -1,0 +1,70 @@
+{
+  "question_id": "15669",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4290",
+    "http://www.wikidata.org/entity/Q413",
+    "http://www.wikidata.org/entity/Q214092"
+  ],
+  "gold_path": {
+    "question_id": "15669",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q315514",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q169470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q169470",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315514",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q557880"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q557880",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q4290"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315514",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q15472169"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15472169",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q214092"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q315514",
+      "predicate": "http://www.wikidata.org/prop/direct/P3368",
+      "object": "478901"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315514",
+      "predicate": "http://www.wikidata.org/prop/direct/P5298",
+      "object": "55734"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315514",
+      "predicate": "http://www.wikidata.org/prop/direct/P14178",
+      "object": "js20070713001"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315514",
+      "predicate": "http://www.wikidata.org/prop/P3368",
+      "object": "http://www.wikidata.org/entity/statement/Q315514-DC095FDB-B7C0-49E5-8733-A1EBAFA580A1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315514",
+      "predicate": "http://www.wikidata.org/prop/direct/P1477",
+      "object": "Олег Владимирович Дерипаска"
+    }
+  ]
+}

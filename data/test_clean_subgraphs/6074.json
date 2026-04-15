@@ -1,0 +1,53 @@
+{
+  "question_id": "6074",
+  "answers": [
+    "1954-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6074",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1349488",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q1349488-3EBFB281-CEC9-4630-932D-938BD84D8C6C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1349488-3EBFB281-CEC9-4630-932D-938BD84D8C6C",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q255620"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1349488-3EBFB281-CEC9-4630-932D-938BD84D8C6C",
+        "predicate": "pq:P582",
+        "object": "1954-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1349488",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q1349488-5AD79E13-9A3E-44D8-93D8-F582C3CD027F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1349488",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Rubirosa-1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1349488",
+      "predicate": "http://www.wikidata.org/prop/P214",
+      "object": "http://www.wikidata.org/entity/statement/q1349488-7014E9F6-F1F7-43AE-BC55-F9637A457D17"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1349488",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q1349488-1A4C2672-60BB-4ED1-B253-767642174F9F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1349488",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q1349488-1EE0176E-2881-4A59-964B-87852D164DFF"
+    }
+  ]
+}

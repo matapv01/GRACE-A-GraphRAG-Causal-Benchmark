@@ -1,0 +1,48 @@
+{
+  "question_id": "17245",
+  "answers": [
+    "http://www.wikidata.org/entity/Q482090"
+  ],
+  "gold_path": {
+    "question_id": "17245",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7596524",
+        "predicate": "http://www.wikidata.org/prop/direct/P186",
+        "object": "http://www.wikidata.org/entity/Q11427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11427",
+        "predicate": "http://www.wikidata.org/prop/direct/P2079",
+        "object": "http://www.wikidata.org/entity/Q482090"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7596524",
+      "predicate": "http://schema.org/description",
+      "object": "urë"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7596524",
+      "predicate": "http://schema.org/description",
+      "object": "pont"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7596524",
+      "predicate": "http://schema.org/description",
+      "object": "verkeersbrug in Stockholm, Zweden"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7596524",
+      "predicate": "http://schema.org/description",
+      "object": "Stockholm'da köprü"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7596524",
+      "predicate": "http://schema.org/description",
+      "object": "road bridge between Norrmalm and Kungsholmen in Stockholm, Sweden"
+    }
+  ]
+}

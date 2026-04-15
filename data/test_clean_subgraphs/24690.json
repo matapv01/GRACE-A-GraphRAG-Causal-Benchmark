@@ -1,0 +1,43 @@
+{
+  "question_id": "24690",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4053373"
+  ],
+  "gold_path": {
+    "question_id": "24690",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4053373",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56682555"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4053373",
+        "predicate": "rdfs:label",
+        "object": "Xbox 360 S"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4053373",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Xbox 360 250GB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4053373",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Xbox 360 slim"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4053373",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Xbox 360 Slim"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4053373",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Xbox 360 S"
+    }
+  ]
+}

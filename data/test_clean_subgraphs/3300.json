@@ -1,0 +1,48 @@
+{
+  "question_id": "3300",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1053026"
+  ],
+  "gold_path": {
+    "question_id": "3300",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1053026",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q559026"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1053026",
+        "predicate": "http://www.wikidata.org/prop/direct/P2217",
+        "object": "16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1053026",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q14493958"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1053026",
+      "predicate": "http://www.wikidata.org/prop/direct/P495",
+      "object": "http://www.wikidata.org/entity/Q884"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1053026",
+      "predicate": "http://www.wikidata.org/prop/P495",
+      "object": "http://www.wikidata.org/entity/statement/Q1053026-4CF6BB61-3114-4F0D-9339-E3572F66F47F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1053026",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q1053026-7DBAA450-42B9-4FF5-8B60-772A880D7DF3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1053026",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    }
+  ]
+}

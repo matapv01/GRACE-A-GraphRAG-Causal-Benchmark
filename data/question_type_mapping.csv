@@ -1,0 +1,85 @@
+question_id,subgraph_type,template_id,template_structure
+19719,simple question right,1,<S P ?O ; ?O instanceOf Type>
+15554,left-subgraph,5,C RCD xD . xD RDE ?E
+974,boolean double one_hop right subgraph,2,Ask (ent-pred-obj1` . ent-pred-obj2)
+15803,right-subgraph,2,E REF xF . xF RFG ?G
+27610,center,1.1,E REF ?F
+24488,string matching simple contains word,2,<?S P O ; ?S instanceOf Type ; starts with character >
+18423,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+21845,simple question right,1,<S P ?O ; ?O instanceOf Type>
+26800,center,1.1,E REF ?F
+14923,left-subgraph,5,C RCD xD . xD RDE ?E
+18165,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+25156,string matching type + relation contains word,3,<?S P O ; ?S instanceOf Type ; contains word >
+519,boolean double one_hop right subgraph,2,Ask (ent-pred-obj1` . ent-pred-obj2)
+3708,statement_property,statement_property_2,(E pred F) prop ?value
+7974,statement_property,statement_property_2,(E pred F) prop ?value
+21093,simple question left,2,<?S P O ; ?S InstanceOf Type>
+27677,center,1.1,E REF ?F
+712,boolean double one_hop right subgraph,2,Ask (ent-pred-obj1` . ent-pred-obj2)
+6826,statement_property,statement_property_1,(E pred ?Obj ) prop value
+10143,two intentions right subgraph,1,select where (ent-pred-obj1 . ent-pred-obj2)
+15164,left-subgraph,5,C RCD xD . xD RDE ?E
+7855,statement_property,statement_property_2,(E pred F) prop ?value
+29174,center,1.1,E REF ?F
+2621,rank,Rank1,"?E is_a Type, ?E pred Obj  value. MAX/MIN (value)"
+10141,two intentions right subgraph,1,select where (ent-pred-obj1 . ent-pred-obj2)
+19829,simple question right,1,<S P ?O ; ?O instanceOf Type>
+13981,right-subgraph,1,E REF ?F . ?F RFG G
+403,boolean one_hop right subgraph,1,Ask (ent-pred-obj)
+29598,center,1.1,E REF ?F
+24611,string matching simple contains word,2,<?S P O ; ?S instanceOf Type ; starts with character >
+1344,statement_property,Count_1,Count Obj (ent-pred-obj)
+8396,statement_property,statement_property_2,(E pred F) prop ?value
+17797,right-subgraph,2,E REF xF . xF RFG ?G
+30058,simple question left,2,<?S P O ; ?S InstanceOf Type>
+18444,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+20145,simple question right,1,<S P ?O ; ?O instanceOf Type>
+18264,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+19896,simple question right,1,<S P ?O ; ?O instanceOf Type>
+16037,left-subgraph,5,C RCD xD . xD RDE ?E
+22651,simple question right,1,<S P ?O ; ?O instanceOf Type>
+15426,left-subgraph,5,C RCD xD . xD RDE ?E
+24275,string matching simple contains word,2,<?S P O ; ?S instanceOf Type ; starts with character >
+29959,simple question right,1,<S P ?O ; ?O instanceOf Type>
+12032,right-subgraph,1,E REF ?F . ?F RFG G
+6819,statement_property,statement_property_1,(E pred ?Obj ) prop value
+23339,string matching simple contains word,1,<?S P O ; ?S instanceOf Type ; contains word >
+3127,rank,Rank2,?E is_a Type. ?E pred Obj. ?E-secondClause value. MAX (value)
+454,boolean one_hop right subgraph,1,Ask (ent-pred-obj)
+9839,two intentions right subgraph,1,select where (ent-pred-obj1 . ent-pred-obj2)
+18487,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+2794,rank,Rank1,"?E is_a Type, ?E pred Obj  value. MAX/MIN (value)"
+7744,statement_property,statement_property_1,(E pred ?Obj ) prop value
+5715,statement_property,statement_property_1,(E pred ?Obj ) prop value
+3261,rank,Rank2,?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+7385,statement_property,statement_property_2,(E pred F) prop ?value
+19004,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+5527,statement_property,statement_property_1,(E pred ?Obj ) prop value
+13957,right-subgraph,1,E REF ?F . ?F RFG G
+16243,left-subgraph,5,C RCD xD . xD RDE ?E
+22332,simple question left,2,<?S P O ; ?S InstanceOf Type>
+18673,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+20887,simple question right,1,<S P ?O ; ?O instanceOf Type>
+12163,right-subgraph,1,E REF ?F . ?F RFG G
+8338,statement_property,statement_property_1,(E pred ?Obj ) prop value
+27442,center,1.2,?D RDE E
+20025,simple question right,1,<S P ?O ; ?O instanceOf Type>
+3760,statement_property,statement_property_2,(E pred F) prop ?value
+21736,simple question left,2,<?S P O ; ?S InstanceOf Type>
+11886,right-subgraph,1,E REF ?F . ?F RFG G
+19179,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+5075,statement_property,statement_property_1,(E pred ?Obj ) prop value
+12513,right-subgraph,1,E REF ?F . ?F RFG G
+26414,center,1.2,?D RDE E
+27492,center,1.1,E REF ?F
+28395,center,1.2,?D RDE E
+25596,string matching type + relation contains word,4,<?S P O ; ?S instanceOf Type ; starts with character >
+12980,right-subgraph,1,E REF ?F . ?F RFG G
+4690,statement_property,statement_property_1,(E pred ?Obj ) prop value
+3398,rank,Rank2,?E is_a Type. ?E pred Obj. ?E-secondClause value. MIN (value)
+13939,right-subgraph,1,E REF ?F . ?F RFG G
+18840,boolean with filter,3,ASK ?sbj ?pred ?obj filter ?obj = num
+9357,statement_property,statement_property_2,(E pred F) prop ?value
+5550,statement_property,statement_property_2,(E pred F) prop ?value
+26372,center,1.1,E REF ?F

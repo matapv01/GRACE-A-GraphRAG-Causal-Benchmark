@@ -1,0 +1,48 @@
+{
+  "question_id": "14658",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3333484"
+  ],
+  "gold_path": {
+    "question_id": "14658",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2416269",
+        "predicate": "http://www.wikidata.org/prop/direct/P119",
+        "object": "http://www.wikidata.org/entity/Q248050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q248050",
+        "predicate": "http://www.wikidata.org/prop/direct/P140",
+        "object": "http://www.wikidata.org/entity/Q3333484"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2416269",
+      "predicate": "http://www.wikidata.org/prop/P607",
+      "object": "http://www.wikidata.org/entity/statement/Q2416269-F2B632F5-0093-46FA-BFED-AAECC445DCAD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2416269",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q2416269-D64BC8CE-CCD3-4057-9E6C-E39603614492"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2416269",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsitsianov%20new.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2416269",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q2416269-6EF02C65-3947-44B3-BB1C-E567D1209983"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2416269",
+      "predicate": "http://www.wikidata.org/prop/P11182",
+      "object": "http://www.wikidata.org/entity/statement/Q2416269-1C820ADD-70EE-45B5-9C34-F1D508B94DB0"
+    }
+  ]
+}

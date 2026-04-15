@@ -1,0 +1,54 @@
+{
+  "question_id": "15599",
+  "answers": [
+    "http://www.wikidata.org/entity/Q88079118",
+    "http://www.wikidata.org/entity/Q1516139"
+  ],
+  "gold_path": {
+    "question_id": "15599",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q273138",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q212793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212793",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q1516139"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212793",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q88079118"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q273138",
+      "predicate": "http://www.wikidata.org/prop/direct/P2013",
+      "object": "ICOMOSinternational"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q273138",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "icomos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q273138",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "ICOMOS"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q273138",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "icomosofficial"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q273138",
+      "predicate": "http://www.wikidata.org/prop/P2013",
+      "object": "http://www.wikidata.org/entity/statement/Q273138-26eba862-4908-dda7-5a7e-87d464cb9072"
+    }
+  ]
+}

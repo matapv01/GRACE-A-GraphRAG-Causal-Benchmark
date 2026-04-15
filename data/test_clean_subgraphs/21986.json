@@ -1,0 +1,59 @@
+{
+  "question_id": "21986",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15242873",
+    "http://www.wikidata.org/entity/Q484104"
+  ],
+  "gold_path": {
+    "question_id": "21986",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q503585",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q484104"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q484104",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3024240"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q503585",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q15242873"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15242873",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3024240"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q503585",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Корея"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503585",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "日本統治時代"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503585",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "احتلال اليابان لكوريا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503585",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "الحاكم العام على كوريا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q503585",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Карэя пад японскім панаваньнем"
+    }
+  ]
+}

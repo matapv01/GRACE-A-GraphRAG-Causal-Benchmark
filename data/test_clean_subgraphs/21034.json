@@ -1,0 +1,59 @@
+{
+  "question_id": "21034",
+  "answers": [
+    "http://www.wikidata.org/entity/Q29545",
+    "http://www.wikidata.org/entity/Q1424397"
+  ],
+  "gold_path": {
+    "question_id": "21034",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q29545",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q189240"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29545",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1424397",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q189240"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1424397",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q29545",
+      "predicate": "http://schema.org/version",
+      "object": "2480913905"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29545",
+      "predicate": "http://schema.org/description",
+      "object": "لاعب كرة سلة أمريكي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29545",
+      "predicate": "http://schema.org/description",
+      "object": "xugador de baloncestu estauxunidense"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29545",
+      "predicate": "http://schema.org/description",
+      "object": "মার্কিন বাস্কেটবল খেলোয়াড়"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29545",
+      "predicate": "http://schema.org/description",
+      "object": "jugador de bàsquet estatunidenc"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "14050",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8963"
+  ],
+  "gold_path": {
+    "question_id": "14050",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q83219",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q8963"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8963",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q36180"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q83219",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q83219-A05CC785-B720-41C9-B516-12661FC631F3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83219",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q83219-A3D29A5A-3A69-4887-9A18-BC4B30374A53"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83219",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83219",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb12445155q#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83219",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q214070"
+    }
+  ]
+}

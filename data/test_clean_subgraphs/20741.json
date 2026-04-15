@@ -1,0 +1,59 @@
+{
+  "question_id": "20741",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1146714",
+    "http://www.wikidata.org/entity/Q28670228"
+  ],
+  "gold_path": {
+    "question_id": "20741",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1146714",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q486761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1146714",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q162875"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28670228",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q486761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28670228",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q162875"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146714",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146714",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-09-17T20:30:36Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146714",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146714",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/TUNISIA%20DOUGGA%20MAUSOLEE%20LIBYCO%20PUNIQUE%20001.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146714",
+      "predicate": "http://www.wikidata.org/prop/direct/P186",
+      "object": "http://www.wikidata.org/entity/Q23757"
+    }
+  ]
+}

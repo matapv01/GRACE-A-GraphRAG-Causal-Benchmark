@@ -1,0 +1,43 @@
+{
+  "question_id": "4815",
+  "answers": [
+    "2000-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4815",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47243",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q47243-DEB41B14-86DC-40E1-A093-CC0DECB1ED12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47243-DEB41B14-86DC-40E1-A093-CC0DECB1ED12",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1095574"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47243-DEB41B14-86DC-40E1-A093-CC0DECB1ED12",
+        "predicate": "pq:P585",
+        "object": "2000-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47243",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jelinek"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47243",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "耶利内克"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47243",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Эльфри́да Е́линек"
+    }
+  ]
+}

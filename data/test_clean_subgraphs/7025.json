@@ -1,0 +1,53 @@
+{
+  "question_id": "7025",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1860"
+  ],
+  "gold_path": {
+    "question_id": "7025",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q846870",
+        "predicate": "http://www.wikidata.org/prop/P747",
+        "object": "http://www.wikidata.org/entity/statement/Q846870-76611da4-4da4-d5cb-6439-0d83b6f7f31c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q846870-76611da4-4da4-d5cb-6439-0d83b6f7f31c",
+        "predicate": "ps:P747",
+        "object": "http://www.wikidata.org/entity/Q42012786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q846870-76611da4-4da4-d5cb-6439-0d83b6f7f31c",
+        "predicate": "pq:P407",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q846870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Προμηθέας Δεσμώτης"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q846870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "A leláncolt Prométheusz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q846870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Prometeu înlănțuit"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q846870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Prometheus in Chains"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q846870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Prometeusz skowany"
+    }
+  ]
+}

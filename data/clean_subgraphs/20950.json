@@ -1,0 +1,70 @@
+{
+  "question_id": "20950",
+  "answers": [
+    "http://www.wikidata.org/entity/Q766",
+    "http://www.wikidata.org/entity/Q145",
+    "http://www.wikidata.org/entity/Q781"
+  ],
+  "gold_path": {
+    "question_id": "20950",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P85",
+        "object": "http://www.wikidata.org/entity/Q40807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q766",
+        "predicate": "http://www.wikidata.org/prop/direct/P85",
+        "object": "http://www.wikidata.org/entity/Q40807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q766",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q781",
+        "predicate": "http://www.wikidata.org/prop/direct/P85",
+        "object": "http://www.wikidata.org/entity/Q40807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q781",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q145",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Great Britain"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "בריטניה"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Grande-Bretagne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Bretland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ᑐᓗᐃᑦ ᓄᓈᑦ"
+    }
+  ]
+}

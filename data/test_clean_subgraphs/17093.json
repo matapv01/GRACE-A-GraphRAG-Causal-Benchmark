@@ -1,0 +1,54 @@
+{
+  "question_id": "17093",
+  "answers": [
+    "http://www.wikidata.org/entity/Q178",
+    "http://www.wikidata.org/entity/Q76605"
+  ],
+  "gold_path": {
+    "question_id": "17093",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20643977",
+        "predicate": "http://www.wikidata.org/prop/direct/P452",
+        "object": "http://www.wikidata.org/entity/Q20644003"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20644003",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q178"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20644003",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q76605"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643977",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q83405"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643977",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q6881511"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643977",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q159"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643977",
+      "predicate": "http://schema.org/description",
+      "object": "fabriek in Rusland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643977",
+      "predicate": "http://schema.org/description",
+      "object": "macaroni plant in Moscow, Russia"
+    }
+  ]
+}

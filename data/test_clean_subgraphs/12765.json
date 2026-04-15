@@ -1,0 +1,48 @@
+{
+  "question_id": "12765",
+  "answers": [
+    "http://www.wikidata.org/entity/Q674827"
+  ],
+  "gold_path": {
+    "question_id": "12765",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q525302",
+        "predicate": "http://www.wikidata.org/prop/direct/P92",
+        "object": "http://www.wikidata.org/entity/Q674827"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q674827",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q183"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q525302",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "obstruction-of-justice"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525302",
+      "predicate": "http://www.wikidata.org/prop/direct/P227",
+      "object": "4183493-8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525302",
+      "predicate": "http://www.wikidata.org/prop/direct/P279",
+      "object": "http://www.wikidata.org/entity/Q83267"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525302",
+      "predicate": "http://www.wikidata.org/prop/direct/P279",
+      "object": "http://www.wikidata.org/entity/Q569338"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525302",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "16"
+    }
+  ]
+}

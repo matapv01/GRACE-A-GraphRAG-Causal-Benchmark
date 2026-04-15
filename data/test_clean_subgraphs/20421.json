@@ -1,0 +1,81 @@
+{
+  "question_id": "20421",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1205096",
+    "http://www.wikidata.org/entity/Q97999945",
+    "http://www.wikidata.org/entity/Q10864232",
+    "http://www.wikidata.org/entity/Q1078359"
+  ],
+  "gold_path": {
+    "question_id": "20421",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q97999945",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q7313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q97999945",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10864232",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q7313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10864232",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1078359",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q7313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1078359",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1205096",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q7313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1205096",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q97999945",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-07T10:34:56Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q97999945",
+      "predicate": "http://schema.org/description",
+      "object": "1274 Yuan victory over the Kamakura Shogunate"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q97999945",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "쓰시마 전투"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q97999945",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "対馬侵攻"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q97999945",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Invasão de Tsushima"
+    }
+  ]
+}

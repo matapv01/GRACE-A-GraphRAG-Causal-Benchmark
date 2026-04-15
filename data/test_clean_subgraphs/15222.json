@@ -1,0 +1,48 @@
+{
+  "question_id": "15222",
+  "answers": [
+    "http://www.wikidata.org/entity/Q180377"
+  ],
+  "gold_path": {
+    "question_id": "15222",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1884921",
+        "predicate": "http://www.wikidata.org/prop/direct/P144",
+        "object": "http://www.wikidata.org/entity/Q677978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q677978",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q180377"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1884921",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/032jw4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1884921",
+      "predicate": "http://www.wikidata.org/prop/direct/P2638",
+      "object": "movies/lady-in-the-lake"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1884921",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q1884921-2534B3AD-2FB9-4ED2-83B7-B6707AB521EC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1884921",
+      "predicate": "http://www.wikidata.org/prop/direct/P2631",
+      "object": "80661"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1884921",
+      "predicate": "http://www.wikidata.org/prop/direct/P58",
+      "object": "http://www.wikidata.org/entity/Q180377"
+    }
+  ]
+}

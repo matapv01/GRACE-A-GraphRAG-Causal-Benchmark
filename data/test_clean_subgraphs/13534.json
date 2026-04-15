@@ -1,0 +1,43 @@
+{
+  "question_id": "13534",
+  "answers": [
+    "http://www.wikidata.org/entity/Q64"
+  ],
+  "gold_path": {
+    "question_id": "13534",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q75786",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q64"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q64",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q1684"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q75786",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Бернштейн, Эдуард"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75786",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bernstein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75786",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ئێدوارد بەرنستێن"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75786",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Έντουαρντ Μπερνστάιν"
+    }
+  ]
+}

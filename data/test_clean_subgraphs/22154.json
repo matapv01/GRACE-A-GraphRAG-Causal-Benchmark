@@ -1,0 +1,48 @@
+{
+  "question_id": "22154",
+  "answers": [
+    "http://www.wikidata.org/entity/Q81938"
+  ],
+  "gold_path": {
+    "question_id": "22154",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q130336",
+        "predicate": "http://www.wikidata.org/prop/direct/P2175",
+        "object": "http://www.wikidata.org/entity/Q81938"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q81938",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q60539481"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q130336",
+      "predicate": "http://schema.org/description",
+      "object": "composto chimico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q130336",
+      "predicate": "http://schema.org/description",
+      "object": "composé chimique"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q130336",
+      "predicate": "http://schema.org/description",
+      "object": "chemická sloučenina"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q130336",
+      "predicate": "http://schema.org/description",
+      "object": "compositum chemicum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q130336",
+      "predicate": "http://schema.org/description",
+      "object": "chemische verbinding"
+    }
+  ]
+}

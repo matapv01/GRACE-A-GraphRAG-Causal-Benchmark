@@ -1,0 +1,43 @@
+{
+  "question_id": "20930",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5151401"
+  ],
+  "gold_path": {
+    "question_id": "20930",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5151401",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q215506"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5151401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q526877"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5151401",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "10"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5151401",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Comedians auf Kaffeefahrt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5151401",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Comedians in Cars Getting Coffee"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5151401",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Koomikoita, kaaroja ja kahvia"
+    }
+  ]
+}

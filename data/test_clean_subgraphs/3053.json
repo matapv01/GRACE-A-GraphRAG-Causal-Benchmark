@@ -1,0 +1,64 @@
+{
+  "question_id": "3053",
+  "answers": [
+    "http://www.wikidata.org/entity/Q313",
+    "http://www.wikidata.org/entity/Q308"
+  ],
+  "gold_path": {
+    "question_id": "3053",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q308",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3901935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308",
+        "predicate": "http://www.wikidata.org/prop/direct/P1096",
+        "object": "0.20563593"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q308",
+        "predicate": "http://www.wikidata.org/prop/direct/P361",
+        "object": "http://www.wikidata.org/entity/Q7879772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q313",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3901935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q313",
+        "predicate": "http://www.wikidata.org/prop/direct/P1096",
+        "object": "0.00677672"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q313",
+        "predicate": "http://www.wikidata.org/prop/direct/P361",
+        "object": "http://www.wikidata.org/entity/Q7879772"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q308",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T20:32:11Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q308",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hermes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q308",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mercurio"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q308",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Merkur"
+    }
+  ]
+}

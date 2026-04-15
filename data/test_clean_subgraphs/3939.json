@@ -1,0 +1,59 @@
+{
+  "question_id": "3939",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15253460",
+    "http://www.wikidata.org/entity/Q17112655"
+  ],
+  "gold_path": {
+    "question_id": "3939",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242625",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q242625-516CFF89-0A9B-4735-9F3C-B55546852FB3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242625-516CFF89-0A9B-4735-9F3C-B55546852FB3",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q17112655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242625",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q242625-9AD1814E-5DB8-43F0-9566-04EC9B774AB1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242625-9AD1814E-5DB8-43F0-9566-04EC9B774AB1",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q15253460"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q242625",
+      "predicate": "http://www.wikidata.org/prop/P8189",
+      "object": "http://www.wikidata.org/entity/statement/Q242625-81CC7EDB-0B64-43BE-B482-7099C62043B3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242625",
+      "predicate": "http://www.wikidata.org/prop/P9984",
+      "object": "http://www.wikidata.org/entity/statement/q242625-92c28dfb-46de-01dc-a2c7-c73e9d501b0e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242625",
+      "predicate": "http://www.wikidata.org/prop/P10832",
+      "object": "http://www.wikidata.org/entity/statement/Q242625-917506E1-7498-4025-973A-755E8D867337"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242625",
+      "predicate": "http://www.wikidata.org/prop/P108",
+      "object": "http://www.wikidata.org/entity/statement/Q242625-467DC677-2B56-4D34-8610-E4CF937BF283"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242625",
+      "predicate": "http://www.wikidata.org/prop/P108",
+      "object": "http://www.wikidata.org/entity/statement/Q242625-BA6513D3-99C3-4E0A-A30E-C75C4DBB8416"
+    }
+  ]
+}

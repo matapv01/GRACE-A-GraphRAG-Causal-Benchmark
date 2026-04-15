@@ -1,0 +1,48 @@
+{
+  "question_id": "9086",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1067943"
+  ],
+  "gold_path": {
+    "question_id": "9086",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151759",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q151759-e4d28531-4e9c-6823-a073-37adf28fa551"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q151759-e4d28531-4e9c-6823-a073-37adf28fa551",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q1067943"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151759",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "67"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151759",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Шинкель, Карл Фридрих"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151759",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Шинкел"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151759",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Friedrich Schinkel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151759",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Carl Friedrich Schinkel"
+    }
+  ]
+}

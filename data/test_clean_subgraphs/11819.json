@@ -1,0 +1,48 @@
+{
+  "question_id": "11819",
+  "answers": [
+    "http://www.wikidata.org/entity/Q541755"
+  ],
+  "gold_path": {
+    "question_id": "11819",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051869",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q541755"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q541755",
+        "predicate": "http://www.wikidata.org/prop/direct/P25",
+        "object": "http://www.wikidata.org/entity/Q235644"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Plàtan Cavendish"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Cavendish"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Cavendish banana"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Banana Cavendish"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051869",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "موز کاوندیش"
+    }
+  ]
+}

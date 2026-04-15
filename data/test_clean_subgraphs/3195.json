@@ -1,0 +1,69 @@
+{
+  "question_id": "3195",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28",
+    "http://www.wikidata.org/entity/Q954"
+  ],
+  "gold_path": {
+    "question_id": "3195",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q123480"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28",
+        "predicate": "http://www.wikidata.org/prop/direct/P3270",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q954",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q123480"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q954",
+        "predicate": "http://www.wikidata.org/prop/direct/P3270",
+        "object": "6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q954",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q403"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-13T10:22:30Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Magyar Köztársaság"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "สาธารณรัฐฮังการี"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Majar"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "HU"
+    }
+  ]
+}

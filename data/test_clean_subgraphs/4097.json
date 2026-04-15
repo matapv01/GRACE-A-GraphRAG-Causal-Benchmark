@@ -1,0 +1,48 @@
+{
+  "question_id": "4097",
+  "answers": [
+    "20367"
+  ],
+  "gold_path": {
+    "question_id": "4097",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25287",
+        "predicate": "http://www.wikidata.org/prop/P2046",
+        "object": "http://www.wikidata.org/entity/statement/Q25287-30668bee-4c63-8f3b-a995-c076ffd4b909"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25287-30668bee-4c63-8f3b-a995-c076ffd4b909",
+        "predicate": "ps:P2046",
+        "object": "20367"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25287",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-08T10:53:30Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "R27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Göteborg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "GBG"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "イェーテボリ"
+    }
+  ]
+}

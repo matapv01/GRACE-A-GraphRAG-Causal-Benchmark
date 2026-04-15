@@ -1,0 +1,59 @@
+{
+  "question_id": "7309",
+  "answers": [
+    "http://www.wikidata.org/entity/Q898527",
+    "http://www.wikidata.org/entity/Q607354"
+  ],
+  "gold_path": {
+    "question_id": "7309",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q298761",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q298761-0DDF85CA-95AB-49D5-9727-FA0FF7527D52"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q298761-0DDF85CA-95AB-49D5-9727-FA0FF7527D52",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q607354"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q298761",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q298761-18D13C5C-1F09-4D68-8706-B100001705A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q298761-18D13C5C-1F09-4D68-8706-B100001705A6",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q898527"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q298761",
+      "predicate": "http://www.wikidata.org/prop/direct/P8851",
+      "object": "987239"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298761",
+      "predicate": "http://www.wikidata.org/prop/direct/P8849",
+      "object": "25070181"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298761",
+      "predicate": "http://www.wikidata.org/prop/direct/P8504",
+      "object": "Clive_Barker"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298761",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://www.clivebarker.info/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298761",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007571825005171"
+    }
+  ]
+}

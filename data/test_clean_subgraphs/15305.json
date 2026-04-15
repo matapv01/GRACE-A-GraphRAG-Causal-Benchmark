@@ -1,0 +1,48 @@
+{
+  "question_id": "15305",
+  "answers": [
+    "http://www.wikidata.org/entity/Q207858"
+  ],
+  "gold_path": {
+    "question_id": "15305",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44291408",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q459939"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q459939",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q207858"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44291408",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2018-05-09T09:54:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44291408",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sword%20handle-MA%201748-IMG%208914-gradient.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44291408",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q44291408-b35f6045-410c-c6bf-d197-f1c69e25080f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44291408",
+      "predicate": "http://www.wikidata.org/prop/direct/P186",
+      "object": "http://www.wikidata.org/entity/Q287"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44291408",
+      "predicate": "http://www.wikidata.org/prop/direct/P186",
+      "object": "http://www.wikidata.org/entity/Q1090"
+    }
+  ]
+}

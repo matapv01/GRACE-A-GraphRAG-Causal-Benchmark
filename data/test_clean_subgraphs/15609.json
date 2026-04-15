@@ -1,0 +1,66 @@
+{
+  "question_id": "15609",
+  "answers": [
+    "http://www.wikidata.org/entity/Q733498",
+    "http://www.wikidata.org/entity/Q669481",
+    "http://www.wikidata.org/entity/Q3129064",
+    "http://www.wikidata.org/entity/Q4037480"
+  ],
+  "gold_path": {
+    "question_id": "15609",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3129064",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q1016880"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1016880",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q669481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1016880",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q733498"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1016880",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q3129064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1016880",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q4037480"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3129064",
+      "predicate": "http://www.wikidata.org/prop/direct/P1476",
+      "object": "HEAT -灼熱-"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3129064",
+      "predicate": "http://www.wikidata.org/prop/direct/P407",
+      "object": "http://www.wikidata.org/entity/Q5287"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3129064",
+      "predicate": "http://www.wikidata.org/prop/direct/P4087",
+      "object": "3928"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3129064",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0bjmkl"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3129064",
+      "predicate": "http://www.wikidata.org/prop/direct/P1984",
+      "object": "2541"
+    }
+  ]
+}

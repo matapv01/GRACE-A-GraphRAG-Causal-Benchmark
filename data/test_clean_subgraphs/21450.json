@@ -1,0 +1,48 @@
+{
+  "question_id": "21450",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28017833"
+  ],
+  "gold_path": {
+    "question_id": "21450",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q15193",
+        "predicate": "http://www.wikidata.org/prop/direct/P1299",
+        "object": "http://www.wikidata.org/entity/Q28017833"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28017833",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3305213"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q15193",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "亚历山大一世"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15193",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "亞歷山大一世"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15193",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Aleksander I van Rusland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15193",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "የሩሲያው አሌክሳንደር I"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15193",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Aleixandre I de Rusia"
+    }
+  ]
+}

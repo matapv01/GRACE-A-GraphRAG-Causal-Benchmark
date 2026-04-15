@@ -1,0 +1,112 @@
+{
+  "question_id": "3502",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2307278",
+    "http://www.wikidata.org/entity/Q2307725",
+    "http://www.wikidata.org/entity/Q18631076",
+    "http://www.wikidata.org/entity/Q2307477",
+    "http://www.wikidata.org/entity/Q18413109"
+  ],
+  "gold_path": {
+    "question_id": "3502",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18413109",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q13601825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18413109",
+        "predicate": "http://www.wikidata.org/prop/direct/P2663",
+        "object": "11.41"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18413109",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1360672"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307725",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q13601825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307725",
+        "predicate": "http://www.wikidata.org/prop/direct/P2663",
+        "object": "11.53"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307725",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1360672"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307278",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q13601825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307278",
+        "predicate": "http://www.wikidata.org/prop/direct/P2663",
+        "object": "11.57"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307278",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1360672"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18631076",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q13601825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18631076",
+        "predicate": "http://www.wikidata.org/prop/direct/P2663",
+        "object": "11.63"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18631076",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1360672"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307477",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q13601825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307477",
+        "predicate": "http://www.wikidata.org/prop/direct/P2663",
+        "object": "12.06"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2307477",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1360672"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18413109",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sparkasse Attendorn-Lennestadt-Kirchhundem"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18413109",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/237072651"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18413109",
+      "predicate": "http://schema.org/version",
+      "object": "2340042591"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18413109",
+      "predicate": "http://schema.org/description",
+      "object": "öffentlich-rechtliche Sparkasse mit Sitz in Attendorn im Kreis Olpe"
+    }
+  ]
+}

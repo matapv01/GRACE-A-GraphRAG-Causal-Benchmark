@@ -1,0 +1,53 @@
+{
+  "question_id": "11031",
+  "answers": [
+    "http://www.wikidata.org/entity/Q849697"
+  ],
+  "gold_path": {
+    "question_id": "11031",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41749",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q41749-38c29668-48e2-7f50-5eca-775850869dcb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41749-38c29668-48e2-7f50-5eca-775850869dcb",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q151510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41749-38c29668-48e2-7f50-5eca-775850869dcb",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q849697"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41749",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Joseph Goebbels"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41749",
+      "predicate": "http://www.wikidata.org/prop/direct/P2639",
+      "object": "1b40d65f0c79419e9d1da25fcd31e3b5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41749",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "CFIV033083"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41749",
+      "predicate": "http://www.wikidata.org/prop/direct/P512",
+      "object": "http://www.wikidata.org/entity/Q849697"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41749",
+      "predicate": "http://www.wikidata.org/prop/direct/P2163",
+      "object": "42683"
+    }
+  ]
+}

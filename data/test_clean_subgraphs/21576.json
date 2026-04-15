@@ -1,0 +1,59 @@
+{
+  "question_id": "21576",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16155634",
+    "http://www.wikidata.org/entity/Q3459457"
+  ],
+  "gold_path": {
+    "question_id": "21576",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40640",
+        "predicate": "http://www.wikidata.org/prop/direct/P1455",
+        "object": "http://www.wikidata.org/entity/Q3459457"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3459457",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1631107"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40640",
+        "predicate": "http://www.wikidata.org/prop/direct/P1455",
+        "object": "http://www.wikidata.org/entity/Q16155634"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16155634",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1631107"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40640",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q40640-21D57B9E-33B8-474A-AE21-4D657C87B22C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40640",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q40640-981AA986-DFB7-457D-839F-3E7FC01DFA43"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40640",
+      "predicate": "http://www.wikidata.org/prop/P140",
+      "object": "http://www.wikidata.org/entity/statement/Q40640-D6A27D8E-EFD5-4724-86E2-2A9C9CABEA27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40640",
+      "predicate": "http://www.wikidata.org/prop/direct/P409",
+      "object": "35021120"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40640",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "CFIV007830"
+    }
+  ]
+}

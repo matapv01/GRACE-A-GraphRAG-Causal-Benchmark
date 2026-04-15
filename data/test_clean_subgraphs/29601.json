@@ -1,0 +1,75 @@
+{
+  "question_id": "29601",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1343007",
+    "http://www.wikidata.org/entity/Q1136507",
+    "http://www.wikidata.org/entity/Q1112687",
+    "http://www.wikidata.org/entity/Q2819385",
+    "http://www.wikidata.org/entity/Q163829",
+    "http://www.wikidata.org/entity/Q5994",
+    "http://www.wikidata.org/entity/Q11405",
+    "http://www.wikidata.org/entity/Q901207"
+  ],
+  "gold_path": {
+    "question_id": "29601",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q5994"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q11405"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q163829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q901207"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q1112687"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q1136507"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q1343007"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105875",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q2819385"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105875",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Herbert Jeffrey Hancock"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105875",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Хърбърт Ханкок"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105875",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Herbie Hankock"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "27201",
+  "answers": [
+    "http://www.wikidata.org/entity/Q623138"
+  ],
+  "gold_path": {
+    "question_id": "27201",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q79015",
+        "predicate": "http://www.wikidata.org/prop/direct/P1165",
+        "object": "http://www.wikidata.org/entity/Q623138"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q79015",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Supermann"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79015",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Super Homem"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79015",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Super-Homem"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79015",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Clark Kent"
+    }
+  ]
+}

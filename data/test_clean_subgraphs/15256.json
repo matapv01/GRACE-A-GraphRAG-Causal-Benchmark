@@ -1,0 +1,59 @@
+{
+  "question_id": "15256",
+  "answers": [
+    "http://www.wikidata.org/entity/Q694",
+    "http://www.wikidata.org/entity/Q1202"
+  ],
+  "gold_path": {
+    "question_id": "15256",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1449452",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q1731"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1731",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q1202"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1449452",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q43631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43631",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q694"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1449452",
+      "predicate": "http://www.wikidata.org/prop/P434",
+      "object": "http://www.wikidata.org/entity/statement/Q1449452-3BF5A7D1-816C-487D-B554-935E41B80E5B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1449452",
+      "predicate": "http://www.wikidata.org/prop/P396",
+      "object": "http://www.wikidata.org/entity/statement/Q1449452-86AB8D78-E245-458C-8387-109AEF2363F5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1449452",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q1449452-AD48F011-9546-4C9D-8D44-CAACE791EFC0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1449452",
+      "predicate": "http://www.wikidata.org/prop/direct/P434",
+      "object": "2ca78fe5-5683-48ed-8102-0dbbb2731efd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1449452",
+      "predicate": "http://www.wikidata.org/prop/P13049",
+      "object": "http://www.wikidata.org/entity/statement/Q1449452-1D851781-E079-419D-9B16-0876F6A364D9"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "7583",
+  "answers": [
+    "19"
+  ],
+  "gold_path": {
+    "question_id": "7583",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1057199",
+        "predicate": "http://www.wikidata.org/prop/P488",
+        "object": "http://www.wikidata.org/entity/statement/Q1057199-4631390b-4314-5575-058c-738a9b586f4a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1057199-4631390b-4314-5575-058c-738a9b586f4a",
+        "predicate": "ps:P488",
+        "object": "http://www.wikidata.org/entity/Q47536230"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1057199-4631390b-4314-5575-058c-738a9b586f4a",
+        "predicate": "pq:P1545",
+        "object": "19"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1057199",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hokkaidó daigaku"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1057199",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Univerzita Hokkaidó"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1057199",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hokkaido universitet"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1057199",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hokkaidō Daigaku"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1057199",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hokkaido University"
+    }
+  ]
+}

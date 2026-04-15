@@ -1,0 +1,48 @@
+{
+  "question_id": "17248",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3239179"
+  ],
+  "gold_path": {
+    "question_id": "17248",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q46231801",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q5113"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5113",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q3239179"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q46231801",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46231801",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46231801",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Fantastic bird-MG 17727"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46231801",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "19"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46231801",
+      "predicate": "http://schema.org/description",
+      "object": "Bas-relief of a fantastic bird"
+    }
+  ]
+}

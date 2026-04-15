@@ -1,0 +1,81 @@
+{
+  "question_id": "24383",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2842963",
+    "http://www.wikidata.org/entity/Q69123833",
+    "http://www.wikidata.org/entity/Q655189",
+    "http://www.wikidata.org/entity/Q9163"
+  ],
+  "gold_path": {
+    "question_id": "24383",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9163",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2728698"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9163",
+        "predicate": "rdfs:label",
+        "object": "polytheism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q655189",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2728698"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q655189",
+        "predicate": "rdfs:label",
+        "object": "prosperity theology"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2842963",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2728698"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2842963",
+        "predicate": "rdfs:label",
+        "object": "photon belt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q69123833",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2728698"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q69123833",
+        "predicate": "rdfs:label",
+        "object": "pacha"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9163",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q9163-8dccef6a-4a4a-5a62-af1d-6d0eea0dc2cc"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9163",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Zucchi%20-%20The%20Assembly%20of%20the%20Gods%20-%20WGA26036.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9163",
+      "predicate": "http://www.wikidata.org/prop/P920",
+      "object": "http://www.wikidata.org/entity/statement/Q9163-ACB95C46-D185-4E20-A40B-C839D27F9701"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9163",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4175322-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9163",
+      "predicate": "http://www.wikidata.org/prop/P3365",
+      "object": "http://www.wikidata.org/entity/statement/Q9163-572FD00E-BD91-4CF9-9ADA-3B2B0C740227"
+    }
+  ]
+}

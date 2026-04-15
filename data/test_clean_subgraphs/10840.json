@@ -1,0 +1,53 @@
+{
+  "question_id": "10840",
+  "answers": [
+    "2010-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10840",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42229",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/Q42229-245AFAC7-C76C-419A-9FE1-4FD18794C2F3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42229-245AFAC7-C76C-419A-9FE1-4FD18794C2F3",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q4149360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42229-245AFAC7-C76C-419A-9FE1-4FD18794C2F3",
+        "predicate": "pq:P582",
+        "object": "2010-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42229-245AFAC7-C76C-419A-9FE1-4FD18794C2F3",
+        "predicate": "pq:P580",
+        "object": "2009-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42229",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Мэл Гибсон"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42229",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mel Colm-Cille Gerard Gibson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42229",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ميل جبسون"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42229",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ميل غبسون"
+    }
+  ]
+}

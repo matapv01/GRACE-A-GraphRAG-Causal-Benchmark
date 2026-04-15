@@ -1,0 +1,53 @@
+{
+  "question_id": "5735",
+  "answers": [
+    "1974-10-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5735",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1009",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q1009-0E7DEFC3-F83B-4E4E-B62F-07B244968F88"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1009-0E7DEFC3-F83B-4E4E-B62F-07B244968F88",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q656801"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1009-0E7DEFC3-F83B-4E4E-B62F-07B244968F88",
+        "predicate": "pq:P580",
+        "object": "1974-10-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1009",
+      "predicate": "http://www.wikidata.org/prop/direct/P36",
+      "object": "http://www.wikidata.org/entity/Q3808"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1009",
+      "predicate": "http://www.wikidata.org/prop/direct/P85",
+      "object": "http://www.wikidata.org/entity/Q206429"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1009",
+      "predicate": "http://www.wikidata.org/prop/direct/P209",
+      "object": "http://www.wikidata.org/entity/Q136989"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1009",
+      "predicate": "http://www.wikidata.org/prop/direct/P35",
+      "object": "http://www.wikidata.org/entity/Q57272"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1009",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "312"
+    }
+  ]
+}

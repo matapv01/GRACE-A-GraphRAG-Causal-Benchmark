@@ -1,0 +1,48 @@
+{
+  "question_id": "17375",
+  "answers": [
+    "日本語"
+  ],
+  "gold_path": {
+    "question_id": "17375",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q295073",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1705",
+        "object": "日本語"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q295073",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "נוריאקי קובו"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295073",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kubo Tite"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295073",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "久保宜章"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295073",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "쿠보 타이토"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295073",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kubo Taito"
+    }
+  ]
+}

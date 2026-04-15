@@ -1,0 +1,62 @@
+{
+  "question_id": "16130",
+  "answers": [
+    "http://www.wikidata.org/entity/Q193355",
+    "http://www.wikidata.org/entity/Q1344",
+    "http://www.wikidata.org/entity/Q217467",
+    "http://www.wikidata.org/entity/Q49451",
+    "http://www.wikidata.org/entity/Q206159"
+  ],
+  "gold_path": {
+    "question_id": "16130",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2557146",
+        "predicate": "http://www.wikidata.org/prop/direct/P676",
+        "object": "http://www.wikidata.org/entity/Q180861"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180861",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q1344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180861",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q49451"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180861",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q193355"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180861",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q206159"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180861",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q217467"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2557146",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Show"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2557146",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "In the Flesh (cantar de Pink Floyd)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2557146",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "In the Flesh"
+    }
+  ]
+}

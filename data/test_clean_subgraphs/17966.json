@@ -1,0 +1,59 @@
+{
+  "question_id": "17966",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3965313",
+    "http://www.wikidata.org/entity/Q164280"
+  ],
+  "gold_path": {
+    "question_id": "17966",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q103237",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q511893"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q511893",
+        "predicate": "http://www.wikidata.org/prop/direct/P105",
+        "object": "http://www.wikidata.org/entity/Q3965313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q103237",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q33141205"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33141205",
+        "predicate": "http://www.wikidata.org/prop/direct/P105",
+        "object": "http://www.wikidata.org/entity/Q164280"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q103237",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103237",
+      "predicate": "http://www.wikidata.org/prop/direct/P838",
+      "object": "32372"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103237",
+      "predicate": "http://www.wikidata.org/prop/P838",
+      "object": "http://www.wikidata.org/entity/statement/Q103237-428f21f3-46e2-1a13-1005-0a958c2b7c14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103237",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "decouverte-du-premier-australopitheque"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103237",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q103237-A61F2DF2-9B1B-41A6-9B40-C31FA5578EB2"
+    }
+  ]
+}

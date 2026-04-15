@@ -1,0 +1,79 @@
+{
+  "question_id": "14275",
+  "answers": [
+    "http://www.wikidata.org/entity/Q414",
+    "http://www.wikidata.org/entity/Q183"
+  ],
+  "gold_path": {
+    "question_id": "14275",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q450675",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q895645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q895645",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q183"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450675",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q16827357"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16827357",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450675",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q16911644"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16911644",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q450675",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q16935366"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16935366",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q414"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q450675",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Francis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q450675",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Francesco"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q450675",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Francisco"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q450675",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ഫ്രാൻസിസ്"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q450675",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Franciscus"
+    }
+  ]
+}

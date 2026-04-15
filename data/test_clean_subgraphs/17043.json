@@ -1,0 +1,59 @@
+{
+  "question_id": "17043",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1176353",
+    "http://www.wikidata.org/entity/Q328718"
+  ],
+  "gold_path": {
+    "question_id": "17043",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21535888",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q262431"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q262431",
+        "predicate": "http://www.wikidata.org/prop/direct/P3300",
+        "object": "http://www.wikidata.org/entity/Q328718"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21535888",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q1506501"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1506501",
+        "predicate": "http://www.wikidata.org/prop/direct/P3300",
+        "object": "http://www.wikidata.org/entity/Q1176353"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21535888",
+      "predicate": "http://schema.org/version",
+      "object": "2409554246"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21535888",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-09-26T11:59:28Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21535888",
+      "predicate": "http://schema.org/description",
+      "object": "dirigent"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21535888",
+      "predicate": "http://schema.org/description",
+      "object": "(1857-1935) musician and music teacher"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21535888",
+      "predicate": "http://www.wikidata.org/prop/direct/P463",
+      "object": "http://www.wikidata.org/entity/Q3305373"
+    }
+  ]
+}

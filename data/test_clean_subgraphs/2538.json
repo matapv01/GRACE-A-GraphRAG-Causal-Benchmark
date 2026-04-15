@@ -1,0 +1,86 @@
+{
+  "question_id": "2538",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17",
+    "http://www.wikidata.org/entity/Q884",
+    "http://www.wikidata.org/entity/Q869",
+    "http://www.wikidata.org/entity/Q43"
+  ],
+  "gold_path": {
+    "question_id": "2538",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q884",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q884",
+        "predicate": "http://www.wikidata.org/prop/direct/P2998",
+        "object": "40"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P2998",
+        "object": "30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P2998",
+        "object": "25"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43",
+        "predicate": "http://www.wikidata.org/prop/direct/P2998",
+        "object": "25"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q869",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q869",
+        "predicate": "http://www.wikidata.org/prop/direct/P2998",
+        "object": "25"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q884",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T15:09:24Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q884",
+      "predicate": "http://schema.org/version",
+      "object": "2480320827"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q884",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Corea del Sur"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q884",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Corea del Sud"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q884",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Corée du Sud"
+    }
+  ]
+}

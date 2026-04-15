@@ -1,0 +1,48 @@
+{
+  "question_id": "12059",
+  "answers": [
+    "http://www.wikidata.org/entity/Q187241"
+  ],
+  "gold_path": {
+    "question_id": "12059",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14672",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q187241"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q187241",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q3268828"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14672",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "49"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14672",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "лінза Фрэнэля"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14672",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Fresnelen leiar"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14672",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Fresnelen lente"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14672",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Frenela lēcas"
+    }
+  ]
+}

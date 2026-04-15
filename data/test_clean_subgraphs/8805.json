@@ -1,0 +1,69 @@
+{
+  "question_id": "8805",
+  "answers": [
+    "http://www.wikidata.org/entity/Q508426",
+    "http://www.wikidata.org/entity/Q508601"
+  ],
+  "gold_path": {
+    "question_id": "8805",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18994",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q18994-246AAF92-F6C4-45D4-AB32-17ADA2B30AA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q18994-246AAF92-F6C4-45D4-AB32-17ADA2B30AA8",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q18994-246AAF92-F6C4-45D4-AB32-17ADA2B30AA8",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q508601"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18994",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q18994-D1BC366E-B140-4FA6-8BBD-4FA97D23F675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q18994-D1BC366E-B140-4FA6-8BBD-4FA97D23F675",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q18994-D1BC366E-B140-4FA6-8BBD-4FA97D23F675",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q508426"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18994",
+      "predicate": "http://www.wikidata.org/prop/direct/P8974",
+      "object": "a/5b9f4c89-55a3-41c5-be12-7bcf8f2766dd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18994",
+      "predicate": "http://www.wikidata.org/prop/P8974",
+      "object": "http://www.wikidata.org/entity/statement/Q18994-0588C8EB-91EC-4CEB-9DB9-655BCB713C25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18994",
+      "predicate": "http://www.wikidata.org/prop/direct/P1889",
+      "object": "http://www.wikidata.org/entity/Q775668"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18994",
+      "predicate": "http://www.wikidata.org/prop/direct/P4768",
+      "object": "226111"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18994",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8974",
+      "object": "http://data.performing-arts.ch/a/5b9f4c89-55a3-41c5-be12-7bcf8f2766dd"
+    }
+  ]
+}

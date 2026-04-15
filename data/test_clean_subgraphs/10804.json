@@ -1,0 +1,58 @@
+{
+  "question_id": "10804",
+  "answers": [
+    "1990-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10804",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12057690",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q12057690-c72062bf-49ae-07ec-9f9c-c05182312130"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q12057690-c72062bf-49ae-07ec-9f9c-c05182312130",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q2302311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q12057690-c72062bf-49ae-07ec-9f9c-c05182312130",
+        "predicate": "pq:P585",
+        "object": "1990-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q12057690-c72062bf-49ae-07ec-9f9c-c05182312130",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q163727"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12057690",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Guy-Fieri-1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12057690",
+      "predicate": "http://www.wikidata.org/prop/P2397",
+      "object": "http://www.wikidata.org/entity/statement/Q12057690-95ff8faf-45c0-8601-50ea-545ddd2512f2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12057690",
+      "predicate": "http://www.wikidata.org/prop/direct/P2397",
+      "object": "UCJ0ce4YSzxK01tA7Ma5SYlA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12057690",
+      "predicate": "http://www.wikidata.org/prop/direct/P2522",
+      "object": "http://www.wikidata.org/entity/Q5465347"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12057690",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q12057690-CF18750F-C18D-4B66-8BAC-41D290E4D280"
+    }
+  ]
+}

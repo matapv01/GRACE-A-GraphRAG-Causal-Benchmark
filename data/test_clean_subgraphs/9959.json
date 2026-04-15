@@ -1,0 +1,84 @@
+{
+  "question_id": "9959",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4683650",
+    "http://www.wikidata.org/entity/Q7260364",
+    "http://www.wikidata.org/entity/Q55606211",
+    "http://www.wikidata.org/entity/Q5632793",
+    "http://www.wikidata.org/entity/Q6991110",
+    "http://www.wikidata.org/entity/Q4801940",
+    "http://www.wikidata.org/entity/Q5326337"
+  ],
+  "gold_path": {
+    "question_id": "9959",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q4683650"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q4801940"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q5326337"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q5632793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q6991110"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q7260364"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83164",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q55606211"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q83164",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q83164-68695196-A3E8-4031-ADE4-A9714292A098"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83164",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q83164-E525D0FB-70C2-4506-96A8-6B23509E7458"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83164",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20British%20East%20India%20Company%20%281801%29.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83164",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/British%20East%20India%20Company%20flag.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83164",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20British%20East%20India%20Company%20%281707%29.svg"
+    }
+  ]
+}

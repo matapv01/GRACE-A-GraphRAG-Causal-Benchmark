@@ -1,0 +1,48 @@
+{
+  "question_id": "17174",
+  "answers": [
+    "http://www.wikidata.org/entity/Q20751699"
+  ],
+  "gold_path": {
+    "question_id": "17174",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4712",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q7003"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7003",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20751699"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4712",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Borgoña"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4712",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Boergonje"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4712",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bourgondië"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4712",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Бургундия"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4712",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Бургундыя"
+    }
+  ]
+}

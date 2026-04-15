@@ -1,0 +1,43 @@
+{
+  "question_id": "23688",
+  "answers": [
+    "http://www.wikidata.org/entity/Q189246"
+  ],
+  "gold_path": {
+    "question_id": "23688",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189246",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q200538"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189246",
+        "predicate": "rdfs:label",
+        "object": "Zeltkirmes"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189246",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189246",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189246",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q151885"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189246",
+      "predicate": "http://www.wikidata.org/prop/direct/P1269",
+      "object": "http://www.wikidata.org/entity/Q188"
+    }
+  ]
+}

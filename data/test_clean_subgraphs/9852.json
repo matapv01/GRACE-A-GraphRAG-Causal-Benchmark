@@ -1,0 +1,53 @@
+{
+  "question_id": "9852",
+  "answers": [
+    "http://www.wikidata.org/entity/Q188"
+  ],
+  "gold_path": {
+    "question_id": "9852",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q111502",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q188"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q111502",
+        "predicate": "http://www.wikidata.org/prop/direct/P747",
+        "object": "http://www.wikidata.org/entity/Q60390486"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q111502",
+        "predicate": "http://www.wikidata.org/prop/direct/P747",
+        "object": "http://www.wikidata.org/entity/Q102274567"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q111502",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/011_hh"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111502",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pied%20Piper2.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111502",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n79060220"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111502",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Szczurołap z Hameln"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111502",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rattenvanger van Hamelen"
+    }
+  ]
+}

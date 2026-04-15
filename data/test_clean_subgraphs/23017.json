@@ -1,0 +1,59 @@
+{
+  "question_id": "23017",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6521136",
+    "http://www.wikidata.org/entity/Q6537220"
+  ],
+  "gold_path": {
+    "question_id": "23017",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q505802",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q6521136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6521136",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q133056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q505802",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q6537220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6537220",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q133056"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/description",
+      "object": "spedizione via terra alla west-coast americana (1804)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/description",
+      "object": "Amerikaanse oorland ekspedisie na die Stille Oseaan-kus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/description",
+      "object": "أول استكشاف قامت به حكومة الولايات المتحدة لمناطق الفيافي الواسعة في شمال غربي البلاد"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/description",
+      "object": "амэрыканская экспэдыцыя да ціхаакіянскага ўзьбярэжжа"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q505802",
+      "predicate": "http://schema.org/description",
+      "object": "historische nordamerikanische Überlandexpedition zur Pazifikküste"
+    }
+  ]
+}

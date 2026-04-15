@@ -1,0 +1,93 @@
+{
+  "question_id": "24316",
+  "answers": [
+    "http://www.wikidata.org/entity/Q25447263",
+    "http://www.wikidata.org/entity/Q106187667",
+    "http://www.wikidata.org/entity/Q7409219",
+    "http://www.wikidata.org/entity/Q19810527",
+    "http://www.wikidata.org/entity/Q20011275",
+    "http://www.wikidata.org/entity/Q89364372"
+  ],
+  "gold_path": {
+    "question_id": "24316",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7409219",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7409219",
+        "predicate": "rdfs:label",
+        "object": "same gender loving"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19810527",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19810527",
+        "predicate": "rdfs:label",
+        "object": "sexual fluidity"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25447263",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25447263",
+        "predicate": "rdfs:label",
+        "object": "sapphism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q89364372",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q89364372",
+        "predicate": "rdfs:label",
+        "object": "skoliosexuality"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20011275",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20011275",
+        "predicate": "rdfs:label",
+        "object": "sapiosexuality"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106187667",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106187667",
+        "predicate": "rdfs:label",
+        "object": "Super Straight"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7409219",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "محبة نفس الجنس"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7409219",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Same gender loving"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7409219",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "same gender loving"
+    }
+  ]
+}

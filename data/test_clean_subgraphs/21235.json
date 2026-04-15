@@ -1,0 +1,48 @@
+{
+  "question_id": "21235",
+  "answers": [
+    "http://www.wikidata.org/entity/Q751678"
+  ],
+  "gold_path": {
+    "question_id": "21235",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q751678",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q33511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q751678",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47461344"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q751678",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q751678-802BD98D-8FC0-48B4-AF7D-58A4613B6939"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751678",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q751678-1A103F72-0DD3-46DD-9183-478B51D83003"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751678",
+      "predicate": "http://www.wikidata.org/prop/P8383",
+      "object": "http://www.wikidata.org/entity/statement/Q751678-DFACA4C5-5DE8-4E6B-8B0A-3D45C83BB2D8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751678",
+      "predicate": "http://www.wikidata.org/prop/P407",
+      "object": "http://www.wikidata.org/entity/statement/Q751678-EF701138-361E-46FE-9692-BD621598B080"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q751678",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Rolling Stone Record Guide"
+    }
+  ]
+}

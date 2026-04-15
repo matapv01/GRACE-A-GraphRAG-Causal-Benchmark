@@ -1,0 +1,59 @@
+{
+  "question_id": "15939",
+  "answers": [
+    "2340921",
+    "485386"
+  ],
+  "gold_path": {
+    "question_id": "15939",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q815216",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q7525"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7525",
+        "predicate": "http://www.wikidata.org/prop/direct/P1082",
+        "object": "485386"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q815216",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q7835"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7835",
+        "predicate": "http://www.wikidata.org/prop/direct/P1082",
+        "object": "2340921"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q815216",
+      "predicate": "http://schema.org/description",
+      "object": "Schlacht des Krimkrieges"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q815216",
+      "predicate": "http://schema.org/description",
+      "object": "Olaylar"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q815216",
+      "predicate": "http://schema.org/description",
+      "object": "batalla de la Guerra de Crimea"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q815216",
+      "predicate": "http://schema.org/description",
+      "object": "1854-1855"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q815216",
+      "predicate": "http://schema.org/description",
+      "object": "bitva krymské války z let 1854 až 1855"
+    }
+  ]
+}

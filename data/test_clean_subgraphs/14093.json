@@ -1,0 +1,43 @@
+{
+  "question_id": "14093",
+  "answers": [
+    "http://www.wikidata.org/entity/Q356782"
+  ],
+  "gold_path": {
+    "question_id": "14093",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q871513",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q356782"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q871513",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Super-Mario-Bros.-Theme"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q871513",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ground Theme"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q871513",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mario theme"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q871513",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Overworld Theme"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q871513",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tema de Mario"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "question_id": "10713",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9418"
+  ],
+  "gold_path": {
+    "question_id": "10713",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q184697",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q184697-4DAD9BE5-BEED-469C-BF66-B2CD15395BAC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q184697-4DAD9BE5-BEED-469C-BF66-B2CD15395BAC",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q738258"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q184697-4DAD9BE5-BEED-469C-BF66-B2CD15395BAC",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q9418"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q184697-4DAD9BE5-BEED-469C-BF66-B2CD15395BAC",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q1765120"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q184697",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q184697-1c19b813-4ceb-7f83-d742-09f68aada92e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184697",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q184697-BEFB71B5-1941-4D1F-8E6D-5A415AF9DC58"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184697",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n90720732"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184697",
+      "predicate": "http://www.wikidata.org/prop/direct/P3430",
+      "object": "w60v91c6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184697",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q1563"
+    }
+  ]
+}

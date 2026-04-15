@@ -1,0 +1,59 @@
+{
+  "question_id": "29814",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14213",
+    "http://www.wikidata.org/entity/Q11147"
+  ],
+  "gold_path": {
+    "question_id": "29814",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q11147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11147",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q14213"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14213",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q310847",
+      "predicate": "http://www.wikidata.org/prop/direct/P4159",
+      "object": "John_Jay_(10)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310847",
+      "predicate": "http://www.wikidata.org/prop/direct/P4997",
+      "object": "https://www.nga.org/governor/john-jay/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310847",
+      "predicate": "http://www.wikidata.org/prop/direct/P5421",
+      "object": "42610"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310847",
+      "predicate": "http://www.wikidata.org/prop/direct/P8034",
+      "object": "495/167284"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310847",
+      "predicate": "http://www.wikidata.org/prop/P4997",
+      "object": "http://www.wikidata.org/entity/statement/Q310847-19411A22-43FB-407C-B098-F6F3DD42EC4A"
+    }
+  ]
+}

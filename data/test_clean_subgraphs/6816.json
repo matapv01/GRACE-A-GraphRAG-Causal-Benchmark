@@ -1,0 +1,53 @@
+{
+  "question_id": "6816",
+  "answers": [
+    "1962-03-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6816",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42807",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/q42807-9D681CE9-9B3F-437B-936C-B146FFC385F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q42807-9D681CE9-9B3F-437B-936C-B146FFC385F0",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q2773"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q42807-9D681CE9-9B3F-437B-936C-B146FFC385F0",
+        "predicate": "pq:P580",
+        "object": "1962-03-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42807",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "74"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42807",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+      "object": "http://babelnet.org/rdf/s00145960n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42807",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "nimes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42807",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1481",
+      "object": "http://vici.org/vici/2705"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42807",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "118"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "question_id": "10979",
+  "answers": [
+    "http://www.wikidata.org/entity/Q243118",
+    "http://www.wikidata.org/entity/Q316888"
+  ],
+  "gold_path": {
+    "question_id": "10979",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q209118",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q209118-0C75EF49-A1FE-4A28-AC15-162A4D41C4A4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209118-0C75EF49-A1FE-4A28-AC15-162A4D41C4A4",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209118-0C75EF49-A1FE-4A28-AC15-162A4D41C4A4",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q316888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209118-0C75EF49-A1FE-4A28-AC15-162A4D41C4A4",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q109860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q209118",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q209118-270E64FE-EE36-4FE2-895F-1B5551DE76A1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209118-270E64FE-EE36-4FE2-895F-1B5551DE76A1",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209118-270E64FE-EE36-4FE2-895F-1B5551DE76A1",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q243118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209118-270E64FE-EE36-4FE2-895F-1B5551DE76A1",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q109860"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q209118",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "60"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209118",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "115"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209118",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "clotaire-ii"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209118",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "54"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209118",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q209118-A7A595CB-C0C9-43AA-8DAA-91B275508FC0"
+    }
+  ]
+}

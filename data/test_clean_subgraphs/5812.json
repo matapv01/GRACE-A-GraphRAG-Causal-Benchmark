@@ -1,0 +1,53 @@
+{
+  "question_id": "5812",
+  "answers": [
+    "1857-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5812",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q216578",
+        "predicate": "http://www.wikidata.org/prop/P747",
+        "object": "http://www.wikidata.org/entity/statement/Q216578-7ed4822c-4e3c-edeb-2fb8-55b607f8e139"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216578-7ed4822c-4e3c-edeb-2fb8-55b607f8e139",
+        "predicate": "ps:P747",
+        "object": "http://www.wikidata.org/entity/Q18683398"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216578-7ed4822c-4e3c-edeb-2fb8-55b607f8e139",
+        "predicate": "pq:P577",
+        "object": "1857-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q216578",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kwiaty grzechu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216578",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "惡之華"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216578",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "惡之花"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216578",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Flowers of Evil"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216578",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "زهور الشر"
+    }
+  ]
+}

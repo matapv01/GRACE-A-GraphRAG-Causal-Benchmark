@@ -1,0 +1,53 @@
+{
+  "question_id": "4259",
+  "answers": [
+    "1842-05-05T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4259",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1585",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/q1585-95CC6171-440B-4BC6-B4C6-F6190E1A4FA1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1585-95CC6171-440B-4BC6-B4C6-F6190E1A4FA1",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q123885"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1585-95CC6171-440B-4BC6-B4C6-F6190E1A4FA1",
+        "predicate": "pq:P580",
+        "object": "1842-05-05T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1585",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "102"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1585",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "95"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1585",
+      "predicate": "http://www.wikidata.org/prop/P8612",
+      "object": "http://www.wikidata.org/entity/statement/Q1585-0829be81-41da-fe80-ec54-7305fa66b9d9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1585",
+      "predicate": "http://www.wikidata.org/prop/P865",
+      "object": "http://www.wikidata.org/entity/statement/Q1585-E4C99F01-8878-4514-ABE9-CF81AEE79492"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1585",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "オーム"
+    }
+  ]
+}

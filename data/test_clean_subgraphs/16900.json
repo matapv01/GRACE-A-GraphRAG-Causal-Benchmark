@@ -1,0 +1,48 @@
+{
+  "question_id": "16900",
+  "answers": [
+    "http://www.wikidata.org/entity/Q181754"
+  ],
+  "gold_path": {
+    "question_id": "16900",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q303508",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q200867"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q200867",
+        "predicate": "http://www.wikidata.org/prop/direct/P509",
+        "object": "http://www.wikidata.org/entity/Q181754"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q303508",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Los Planetas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303508",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Οι πλανήτες, έργο 32"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303508",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Planets, Op. 32"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303508",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Планеты (Холст)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303508",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Các hành tinh"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "13260",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1856565"
+  ],
+  "gold_path": {
+    "question_id": "13260",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q125434",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q1856565"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q125434",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+      "object": "http://babelnet.org/rdf/s01287606n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125434",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n79056868"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125434",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/no2025073395"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125434",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Port_Elizabeth"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125434",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb152906508#about"
+    }
+  ]
+}

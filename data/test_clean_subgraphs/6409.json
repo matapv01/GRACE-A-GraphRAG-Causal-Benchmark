@@ -1,0 +1,53 @@
+{
+  "question_id": "6409",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21294917"
+  ],
+  "gold_path": {
+    "question_id": "6409",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q313300",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q313300-DEB30D89-143A-4289-9A5C-2D51C03BDB82"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q313300-DEB30D89-143A-4289-9A5C-2D51C03BDB82",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q21294917"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q313300-DEB30D89-143A-4289-9A5C-2D51C03BDB82",
+        "predicate": "pq:P2937",
+        "object": "http://www.wikidata.org/entity/Q20967954"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q313300",
+      "predicate": "http://www.wikidata.org/prop/P1315",
+      "object": "http://www.wikidata.org/entity/statement/Q313300-988b3e95-90bb-4ee3-bc1f-df22c1284f4d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q313300",
+      "predicate": "http://www.wikidata.org/prop/P13591",
+      "object": "http://www.wikidata.org/entity/statement/Q313300-12186BA7-DDBA-4E86-86F3-5BDA6C99E1AF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q313300",
+      "predicate": "http://www.wikidata.org/prop/direct/P1315",
+      "object": "1065019"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q313300",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "person/a310ee72-5f2a-4c11-9c95-bae66583a94a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q313300",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q313300-45F971DB-20C2-434F-AD3F-E499F4AED6B1"
+    }
+  ]
+}

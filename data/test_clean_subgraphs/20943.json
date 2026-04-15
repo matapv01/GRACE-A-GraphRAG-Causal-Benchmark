@@ -1,0 +1,70 @@
+{
+  "question_id": "20943",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1453767",
+    "http://www.wikidata.org/entity/Q510236",
+    "http://www.wikidata.org/entity/Q951639"
+  ],
+  "gold_path": {
+    "question_id": "20943",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q510236",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q183257"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q510236",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q951639",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q183257"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q951639",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1453767",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q183257"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1453767",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q510236",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/46926"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q510236",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "neurastenia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q510236",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Neurasthenie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q510236",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "νευρασθένεια"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q510236",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "神経衰弱"
+    }
+  ]
+}

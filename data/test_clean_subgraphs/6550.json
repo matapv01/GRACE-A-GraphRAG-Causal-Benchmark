@@ -1,0 +1,48 @@
+{
+  "question_id": "6550",
+  "answers": [
+    "1"
+  ],
+  "gold_path": {
+    "question_id": "6550",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2468",
+        "predicate": "http://www.wikidata.org/prop/P4952",
+        "object": "http://www.wikidata.org/entity/statement/Q2468-1321260f-44a1-4c93-86b0-74fec54798b4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2468-1321260f-44a1-4c93-86b0-74fec54798b4",
+        "predicate": "ps:P4952",
+        "object": "http://www.wikidata.org/entity/Q51139288"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2468-1321260f-44a1-4c93-86b0-74fec54798b4",
+        "predicate": "pq:P995",
+        "object": "1"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2468",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "hydrogen fluoride"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2468",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "hydrogenfluorid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2468",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "фтороводород"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2468",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Fluorwasserstoff"
+    }
+  ]
+}

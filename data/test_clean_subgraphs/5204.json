@@ -1,0 +1,53 @@
+{
+  "question_id": "5204",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103916"
+  ],
+  "gold_path": {
+    "question_id": "5204",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q108366",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108366-C0F0704B-A4DA-4183-B97A-25B0B959CE5E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108366-C0F0704B-A4DA-4183-B97A-25B0B959CE5E",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108366-C0F0704B-A4DA-4183-B97A-25B0B959CE5E",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q917178"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q108366",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gregory%20Peck%201948.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108366",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/q108366-1F216194-C3C4-4CED-A0C5-49DE9E10BAB7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108366",
+      "predicate": "http://www.wikidata.org/prop/direct/P2519",
+      "object": "12202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108366",
+      "predicate": "http://www.wikidata.org/prop/direct/P166",
+      "object": "http://www.wikidata.org/entity/Q17144"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q108366",
+      "predicate": "http://www.wikidata.org/prop/direct/P166",
+      "object": "http://www.wikidata.org/entity/Q103916"
+    }
+  ]
+}

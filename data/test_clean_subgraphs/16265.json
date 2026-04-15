@@ -1,0 +1,48 @@
+{
+  "question_id": "16265",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1043096"
+  ],
+  "gold_path": {
+    "question_id": "16265",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3376485",
+        "predicate": "http://www.wikidata.org/prop/direct/P102",
+        "object": "http://www.wikidata.org/entity/Q586364"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q586364",
+        "predicate": "http://www.wikidata.org/prop/direct/P1142",
+        "object": "http://www.wikidata.org/entity/Q1043096"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3376485",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q104400"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3376485",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q3376485-7F43BFC5-0EC7-462E-AADE-C5FA24EBFA6A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3376485",
+      "predicate": "http://www.wikidata.org/prop/direct/P1980",
+      "object": "12360"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3376485",
+      "predicate": "http://www.wikidata.org/prop/direct/P1559",
+      "object": "Christian Emil Stoud Platou"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3376485",
+      "predicate": "http://www.wikidata.org/prop/P1559",
+      "object": "http://www.wikidata.org/entity/statement/Q3376485-AC6E3466-5FBC-4608-943C-AF18E52CCEE2"
+    }
+  ]
+}

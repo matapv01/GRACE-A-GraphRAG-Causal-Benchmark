@@ -1,0 +1,33 @@
+{
+  "question_id": "13683",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1674029"
+  ],
+  "gold_path": {
+    "question_id": "13683",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1468945",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q1674029"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1674029",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q544124"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1468945",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1468945",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Jamie Whincup"
+    }
+  ]
+}

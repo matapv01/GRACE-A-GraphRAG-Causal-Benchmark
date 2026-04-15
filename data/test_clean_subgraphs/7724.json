@@ -1,0 +1,43 @@
+{
+  "question_id": "7724",
+  "answers": [
+    "1900-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7724",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1394",
+        "predicate": "http://www.wikidata.org/prop/P551",
+        "object": "http://www.wikidata.org/entity/statement/Q1394-51496D3B-4151-4EAC-AC7F-4FF3011AE5EB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1394-51496D3B-4151-4EAC-AC7F-4FF3011AE5EB",
+        "predicate": "ps:P551",
+        "object": "http://www.wikidata.org/entity/Q19520"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1394-51496D3B-4151-4EAC-AC7F-4FF3011AE5EB",
+        "predicate": "pq:P582",
+        "object": "1900-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1394",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lenine"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1394",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lenin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1394",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ленин"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "17357",
+  "answers": [
+    "http://www.wikidata.org/entity/Q223638"
+  ],
+  "gold_path": {
+    "question_id": "17357",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q24324524",
+        "predicate": "http://www.wikidata.org/prop/direct/P1433",
+        "object": "http://www.wikidata.org/entity/Q28925663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28925663",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q223638"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q24324524",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Brynbella%20the%20Seat%20of%20G.%20Piozzi%20Esqr.jpeg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24324524",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q24324524-A73C73C3-B143-4EFE-9E62-280F0AD9AA21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24324524",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q11060274"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24324524",
+      "predicate": "http://www.wikidata.org/prop/P195",
+      "object": "http://www.wikidata.org/entity/statement/Q24324524-D376F3DE-7846-473A-92C0-987F66D4D0F4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24324524",
+      "predicate": "http://www.wikidata.org/prop/P195",
+      "object": "http://www.wikidata.org/entity/statement/Q24324524-EEF4ACD3-9F14-4127-A7E0-2B0C92B2BB29"
+    }
+  ]
+}

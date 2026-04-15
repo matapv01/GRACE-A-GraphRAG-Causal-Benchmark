@@ -1,0 +1,48 @@
+{
+  "question_id": "12617",
+  "answers": [
+    "http://www.wikidata.org/entity/Q71707"
+  ],
+  "gold_path": {
+    "question_id": "12617",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q161176",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q71707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q71707",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q1347240"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q161176",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-01-22T11:19:43Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161176",
+      "predicate": "http://schema.org/version",
+      "object": "2456834557"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161176",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161176",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Fukushima%20cityoffice%20eastbuilding.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q161176",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Fukushima%20City%20with%20a%20view%20of%20Fukushima%20Station.jpg"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "28699",
+  "answers": [
+    "10219"
+  ],
+  "gold_path": {
+    "question_id": "28699",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105186",
+        "predicate": "http://www.wikidata.org/prop/direct/P1043",
+        "object": "10219"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105186",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "71"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105186",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q105186-c5233687-4dff-71ae-7d3d-95c240070ca1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105186",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-W0129-0019%2C%20Leipzig%2C%20Apothekerin%20mit%20Feinwaage.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105186",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/20523"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105186",
+      "predicate": "http://schema.org/description",
+      "object": "professione"
+    }
+  ]
+}

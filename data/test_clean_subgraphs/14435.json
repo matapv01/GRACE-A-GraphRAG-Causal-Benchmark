@@ -1,0 +1,48 @@
+{
+  "question_id": "14435",
+  "answers": [
+    "http://www.wikidata.org/entity/Q328716"
+  ],
+  "gold_path": {
+    "question_id": "14435",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1432641",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q3014296"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3014296",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q328716"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1432641",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1432641",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q23482"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1432641",
+      "predicate": "http://www.wikidata.org/prop/direct/P21",
+      "object": "http://www.wikidata.org/entity/Q6581097"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1432641",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "fredbolley"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1432641",
+      "predicate": "http://www.wikidata.org/prop/direct/P4076",
+      "object": "Frederic+Bolley"
+    }
+  ]
+}

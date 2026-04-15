@@ -1,0 +1,59 @@
+{
+  "question_id": "16538",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2457791",
+    "http://www.wikidata.org/entity/Q311611"
+  ],
+  "gold_path": {
+    "question_id": "16538",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21130285",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q7156"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7156",
+        "predicate": "http://www.wikidata.org/prop/direct/P488",
+        "object": "http://www.wikidata.org/entity/Q311611"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21130285",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q8701"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8701",
+        "predicate": "http://www.wikidata.org/prop/direct/P488",
+        "object": "http://www.wikidata.org/entity/Q2457791"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21130285",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q21130285-4b273a88-46b1-0490-7358-a111fb09802d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21130285",
+      "predicate": "http://www.wikidata.org/prop/P1950",
+      "object": "http://www.wikidata.org/entity/statement/Q21130285-855b0d2b-4ce0-d099-03c7-c093626edb27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21130285",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q1492"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21130285",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/Q21130285-8990622D-C7E5-443E-81EE-DE3EAA1334E8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21130285",
+      "predicate": "http://www.wikidata.org/prop/P2369",
+      "object": "http://www.wikidata.org/entity/statement/Q21130285-72784D20-DD36-4C44-8761-B32FAEBCFE9A"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_id": "16940",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9259",
+    "http://www.wikidata.org/entity/Q38080272"
+  ],
+  "gold_path": {
+    "question_id": "16940",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q796583",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q500189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q500189",
+        "predicate": "http://www.wikidata.org/prop/direct/P1435",
+        "object": "http://www.wikidata.org/entity/Q9259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q500189",
+        "predicate": "http://www.wikidata.org/prop/direct/P1435",
+        "object": "http://www.wikidata.org/entity/Q38080272"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q796583",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q796583",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "53"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q796583",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q796583-999FB030-5E6C-4CD5-8C88-DA0C8EF9F82C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q796583",
+      "predicate": "http://www.wikidata.org/prop/direct/P38",
+      "object": "http://www.wikidata.org/entity/Q2060600"
+    }
+  ]
+}

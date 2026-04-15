@@ -1,0 +1,48 @@
+{
+  "question_id": "9976",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3241584"
+  ],
+  "gold_path": {
+    "question_id": "9976",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q525",
+        "predicate": "http://www.wikidata.org/prop/direct/P913",
+        "object": "http://www.wikidata.org/entity/Q3241584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q525",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q649112"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q525",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sun"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ਸੂਰਜ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سورج"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "太陽"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q525",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Güneş"
+    }
+  ]
+}

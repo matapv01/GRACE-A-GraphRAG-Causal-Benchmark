@@ -1,0 +1,70 @@
+{
+  "question_id": "24663",
+  "answers": [
+    "http://www.wikidata.org/entity/Q112040538",
+    "http://www.wikidata.org/entity/Q698156",
+    "http://www.wikidata.org/entity/Q2119741"
+  ],
+  "gold_path": {
+    "question_id": "24663",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q698156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1128637"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q698156",
+        "predicate": "rdfs:label",
+        "object": "Prince's Stone"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2119741",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1128637"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2119741",
+        "predicate": "rdfs:label",
+        "object": "Palace of Peace and Reconciliation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q112040538",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1128637"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q112040538",
+        "predicate": "rdfs:label",
+        "object": "Palestinian key"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q698156",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q698156-107bf9d6-4a63-f63c-a1ed-79204b87a642"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q698156",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Klagenfurt%20Landhaus%20Gro%C3%9Fer%20Wappensaal%20F%C3%BCrstenstein%2019072006%206295.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q698156",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/Q698156-7F8161C9-2463-496D-8523-FC29EBEC9062"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q698156",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q698156-7515134d-47c1-e5f9-ddb5-e62e7dbe7b26"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q698156",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q698156-daf37cbd-4688-e122-ee48-822eb5a75b76"
+    }
+  ]
+}

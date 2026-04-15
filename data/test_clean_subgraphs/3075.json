@@ -1,0 +1,53 @@
+{
+  "question_id": "3075",
+  "answers": [
+    "http://www.wikidata.org/entity/Q22656"
+  ],
+  "gold_path": {
+    "question_id": "3075",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22656",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2424752"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22656",
+        "predicate": "http://www.wikidata.org/prop/direct/P2292",
+        "object": "85600000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22656",
+        "predicate": "http://www.wikidata.org/prop/direct/P1343",
+        "object": "http://www.wikidata.org/entity/Q19190511"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q22656",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "110"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22656",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Erdöl"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22656",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "petróleo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22656",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "нефть"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22656",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "petroleum"
+    }
+  ]
+}

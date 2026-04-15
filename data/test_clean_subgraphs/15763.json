@@ -1,0 +1,68 @@
+{
+  "question_id": "15763",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6923"
+  ],
+  "gold_path": {
+    "question_id": "15763",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q519718",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q800122"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q800122",
+        "predicate": "http://www.wikidata.org/prop/direct/P421",
+        "object": "http://www.wikidata.org/entity/Q6923"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q519718",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1193412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1193412",
+        "predicate": "http://www.wikidata.org/prop/direct/P421",
+        "object": "http://www.wikidata.org/entity/Q6923"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q519718",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q2199759"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2199759",
+        "predicate": "http://www.wikidata.org/prop/direct/P421",
+        "object": "http://www.wikidata.org/entity/Q6923"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q519718",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T12:08:24Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q519718",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q519718",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q519718",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007554789905171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q519718",
+      "predicate": "http://www.wikidata.org/prop/direct/P3075",
+      "object": "http://www.wikidata.org/entity/Q132265"
+    }
+  ]
+}

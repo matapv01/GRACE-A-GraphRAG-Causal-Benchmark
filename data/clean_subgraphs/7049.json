@@ -1,0 +1,48 @@
+{
+  "question_id": "7049",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7358696"
+  ],
+  "gold_path": {
+    "question_id": "7049",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1543066",
+        "predicate": "http://www.wikidata.org/prop/P371",
+        "object": "http://www.wikidata.org/entity/statement/Q1543066-cf23b187-4c1d-2593-3d88-1fcd834a0c6b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1543066-cf23b187-4c1d-2593-3d88-1fcd834a0c6b",
+        "predicate": "ps:P371",
+        "object": "http://www.wikidata.org/entity/Q7358696"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1543066",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1543066",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q1543066-B3A2344B-B4B6-4D33-A734-44D56E63E089"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1543066",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.nbcnews.com/meet-the-press"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1543066",
+      "predicate": "http://www.wikidata.org/prop/P856",
+      "object": "http://www.wikidata.org/entity/statement/Q1543066-E2A8DAEB-AE2C-4F62-80B0-571FC0E2B6EA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1543066",
+      "predicate": "http://www.wikidata.org/prop/P4282",
+      "object": "http://www.wikidata.org/entity/statement/Q1543066-8D7931B7-6B79-4DD4-A884-8D7305515F17"
+    }
+  ]
+}

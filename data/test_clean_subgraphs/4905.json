@@ -1,0 +1,48 @@
+{
+  "question_id": "4905",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4408465"
+  ],
+  "gold_path": {
+    "question_id": "4905",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5332",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q5332-8d5dc3d8-446d-6210-6963-73cde4221004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5332-8d5dc3d8-446d-6210-6963-73cde4221004",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q4408465"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5332",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Saratov_-_by"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5332",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q5332-C0129087-DAB0-4FB2-995F-D598A167EE4F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5332",
+      "predicate": "http://www.wikidata.org/prop/direct/P2044",
+      "object": "50"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5332",
+      "predicate": "http://www.wikidata.org/prop/direct/P421",
+      "object": "http://www.wikidata.org/entity/Q6760"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5332",
+      "predicate": "http://www.wikidata.org/prop/direct/P421",
+      "object": "http://www.wikidata.org/entity/Q6779"
+    }
+  ]
+}

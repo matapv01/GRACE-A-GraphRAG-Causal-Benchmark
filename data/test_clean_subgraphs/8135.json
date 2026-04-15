@@ -1,0 +1,53 @@
+{
+  "question_id": "8135",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2751242"
+  ],
+  "gold_path": {
+    "question_id": "8135",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40649",
+        "predicate": "http://www.wikidata.org/prop/P793",
+        "object": "http://www.wikidata.org/entity/statement/Q40649-5e7c4c78-45bd-8f22-c37b-5683532494c3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q40649-5e7c4c78-45bd-8f22-c37b-5683532494c3",
+        "predicate": "ps:P793",
+        "object": "http://www.wikidata.org/entity/Q2751242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q40649-5e7c4c78-45bd-8f22-c37b-5683532494c3",
+        "predicate": "pq:P1050",
+        "object": "http://www.wikidata.org/entity/Q826522"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40649",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q40649-401626ff-4651-9dfa-6c31-719457e67724"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40649",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q40649-DAF64033-66C3-4967-9D31-1852E9369A2F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40649",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/q40649-2D07CB28-2E28-4636-A326-1D3C5BBDCA19"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40649",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/Q40649-C1451A14-3595-49A0-9F24-891DC3D62AD2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40649",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q40649-898C71BE-5A1A-49A7-B76D-0151C6A17D73"
+    }
+  ]
+}

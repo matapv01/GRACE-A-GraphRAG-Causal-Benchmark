@@ -1,0 +1,48 @@
+{
+  "question_id": "22588",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6500954"
+  ],
+  "gold_path": {
+    "question_id": "22588",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6500954",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q164535"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6500954",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3024240"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500954",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500954",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "扎伊尔"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500954",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Republic of Zaire"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500954",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "République du Zaïre"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6500954",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "רפובליקת זאיר"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "20500",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5276922"
+  ],
+  "gold_path": {
+    "question_id": "20500",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5276922",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q864060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5276922",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5276922",
+      "predicate": "http://www.wikidata.org/prop/P856",
+      "object": "http://www.wikidata.org/entity/statement/Q5276922-0066062d-4b0a-5188-e3f7-d8a750de12ff"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5276922",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://www.dillonaero.com/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5276922",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q5276922-D609B4EA-FD4B-43C5-982C-53EF4211F8C4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5276922",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q30"
+    }
+  ]
+}

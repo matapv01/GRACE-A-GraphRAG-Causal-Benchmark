@@ -1,0 +1,55 @@
+{
+  "question_id": "29545",
+  "answers": [
+    "4568",
+    "1330",
+    "3324"
+  ],
+  "gold_path": {
+    "question_id": "29545",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43249",
+        "predicate": "http://www.wikidata.org/prop/direct/P2263",
+        "object": "1330"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43249",
+        "predicate": "http://www.wikidata.org/prop/direct/P2263",
+        "object": "3324"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43249",
+        "predicate": "http://www.wikidata.org/prop/direct/P2263",
+        "object": "4568"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43249",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43249",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "تکواژ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43249",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "morfemi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43249",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "морф"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43249",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "морфемы"
+    }
+  ]
+}

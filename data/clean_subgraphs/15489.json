@@ -1,0 +1,48 @@
+{
+  "question_id": "15489",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3044747"
+  ],
+  "gold_path": {
+    "question_id": "15489",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151952",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q19060517"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19060517",
+        "predicate": "http://www.wikidata.org/prop/direct/P466",
+        "object": "http://www.wikidata.org/entity/Q3044747"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151952",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "11988595b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151952",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q151952-5bc80746-40f9-107a-8796-002fdd754951"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151952",
+      "predicate": "http://www.wikidata.org/prop/direct/P8408",
+      "object": "VenusDeMilo-Statue"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151952",
+      "predicate": "http://www.wikidata.org/prop/P8408",
+      "object": "http://www.wikidata.org/entity/statement/Q151952-B1D4277A-C3E8-4548-8D31-1A4AFEF06581"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151952",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Venus_fra_Milo"
+    }
+  ]
+}

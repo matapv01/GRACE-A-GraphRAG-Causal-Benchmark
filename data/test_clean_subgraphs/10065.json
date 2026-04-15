@@ -1,0 +1,48 @@
+{
+  "question_id": "10065",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1667757"
+  ],
+  "gold_path": {
+    "question_id": "10065",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q170208",
+        "predicate": "http://www.wikidata.org/prop/direct/P485",
+        "object": "http://www.wikidata.org/entity/Q1667757"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q170208",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q310439"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q170208",
+      "predicate": "http://www.wikidata.org/prop/P1225",
+      "object": "http://www.wikidata.org/entity/statement/Q170208-9B2B801D-258A-4B73-A923-58E501C6D1E8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170208",
+      "predicate": "http://www.wikidata.org/prop/P1938",
+      "object": "http://www.wikidata.org/entity/statement/Q170208-BB1A308A-2740-4F42-81F9-4DEE916E9530"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170208",
+      "predicate": "http://www.wikidata.org/prop/direct/P1225",
+      "object": "10640916"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170208",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1938",
+      "object": "http://www.gutenberg.org/ebooks/author/31896"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170208",
+      "predicate": "http://www.wikidata.org/prop/P1036",
+      "object": "http://www.wikidata.org/entity/statement/Q170208-1FE4EB36-3BC5-4DB8-8EE9-0B88C9063417"
+    }
+  ]
+}

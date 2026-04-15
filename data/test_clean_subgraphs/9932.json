@@ -1,0 +1,48 @@
+{
+  "question_id": "9932",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34740"
+  ],
+  "gold_path": {
+    "question_id": "9932",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q150839",
+        "predicate": "http://www.wikidata.org/prop/direct/P105",
+        "object": "http://www.wikidata.org/entity/Q34740"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q150839",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q380136"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q150839",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "48"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150839",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "сальмонеллы"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150839",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Salmonellen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150839",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sarmilla"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150839",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Salmonella"
+    }
+  ]
+}

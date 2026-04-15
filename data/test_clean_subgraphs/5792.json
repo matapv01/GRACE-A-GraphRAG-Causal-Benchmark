@@ -1,0 +1,85 @@
+{
+  "question_id": "5792",
+  "answers": [
+    "2002-01-01T00:00:00Z",
+    "2004-01-01T00:00:00Z",
+    "1986-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5792",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q234679",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q234679-293CD5BA-DA8A-4EB3-A888-29421F0AA3C9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234679-293CD5BA-DA8A-4EB3-A888-29421F0AA3C9",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q24241"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234679-293CD5BA-DA8A-4EB3-A888-29421F0AA3C9",
+        "predicate": "pq:P585",
+        "object": "2002-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q234679",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q234679-4B399B27-D0C6-49E2-B7AC-D5C93FBE2167"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234679-4B399B27-D0C6-49E2-B7AC-D5C93FBE2167",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q24241"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234679-4B399B27-D0C6-49E2-B7AC-D5C93FBE2167",
+        "predicate": "pq:P585",
+        "object": "2004-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q234679",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q234679-F9F4BA46-4299-49DD-ADE5-02C104539F5D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234679-F9F4BA46-4299-49DD-ADE5-02C104539F5D",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q24241"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234679-F9F4BA46-4299-49DD-ADE5-02C104539F5D",
+        "predicate": "pq:P585",
+        "object": "1986-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q234679",
+      "predicate": "http://www.wikidata.org/prop/direct/P3056",
+      "object": "157565"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234679",
+      "predicate": "http://www.wikidata.org/prop/direct/P3065",
+      "object": "A003726068"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234679",
+      "predicate": "http://www.wikidata.org/prop/direct/P8305",
+      "object": "charlotte-rampling"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234679",
+      "predicate": "http://www.wikidata.org/prop/direct/P8309",
+      "object": "18-127332"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234679",
+      "predicate": "http://www.wikidata.org/prop/direct/P9305",
+      "object": "P000042388"
+    }
+  ]
+}

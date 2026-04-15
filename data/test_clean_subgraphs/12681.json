@@ -1,0 +1,48 @@
+{
+  "question_id": "12681",
+  "answers": [
+    "http://www.wikidata.org/entity/Q898"
+  ],
+  "gold_path": {
+    "question_id": "12681",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6487",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q898"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q898",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q794828"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6487",
+      "predicate": "http://www.wikidata.org/prop/direct/P3365",
+      "object": "adalia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6487",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ANT"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6487",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Attalia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6487",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Adalia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6487",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "AYT"
+    }
+  ]
+}

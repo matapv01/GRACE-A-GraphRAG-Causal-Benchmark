@@ -1,0 +1,49 @@
+{
+  "question_id": "28822",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16504870",
+    "http://www.wikidata.org/entity/Q18356322"
+  ],
+  "gold_path": {
+    "question_id": "28822",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16504870",
+        "predicate": "http://www.wikidata.org/prop/direct/P551",
+        "object": "http://www.wikidata.org/entity/Q273030"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18356322",
+        "predicate": "http://www.wikidata.org/prop/direct/P551",
+        "object": "http://www.wikidata.org/entity/Q273030"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16504870",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1947-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16504870",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q16504870-19CEBF77-8D79-45A3-A9E0-4D312D34D62B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16504870",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0105k_70"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16504870",
+      "predicate": "http://www.wikidata.org/prop/direct/P69",
+      "object": "http://www.wikidata.org/entity/Q665105"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16504870",
+      "predicate": "http://www.wikidata.org/prop/direct/P69",
+      "object": "http://www.wikidata.org/entity/Q12060731"
+    }
+  ]
+}

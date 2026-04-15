@@ -1,0 +1,84 @@
+{
+  "question_id": "14606",
+  "answers": [
+    "http://www.wikidata.org/entity/Q390187",
+    "http://www.wikidata.org/entity/Q294782",
+    "http://www.wikidata.org/entity/Q295414",
+    "http://www.wikidata.org/entity/Q295313",
+    "http://www.wikidata.org/entity/Q295423",
+    "http://www.wikidata.org/entity/Q295260",
+    "http://www.wikidata.org/entity/Q203978"
+  ],
+  "gold_path": {
+    "question_id": "14606",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7728",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q13649"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13649",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q203978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13649",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q294782"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13649",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q295260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13649",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q295313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13649",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q295414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13649",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q295423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13649",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q390187"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7728",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "10288997"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7728",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-28T20:32:28Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7728",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grazia%20Deledda%201926.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7728",
+      "predicate": "http://www.wikidata.org/prop/direct/P345",
+      "object": "nm0216698"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7728",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "question_id": "22550",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8035503",
+    "http://www.wikidata.org/entity/Q65091338",
+    "http://www.wikidata.org/entity/Q27956034",
+    "http://www.wikidata.org/entity/Q18342495",
+    "http://www.wikidata.org/entity/Q917629"
+  ],
+  "gold_path": {
+    "question_id": "22550",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q917629",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q106807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q917629",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27020041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8035503",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q106807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8035503",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27020041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18342495",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q106807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18342495",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27020041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q27956034",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q106807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q27956034",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27020041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65091338",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q106807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65091338",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27020041"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q917629",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Campionat del món d'escacs de 2014"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q917629",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Schach-WM 2013"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q917629",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Championnat du monde de la FIDE 2013"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q917629",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "20"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q917629",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ലോക ചെസ്സ് ചാമ്പ്യൻഷിപ്പ് 2013"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "question_id": "21621",
+  "answers": [
+    "http://www.wikidata.org/entity/Q45135122"
+  ],
+  "gold_path": {
+    "question_id": "21621",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q499451",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q45135122"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45135122",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4671277"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q499451",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rutgers"
+    }
+  ]
+}

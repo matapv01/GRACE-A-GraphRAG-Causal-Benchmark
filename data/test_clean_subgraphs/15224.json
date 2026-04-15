@@ -1,0 +1,94 @@
+{
+  "question_id": "15224",
+  "answers": [
+    "http://www.wikidata.org/entity/Q33521",
+    "http://www.wikidata.org/entity/Q18362",
+    "http://www.wikidata.org/entity/Q11452",
+    "http://www.wikidata.org/entity/Q234181",
+    "http://www.wikidata.org/entity/Q589",
+    "http://www.wikidata.org/entity/Q338",
+    "http://www.wikidata.org/entity/Q1"
+  ],
+  "gold_path": {
+    "question_id": "15224",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7745497",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q17714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17714",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17714",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q338"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17714",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q589"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17714",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q11452"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17714",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q18362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17714",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q33521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17714",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q234181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7745497",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q1387629"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1387629",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q33521"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7745497",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL1892621W"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7745497",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0hprs"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7745497",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-18T00:40:29Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7745497",
+      "predicate": "http://schema.org/description",
+      "object": "كتاب من تأليف ستيفن هوكينغ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7745497",
+      "predicate": "http://schema.org/description",
+      "object": "boek van Stephen Hawking"
+    }
+  ]
+}

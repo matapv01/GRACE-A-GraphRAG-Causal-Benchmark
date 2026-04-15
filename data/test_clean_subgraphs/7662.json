@@ -1,0 +1,33 @@
+{
+  "question_id": "7662",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "7662",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q434841",
+        "predicate": "http://www.wikidata.org/prop/P159",
+        "object": "http://www.wikidata.org/entity/statement/Q434841-F47FE6E1-FF59-4BD2-A845-3895271E88A3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q434841-F47FE6E1-FF59-4BD2-A845-3895271E88A3",
+        "predicate": "ps:P159",
+        "object": "http://www.wikidata.org/entity/Q1920322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q434841-F47FE6E1-FF59-4BD2-A845-3895271E88A3",
+        "predicate": "pq:P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q434841",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "20th Century Fox"
+    }
+  ]
+}

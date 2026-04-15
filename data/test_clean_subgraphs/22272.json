@@ -1,0 +1,104 @@
+{
+  "question_id": "22272",
+  "answers": [
+    "http://www.wikidata.org/entity/Q27966910",
+    "http://www.wikidata.org/entity/Q826100",
+    "http://www.wikidata.org/entity/Q2607382",
+    "http://www.wikidata.org/entity/Q1340199",
+    "http://www.wikidata.org/entity/Q18560175",
+    "http://www.wikidata.org/entity/Q25324505",
+    "http://www.wikidata.org/entity/Q737051"
+  ],
+  "gold_path": {
+    "question_id": "22272",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q737051"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q737051",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11448906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q826100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q826100",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11448906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q1340199"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1340199",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11448906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q2607382"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2607382",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11448906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q18560175"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18560175",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11448906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q25324505"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25324505",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11448906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48983",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q27966910"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q27966910",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11448906"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48983",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Linus Carl Pauling"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48983",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Лайнус Полінг"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48983",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Linus Pauling"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "20595",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10862805",
+    "http://www.wikidata.org/entity/Q3310371"
+  ],
+  "gold_path": {
+    "question_id": "20595",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q296",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q3310371"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3310371",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q10862805"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10862805",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.wikidata.org/prop/direct/P3221",
+      "object": "person/claude-monet"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "claude-monet"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "claude-monet-et-l-impressionnisme-reperes-chronologiques"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q296-8A39C2AF-4BC5-4B6A-B6C0-87AA78B430FB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.wikidata.org/prop/P213",
+      "object": "http://www.wikidata.org/entity/statement/q296-E4FD181F-2AFB-4521-9C6C-B0AA8D29CDA3"
+    }
+  ]
+}

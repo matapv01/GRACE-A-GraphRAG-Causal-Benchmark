@@ -1,0 +1,38 @@
+{
+  "question_id": "8329",
+  "answers": [
+    "Point(16.45 -28.630833333)"
+  ],
+  "gold_path": {
+    "question_id": "8329",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q181475",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q181475-81C9ACF0-D26A-44C3-AD55-E29C282FCA97"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181475-81C9ACF0-D26A-44C3-AD55-E29C282FCA97",
+        "predicate": "ps:P625",
+        "object": "Point(16.45 -28.630833333)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181475-81C9ACF0-D26A-44C3-AD55-E29C282FCA97",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q1233637"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q181475",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Oranje"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181475",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Orange"
+    }
+  ]
+}

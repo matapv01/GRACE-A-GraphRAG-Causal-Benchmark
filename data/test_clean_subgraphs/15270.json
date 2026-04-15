@@ -1,0 +1,54 @@
+{
+  "question_id": "15270",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2603347",
+    "http://www.wikidata.org/entity/Q207405"
+  ],
+  "gold_path": {
+    "question_id": "15270",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q27237663",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q235928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q235928",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q207405"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q235928",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q2603347"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q27237663",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Duchess"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27237663",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Duchesse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27237663",
+      "predicate": "http://www.wikidata.org/prop/direct/P1340",
+      "object": "http://www.wikidata.org/entity/Q17122834"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27237663",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q15711870"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27237663",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q27303706"
+    }
+  ]
+}

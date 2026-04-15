@@ -1,0 +1,70 @@
+{
+  "question_id": "6956",
+  "answers": [
+    "http://www.wikidata.org/entity/Q24700486",
+    "http://www.wikidata.org/entity/Q98446692",
+    "http://www.wikidata.org/entity/Q108351730"
+  ],
+  "gold_path": {
+    "question_id": "6956",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q213163",
+        "predicate": "http://www.wikidata.org/prop/P734",
+        "object": "http://www.wikidata.org/entity/statement/Q213163-77794991-DB58-4013-9F51-7F6922F602F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q213163-77794991-DB58-4013-9F51-7F6922F602F0",
+        "predicate": "ps:P734",
+        "object": "http://www.wikidata.org/entity/Q98446692"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q213163",
+        "predicate": "http://www.wikidata.org/prop/P734",
+        "object": "http://www.wikidata.org/entity/statement/Q213163-871BD55D-1000-47AA-B913-C9B73A294A43"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q213163-871BD55D-1000-47AA-B913-C9B73A294A43",
+        "predicate": "ps:P734",
+        "object": "http://www.wikidata.org/entity/Q108351730"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q213163",
+        "predicate": "http://www.wikidata.org/prop/P734",
+        "object": "http://www.wikidata.org/entity/statement/Q213163-cc45b92c-4809-f548-0da4-2768d7a960cb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q213163-cc45b92c-4809-f548-0da4-2768d7a960cb",
+        "predicate": "ps:P734",
+        "object": "http://www.wikidata.org/entity/Q24700486"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q213163",
+      "predicate": "http://www.wikidata.org/prop/direct/P2538",
+      "object": "7724"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213163",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "elisabeth-vigee-lebrun"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213163",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "elisabeth-louise-vigee-lebrun"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213163",
+      "predicate": "http://www.wikidata.org/prop/direct/P5271",
+      "object": "2986"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213163",
+      "predicate": "http://www.wikidata.org/prop/direct/P2042",
+      "object": "elisabeth-louise-vigee-le-brun"
+    }
+  ]
+}

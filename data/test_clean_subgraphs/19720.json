@@ -1,0 +1,43 @@
+{
+  "question_id": "19720",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6376057"
+  ],
+  "gold_path": {
+    "question_id": "19720",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13371",
+        "predicate": "http://www.wikidata.org/prop/direct/P4195",
+        "object": "http://www.wikidata.org/entity/Q6376057"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6376057",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167836"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13371",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Πανεπιστήμιο Χάρβαρντ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13371",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Harvard University"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13371",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Universitato Harvard"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13371",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Universidad Harvard"
+    }
+  ]
+}

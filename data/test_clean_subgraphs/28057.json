@@ -1,0 +1,51 @@
+{
+  "question_id": "28057",
+  "answers": [
+    "http://www.wikidata.org/entity/Q119807",
+    "http://www.wikidata.org/entity/Q259770",
+    "http://www.wikidata.org/entity/Q182252",
+    "http://www.wikidata.org/entity/Q184201"
+  ],
+  "gold_path": {
+    "question_id": "28057",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q119807",
+        "predicate": "http://www.wikidata.org/prop/direct/P1029",
+        "object": "http://www.wikidata.org/entity/Q111240"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182252",
+        "predicate": "http://www.wikidata.org/prop/direct/P1029",
+        "object": "http://www.wikidata.org/entity/Q111240"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184201",
+        "predicate": "http://www.wikidata.org/prop/direct/P1029",
+        "object": "http://www.wikidata.org/entity/Q111240"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q259770",
+        "predicate": "http://www.wikidata.org/prop/direct/P1029",
+        "object": "http://www.wikidata.org/entity/Q111240"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q119807",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Gemini VII"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q119807",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Gemini 7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q119807",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Джемини-7"
+    }
+  ]
+}

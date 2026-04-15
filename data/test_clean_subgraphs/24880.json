@@ -1,0 +1,59 @@
+{
+  "question_id": "24880",
+  "answers": [
+    "http://www.wikidata.org/entity/Q55706997",
+    "http://www.wikidata.org/entity/Q43262"
+  ],
+  "gold_path": {
+    "question_id": "24880",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43262",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1803829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43262",
+        "predicate": "rdfs:label",
+        "object": "tundra"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55706997",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1803829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55706997",
+        "predicate": "rdfs:label",
+        "object": "tidal marsh"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43262",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "52"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43262",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2452",
+      "object": "http://www.geonames.org/ontology#V.TUND"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43262",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p16902"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43262",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "tundra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43262",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "тундра"
+    }
+  ]
+}

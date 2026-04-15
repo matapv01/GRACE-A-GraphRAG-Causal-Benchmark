@@ -1,0 +1,85 @@
+{
+  "question_id": "4181",
+  "answers": [
+    "1990-01-01T00:00:00Z",
+    "1974-01-01T00:00:00Z",
+    "1972-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4181",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q156347",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q156347-2dbab1ea-448b-3b05-5fe7-08d9dcb18a6c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q156347-2dbab1ea-448b-3b05-5fe7-08d9dcb18a6c",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1314838"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q156347-2dbab1ea-448b-3b05-5fe7-08d9dcb18a6c",
+        "predicate": "pq:P585",
+        "object": "1990-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156347",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q156347-76656425-40a1-e30f-da47-e0b05fb68111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q156347-76656425-40a1-e30f-da47-e0b05fb68111",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1314838"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q156347-76656425-40a1-e30f-da47-e0b05fb68111",
+        "predicate": "pq:P585",
+        "object": "1974-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156347",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q156347-84176E6E-D169-42F6-87B9-A5993E5C40CB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q156347-84176E6E-D169-42F6-87B9-A5993E5C40CB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1314838"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q156347-84176E6E-D169-42F6-87B9-A5993E5C40CB",
+        "predicate": "pq:P585",
+        "object": "1972-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q156347",
+      "predicate": "http://www.wikidata.org/prop/P1902",
+      "object": "http://www.wikidata.org/entity/statement/Q156347-923135a4-7b69-4912-83ee-084b3ecdf454"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q156347",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q156347-165FA6E5-C625-4D19-941B-B4B01E8B41C9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q156347",
+      "predicate": "http://www.wikidata.org/prop/P1196",
+      "object": "http://www.wikidata.org/entity/statement/Q156347-a37f3719-4372-5ed4-9ecc-37a9f2ec4e57"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q156347",
+      "predicate": "http://www.wikidata.org/prop/P1953",
+      "object": "http://www.wikidata.org/entity/statement/Q156347-A25D2422-4CDF-4752-BF64-EE11280690DF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q156347",
+      "predicate": "http://www.wikidata.org/prop/P5882",
+      "object": "http://www.wikidata.org/entity/statement/Q156347-32E5C5A7-EB61-4E9E-AB22-6E6FC4149A7E"
+    }
+  ]
+}

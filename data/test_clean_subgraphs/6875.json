@@ -1,0 +1,53 @@
+{
+  "question_id": "6875",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41615"
+  ],
+  "gold_path": {
+    "question_id": "6875",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41852",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q41852-a745cedc-4388-cd11-d2dc-faf239fea42e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41852-a745cedc-4388-cd11-d2dc-faf239fea42e",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18577504"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41852-a745cedc-4388-cd11-d2dc-faf239fea42e",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q41615"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41852",
+      "predicate": "http://www.wikidata.org/prop/P1559",
+      "object": "http://www.wikidata.org/entity/statement/Q41852-92ec62b3-42d9-c3ad-c4e7-95d87b9d142e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41852",
+      "predicate": "http://www.wikidata.org/prop/P1559",
+      "object": "http://www.wikidata.org/entity/statement/Q41852-eb55b16e-4a15-635c-8c8f-aa5abb3d2b7d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41852",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q41852-64425D28-F474-4291-8698-D32026F48F43"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41852",
+      "predicate": "http://www.wikidata.org/prop/P5905",
+      "object": "http://www.wikidata.org/entity/statement/Q41852-7598E7B6-4C8A-4B4C-AB78-A1079612BE49"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41852",
+      "predicate": "http://www.wikidata.org/prop/P5375",
+      "object": "http://www.wikidata.org/entity/statement/Q41852-5A4ADBCC-C2C9-4AF4-83A8-64E1C3E6AEF6"
+    }
+  ]
+}

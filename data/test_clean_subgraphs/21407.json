@@ -1,0 +1,48 @@
+{
+  "question_id": "21407",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1132413"
+  ],
+  "gold_path": {
+    "question_id": "21407",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q205033",
+        "predicate": "http://www.wikidata.org/prop/direct/P115",
+        "object": "http://www.wikidata.org/entity/Q1132413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1132413",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q483110"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q205033",
+      "predicate": "http://schema.org/version",
+      "object": "2475409504"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205033",
+      "predicate": "http://schema.org/description",
+      "object": "American football team"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205033",
+      "predicate": "http://schema.org/description",
+      "object": "Amerikan futbolu takımı"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205033",
+      "predicate": "http://schema.org/description",
+      "object": "amerikai amerikaifutball-csapat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205033",
+      "predicate": "http://schema.org/description",
+      "object": "teamo de Usona piedpilko en Nacia Piedpilka Ligo"
+    }
+  ]
+}

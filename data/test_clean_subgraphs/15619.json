@@ -1,0 +1,54 @@
+{
+  "question_id": "15619",
+  "answers": [
+    "http://www.wikidata.org/entity/Q660051",
+    "http://www.wikidata.org/entity/Q2695156"
+  ],
+  "gold_path": {
+    "question_id": "15619",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q281901",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q660695"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q660695",
+        "predicate": "http://www.wikidata.org/prop/direct/P2546",
+        "object": "http://www.wikidata.org/entity/Q660051"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q660695",
+        "predicate": "http://www.wikidata.org/prop/direct/P2546",
+        "object": "http://www.wikidata.org/entity/Q2695156"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q281901",
+      "predicate": "http://www.wikidata.org/prop/P3373",
+      "object": "http://www.wikidata.org/entity/statement/Q281901-9F5F5C23-8B6E-4EA3-89C3-791FDDB9C74B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281901",
+      "predicate": "http://www.wikidata.org/prop/P11799",
+      "object": "http://www.wikidata.org/entity/statement/Q281901-361adf15-4762-fd0e-19b5-259671b0966e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281901",
+      "predicate": "http://www.wikidata.org/prop/direct/P3373",
+      "object": "http://www.wikidata.org/entity/Q7071276"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281901",
+      "predicate": "http://www.wikidata.org/prop/P735",
+      "object": "http://www.wikidata.org/entity/statement/Q281901-67B9B978-3BE6-4B67-AFEB-9A7CB55BEA41"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281901",
+      "predicate": "http://www.wikidata.org/prop/P5247",
+      "object": "http://www.wikidata.org/entity/statement/Q281901-96F99344-2304-4E26-B9E1-FFE44A4213D5"
+    }
+  ]
+}

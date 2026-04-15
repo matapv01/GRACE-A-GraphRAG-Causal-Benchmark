@@ -1,0 +1,38 @@
+{
+  "question_id": "2801",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2843"
+  ],
+  "gold_path": {
+    "question_id": "2801",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2843",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q707813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2843",
+        "predicate": "http://www.wikidata.org/prop/direct/P5167",
+        "object": "433"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2843",
+        "predicate": "http://www.wikidata.org/prop/direct/P1792",
+        "object": "http://www.wikidata.org/entity/Q8741076"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2843",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Լյուբեկ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2843",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lübeck"
+    }
+  ]
+}

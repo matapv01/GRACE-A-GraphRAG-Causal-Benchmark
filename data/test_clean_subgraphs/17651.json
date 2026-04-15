@@ -1,0 +1,48 @@
+{
+  "question_id": "17651",
+  "answers": [
+    "1939-09-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "17651",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151860",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q362",
+        "predicate": "http://www.wikidata.org/prop/direct/P580",
+        "object": "1939-09-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151860",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-22T18:06:05Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151860",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Leningrad%20Siege%20May%201942%20-%20January%201943.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151860",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Leningrad%20%28winter%201941%29.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151860",
+      "predicate": "http://www.wikidata.org/prop/direct/P4220",
+      "object": "http://www.wikidata.org/entity/Q3077005"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151860",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q188055"
+    }
+  ]
+}

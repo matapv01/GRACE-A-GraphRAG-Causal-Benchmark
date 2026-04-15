@@ -1,0 +1,48 @@
+{
+  "question_id": "12722",
+  "answers": [
+    "http://www.wikidata.org/entity/Q79"
+  ],
+  "gold_path": {
+    "question_id": "12722",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q29965",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q79"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q79",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q159"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q29965",
+      "predicate": "http://www.wikidata.org/prop/direct/P242",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Asyut%20in%20Egypt%20%282011%29.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29965",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q79"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29965",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasser%20Mosque%20%D9%85%D8%B3%D8%AC%D8%AF%20%D9%86%D8%A7%D8%B5%D8%B1%20-%20panoramio.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29965",
+      "predicate": "http://www.wikidata.org/prop/P242",
+      "object": "http://www.wikidata.org/entity/statement/Q29965-BCB068BA-9947-4F64-86A3-9FADACD4FC0D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29965",
+      "predicate": "http://www.wikidata.org/prop/direct/P2326",
+      "object": "-291546"
+    }
+  ]
+}

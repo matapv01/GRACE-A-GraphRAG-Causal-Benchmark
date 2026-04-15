@@ -1,0 +1,53 @@
+{
+  "question_id": "6033",
+  "answers": [
+    "BC MS 19c Southey"
+  ],
+  "gold_path": {
+    "question_id": "6033",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q216838",
+        "predicate": "http://www.wikidata.org/prop/P485",
+        "object": "http://www.wikidata.org/entity/statement/Q216838-37ec74f3-41f8-a411-46ae-bf41fe4665de"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216838-37ec74f3-41f8-a411-46ae-bf41fe4665de",
+        "predicate": "ps:P485",
+        "object": "http://www.wikidata.org/entity/Q24568958"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216838-37ec74f3-41f8-a411-46ae-bf41fe4665de",
+        "predicate": "pq:P217",
+        "object": "BC MS 19c Southey"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q216838",
+      "predicate": "http://schema.org/version",
+      "object": "2478809242"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216838",
+      "predicate": "http://schema.org/description",
+      "object": "ލިޔުންތެރިއެއް"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216838",
+      "predicate": "http://schema.org/description",
+      "object": "scrittore britannico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216838",
+      "predicate": "http://schema.org/description",
+      "object": "romancier britannique"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216838",
+      "predicate": "http://schema.org/description",
+      "object": "شاعر بريطاني"
+    }
+  ]
+}

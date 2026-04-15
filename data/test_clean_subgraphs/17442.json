@@ -1,0 +1,43 @@
+{
+  "question_id": "17442",
+  "answers": [
+    "http://www.wikidata.org/entity/Q134161"
+  ],
+  "gold_path": {
+    "question_id": "17442",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q191985",
+        "predicate": "http://www.wikidata.org/prop/direct/P137",
+        "object": "http://www.wikidata.org/entity/Q1121141"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1121141",
+        "predicate": "http://www.wikidata.org/prop/direct/P1454",
+        "object": "http://www.wikidata.org/entity/Q134161"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q191985",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Orient-Express"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191985",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Orientexpressen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191985",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Orient Express"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191985",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Oriënt-eksprestrein"
+    }
+  ]
+}

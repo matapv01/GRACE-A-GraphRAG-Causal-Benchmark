@@ -1,0 +1,53 @@
+{
+  "question_id": "4429",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103360"
+  ],
+  "gold_path": {
+    "question_id": "4429",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q51491",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q51491-FB1EE817-918E-481D-A1C7-51D700D78949"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q51491-FB1EE817-918E-481D-A1C7-51D700D78949",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q51491-FB1EE817-918E-481D-A1C7-51D700D78949",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q524997"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q51491",
+      "predicate": "http://www.wikidata.org/prop/direct/P8998",
+      "object": "ABC07165/07827"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51491",
+      "predicate": "http://www.wikidata.org/prop/direct/P8309",
+      "object": "18-133805"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51491",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mihály Kertész"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51491",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "迈克尔·柯蒂兹"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51491",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Michael Kértèsz"
+    }
+  ]
+}

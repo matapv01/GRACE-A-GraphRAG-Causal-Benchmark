@@ -1,0 +1,48 @@
+{
+  "question_id": "9078",
+  "answers": [
+    "1883-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9078",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q296",
+        "predicate": "http://www.wikidata.org/prop/P551",
+        "object": "http://www.wikidata.org/entity/statement/Q296-8C121B1B-06F7-4AAC-9243-15BD06A1A549"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q296-8C121B1B-06F7-4AAC-9243-15BD06A1A549",
+        "predicate": "ps:P551",
+        "object": "http://www.wikidata.org/entity/Q165061"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q296-8C121B1B-06F7-4AAC-9243-15BD06A1A549",
+        "predicate": "pq:P580",
+        "object": "1883-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "מונה"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Моне, Клод"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "モネ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "莫奈"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "question_id": "10387",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16931901"
+  ],
+  "gold_path": {
+    "question_id": "10387",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q171421",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q171421-2D3F7819-64AF-42E1-956D-D8C0755D8A44"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q171421-2D3F7819-64AF-42E1-956D-D8C0755D8A44",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582573"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q171421-2D3F7819-64AF-42E1-956D-D8C0755D8A44",
+        "predicate": "pq:P768",
+        "object": "http://www.wikidata.org/entity/Q16931901"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q171421-2D3F7819-64AF-42E1-956D-D8C0755D8A44",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q7888019"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q171421",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "stanley-sir-henry-morton"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171421",
+      "predicate": "http://www.wikidata.org/prop/direct/P3280",
+      "object": "0000085284"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171421",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171421",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q103505599"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171421",
+      "predicate": "http://www.wikidata.org/prop/direct/P5063",
+      "object": "i96990"
+    }
+  ]
+}

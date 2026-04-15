@@ -1,0 +1,49 @@
+{
+  "question_id": "13822",
+  "answers": [
+    "http://www.wikidata.org/entity/Q460771",
+    "http://www.wikidata.org/entity/Q3008829"
+  ],
+  "gold_path": {
+    "question_id": "13822",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40939",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q460771"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q460771",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q47064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40939",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q3008829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3008829",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q47064"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40939",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "152"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40939",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Aeschylus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40939",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "اشیلوس"
+    }
+  ]
+}

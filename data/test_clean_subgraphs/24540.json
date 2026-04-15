@@ -1,0 +1,81 @@
+{
+  "question_id": "24540",
+  "answers": [
+    "http://www.wikidata.org/entity/Q104862276",
+    "http://www.wikidata.org/entity/Q2670905",
+    "http://www.wikidata.org/entity/Q7886740",
+    "http://www.wikidata.org/entity/Q7887623"
+  ],
+  "gold_path": {
+    "question_id": "24540",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2670905",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1127126"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2670905",
+        "predicate": "rdfs:label",
+        "object": "Union of Aragon"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7886740",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1127126"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7886740",
+        "predicate": "rdfs:label",
+        "object": "Union of Valencia"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7887623",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1127126"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7887623",
+        "predicate": "rdfs:label",
+        "object": "United Colonies"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q104862276",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1127126"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q104862276",
+        "predicate": "rdfs:label",
+        "object": "U.S.–Japan Alliance"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2670905",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Unión Aragonesa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2670905",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Unió d'Aragó"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2670905",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Union of Aragon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2670905",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Unión de Aragón"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2670905",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Uni Aragon"
+    }
+  ]
+}

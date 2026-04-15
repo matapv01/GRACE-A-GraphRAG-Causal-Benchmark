@@ -1,0 +1,43 @@
+{
+  "question_id": "26012",
+  "answers": [
+    "6900"
+  ],
+  "gold_path": {
+    "question_id": "26012",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q170167",
+        "predicate": "http://www.wikidata.org/prop/direct/P2231",
+        "object": "6900"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q170167",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P662",
+      "object": "http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID8376"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170167",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+      "object": "https://rdf.wwpdb.org/pdb/4AEO"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170167",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+      "object": "https://rdf.wwpdb.org/pdb/1GVR"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170167",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P638",
+      "object": "https://rdf.wwpdb.org/pdb/4AB4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170167",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P661",
+      "object": "http://rdf.chemspider.com/8073"
+    }
+  ]
+}

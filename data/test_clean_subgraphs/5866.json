@@ -1,0 +1,53 @@
+{
+  "question_id": "5866",
+  "answers": [
+    "2013-01-09T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5866",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10068",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q10068-9695DE76-8DFC-4067-9694-897B979B2893"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q10068-9695DE76-8DFC-4067-9694-897B979B2893",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q354865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q10068-9695DE76-8DFC-4067-9694-897B979B2893",
+        "predicate": "pq:P582",
+        "object": "2013-01-09T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10068",
+      "predicate": "http://www.wikidata.org/prop/P2013",
+      "object": "http://www.wikidata.org/entity/statement/Q10068-46cf4ae2-4a7f-8f0a-f90e-74a6b6726402"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10068",
+      "predicate": "http://www.wikidata.org/prop/direct/P8286",
+      "object": "101437"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10068",
+      "predicate": "http://www.wikidata.org/prop/P13797",
+      "object": "http://www.wikidata.org/entity/statement/Q10068-9A2888F1-8DEF-4D4D-B41C-0647AAC2BA98"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10068",
+      "predicate": "http://www.wikidata.org/prop/direct/P2013",
+      "object": "LindseyVonnUSA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10068",
+      "predicate": "http://www.wikidata.org/prop/direct/P13797",
+      "object": "lindsey-vonn"
+    }
+  ]
+}

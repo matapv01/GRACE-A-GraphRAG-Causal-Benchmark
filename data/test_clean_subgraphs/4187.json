@@ -1,0 +1,53 @@
+{
+  "question_id": "4187",
+  "answers": [
+    "0.01"
+  ],
+  "gold_path": {
+    "question_id": "4187",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q916",
+        "predicate": "http://www.wikidata.org/prop/P172",
+        "object": "http://www.wikidata.org/entity/statement/Q916-4fbd1dc8-498c-eec0-24a0-9410f0e05b66"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q916-4fbd1dc8-498c-eec0-24a0-9410f0e05b66",
+        "predicate": "ps:P172",
+        "object": "http://www.wikidata.org/entity/Q394067"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q916-4fbd1dc8-498c-eec0-24a0-9410f0e05b66",
+        "predicate": "pq:P1107",
+        "object": "0.01"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q916",
+      "predicate": "http://www.wikidata.org/prop/direct/P530",
+      "object": "http://www.wikidata.org/entity/Q28"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q916",
+      "predicate": "http://www.wikidata.org/prop/direct/P530",
+      "object": "http://www.wikidata.org/entity/Q30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q916",
+      "predicate": "http://www.wikidata.org/prop/direct/P530",
+      "object": "http://www.wikidata.org/entity/Q45"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q916",
+      "predicate": "http://www.wikidata.org/prop/direct/P530",
+      "object": "http://www.wikidata.org/entity/Q96"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q916",
+      "predicate": "http://www.wikidata.org/prop/direct/P530",
+      "object": "http://www.wikidata.org/entity/Q114"
+    }
+  ]
+}

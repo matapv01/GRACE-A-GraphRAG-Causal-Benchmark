@@ -1,0 +1,33 @@
+{
+  "question_id": "12631",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49112"
+  ],
+  "gold_path": {
+    "question_id": "12631",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q298149",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q49112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49112",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q49113"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q298149",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ernesto Zedillo Ponce de León"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298149",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ernesto Zedillo Ponce de Leon"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "11668",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1765120"
+  ],
+  "gold_path": {
+    "question_id": "11668",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q170581",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q170581-7E6F1CD8-CDAE-4138-825D-A602BCD00869"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q170581-7E6F1CD8-CDAE-4138-825D-A602BCD00869",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q3539296"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q170581-7E6F1CD8-CDAE-4138-825D-A602BCD00869",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q1765120"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q170581",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/q170581-AD0C04D9-27E1-4ECD-8B51-2FA75990FC50"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170581",
+      "predicate": "http://www.wikidata.org/prop/P22",
+      "object": "http://www.wikidata.org/entity/statement/Q170581-e29ed4f9-4008-26ea-a4d0-2da959fd5098"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170581",
+      "predicate": "http://www.wikidata.org/prop/direct/P227",
+      "object": "134187229"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170581",
+      "predicate": "http://www.wikidata.org/prop/direct/P2267",
+      "object": "nancy-pelosi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170581",
+      "predicate": "http://www.wikidata.org/prop/direct/P2734",
+      "object": "PelosiNancy"
+    }
+  ]
+}

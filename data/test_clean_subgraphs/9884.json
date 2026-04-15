@@ -1,0 +1,48 @@
+{
+  "question_id": "9884",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3029893"
+  ],
+  "gold_path": {
+    "question_id": "9884",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43203",
+        "predicate": "http://www.wikidata.org/prop/direct/P358",
+        "object": "http://www.wikidata.org/entity/Q3029893"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43203",
+        "predicate": "http://www.wikidata.org/prop/direct/P1283",
+        "object": "http://www.wikidata.org/entity/Q2543252"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43203",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "12543077f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43203",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "伊斯特伍德"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43203",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "به خاطر یک مشت دلار"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43203",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Clint"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43203",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Eastwood"
+    }
+  ]
+}

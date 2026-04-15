@@ -1,0 +1,48 @@
+{
+  "question_id": "7565",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18122778"
+  ],
+  "gold_path": {
+    "question_id": "7565",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5827",
+        "predicate": "http://www.wikidata.org/prop/P1066",
+        "object": "http://www.wikidata.org/entity/statement/Q5827-ed7f7930-47cc-eadf-3301-a294998f3315"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5827-ed7f7930-47cc-eadf-3301-a294998f3315",
+        "predicate": "ps:P1066",
+        "object": "http://www.wikidata.org/entity/Q183458"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5827-ed7f7930-47cc-eadf-3301-a294998f3315",
+        "predicate": "pq:P1480",
+        "object": "http://www.wikidata.org/entity/Q18122778"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5827",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pietro Vannucci"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5827",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Perugino"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5827",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Perugi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5827",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Peruggi"
+    }
+  ]
+}

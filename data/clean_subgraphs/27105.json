@@ -1,0 +1,43 @@
+{
+  "question_id": "27105",
+  "answers": [
+    "fmt/134"
+  ],
+  "gold_path": {
+    "question_id": "27105",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42591",
+        "predicate": "http://www.wikidata.org/prop/direct/P2748",
+        "object": "fmt/134"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42591",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "51"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42591",
+      "predicate": "http://www.wikidata.org/prop/P3266",
+      "object": "http://www.wikidata.org/entity/statement/Q42591-75e79a95-49a5-1805-a176-5e2ec2c75c74"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42591",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p21853"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42591",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4801",
+      "object": "http://id.loc.gov/vocabulary/mencformat/mp3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42591",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh00000865"
+    }
+  ]
+}

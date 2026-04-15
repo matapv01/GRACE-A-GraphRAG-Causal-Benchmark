@@ -1,0 +1,59 @@
+{
+  "question_id": "22628",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1881229",
+    "http://www.wikidata.org/entity/Q3329283"
+  ],
+  "gold_path": {
+    "question_id": "22628",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1881229",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q47780"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1881229",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q33506"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3329283",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q47780"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3329283",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q33506"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1881229",
+      "predicate": "http://www.wikidata.org/prop/P11686",
+      "object": "http://www.wikidata.org/entity/statement/Q1881229-C50E16DC-CB92-4A00-99A7-A0194D841997"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1881229",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q1881229-99A75091-2850-4B55-B8B1-4E1760F0F337"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1881229",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q1881229-861bf847-aad8-461e-b9bc-1f077b7d1bd6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1881229",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q1881229-a1dd67a4-3ccb-46c6-9eaa-33d5c53acf2e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1881229",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q1881229-a2a05257-9656-456e-9cbe-4ccf720ae276"
+    }
+  ]
+}

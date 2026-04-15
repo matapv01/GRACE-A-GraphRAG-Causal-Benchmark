@@ -1,0 +1,70 @@
+{
+  "question_id": "17536",
+  "answers": [
+    "http://www.wikidata.org/entity/Q413",
+    "http://www.wikidata.org/entity/Q333",
+    "http://www.wikidata.org/entity/Q4360"
+  ],
+  "gold_path": {
+    "question_id": "17536",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4360",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q189990"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189990",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q333"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189990",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4360",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q233974"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q233974",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q333"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q233974",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q4360"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4360",
+      "predicate": "http://www.wikidata.org/prop/P3827",
+      "object": "http://www.wikidata.org/entity/statement/Q4360-D2136782-994E-455E-ADCE-42EDE84C202C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4360",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "radio-pulsars"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4360",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q4360-97B2E044-7E73-4452-AED3-5229DF7A9C87"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4360",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "sh85109025"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4360",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Cycle%20of%20pulsed%20gamma%20rays%20from%20the%20Vela%20pulsar.gif"
+    }
+  ]
+}

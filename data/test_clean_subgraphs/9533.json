@@ -1,0 +1,65 @@
+{
+  "question_id": "9533",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2422891",
+    "http://www.wikidata.org/entity/Q735744",
+    "http://www.wikidata.org/entity/Q1536659"
+  ],
+  "gold_path": {
+    "question_id": "9533",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q32884",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q735744"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32884",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q464282"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32884",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q1370746"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32884",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1536659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32884",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q2422891"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q32884",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0js2k"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32884",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "20593939"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32884",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32884",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q32884-5A302201-771F-4223-B779-8F279EFAB5A1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32884",
+      "predicate": "http://www.wikidata.org/prop/direct/P13484",
+      "object": "green-lantern"
+    }
+  ]
+}

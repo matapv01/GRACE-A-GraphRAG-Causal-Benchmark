@@ -1,0 +1,58 @@
+{
+  "question_id": "10849",
+  "answers": [
+    "http://www.wikidata.org/entity/Q186579"
+  ],
+  "gold_path": {
+    "question_id": "10849",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q186579"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1827287",
+      "predicate": "http://www.wikidata.org/prop/direct/P1273",
+      "object": "a10165642"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1827287",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "lionel-trilling"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1827287",
+      "predicate": "http://www.wikidata.org/prop/direct/P1263",
+      "object": "215/000048071"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1827287",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "lionel-trilling"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1827287",
+      "predicate": "http://www.wikidata.org/prop/direct/P1296",
+      "object": "0067643"
+    }
+  ]
+}

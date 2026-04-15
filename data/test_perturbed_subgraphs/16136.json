@@ -1,0 +1,499 @@
+{
+  "clean": {
+    "question_id": "16136",
+    "answers": [
+      "http://www.wikidata.org/entity/Q142714",
+      "http://www.wikidata.org/entity/Q33972",
+      "http://www.wikidata.org/entity/Q1335161",
+      "http://www.wikidata.org/entity/Q192851",
+      "http://www.wikidata.org/entity/Q7889"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q142714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q7889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q45700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "MARTIAL CHAMPION"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q1335161"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q192851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q33972"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "16136",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q45700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "MARTIAL CHAMPION"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q33972"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1335161"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q7889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q192851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q142714"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "16136",
+    "answers": [
+      "http://www.wikidata.org/entity/Q142714",
+      "http://www.wikidata.org/entity/Q33972",
+      "http://www.wikidata.org/entity/Q1335161",
+      "http://www.wikidata.org/entity/Q192851",
+      "http://www.wikidata.org/entity/Q7889"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q142714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q7889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q45700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "MARTIAL CHAMPION"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q1335161"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q192851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q33972"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q131455699"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q131939127"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q133854923"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q133861825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q134727783"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "16136",
+    "answers": [
+      "http://www.wikidata.org/entity/Q142714",
+      "http://www.wikidata.org/entity/Q33972",
+      "http://www.wikidata.org/entity/Q1335161",
+      "http://www.wikidata.org/entity/Q192851",
+      "http://www.wikidata.org/entity/Q7889"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q142714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q7889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q45700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "MARTIAL CHAMPION"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q1335161"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q192851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q33972"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "16136",
+    "answers": [
+      "http://www.wikidata.org/entity/Q131455699"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q45700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "MARTIAL CHAMPION"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u30de\u30fc\u30b7\u30e3\u30eb \u30c1\u30e3\u30f3\u30d4\u30aa\u30f3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q131455699"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q131455699"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q131455699"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q131455699"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q131455699"
+      }
+    ]
+  }
+}

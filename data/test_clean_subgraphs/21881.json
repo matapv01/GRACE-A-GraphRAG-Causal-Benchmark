@@ -1,0 +1,48 @@
+{
+  "question_id": "21881",
+  "answers": [
+    "http://www.wikidata.org/entity/Q149947"
+  ],
+  "gold_path": {
+    "question_id": "21881",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220665",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q149947"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q149947",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "89"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "space-invaders"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Space Invaders Virtual Collection"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Invaders"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "スペースインベーダー・カラー"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "13028",
+  "answers": [
+    "http://www.wikidata.org/entity/Q65989"
+  ],
+  "gold_path": {
+    "question_id": "13028",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131594",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q65989"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65989",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q2589157"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131594",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/62159"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131594",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/PauliExclusionPrinciple"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131594",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4173571-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131594",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1617",
+      "object": "http://www.bbc.co.uk/things/3daab5a1-c626-44a8-91e5-98472b3389b6#id"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131594",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    }
+  ]
+}

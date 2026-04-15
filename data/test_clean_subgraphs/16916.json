@@ -1,0 +1,54 @@
+{
+  "question_id": "16916",
+  "answers": [
+    "http://www.wikidata.org/entity/Q770625",
+    "http://www.wikidata.org/entity/Q5342021"
+  ],
+  "gold_path": {
+    "question_id": "16916",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5446176",
+        "predicate": "http://www.wikidata.org/prop/direct/P195",
+        "object": "http://www.wikidata.org/entity/Q1970945"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1970945",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q770625"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1970945",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q5342021"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5446176",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2024-10-29T00:57:12Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5446176",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Fez"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5446176",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q5446176-4E895F9D-EBA6-47F4-8D11-97B3EE48E60C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5446176",
+      "predicate": "http://schema.org/version",
+      "object": "2266687921"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5446176",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    }
+  ]
+}

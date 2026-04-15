@@ -1,0 +1,98 @@
+{
+  "question_id": "11862",
+  "answers": [
+    "http://www.wikidata.org/entity/Q131182",
+    "http://www.wikidata.org/entity/Q153064",
+    "http://www.wikidata.org/entity/Q188766",
+    "http://www.wikidata.org/entity/Q164646",
+    "http://www.wikidata.org/entity/Q153044",
+    "http://www.wikidata.org/entity/Q189007"
+  ],
+  "gold_path": {
+    "question_id": "11862",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19848",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q131182"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131182",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q323470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19848",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q153044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153044",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q323470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19848",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q153064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153064",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q323470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19848",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q164646"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164646",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q323470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19848",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q188766"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188766",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q323470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19848",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q189007"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189007",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q323470"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19848",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T09:52:21Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19848",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Gaga"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19848",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ስቲፋኒ ጀርማኖታ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19848",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ስቲፋኒ ጆአኒ አንጀሊና ጀርማኖታ"
+    }
+  ]
+}

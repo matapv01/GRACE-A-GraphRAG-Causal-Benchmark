@@ -1,0 +1,114 @@
+{
+  "question_id": "23748",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11347570",
+    "http://www.wikidata.org/entity/Q2669901",
+    "http://www.wikidata.org/entity/Q1442189",
+    "http://www.wikidata.org/entity/Q116980355",
+    "http://www.wikidata.org/entity/Q2315059",
+    "http://www.wikidata.org/entity/Q908652",
+    "http://www.wikidata.org/entity/Q828112"
+  ],
+  "gold_path": {
+    "question_id": "23748",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q828112",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12202238"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q828112",
+        "predicate": "rdfs:label",
+        "object": "Prandtl–Glauert transformation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q908652",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12202238"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q908652",
+        "predicate": "rdfs:label",
+        "object": "Legendre transformation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1442189",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12202238"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1442189",
+        "predicate": "rdfs:label",
+        "object": "natural transformation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2315059",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12202238"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2315059",
+        "predicate": "rdfs:label",
+        "object": "Tseytin transformation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2669901",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12202238"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2669901",
+        "predicate": "rdfs:label",
+        "object": "alpha–beta transformation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11347570",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12202238"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11347570",
+        "predicate": "rdfs:label",
+        "object": "Landen's transformation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q116980355",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12202238"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q116980355",
+        "predicate": "rdfs:label",
+        "object": "Cole–Hopf transformation"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q828112",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q828112",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/18410767"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q828112",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Transformació de Prandtl-Glauert"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q828112",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Prandtl-Glauert-Transformation"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q828112",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Prandtl–Glauert transformation"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "question_id": "15836",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49115",
+    "http://www.wikidata.org/entity/Q28452545",
+    "http://www.wikidata.org/entity/Q49088",
+    "http://www.wikidata.org/entity/Q49108",
+    "http://www.wikidata.org/entity/Q21578",
+    "http://www.wikidata.org/entity/Q41506"
+  ],
+  "gold_path": {
+    "question_id": "15836",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q273508",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q323316"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q323316",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q21578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q323316",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q41506"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q323316",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q49088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q323316",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q49108"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q323316",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q49115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q323316",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q28452545"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q273508",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "inflationary-universe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q273508",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q3318059"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q273508",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-14T01:47:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q273508",
+      "predicate": "http://www.wikidata.org/prop/direct/P61",
+      "object": "http://www.wikidata.org/entity/Q2643921"
+    }
+  ]
+}

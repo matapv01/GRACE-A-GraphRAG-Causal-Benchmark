@@ -1,0 +1,53 @@
+{
+  "question_id": "3758",
+  "answers": [
+    "2008-02-13T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "3758",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q220-32149e54-4643-cded-419e-d1f97f8c6504"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q220-32149e54-4643-cded-419e-d1f97f8c6504",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q319547"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q220-32149e54-4643-cded-419e-d1f97f8c6504",
+        "predicate": "pq:P582",
+        "object": "2008-02-13T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rome%20Skyline%20%288012016319%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220",
+      "predicate": "http://www.wikidata.org/prop/direct/P190",
+      "object": "http://www.wikidata.org/entity/Q61"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220",
+      "predicate": "http://www.wikidata.org/prop/direct/P190",
+      "object": "http://www.wikidata.org/entity/Q90"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220",
+      "predicate": "http://www.wikidata.org/prop/direct/P190",
+      "object": "http://www.wikidata.org/entity/Q459"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220",
+      "predicate": "http://www.wikidata.org/prop/direct/P190",
+      "object": "http://www.wikidata.org/entity/Q956"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "question_id": "27513",
+  "answers": [
+    "http://www.wikidata.org/entity/Q425694",
+    "http://www.wikidata.org/entity/Q708514"
+  ],
+  "gold_path": {
+    "question_id": "27513",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q425694",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q2596569"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q708514",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q2596569"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q425694",
+      "predicate": "http://www.wikidata.org/prop/P1299",
+      "object": "http://www.wikidata.org/entity/statement/Q425694-d8103b5e-485f-83c9-4670-80954e813a61"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q425694",
+      "predicate": "http://www.wikidata.org/prop/P10283",
+      "object": "http://www.wikidata.org/entity/statement/Q425694-BB2EAEDA-4B8F-4C20-97B8-C0D0026E0B14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q425694",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/11h04fdbdm"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q425694",
+      "predicate": "http://www.wikidata.org/prop/P12086",
+      "object": "http://www.wikidata.org/entity/statement/Q425694-2D73D9BF-8F30-4D2F-B977-84C663C86BB7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q425694",
+      "predicate": "http://www.wikidata.org/prop/P2671",
+      "object": "http://www.wikidata.org/entity/statement/Q425694-8A2497B5-4DBB-48EF-8378-A753D9B3654E"
+    }
+  ]
+}

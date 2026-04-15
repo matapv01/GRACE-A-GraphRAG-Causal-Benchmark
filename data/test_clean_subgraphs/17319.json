@@ -1,0 +1,48 @@
+{
+  "question_id": "17319",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6356996"
+  ],
+  "gold_path": {
+    "question_id": "17319",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q201054",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q84",
+        "predicate": "http://www.wikidata.org/prop/direct/P1792",
+        "object": "http://www.wikidata.org/entity/Q6356996"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q201054",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "56"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201054",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "64"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201054",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "المنظمة البحرية الدولية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201054",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Organización Marítima Internacional"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201054",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Beynəlxalq Dəniz Təşkilatı"
+    }
+  ]
+}

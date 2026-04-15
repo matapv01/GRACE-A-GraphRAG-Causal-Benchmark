@@ -1,0 +1,53 @@
+{
+  "question_id": "8018",
+  "answers": [
+    "1983-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8018",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q183337",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/q183337-7B7B41C3-EE24-4A51-AB23-2312BD3C51EF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q183337-7B7B41C3-EE24-4A51-AB23-2312BD3C51EF",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q123885"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q183337-7B7B41C3-EE24-4A51-AB23-2312BD3C51EF",
+        "predicate": "pq:P580",
+        "object": "1983-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q183337",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "davidattenborough"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183337",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "SirDavidBBC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183337",
+      "predicate": "http://www.wikidata.org/prop/P25",
+      "object": "http://www.wikidata.org/entity/statement/Q183337-B1741E4D-9C7A-4FEC-A858-BB058DFFF5C8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183337",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "an51324"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183337",
+      "predicate": "http://www.wikidata.org/prop/direct/P1005",
+      "object": "36004"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "question_id": "3116",
+  "answers": [
+    "http://www.wikidata.org/entity/Q124540360",
+    "http://www.wikidata.org/entity/Q123785713",
+    "http://www.wikidata.org/entity/Q116038311",
+    "http://www.wikidata.org/entity/Q127240175",
+    "http://www.wikidata.org/entity/Q55612390"
+  ],
+  "gold_path": {
+    "question_id": "3116",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q55612390",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q55612390",
+        "predicate": "http://www.wikidata.org/prop/direct/P3039",
+        "object": "26002602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q123785713",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q123785713",
+        "predicate": "http://www.wikidata.org/prop/direct/P3039",
+        "object": "3100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q116038311",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q116038311",
+        "predicate": "http://www.wikidata.org/prop/direct/P3039",
+        "object": "3070"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127240175",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127240175",
+        "predicate": "http://www.wikidata.org/prop/direct/P3039",
+        "object": "3050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124540360",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124540360",
+        "predicate": "http://www.wikidata.org/prop/direct/P3039",
+        "object": "3000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q55612390",
+      "predicate": "http://schema.org/version",
+      "object": "2469696645"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55612390",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Geely%20Yuanjing%20III%20002.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55612390",
+      "predicate": "http://schema.org/description",
+      "object": "automobile"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55612390",
+      "predicate": "http://schema.org/description",
+      "object": "транспортний засіб з двигуном"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55612390",
+      "predicate": "http://schema.org/description",
+      "object": "motor vehicle"
+    }
+  ]
+}

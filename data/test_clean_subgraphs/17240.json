@@ -1,0 +1,54 @@
+{
+  "question_id": "17240",
+  "answers": [
+    "373",
+    "2"
+  ],
+  "gold_path": {
+    "question_id": "17240",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q201674",
+        "predicate": "http://www.wikidata.org/prop/direct/P915",
+        "object": "http://www.wikidata.org/entity/Q1342"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1342",
+        "predicate": "http://www.wikidata.org/prop/direct/P2044",
+        "object": "373"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q201674",
+        "predicate": "http://www.wikidata.org/prop/direct/P915",
+        "object": "http://www.wikidata.org/entity/Q1861"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1861",
+        "predicate": "http://www.wikidata.org/prop/direct/P2044",
+        "object": "2"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q201674",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cacciatore"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201674",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Deer Hunter"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201674",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "El cazador"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201674",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Deer Hunter"
+    }
+  ]
+}

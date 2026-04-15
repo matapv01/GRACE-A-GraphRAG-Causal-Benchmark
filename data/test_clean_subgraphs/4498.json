@@ -1,0 +1,65 @@
+{
+  "question_id": "4498",
+  "answers": [
+    "http://www.wikidata.org/entity/Q126098",
+    "http://www.wikidata.org/entity/Q1858445",
+    "http://www.wikidata.org/entity/Q312751"
+  ],
+  "gold_path": {
+    "question_id": "4498",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q208269",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q208269-29D8D106-0767-464C-AE01-2C3A787177E0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q208269-29D8D106-0767-464C-AE01-2C3A787177E0",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q41417"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q208269-29D8D106-0767-464C-AE01-2C3A787177E0",
+        "predicate": "pq:P2453",
+        "object": "http://www.wikidata.org/entity/Q126098"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q208269-29D8D106-0767-464C-AE01-2C3A787177E0",
+        "predicate": "pq:P2453",
+        "object": "http://www.wikidata.org/entity/Q312751"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q208269-29D8D106-0767-464C-AE01-2C3A787177E0",
+        "predicate": "pq:P2453",
+        "object": "http://www.wikidata.org/entity/Q1858445"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q208269",
+      "predicate": "http://www.wikidata.org/prop/direct/P11346",
+      "object": "se-mi-lasci-ti-cancello-k8g6cocz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208269",
+      "predicate": "http://www.wikidata.org/prop/direct/P1874",
+      "object": "60034545"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208269",
+      "predicate": "http://www.wikidata.org/prop/direct/P12347",
+      "object": "eternal-sunshine-of-the-spotless-mind"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208269",
+      "predicate": "http://www.wikidata.org/prop/direct/P11137",
+      "object": "eternal_sunshine_of_the_spotless_mind"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208269",
+      "predicate": "http://www.wikidata.org/prop/direct/P2684",
+      "object": "http://www.wikidata.org/entity/Q83154238"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "question_id": "28096",
+  "answers": [
+    "BMNH",
+    "NHMUK",
+    "BM",
+    "BM(NH)"
+  ],
+  "gold_path": {
+    "question_id": "28096",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q309388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4090",
+        "object": "BM"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q309388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4090",
+        "object": "BM(NH)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q309388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4090",
+        "object": "BMNH"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q309388",
+        "predicate": "http://www.wikidata.org/prop/direct/P4090",
+        "object": "NHMUK"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q309388",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "92"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q309388",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Բնագիտական թանգարան"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q309388",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Natural History Museum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q309388",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Náttúrugripasafnið í London"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q309388",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "இயற்கை வரலாற்று அருங்காட்சியகம்"
+    }
+  ]
+}

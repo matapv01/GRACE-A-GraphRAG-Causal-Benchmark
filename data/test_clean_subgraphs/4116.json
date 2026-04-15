@@ -1,0 +1,53 @@
+{
+  "question_id": "4116",
+  "answers": [
+    "http://www.wikidata.org/entity/Q316712"
+  ],
+  "gold_path": {
+    "question_id": "4116",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q168708",
+        "predicate": "http://www.wikidata.org/prop/P161",
+        "object": "http://www.wikidata.org/entity/statement/Q168708-98f80b17-4604-c783-7e2a-72ccce8740a5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q168708-98f80b17-4604-c783-7e2a-72ccce8740a5",
+        "predicate": "ps:P161",
+        "object": "http://www.wikidata.org/entity/Q316712"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q168708-98f80b17-4604-c783-7e2a-72ccce8740a5",
+        "predicate": "pq:P453",
+        "object": "http://www.wikidata.org/entity/Q2090662"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q168708",
+      "predicate": "http://schema.org/description",
+      "object": "sèrie de televisió"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168708",
+      "predicate": "http://schema.org/description",
+      "object": "סדרת טלוויזיה"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168708",
+      "predicate": "http://schema.org/description",
+      "object": "televisieserie uit Verenigde Staten van Amerika"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168708",
+      "predicate": "http://schema.org/description",
+      "object": "usona televidserio pri familio de terposedantoj"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168708",
+      "predicate": "http://schema.org/description",
+      "object": "1978-as televíziós sorozat"
+    }
+  ]
+}

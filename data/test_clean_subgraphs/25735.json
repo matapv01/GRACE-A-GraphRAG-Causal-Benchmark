@@ -1,0 +1,73 @@
+{
+  "question_id": "25735",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16623102",
+    "http://www.wikidata.org/entity/Q1353494",
+    "http://www.wikidata.org/entity/Q6091200",
+    "http://www.wikidata.org/entity/Q592203",
+    "http://www.wikidata.org/entity/Q1193916",
+    "http://www.wikidata.org/entity/Q3396457"
+  ],
+  "gold_path": {
+    "question_id": "25735",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q592203",
+        "predicate": "http://www.wikidata.org/prop/direct/P631",
+        "object": "http://www.wikidata.org/entity/Q168482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1193916",
+        "predicate": "http://www.wikidata.org/prop/direct/P631",
+        "object": "http://www.wikidata.org/entity/Q168482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1353494",
+        "predicate": "http://www.wikidata.org/prop/direct/P631",
+        "object": "http://www.wikidata.org/entity/Q168482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3396457",
+        "predicate": "http://www.wikidata.org/prop/direct/P631",
+        "object": "http://www.wikidata.org/entity/Q168482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6091200",
+        "predicate": "http://www.wikidata.org/prop/direct/P631",
+        "object": "http://www.wikidata.org/entity/Q168482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16623102",
+        "predicate": "http://www.wikidata.org/prop/direct/P631",
+        "object": "http://www.wikidata.org/entity/Q168482"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q592203",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kronprinzenbr%C3%BCcke.JPG"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q592203",
+      "predicate": "http://www.wikidata.org/prop/direct/P276",
+      "object": "http://www.wikidata.org/entity/Q328672"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q592203",
+      "predicate": "http://www.wikidata.org/prop/direct/P276",
+      "object": "http://www.wikidata.org/entity/Q2013767"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q592203",
+      "predicate": "http://www.wikidata.org/prop/direct/P2789",
+      "object": "http://www.wikidata.org/entity/Q58986035"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q592203",
+      "predicate": "http://www.wikidata.org/prop/direct/P2789",
+      "object": "http://www.wikidata.org/entity/Q59220378"
+    }
+  ]
+}

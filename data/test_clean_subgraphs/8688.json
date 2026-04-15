@@ -1,0 +1,53 @@
+{
+  "question_id": "8688",
+  "answers": [
+    "http://www.wikidata.org/entity/Q963284"
+  ],
+  "gold_path": {
+    "question_id": "8688",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q561837",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q561837-BC3C916C-41CA-468F-B6C3-5FC9CBCD84FE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q561837-BC3C916C-41CA-468F-B6C3-5FC9CBCD84FE",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q21693118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q561837-BC3C916C-41CA-468F-B6C3-5FC9CBCD84FE",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q963284"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q561837",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Macri%202016.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q561837",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "mauriciomacri"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q561837",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q12969145"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q561837",
+      "predicate": "http://www.wikidata.org/prop/direct/P10302",
+      "object": "mauricio-macri"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q561837",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "mauriciomacri"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "17653",
+  "answers": [
+    "http://www.wikidata.org/entity/Q963227"
+  ],
+  "gold_path": {
+    "question_id": "17653",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21063582",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q6460028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6460028",
+        "predicate": "http://www.wikidata.org/prop/direct/P118",
+        "object": "http://www.wikidata.org/entity/Q963227"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21063582",
+      "predicate": "http://schema.org/version",
+      "object": "2410714700"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21063582",
+      "predicate": "http://schema.org/description",
+      "object": "American football offensive tackle"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21063582",
+      "predicate": "http://schema.org/description",
+      "object": "미국 미식축구 선수"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21063582",
+      "predicate": "http://schema.org/description",
+      "object": "Canadian-footballspeler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21063582",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    }
+  ]
+}

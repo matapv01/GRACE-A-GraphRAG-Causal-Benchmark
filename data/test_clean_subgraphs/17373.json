@@ -1,0 +1,48 @@
+{
+  "question_id": "17373",
+  "answers": [
+    "http://www.wikidata.org/entity/Q233812"
+  ],
+  "gold_path": {
+    "question_id": "17373",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q459898",
+        "predicate": "http://www.wikidata.org/prop/direct/P1327",
+        "object": "http://www.wikidata.org/entity/Q974752"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q974752",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q233812"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q459898",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q459898-B83DC4AA-2CDF-4B9A-BC4B-BD01B6D3FA0C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q459898",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kovarikova%20radka.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q459898",
+      "predicate": "http://schema.org/version",
+      "object": "2476007934"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q459898",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q459898-D6165314-1D81-46EF-8775-F05D9AA4241D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q459898",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q14960"
+    }
+  ]
+}

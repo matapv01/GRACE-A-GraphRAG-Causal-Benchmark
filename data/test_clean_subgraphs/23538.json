@@ -1,0 +1,48 @@
+{
+  "question_id": "23538",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1794536"
+  ],
+  "gold_path": {
+    "question_id": "23538",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1794536",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q158555"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1794536",
+        "predicate": "rdfs:label",
+        "object": "Ypsilon"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1794536",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1794536",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ypsilon Bridge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1794536",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Y brua"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1794536",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Y-brua"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1794536",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ypsilon bru"
+    }
+  ]
+}

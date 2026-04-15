@@ -1,0 +1,48 @@
+{
+  "question_id": "20189",
+  "answers": [
+    "http://www.wikidata.org/entity/Q131149"
+  ],
+  "gold_path": {
+    "question_id": "20189",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q863534",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q131149"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131149",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q863534",
+      "predicate": "http://www.wikidata.org/prop/P3847",
+      "object": "http://www.wikidata.org/entity/statement/Q863534-af5fd763-47b8-807b-571f-d26a9dce5026"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863534",
+      "predicate": "http://www.wikidata.org/prop/P407",
+      "object": "http://www.wikidata.org/entity/statement/Q863534-151D5B00-9C86-4788-8971-1BD5D217E122"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863534",
+      "predicate": "http://www.wikidata.org/prop/P409",
+      "object": "http://www.wikidata.org/entity/statement/Q863534-66310982-4d37-5257-5bc2-2dc773851100"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863534",
+      "predicate": "http://www.wikidata.org/prop/P3631",
+      "object": "http://www.wikidata.org/entity/statement/Q863534-2226c614-42a7-8e55-0629-f687d62f1de4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863534",
+      "predicate": "http://www.wikidata.org/prop/direct/P3847",
+      "object": "walden_(thoreau_henry_david)"
+    }
+  ]
+}

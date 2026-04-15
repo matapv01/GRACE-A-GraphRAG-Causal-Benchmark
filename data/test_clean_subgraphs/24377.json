@@ -1,0 +1,59 @@
+{
+  "question_id": "24377",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18064632",
+    "http://www.wikidata.org/entity/Q179911"
+  ],
+  "gold_path": {
+    "question_id": "24377",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179911",
+        "predicate": "rdfs:label",
+        "object": "tourmalines"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3977918"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18064632",
+        "predicate": "rdfs:label",
+        "object": "titanium disilicate-block supergroup"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179911",
+      "predicate": "http://schema.org/description",
+      "object": "minerale"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179911",
+      "predicate": "http://schema.org/description",
+      "object": "mineral"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179911",
+      "predicate": "http://schema.org/description",
+      "object": "קבוצת מינרלים"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179911",
+      "predicate": "http://schema.org/description",
+      "object": "حجر شبه كريم"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179911",
+      "predicate": "http://schema.org/description",
+      "object": "grup d'espècies de minerals de la classe dels silicats"
+    }
+  ]
+}

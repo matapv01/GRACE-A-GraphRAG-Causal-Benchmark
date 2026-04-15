@@ -1,0 +1,53 @@
+{
+  "question_id": "5962",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49110"
+  ],
+  "gold_path": {
+    "question_id": "5962",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q80405",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q80405-46917C56-26EB-44A7-8BB6-90BB196C962D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q80405-46917C56-26EB-44A7-8BB6-90BB196C962D",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49110"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q80405-46917C56-26EB-44A7-8BB6-90BB196C962D",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q2878277"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q80405",
+      "predicate": "http://www.wikidata.org/prop/direct/P5284",
+      "object": "1054519"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80405",
+      "predicate": "http://www.wikidata.org/prop/direct/P2688",
+      "object": "juliannemoore"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80405",
+      "predicate": "http://www.wikidata.org/prop/direct/P5254",
+      "object": "1619"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80405",
+      "predicate": "http://www.wikidata.org/prop/direct/P5233",
+      "object": "a23884"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80405",
+      "predicate": "http://www.wikidata.org/prop/direct/P4682",
+      "object": "681"
+    }
+  ]
+}

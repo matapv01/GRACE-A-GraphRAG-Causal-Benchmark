@@ -1,0 +1,53 @@
+{
+  "question_id": "7163",
+  "answers": [
+    "1970-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7163",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q202342",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q202342-5d828080-418c-a532-a7d1-2fe7d31e65f1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q202342-5d828080-418c-a532-a7d1-2fe7d31e65f1",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q782909"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q202342-5d828080-418c-a532-a7d1-2fe7d31e65f1",
+        "predicate": "pq:P582",
+        "object": "1970-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q202342",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-08T00:12:44Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202342",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q202342-9B077FB4-70BD-4E13-A0DD-9E363915AFC8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202342",
+      "predicate": "http://www.wikidata.org/prop/P2522",
+      "object": "http://www.wikidata.org/entity/statement/Q202342-011A8BC6-36EB-40D3-A55C-AEF4C534A772"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202342",
+      "predicate": "http://www.wikidata.org/prop/P2522",
+      "object": "http://www.wikidata.org/entity/statement/Q202342-01531F54-84FF-4E06-8E7A-E0ABB2C3CC34"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202342",
+      "predicate": "http://www.wikidata.org/prop/P2522",
+      "object": "http://www.wikidata.org/entity/statement/Q202342-039E89BF-396E-4F81-B03B-FB1B2D0353A2"
+    }
+  ]
+}

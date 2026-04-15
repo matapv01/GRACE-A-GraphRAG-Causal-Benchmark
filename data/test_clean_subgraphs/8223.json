@@ -1,0 +1,43 @@
+{
+  "question_id": "8223",
+  "answers": [
+    "Point(6.835 46.466944444)"
+  ],
+  "gold_path": {
+    "question_id": "8223",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q160746",
+        "predicate": "http://www.wikidata.org/prop/P159",
+        "object": "http://www.wikidata.org/entity/statement/Q160746-D828675A-1C1E-408E-B37A-B3F09B3BF673"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160746-D828675A-1C1E-408E-B37A-B3F09B3BF673",
+        "predicate": "ps:P159",
+        "object": "http://www.wikidata.org/entity/Q68160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160746-D828675A-1C1E-408E-B37A-B3F09B3BF673",
+        "predicate": "pq:P625",
+        "object": "Point(6.835 46.466944444)"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q160746",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nescafé"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160746",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nestle"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160746",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nestlé"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "question_id": "21502",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2610",
+    "http://www.wikidata.org/entity/Q57896",
+    "http://www.wikidata.org/entity/Q77210",
+    "http://www.wikidata.org/entity/Q57241",
+    "http://www.wikidata.org/entity/Q57412"
+  ],
+  "gold_path": {
+    "question_id": "21502",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16957",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q2610"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2610",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16957",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q57241"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57241",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16957",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q57412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57412",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16957",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q57896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57896",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16957",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q77210"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q77210",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Østtyskland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "DDR"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ostdeutschland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "East Germany"
+    }
+  ]
+}

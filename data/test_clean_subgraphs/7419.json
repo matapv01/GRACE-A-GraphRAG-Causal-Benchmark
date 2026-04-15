@@ -1,0 +1,53 @@
+{
+  "question_id": "7419",
+  "answers": [
+    "1989-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7419",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1141252",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q1141252-6CF88682-B6A0-417D-A190-7E99DFF673A2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1141252-6CF88682-B6A0-417D-A190-7E99DFF673A2",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q723830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1141252-6CF88682-B6A0-417D-A190-7E99DFF673A2",
+        "predicate": "pq:P585",
+        "object": "1989-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1141252",
+      "predicate": "http://www.wikidata.org/prop/P1970",
+      "object": "http://www.wikidata.org/entity/statement/Q1141252-114E53B5-1735-4DCA-9A28-391536862CD3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1141252",
+      "predicate": "http://www.wikidata.org/prop/P58",
+      "object": "http://www.wikidata.org/entity/statement/q1141252-26D765DF-753F-49DF-8B7D-5C05FC678F25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1141252",
+      "predicate": "http://www.wikidata.org/prop/P2684",
+      "object": "http://www.wikidata.org/entity/statement/Q1141252-543df182-f554-4c4a-92ce-7f9183da60ea"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1141252",
+      "predicate": "http://www.wikidata.org/prop/P2684",
+      "object": "http://www.wikidata.org/entity/statement/Q1141252-c44f6988-c481-4f54-a7d3-9ec2b0db0f89"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1141252",
+      "predicate": "http://www.wikidata.org/prop/P915",
+      "object": "http://www.wikidata.org/entity/statement/Q1141252-15273299-18AB-4F12-8A5B-DF212C1512CF"
+    }
+  ]
+}

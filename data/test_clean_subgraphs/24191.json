@@ -1,0 +1,81 @@
+{
+  "question_id": "24191",
+  "answers": [
+    "http://www.wikidata.org/entity/Q33135384",
+    "http://www.wikidata.org/entity/Q1919992",
+    "http://www.wikidata.org/entity/Q2334025",
+    "http://www.wikidata.org/entity/Q4918285"
+  ],
+  "gold_path": {
+    "question_id": "24191",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2334025",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28807042"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2334025",
+        "predicate": "rdfs:label",
+        "object": "Big Two"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4918285",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28807042"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4918285",
+        "predicate": "rdfs:label",
+        "object": "Bismarck"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33135384",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28807042"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33135384",
+        "predicate": "rdfs:label",
+        "object": "bocce"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1919992",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28807042"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1919992",
+        "predicate": "rdfs:label",
+        "object": "Blind man's bluff"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2334025",
+      "predicate": "http://schema.org/version",
+      "object": "2318067926"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2334025",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Big Two"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2334025",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2334025",
+      "predicate": "http://schema.org/description",
+      "object": "Jogo de cartas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2334025",
+      "predicate": "http://schema.org/description",
+      "object": "撲克牌遊戲"
+    }
+  ]
+}

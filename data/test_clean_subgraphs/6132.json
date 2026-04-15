@@ -1,0 +1,43 @@
+{
+  "question_id": "6132",
+  "answers": [
+    "1989-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6132",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44461",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q44461-06A0A980-63BF-43CD-8FFC-6A43420B975B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q44461-06A0A980-63BF-43CD-8FFC-6A43420B975B",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q7516191"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q44461-06A0A980-63BF-43CD-8FFC-6A43420B975B",
+        "predicate": "pq:P585",
+        "object": "1989-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44461",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "136"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44461",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "136"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44461",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Richard Dawkins"
+    }
+  ]
+}

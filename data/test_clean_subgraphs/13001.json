@@ -1,0 +1,48 @@
+{
+  "question_id": "13001",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103916"
+  ],
+  "gold_path": {
+    "question_id": "13001",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q270510",
+        "predicate": "http://www.wikidata.org/prop/direct/P1411",
+        "object": "http://www.wikidata.org/entity/Q103916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q103916",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q182229"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q270510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Apartment"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Appartamento"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "اپارتمان"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Apartment"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Garçonnière"
+    }
+  ]
+}

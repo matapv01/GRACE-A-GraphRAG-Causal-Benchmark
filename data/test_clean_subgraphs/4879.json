@@ -1,0 +1,69 @@
+{
+  "question_id": "4879",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2160347",
+    "http://www.wikidata.org/entity/Q7847688"
+  ],
+  "gold_path": {
+    "question_id": "4879",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q374610",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q374610-9A534885-734A-40A2-B679-F0C0F3959BC4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q374610-9A534885-734A-40A2-B679-F0C0F3959BC4",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q285117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q374610-9A534885-734A-40A2-B679-F0C0F3959BC4",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q2160347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q374610",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q374610-E30E4C8B-A582-42F2-BA47-3583DA68A0A2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q374610-E30E4C8B-A582-42F2-BA47-3583DA68A0A2",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q285117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q374610-E30E4C8B-A582-42F2-BA47-3583DA68A0A2",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q7847688"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q374610",
+      "predicate": "http://www.wikidata.org/prop/P4985",
+      "object": "http://www.wikidata.org/entity/statement/Q374610-0E1E1625-632E-44E6-BED3-6AC0D09C0C00"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374610",
+      "predicate": "http://www.wikidata.org/prop/P434",
+      "object": "http://www.wikidata.org/entity/statement/Q374610-8586f696-38dd-4836-9277-b8fb935c4010"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374610",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q374610-D301D8C1-E454-49E7-8FD5-E99B6E674E5A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374610",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "37332"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374610",
+      "predicate": "http://www.wikidata.org/prop/P949",
+      "object": "http://www.wikidata.org/entity/statement/Q374610-0ee5caa6-482a-e25d-763e-df14c5cf71e6"
+    }
+  ]
+}

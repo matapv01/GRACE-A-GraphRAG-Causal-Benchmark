@@ -1,0 +1,43 @@
+{
+  "question_id": "29269",
+  "answers": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Phrase%20de%20Neil%20Armstrong.oga"
+  ],
+  "gold_path": {
+    "question_id": "29269",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1615",
+        "predicate": "http://www.wikidata.org/prop/direct/P51",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phrase%20de%20Neil%20Armstrong.oga"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1615",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Armstrong"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1615",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "암스트롱"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1615",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "नील अल्डेन आर्मस्ट्रॉंग"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1615",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "armstryg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1615",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "la nil.armstryg"
+    }
+  ]
+}

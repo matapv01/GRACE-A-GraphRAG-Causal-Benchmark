@@ -1,0 +1,53 @@
+{
+  "question_id": "10267",
+  "answers": [
+    "http://www.wikidata.org/entity/Q918397"
+  ],
+  "gold_path": {
+    "question_id": "10267",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128995",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q128995-4E6CD9ED-3268-41DC-9477-9DBE7C1FBC48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128995-4E6CD9ED-3268-41DC-9477-9DBE7C1FBC48",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582597"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128995-4E6CD9ED-3268-41DC-9477-9DBE7C1FBC48",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q918397"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128995-4E6CD9ED-3268-41DC-9477-9DBE7C1FBC48",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q741182"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128995",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q128995-05CFE01D-FC11-4CC3-B6CD-1DFC0C3BC596"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128995",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q128995-1550CD6F-45CD-4867-A2B7-A3C1D131EA42"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128995",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q128995-47CDEAB8-8EB8-4D6C-A000-081E4EC512A1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128995",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q128995-502f8148-466f-f1e8-9951-2e7673cba0a5"
+    }
+  ]
+}

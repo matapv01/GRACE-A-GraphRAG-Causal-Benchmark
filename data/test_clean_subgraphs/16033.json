@@ -1,0 +1,48 @@
+{
+  "question_id": "16033",
+  "answers": [
+    "http://www.wikidata.org/entity/Q708963"
+  ],
+  "gold_path": {
+    "question_id": "16033",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3612339",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q3868906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3868906",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q708963"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3612339",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3612339",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "11"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3612339",
+      "predicate": "http://schema.org/description",
+      "object": "ألبوم"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3612339",
+      "predicate": "http://schema.org/description",
+      "object": "1964 album by Allan Sherman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3612339",
+      "predicate": "http://schema.org/description",
+      "object": "album by Allan Sherman"
+    }
+  ]
+}

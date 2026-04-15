@@ -1,0 +1,43 @@
+{
+  "question_id": "26109",
+  "answers": [
+    "000014546"
+  ],
+  "gold_path": {
+    "question_id": "26109",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30849",
+        "predicate": "http://www.wikidata.org/prop/direct/P5398",
+        "object": "000014546"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q30849",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "130"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30849",
+      "predicate": "http://schema.org/version",
+      "object": "2478363265"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30849",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "وبنوشت"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30849",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "blogg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30849",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "blog"
+    }
+  ]
+}

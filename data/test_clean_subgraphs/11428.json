@@ -1,0 +1,100 @@
+{
+  "question_id": "11428",
+  "answers": [
+    "http://www.wikidata.org/entity/Q310435",
+    "http://www.wikidata.org/entity/Q154936",
+    "http://www.wikidata.org/entity/Q150712"
+  ],
+  "gold_path": {
+    "question_id": "11428",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q274606",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q274606-3DF63016-DC04-4B38-BF87-4685793618EA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-3DF63016-DC04-4B38-BF87-4685793618EA",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q271148"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-3DF63016-DC04-4B38-BF87-4685793618EA",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q150712"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q274606",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q274606-74329672-8C86-4DDA-824E-0BFA25C5B68D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-74329672-8C86-4DDA-824E-0BFA25C5B68D",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q271148"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-74329672-8C86-4DDA-824E-0BFA25C5B68D",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q310435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q274606",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q274606-B68F40E4-091B-4355-8077-A50149A6806F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-B68F40E4-091B-4355-8077-A50149A6806F",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q23906200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-B68F40E4-091B-4355-8077-A50149A6806F",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q310435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q274606",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q274606-BCC3AAD8-6D2F-42DE-9077-8A88CFE3DBC8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-BCC3AAD8-6D2F-42DE-9077-8A88CFE3DBC8",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q271148"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q274606-BCC3AAD8-6D2F-42DE-9077-8A88CFE3DBC8",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q154936"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q274606",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P271",
+      "object": "https://ci.nii.ac.jp/author/DA17322770#entity"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274606",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q53245"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274606",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "berengar-i"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274606",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Berengario%20emperador.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274606",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/101997728"
+    }
+  ]
+}

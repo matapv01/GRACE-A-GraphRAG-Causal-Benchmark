@@ -1,0 +1,59 @@
+{
+  "question_id": "20097",
+  "answers": [
+    "http://www.wikidata.org/entity/Q50659",
+    "http://www.wikidata.org/entity/Q296"
+  ],
+  "gold_path": {
+    "question_id": "20097",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40415",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q296"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40415",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q50659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50659",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40415",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q40415-302dd690-436b-718f-0928-1ea7c0279aa3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40415",
+      "predicate": "http://www.wikidata.org/prop/P9000",
+      "object": "http://www.wikidata.org/entity/statement/Q40415-6B72A401-8445-419B-848A-FC91D29160BC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40415",
+      "predicate": "http://www.wikidata.org/prop/P7982",
+      "object": "http://www.wikidata.org/entity/statement/Q40415-37F95923-1E08-4836-9BD2-3CD84F6DABD8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40415",
+      "predicate": "http://www.wikidata.org/prop/P12086",
+      "object": "http://www.wikidata.org/entity/statement/Q40415-71792DDB-4DC6-4419-B2A5-A8FA4C7A8A0D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40415",
+      "predicate": "http://www.wikidata.org/prop/P7786",
+      "object": "http://www.wikidata.org/entity/statement/Q40415-c2316497-4dae-9d9a-ef7a-d22321af9aaf"
+    }
+  ]
+}

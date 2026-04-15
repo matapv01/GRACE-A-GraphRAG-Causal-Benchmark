@@ -1,0 +1,43 @@
+{
+  "question_id": "13844",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23436"
+  ],
+  "gold_path": {
+    "question_id": "13844",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189937",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q23436"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189937",
+      "predicate": "http://www.wikidata.org/prop/P4359",
+      "object": "http://www.wikidata.org/entity/statement/Q189937-975cf20e-4b1c-b0e9-97fd-28cb723a3423"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189937",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q189937-4FFF50F6-8767-4A53-ACC9-76F1E3E82D2A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189937",
+      "predicate": "http://www.wikidata.org/prop/direct/P4359",
+      "object": "johnknox"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189937",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "5931377"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189937",
+      "predicate": "http://www.wikidata.org/prop/P4159",
+      "object": "http://www.wikidata.org/entity/statement/Q189937-30D57E95-6530-4ED0-A44C-64A672FD03FC"
+    }
+  ]
+}

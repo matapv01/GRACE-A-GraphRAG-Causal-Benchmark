@@ -1,0 +1,43 @@
+{
+  "question_id": "17892",
+  "answers": [
+    "-1900000-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "17892",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q192993",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q101362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q101362",
+        "predicate": "http://www.wikidata.org/prop/direct/P580",
+        "object": "-1900000-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q192993",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-01-19T14:54:57Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192993",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192993",
+      "predicate": "http://schema.org/description",
+      "object": "nome dato ai fossili di ominide scoperti nell'isola di Giava"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192993",
+      "predicate": "http://schema.org/description",
+      "object": "underart av pattedyr"
+    }
+  ]
+}

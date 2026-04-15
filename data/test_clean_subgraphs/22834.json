@@ -1,0 +1,38 @@
+{
+  "question_id": "22834",
+  "answers": [
+    "http://www.wikidata.org/entity/Q493581"
+  ],
+  "gold_path": {
+    "question_id": "22834",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2469",
+        "predicate": "http://www.wikidata.org/prop/direct/P398",
+        "object": "http://www.wikidata.org/entity/Q493581"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q493581",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q184348"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2469",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Andromeda"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2469",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Андромедæ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2469",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "M31"
+    }
+  ]
+}

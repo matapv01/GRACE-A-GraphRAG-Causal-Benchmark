@@ -1,0 +1,28 @@
+{
+  "question_id": "29443",
+  "answers": [
+    "T3604"
+  ],
+  "gold_path": {
+    "question_id": "29443",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2211",
+        "predicate": "http://www.wikidata.org/prop/direct/P775",
+        "object": "T3604"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2211",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Malmo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2211",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Malmö"
+    }
+  ]
+}

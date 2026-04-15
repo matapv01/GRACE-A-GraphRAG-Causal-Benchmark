@@ -1,0 +1,54 @@
+{
+  "question_id": "16194",
+  "answers": [
+    "53012456",
+    "57106398"
+  ],
+  "gold_path": {
+    "question_id": "16194",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P2341",
+        "object": "http://www.wikidata.org/entity/Q21"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21",
+        "predicate": "http://www.wikidata.org/prop/direct/P1082",
+        "object": "53012456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21",
+        "predicate": "http://www.wikidata.org/prop/direct/P1082",
+        "object": "57106398"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P1018"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://schema.org/description",
+      "object": "γλῶσσα"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://schema.org/description",
+      "object": "lingua germanica occidentale"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://schema.org/description",
+      "object": "West Germanic language"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://schema.org/description",
+      "object": "westgermanische Sprache"
+    }
+  ]
+}

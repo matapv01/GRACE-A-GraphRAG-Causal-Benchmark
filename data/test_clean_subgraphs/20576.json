@@ -1,0 +1,59 @@
+{
+  "question_id": "20576",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6822266",
+    "http://www.wikidata.org/entity/Q4810015"
+  ],
+  "gold_path": {
+    "question_id": "20576",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q540672",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q4810015"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4810015",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43229"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q540672",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q6822266"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6822266",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43229"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q540672",
+      "predicate": "http://schema.org/version",
+      "object": "2478764923"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q540672",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "46"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q540672",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "34"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q540672",
+      "predicate": "http://schema.org/description",
+      "object": "americká univerzita"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q540672",
+      "predicate": "http://schema.org/description",
+      "object": "Ilé-ìwe gíga"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "4013",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4765305"
+  ],
+  "gold_path": {
+    "question_id": "4013",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q296069",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q296069-E0260D2E-E70B-4500-ACB8-C6278F40A267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q296069-E0260D2E-E70B-4500-ACB8-C6278F40A267",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q4765305"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q296069-E0260D2E-E70B-4500-ACB8-C6278F40A267",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q2281600"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q296069",
+      "predicate": "http://www.wikidata.org/prop/P9984",
+      "object": "http://www.wikidata.org/entity/statement/Q296069-311D2EA3-B340-4A15-BF41-55426E723001"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296069",
+      "predicate": "http://www.wikidata.org/prop/P6886",
+      "object": "http://www.wikidata.org/entity/statement/Q296069-d39525b4-4f95-33c9-5a2d-05263632eb3c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296069",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Haley"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296069",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "አሌክስ ሃሌይ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q296069",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "اليكس هيلي"
+    }
+  ]
+}

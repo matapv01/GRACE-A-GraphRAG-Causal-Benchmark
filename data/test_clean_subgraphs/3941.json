@@ -1,0 +1,59 @@
+{
+  "question_id": "3941",
+  "answers": [
+    "http://www.wikidata.org/entity/Q26183322",
+    "http://www.wikidata.org/entity/Q5650883"
+  ],
+  "gold_path": {
+    "question_id": "3941",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q84148",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q84148-45BA73B2-2DA6-46F6-BF5D-96928A8752DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q84148-45BA73B2-2DA6-46F6-BF5D-96928A8752DB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q26183322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q84148",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q84148-58f78a1e-4447-3b64-de21-34defa75bc24"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q84148-58f78a1e-4447-3b64-de21-34defa75bc24",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5650883"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q84148",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "132"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84148",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-29T01:46:58Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84148",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q84148-ffc58e60-431f-126d-0127-c0e6c3a14cca"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84148",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q84148-CEB496C7-A998-4E40-8C05-8F716514A871"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84148",
+      "predicate": "http://www.wikidata.org/prop/P434",
+      "object": "http://www.wikidata.org/entity/statement/q84148-D224C201-EC4B-4BA1-B2AB-179745CE61C8"
+    }
+  ]
+}

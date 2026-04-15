@@ -1,0 +1,65 @@
+{
+  "question_id": "11025",
+  "answers": [
+    "http://www.wikidata.org/entity/Q179161",
+    "http://www.wikidata.org/entity/Q6689",
+    "http://www.wikidata.org/entity/Q60242"
+  ],
+  "gold_path": {
+    "question_id": "11025",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36591",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q36591-831A2C3F-43D5-4D11-9481-9B28B745FA42"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36591-831A2C3F-43D5-4D11-9481-9B28B745FA42",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q332342"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36591-831A2C3F-43D5-4D11-9481-9B28B745FA42",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q6689"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36591-831A2C3F-43D5-4D11-9481-9B28B745FA42",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q60242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36591-831A2C3F-43D5-4D11-9481-9B28B745FA42",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q179161"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q36591",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "370"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36591",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "148"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36591",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vladimír Nabokov"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36591",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vladimir Vladimirovitj Nabokov"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36591",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vladimir Vladimirovich Nabokov"
+    }
+  ]
+}

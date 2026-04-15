@@ -1,0 +1,114 @@
+{
+  "question_id": "23847",
+  "answers": [
+    "http://www.wikidata.org/entity/Q499451",
+    "http://www.wikidata.org/entity/Q49117",
+    "http://www.wikidata.org/entity/Q13371",
+    "http://www.wikidata.org/entity/Q49112",
+    "http://www.wikidata.org/entity/Q49088",
+    "http://www.wikidata.org/entity/Q49114",
+    "http://www.wikidata.org/entity/Q21578"
+  ],
+  "gold_path": {
+    "question_id": "23847",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q49088",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1188663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49088",
+        "predicate": "rdfs:label",
+        "object": "Columbia University"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21578",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1188663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21578",
+        "predicate": "rdfs:label",
+        "object": "Princeton University"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13371",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1188663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13371",
+        "predicate": "rdfs:label",
+        "object": "Harvard University"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49117",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1188663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49117",
+        "predicate": "rdfs:label",
+        "object": "University of Pennsylvania"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49112",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1188663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49112",
+        "predicate": "rdfs:label",
+        "object": "Yale University"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49114",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1188663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49114",
+        "predicate": "rdfs:label",
+        "object": "Brown University"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q499451",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1188663"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q499451",
+        "predicate": "rdfs:label",
+        "object": "Rutgers University"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q49088",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "130"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49088",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "284"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49088",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49088",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "96"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49088",
+      "predicate": "http://www.wikidata.org/prop/direct/P9943",
+      "object": "organization/505836317948"
+    }
+  ]
+}

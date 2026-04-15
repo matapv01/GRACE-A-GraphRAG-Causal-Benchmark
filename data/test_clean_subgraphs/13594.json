@@ -1,0 +1,43 @@
+{
+  "question_id": "13594",
+  "answers": [
+    "http://www.wikidata.org/entity/Q408"
+  ],
+  "gold_path": {
+    "question_id": "13594",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q623169",
+        "predicate": "http://www.wikidata.org/prop/direct/P183",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q408",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q33788"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q623169",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bennetwallaby.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q623169",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0mb5g"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q623169",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "sh85144920"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q623169",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q623169-39E37E1E-9116-490C-B8EE-4966C8B9E4B8"
+    }
+  ]
+}

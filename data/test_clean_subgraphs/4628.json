@@ -1,0 +1,53 @@
+{
+  "question_id": "4628",
+  "answers": [
+    "2010-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4628",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q75847",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q75847-3399D691-8704-4D7C-93DA-194A0C1006A7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q75847-3399D691-8704-4D7C-93DA-194A0C1006A7",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q565030"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q75847-3399D691-8704-4D7C-93DA-194A0C1006A7",
+        "predicate": "pq:P585",
+        "object": "2010-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q75847",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P11496",
+      "object": "https://cir.nii.ac.jp/crid/1140563741599747200.rdf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75847",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q2765"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75847",
+      "predicate": "http://www.wikidata.org/prop/direct/P1368",
+      "object": "000258358"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75847",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "RMCV014884"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q75847",
+      "predicate": "http://www.wikidata.org/prop/direct/P691",
+      "object": "mzk2005294787"
+    }
+  ]
+}

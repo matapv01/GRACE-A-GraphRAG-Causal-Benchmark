@@ -1,0 +1,58 @@
+{
+  "question_id": "10434",
+  "answers": [
+    "1952-07-23T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10434",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-bbdcc604-475f-c5bb-c682-5228e23cf650"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-bbdcc604-475f-c5bb-c682-5228e23cf650",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q161549"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-bbdcc604-475f-c5bb-c682-5228e23cf650",
+        "predicate": "pq:P571",
+        "object": "1952-07-23T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-bbdcc604-475f-c5bb-c682-5228e23cf650",
+        "predicate": "pq:P576",
+        "object": "2002-07-23T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Europeiska unionen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Union européenne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Den Europæiske Union"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "യൂറോപ്യൻ യൂണിയൻ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Europäische Union"
+    }
+  ]
+}

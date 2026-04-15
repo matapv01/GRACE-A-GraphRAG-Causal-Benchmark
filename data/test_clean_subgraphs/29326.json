@@ -1,0 +1,49 @@
+{
+  "question_id": "29326",
+  "answers": [
+    "http://www.wikidata.org/entity/Q113800722",
+    "http://www.wikidata.org/entity/Q138529589"
+  ],
+  "gold_path": {
+    "question_id": "29326",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q113800722",
+        "predicate": "http://www.wikidata.org/prop/direct/P1716",
+        "object": "http://www.wikidata.org/entity/Q2766"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138529589",
+        "predicate": "http://www.wikidata.org/prop/direct/P1716",
+        "object": "http://www.wikidata.org/entity/Q2766"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q113800722",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113800722",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "iPhone 14 Pro"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113800722",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "iPhone 14 Pro Max"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113800722",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "אייפון 14 פרו מקס"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113800722",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "アイフォーン14プロ"
+    }
+  ]
+}

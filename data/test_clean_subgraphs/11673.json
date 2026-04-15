@@ -1,0 +1,69 @@
+{
+  "question_id": "11673",
+  "answers": [
+    "1967-01-01T00:00:00Z",
+    "1938-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11673",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56016",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/Q56016-5d371909-4f62-f0a3-2a97-d5da94545d8b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q56016-5d371909-4f62-f0a3-2a97-d5da94545d8b",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q189081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q56016-5d371909-4f62-f0a3-2a97-d5da94545d8b",
+        "predicate": "pq:P582",
+        "object": "1938-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56016",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/Q56016-A2F71E2B-EA47-4C55-9452-52AC6D23156E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q56016-A2F71E2B-EA47-4C55-9452-52AC6D23156E",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q71275"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q56016-A2F71E2B-EA47-4C55-9452-52AC6D23156E",
+        "predicate": "pq:P582",
+        "object": "1967-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q56016",
+      "predicate": "http://www.wikidata.org/prop/direct/P3846",
+      "object": "87097990974378"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q56016",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-07T13:17:21Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q56016",
+      "predicate": "http://www.wikidata.org/prop/direct/P2638",
+      "object": "people/katharine-hepburn"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q56016",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "katharine-hepburn"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q56016",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "katharine-hepburn"
+    }
+  ]
+}

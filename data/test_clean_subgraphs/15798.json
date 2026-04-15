@@ -1,0 +1,67 @@
+{
+  "question_id": "15798",
+  "answers": [
+    "http://www.wikidata.org/entity/Q24925",
+    "http://www.wikidata.org/entity/Q9326077",
+    "http://www.wikidata.org/entity/Q224989",
+    "http://www.wikidata.org/entity/Q132311",
+    "http://www.wikidata.org/entity/Q904447"
+  ],
+  "gold_path": {
+    "question_id": "15798",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3390937",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q588653"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q588653",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q24925"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q588653",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q132311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q588653",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q224989"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q588653",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q904447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q588653",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q9326077"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3390937",
+      "predicate": "http://www.wikidata.org/prop/direct/P407",
+      "object": "http://www.wikidata.org/entity/Q1860"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3390937",
+      "predicate": "http://www.wikidata.org/prop/direct/P577",
+      "object": "2002-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3390937",
+      "predicate": "http://www.wikidata.org/prop/P407",
+      "object": "http://www.wikidata.org/entity/statement/Q3390937-9B0F0EA0-CD29-4C44-8437-B29B4E4AC3C9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3390937",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q3390937-9C09FBE5-9E08-4F9C-B0CB-661826DF1261"
+    }
+  ]
+}

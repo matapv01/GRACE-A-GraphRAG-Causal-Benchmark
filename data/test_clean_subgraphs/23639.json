@@ -1,0 +1,48 @@
+{
+  "question_id": "23639",
+  "answers": [
+    "http://www.wikidata.org/entity/Q661729"
+  ],
+  "gold_path": {
+    "question_id": "23639",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q661729",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q500834"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q661729",
+        "predicate": "rdfs:label",
+        "object": "Weltklasse Zürich"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q661729",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Weltklasse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q661729",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Monda Klaso Zuriko"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q661729",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Weltklasse Zürich"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q661729",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Meeting de Zurich"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q661729",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Meeting de Zürich"
+    }
+  ]
+}

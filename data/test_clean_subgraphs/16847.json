@@ -1,0 +1,48 @@
+{
+  "question_id": "16847",
+  "answers": [
+    "http://www.wikidata.org/entity/Q76420"
+  ],
+  "gold_path": {
+    "question_id": "16847",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1888019",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q12482"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12482",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q76420"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1888019",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Vopenka.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1888019",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q213"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1888019",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q33946"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1888019",
+      "predicate": "http://www.wikidata.org/prop/direct/P184",
+      "object": "http://www.wikidata.org/entity/Q470581"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1888019",
+      "predicate": "http://www.wikidata.org/prop/direct/P184",
+      "object": "http://www.wikidata.org/entity/Q6469705"
+    }
+  ]
+}

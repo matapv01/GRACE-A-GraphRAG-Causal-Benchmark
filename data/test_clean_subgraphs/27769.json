@@ -1,0 +1,49 @@
+{
+  "question_id": "27769",
+  "answers": [
+    "http://www.wikidata.org/entity/Q472851",
+    "http://www.wikidata.org/entity/Q875768"
+  ],
+  "gold_path": {
+    "question_id": "27769",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q472851",
+        "predicate": "http://www.wikidata.org/prop/direct/P550",
+        "object": "http://www.wikidata.org/entity/Q48189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q875768",
+        "predicate": "http://www.wikidata.org/prop/direct/P550",
+        "object": "http://www.wikidata.org/entity/Q48189"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q472851",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ferdinand Ernst von Waldstein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472851",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "كونت فيرديناند ايرنست جابريل ڤون والدستين"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472851",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Фердинанд Ернст фон Валдщайн-Вартенберг"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472851",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ferdinand von Waldstein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472851",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ferdinand Arnošt z Valdštejna-Wartenbergu"
+    }
+  ]
+}

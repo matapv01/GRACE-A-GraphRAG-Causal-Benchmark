@@ -1,0 +1,48 @@
+{
+  "question_id": "23706",
+  "answers": [
+    "http://www.wikidata.org/entity/Q145218"
+  ],
+  "gold_path": {
+    "question_id": "23706",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q145218",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41863069"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145218",
+        "predicate": "rdfs:label",
+        "object": "Zalmoxis"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q145218",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "16"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145218",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "22"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145218",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145218",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Salmoxis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145218",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Zamolsi"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "question_id": "7407",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7677665",
+    "http://www.wikidata.org/entity/Q7130346"
+  ],
+  "gold_path": {
+    "question_id": "7407",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q206112",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q206112-361B0DB0-9ADB-4D2E-8D1F-CD2E2572FF49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206112-361B0DB0-9ADB-4D2E-8D1F-CD2E2572FF49",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q5593784"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206112-361B0DB0-9ADB-4D2E-8D1F-CD2E2572FF49",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q7677665"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206112",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q206112-CCA3A94B-62E5-409B-8817-BE9306784FF0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206112-CCA3A94B-62E5-409B-8817-BE9306784FF0",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q5593784"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q206112-CCA3A94B-62E5-409B-8817-BE9306784FF0",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q7130346"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q206112",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nelson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q206112",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "William Nelson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q206112",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Red Headed Stranger"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q206112",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Willie Hugh Nelson"
+    }
+  ]
+}

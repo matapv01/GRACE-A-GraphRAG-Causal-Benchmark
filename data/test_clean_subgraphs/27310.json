@@ -1,0 +1,43 @@
+{
+  "question_id": "27310",
+  "answers": [
+    "jespersen-otto"
+  ],
+  "gold_path": {
+    "question_id": "27310",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23870",
+        "predicate": "http://www.wikidata.org/prop/direct/P3277",
+        "object": "jespersen-otto"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23870",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "102"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23870",
+      "predicate": "http://www.wikidata.org/prop/P11182",
+      "object": "http://www.wikidata.org/entity/statement/Q23870-7337DDA6-9B2E-47F6-A464-2F2FE5D8E439"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23870",
+      "predicate": "http://www.wikidata.org/prop/P1938",
+      "object": "http://www.wikidata.org/entity/statement/Q23870-69636D5D-B52A-4DEC-BA60-0CB806831D0A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23870",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q23870-AEA3CDF1-5ACB-45E7-93FF-7EEF2CDCD92E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23870",
+      "predicate": "http://www.wikidata.org/prop/direct/P11182",
+      "object": "80163"
+    }
+  ]
+}

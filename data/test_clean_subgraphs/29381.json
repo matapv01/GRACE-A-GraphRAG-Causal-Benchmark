@@ -1,0 +1,43 @@
+{
+  "question_id": "29381",
+  "answers": [
+    "1033"
+  ],
+  "gold_path": {
+    "question_id": "29381",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q408050",
+        "predicate": "http://www.wikidata.org/prop/direct/P695",
+        "object": "1033"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q408050",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2115",
+      "object": "http://purl.bioontology.org/ontology/NDFRT/N0000023061"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408050",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+      "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL119178"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408050",
+      "predicate": "http://schema.org/description",
+      "object": "compost químic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408050",
+      "predicate": "http://schema.org/description",
+      "object": "chemische Verbindung"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q408050",
+      "predicate": "http://schema.org/description",
+      "object": "chemical compound"
+    }
+  ]
+}

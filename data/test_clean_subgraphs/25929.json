@@ -1,0 +1,50 @@
+{
+  "question_id": "25929",
+  "answers": [
+    "1",
+    "16",
+    "256"
+  ],
+  "gold_path": {
+    "question_id": "25929",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q283827",
+        "predicate": "http://www.wikidata.org/prop/direct/P3559",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q283827",
+        "predicate": "http://www.wikidata.org/prop/direct/P3559",
+        "object": "16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q283827",
+        "predicate": "http://www.wikidata.org/prop/direct/P3559",
+        "object": "256"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q283827",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q283827-18AB492D-9971-4CEA-A85B-C92032C35FFC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283827",
+      "predicate": "http://schema.org/description",
+      "object": "dosiersistemo por Linux"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283827",
+      "predicate": "http://schema.org/description",
+      "object": "Linux向けのジャーナリングファイルシステム"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283827",
+      "predicate": "http://schema.org/description",
+      "object": "Linux系統下的日誌檔案系統"
+    }
+  ]
+}

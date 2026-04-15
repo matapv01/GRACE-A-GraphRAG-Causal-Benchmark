@@ -1,0 +1,48 @@
+{
+  "question_id": "12434",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23810"
+  ],
+  "gold_path": {
+    "question_id": "12434",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1901",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q23810"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23810",
+        "predicate": "http://www.wikidata.org/prop/direct/P25",
+        "object": "http://www.wikidata.org/entity/Q3813118"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1901",
+      "predicate": "http://www.wikidata.org/prop/P3827",
+      "object": "http://www.wikidata.org/entity/statement/Q1901-6627D8F9-4996-41DB-AEEF-37606B4F6790"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1901",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q1901-24F2A26F-492D-4F45-AAA8-0C30580BBD26"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1901",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q1901-B672BFE0-A36D-416B-B1BC-77213B6BBC77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1901",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "nobelium"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1901",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q1901-3c0309b3-415d-9e4b-e046-598ad2d72a67"
+    }
+  ]
+}

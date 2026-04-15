@@ -1,0 +1,48 @@
+{
+  "question_id": "5565",
+  "answers": [
+    "http://www.wikidata.org/entity/Q403569"
+  ],
+  "gold_path": {
+    "question_id": "5565",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q713014",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q713014-0A2CA6B5-6837-45EC-88C2-12F3BB7F8CCA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q713014-0A2CA6B5-6837-45EC-88C2-12F3BB7F8CCA",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q403569"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q713014",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q713014-4fcd88ed-4e48-16f1-d748-468625b4e93f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q713014",
+      "predicate": "http://www.wikidata.org/prop/P5019",
+      "object": "http://www.wikidata.org/entity/statement/Q713014-3F938C34-CE6F-496E-9338-508D56526257"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q713014",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q713014-BC7919F8-0C98-4E16-ADD0-7AFAD4218F84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q713014",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "tscherkassow-nikolai-konstantinowitsch"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q713014",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q713014-EB06DCE5-AC08-4FB6-859A-936794B73A12"
+    }
+  ]
+}

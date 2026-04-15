@@ -1,0 +1,87 @@
+{
+  "question_id": "30110",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3321978",
+    "http://www.wikidata.org/entity/Q852565",
+    "http://www.wikidata.org/entity/Q7742903",
+    "http://www.wikidata.org/entity/Q4353558",
+    "http://www.wikidata.org/entity/Q132175025"
+  ],
+  "gold_path": {
+    "question_id": "30110",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q852565",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q44306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q852565",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47461344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3321978",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q44306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3321978",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47461344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4353558",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q44306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4353558",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47461344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7742903",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q44306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7742903",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47461344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q132175025",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q44306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q132175025",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47461344"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q852565",
+      "predicate": "http://www.wikidata.org/prop/direct/P1411",
+      "object": "http://www.wikidata.org/entity/Q160082"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q852565",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "topic/Shame-novel-by-Rushdie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q852565",
+      "predicate": "http://www.wikidata.org/prop/direct/P840",
+      "object": "http://www.wikidata.org/entity/Q843"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q852565",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987009538445505171"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "16519",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3783",
+    "http://www.wikidata.org/entity/Q22030706",
+    "http://www.wikidata.org/entity/Q21171224"
+  ],
+  "gold_path": {
+    "question_id": "16519",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193401",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q97"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q97",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q3783"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q97",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q21171224"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q97",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q22030706"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193401",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q185113"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193401",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q191992"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193401",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20canaveral.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193401",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q193401-FB1CE917-7E20-4707-8D99-FA29BB1D7122"
+    }
+  ]
+}

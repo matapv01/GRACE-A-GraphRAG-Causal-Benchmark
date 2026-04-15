@@ -1,0 +1,92 @@
+{
+  "question_id": "30139",
+  "answers": [
+    "http://www.wikidata.org/entity/Q85744608",
+    "http://www.wikidata.org/entity/Q19866327",
+    "http://www.wikidata.org/entity/Q16978537",
+    "http://www.wikidata.org/entity/Q6668014",
+    "http://www.wikidata.org/entity/Q253335"
+  ],
+  "gold_path": {
+    "question_id": "30139",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6668014",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q37836"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6668014",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41176"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16978537",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q37836"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16978537",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41176"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19866327",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q37836"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19866327",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41176"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q253335",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q37836"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q253335",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41176"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q85744608",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q37836"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q85744608",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41176"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6668014",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6668014",
+      "predicate": "http://schema.org/version",
+      "object": "2136670372"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6668014",
+      "predicate": "http://schema.org/description",
+      "object": "gebouw in de Verenigde Staten"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6668014",
+      "predicate": "http://schema.org/description",
+      "object": "building in Milwaukee, United States of America"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6668014",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    }
+  ]
+}

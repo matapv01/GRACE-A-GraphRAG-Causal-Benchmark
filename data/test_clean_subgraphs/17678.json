@@ -1,0 +1,65 @@
+{
+  "question_id": "17678",
+  "answers": [
+    "648",
+    "647",
+    "640"
+  ],
+  "gold_path": {
+    "question_id": "17678",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2596569",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q425694"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q425694",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "640"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2596569",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q708514"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q708514",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "647"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q708514",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "648"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2596569",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/60151"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2596569",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4652",
+      "object": "http://data.europa.eu/esco/occupation/6d50f735-dca9-4a02-96dc-e4310ed98ae2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2596569",
+      "predicate": "http://www.wikidata.org/prop/P4652",
+      "object": "http://www.wikidata.org/entity/statement/Q2596569-282BD50B-3E17-4DF4-9A72-AB13FF37083A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2596569",
+      "predicate": "http://www.wikidata.org/prop/P508",
+      "object": "http://www.wikidata.org/entity/statement/Q2596569-41c0eb09-4895-09b1-f035-89d55a9947d9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2596569",
+      "predicate": "http://www.wikidata.org/prop/P425",
+      "object": "http://www.wikidata.org/entity/statement/Q2596569-168ce20a-4bbc-d442-4677-d6329ee3689f"
+    }
+  ]
+}

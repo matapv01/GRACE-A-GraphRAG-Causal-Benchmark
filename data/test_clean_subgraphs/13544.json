@@ -1,0 +1,48 @@
+{
+  "question_id": "13544",
+  "answers": [
+    "http://www.wikidata.org/entity/Q42891"
+  ],
+  "gold_path": {
+    "question_id": "13544",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q113904",
+        "predicate": "http://www.wikidata.org/prop/direct/P26",
+        "object": "http://www.wikidata.org/entity/Q42891"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42891",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q2841495"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q113904",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1871",
+      "object": "http://thesaurus.cerl.org/record/cnp00543450"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113904",
+      "predicate": "http://www.wikidata.org/prop/direct/P1871",
+      "object": "cnp00543450"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113904",
+      "predicate": "http://www.wikidata.org/prop/direct/P7923",
+      "object": "radha-2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113904",
+      "predicate": "http://www.wikidata.org/prop/direct/P10757",
+      "object": "240072"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113904",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007419118705171"
+    }
+  ]
+}

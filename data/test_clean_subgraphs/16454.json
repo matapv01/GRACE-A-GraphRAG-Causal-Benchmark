@@ -1,0 +1,48 @@
+{
+  "question_id": "16454",
+  "answers": [
+    "http://www.wikidata.org/entity/Q551406"
+  ],
+  "gold_path": {
+    "question_id": "16454",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q269880",
+        "predicate": "http://www.wikidata.org/prop/direct/P287",
+        "object": "http://www.wikidata.org/entity/Q40987"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q40987",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q551406"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q269880",
+      "predicate": "http://www.wikidata.org/prop/direct/P1716",
+      "object": "http://www.wikidata.org/entity/Q27586"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q269880",
+      "predicate": "http://www.wikidata.org/prop/direct/P176",
+      "object": "http://www.wikidata.org/entity/Q27586"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q269880",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-11-29T13:46:50Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q269880",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Enzo Ferrari (automobile)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q269880",
+      "predicate": "http://www.wikidata.org/prop/direct/P279",
+      "object": "http://www.wikidata.org/entity/Q815679"
+    }
+  ]
+}

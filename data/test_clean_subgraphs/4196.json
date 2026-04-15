@@ -1,0 +1,53 @@
+{
+  "question_id": "4196",
+  "answers": [
+    "1945-08-30T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4196",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q255620",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q255620-AD6BB48E-5B15-44E7-8426-5C7C34DBCC91"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q255620-AD6BB48E-5B15-44E7-8426-5C7C34DBCC91",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q83410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q255620-AD6BB48E-5B15-44E7-8426-5C7C34DBCC91",
+        "predicate": "pq:P582",
+        "object": "1945-08-30T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q255620",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Hutton-872"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255620",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "37714962"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255620",
+      "predicate": "http://www.wikidata.org/prop/direct/P21",
+      "object": "http://www.wikidata.org/entity/Q6581072"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255620",
+      "predicate": "http://www.wikidata.org/prop/direct/P2163",
+      "object": "132528"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255620",
+      "predicate": "http://www.wikidata.org/prop/direct/P4638",
+      "object": "p18309.htm#i183089"
+    }
+  ]
+}

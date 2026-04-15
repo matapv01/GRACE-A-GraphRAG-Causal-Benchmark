@@ -1,0 +1,48 @@
+{
+  "question_id": "16757",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4700437"
+  ],
+  "gold_path": {
+    "question_id": "16757",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q107130",
+        "predicate": "http://www.wikidata.org/prop/direct/P102",
+        "object": "http://www.wikidata.org/entity/Q10225"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10225",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q4700437"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q107130",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q107130-91039A3B-145D-4105-B106-658AE393692F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q107130",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q48403"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q107130",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q107130-7038df16-40ac-b852-9951-79cdeb840c96"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q107130",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p220040"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q107130",
+      "predicate": "http://www.wikidata.org/prop/direct/P1559",
+      "object": "Rajesh Khanna"
+    }
+  ]
+}

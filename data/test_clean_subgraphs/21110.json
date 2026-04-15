@@ -1,0 +1,48 @@
+{
+  "question_id": "21110",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2529982"
+  ],
+  "gold_path": {
+    "question_id": "21110",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9684",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2529982"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2529982",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9684",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9684",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q121437821"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9684",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "The_New_York_Times"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9684",
+      "predicate": "http://www.wikidata.org/prop/direct/P452",
+      "object": "http://www.wikidata.org/entity/Q3972943"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9684",
+      "predicate": "http://www.wikidata.org/prop/P452",
+      "object": "http://www.wikidata.org/entity/statement/Q9684-c176a53c-494d-d59c-3bf1-e1014298819b"
+    }
+  ]
+}

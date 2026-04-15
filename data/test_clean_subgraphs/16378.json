@@ -1,0 +1,48 @@
+{
+  "question_id": "16378",
+  "answers": [
+    "http://www.wikidata.org/entity/Q76267"
+  ],
+  "gold_path": {
+    "question_id": "16378",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3244192",
+        "predicate": "http://www.wikidata.org/prop/direct/P4552",
+        "object": "http://www.wikidata.org/entity/Q957600"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q957600",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q76267"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3244192",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Chirripó National Park"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3244192",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Parque Nacional Chirripó"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3244192",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Chirripo National Park"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3244192",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Parque nacional Chirripo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3244192",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "parco nazionale Chirripó"
+    }
+  ]
+}

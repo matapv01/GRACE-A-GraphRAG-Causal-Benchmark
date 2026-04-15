@@ -1,0 +1,59 @@
+{
+  "question_id": "5056",
+  "answers": [
+    "Саха сирэ",
+    "Якутия"
+  ],
+  "gold_path": {
+    "question_id": "5056",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6605",
+        "predicate": "http://www.wikidata.org/prop/P1813",
+        "object": "http://www.wikidata.org/entity/statement/Q6605-1b0e89d7-4fec-24af-3997-1ff39ce289a3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6605-1b0e89d7-4fec-24af-3997-1ff39ce289a3",
+        "predicate": "ps:P1813",
+        "object": "Саха сирэ"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6605",
+        "predicate": "http://www.wikidata.org/prop/P1813",
+        "object": "http://www.wikidata.org/entity/statement/Q6605-b8ee8a65-4381-8386-0b80-0f2d156d5a88"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6605-b8ee8a65-4381-8386-0b80-0f2d156d5a88",
+        "predicate": "ps:P1813",
+        "object": "Якутия"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6605",
+      "predicate": "http://www.wikidata.org/prop/P935",
+      "object": "http://www.wikidata.org/entity/statement/Q6605-7022D1E1-0D8E-41C1-8B24-62BD754574D7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6605",
+      "predicate": "http://www.wikidata.org/prop/P1313",
+      "object": "http://www.wikidata.org/entity/statement/Q6605-A029F14C-A983-4FBF-A7AD-DBE3DE28E402"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6605",
+      "predicate": "http://www.wikidata.org/prop/P901",
+      "object": "http://www.wikidata.org/entity/statement/Q6605-ECA57BE4-AFD4-4665-8B77-8D99E32F2D95"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6605",
+      "predicate": "http://www.wikidata.org/prop/P94",
+      "object": "http://www.wikidata.org/entity/statement/q6605-49D614BF-B289-46B0-A39A-28ED7F2DE8D5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6605",
+      "predicate": "http://www.wikidata.org/prop/direct/P9037",
+      "object": "8c9f8e9f-11aa-45f2-9293-33a0aa4882fc"
+    }
+  ]
+}

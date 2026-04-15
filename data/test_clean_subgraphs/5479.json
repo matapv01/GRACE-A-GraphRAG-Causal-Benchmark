@@ -1,0 +1,48 @@
+{
+  "question_id": "5479",
+  "answers": [
+    "1800-02-17T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5479",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1720",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q1720-947e6816-49d8-f270-d774-25bd3477ab88"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1720-947e6816-49d8-f270-d774-25bd3477ab88",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q27306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1720-947e6816-49d8-f270-d774-25bd3477ab88",
+        "predicate": "pq:P582",
+        "object": "1800-02-17T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1720",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "147"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1720",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T22:00:39Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1720",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mayence"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1720",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mainz"
+    }
+  ]
+}

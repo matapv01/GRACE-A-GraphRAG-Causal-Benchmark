@@ -1,0 +1,87 @@
+{
+  "question_id": "20512",
+  "answers": [
+    "http://www.wikidata.org/entity/Q835154",
+    "http://www.wikidata.org/entity/Q5041426",
+    "http://www.wikidata.org/entity/Q629034",
+    "http://www.wikidata.org/entity/Q125850270",
+    "http://www.wikidata.org/entity/Q5393345"
+  ],
+  "gold_path": {
+    "question_id": "20512",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q629034",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q41163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q629034",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q835154",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q41163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q835154",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5041426",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q41163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5041426",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5393345",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q41163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5393345",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15773347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125850270",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q41163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125850270",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15773347"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q629034",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ο Σημαδεμένος"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q629034",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Antonio \"Tony\" Montana"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q629034",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Antonio Montana"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q629034",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "アントニオ・“トニー”・モンタナ"
+    }
+  ]
+}

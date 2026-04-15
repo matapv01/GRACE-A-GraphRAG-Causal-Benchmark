@@ -1,0 +1,61 @@
+{
+  "question_id": "28390",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7988016",
+    "http://www.wikidata.org/entity/Q8571219",
+    "http://www.wikidata.org/entity/Q8571222",
+    "http://www.wikidata.org/entity/Q7321369"
+  ],
+  "gold_path": {
+    "question_id": "28390",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q243312",
+        "predicate": "http://www.wikidata.org/prop/direct/P1754",
+        "object": "http://www.wikidata.org/entity/Q7321369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q243312",
+        "predicate": "http://www.wikidata.org/prop/direct/P1754",
+        "object": "http://www.wikidata.org/entity/Q7988016"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q243312",
+        "predicate": "http://www.wikidata.org/prop/direct/P1754",
+        "object": "http://www.wikidata.org/entity/Q8571219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q243312",
+        "predicate": "http://www.wikidata.org/prop/direct/P1754",
+        "object": "http://www.wikidata.org/entity/Q8571222"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q243312",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q243312-2B28E310-412E-44DF-9583-09F54AA292C9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243312",
+      "predicate": "http://www.wikidata.org/prop/P6404",
+      "object": "http://www.wikidata.org/entity/statement/Q243312-245EE887-CB2F-47B8-86CB-F8C731033C98"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243312",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243312",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "59"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243312",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0n4v8"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "14040",
+  "answers": [
+    "http://www.wikidata.org/entity/Q42344"
+  ],
+  "gold_path": {
+    "question_id": "14040",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q81",
+        "predicate": "http://www.wikidata.org/prop/direct/P1419",
+        "object": "http://www.wikidata.org/entity/Q42344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42344",
+        "predicate": "http://www.wikidata.org/prop/direct/P1535",
+        "object": "http://www.wikidata.org/entity/Q676413"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q81",
+      "predicate": "http://schema.org/version",
+      "object": "2478289522"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81",
+      "predicate": "http://schema.org/description",
+      "object": "rotfrukt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81",
+      "predicate": "http://schema.org/description",
+      "object": "ירק שורש"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81",
+      "predicate": "http://schema.org/description",
+      "object": "ortaggio ricavato dalla radice della Daucus carota"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81",
+      "predicate": "http://schema.org/description",
+      "object": "λαχανικό"
+    }
+  ]
+}

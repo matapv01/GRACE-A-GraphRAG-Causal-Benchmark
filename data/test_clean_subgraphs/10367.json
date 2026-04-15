@@ -1,0 +1,58 @@
+{
+  "question_id": "10367",
+  "answers": [
+    "http://www.wikidata.org/entity/Q186363"
+  ],
+  "gold_path": {
+    "question_id": "10367",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q464782",
+        "predicate": "http://www.wikidata.org/prop/P180",
+        "object": "http://www.wikidata.org/entity/statement/Q464782-04c96986-4dee-f29c-0c8a-d2919e3ee442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q464782-04c96986-4dee-f29c-0c8a-d2919e3ee442",
+        "predicate": "ps:P180",
+        "object": "http://www.wikidata.org/entity/Q3947"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q464782-04c96986-4dee-f29c-0c8a-d2919e3ee442",
+        "predicate": "pq:P149",
+        "object": "http://www.wikidata.org/entity/Q186363"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q464782-04c96986-4dee-f29c-0c8a-d2919e3ee442",
+        "predicate": "pq:P462",
+        "object": "http://www.wikidata.org/entity/Q23444"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q464782",
+      "predicate": "http://schema.org/description",
+      "object": "maleri af Grant Wood"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q464782",
+      "predicate": "http://schema.org/description",
+      "object": "painting by Grant Wood"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q464782",
+      "predicate": "http://schema.org/description",
+      "object": "pintura de Grant Wood"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q464782",
+      "predicate": "http://schema.org/description",
+      "object": "lukisan yang dibuat oleh pelukis Amerika Serikat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q464782",
+      "predicate": "http://schema.org/description",
+      "object": "lukisan yang dibuat dening pelukis Amerika Serikat"
+    }
+  ]
+}

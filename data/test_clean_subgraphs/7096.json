@@ -1,0 +1,53 @@
+{
+  "question_id": "7096",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23045211"
+  ],
+  "gold_path": {
+    "question_id": "7096",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q54019",
+        "predicate": "http://www.wikidata.org/prop/P1038",
+        "object": "http://www.wikidata.org/entity/statement/Q54019-a3910765-4f86-a1dc-f8de-cfebdd7145c1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q54019-a3910765-4f86-a1dc-f8de-cfebdd7145c1",
+        "predicate": "ps:P1038",
+        "object": "http://www.wikidata.org/entity/Q154382"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q54019-a3910765-4f86-a1dc-f8de-cfebdd7145c1",
+        "predicate": "pq:P1039",
+        "object": "http://www.wikidata.org/entity/Q23045211"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q54019",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q54019-1210CBB0-2C9D-4827-8B4A-4CF54644364E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54019",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q54019-28F1CA45-A881-4C23-9A4F-D1E5B8451FA6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54019",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "stanislaw-ii-poniatowski"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54019",
+      "predicate": "http://www.wikidata.org/prop/P1185",
+      "object": "http://www.wikidata.org/entity/statement/Q54019-697f8e45-a7bf-478f-a3d1-c7405ed7f7ae"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54019",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "stanislas-ii-auguste-poniatowski"
+    }
+  ]
+}

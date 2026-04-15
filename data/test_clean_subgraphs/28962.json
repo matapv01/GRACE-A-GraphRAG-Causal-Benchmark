@@ -1,0 +1,38 @@
+{
+  "question_id": "28962",
+  "answers": [
+    "http://www.wikidata.org/entity/Q316837"
+  ],
+  "gold_path": {
+    "question_id": "28962",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25362",
+        "predicate": "http://www.wikidata.org/prop/direct/P78",
+        "object": "http://www.wikidata.org/entity/Q316837"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25362",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "119"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25362",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "79"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25362",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Saint-Barthélémy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25362",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Saint Barthélemy"
+    }
+  ]
+}

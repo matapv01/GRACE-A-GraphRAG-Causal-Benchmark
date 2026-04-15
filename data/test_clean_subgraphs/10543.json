@@ -1,0 +1,58 @@
+{
+  "question_id": "10543",
+  "answers": [
+    "1970-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10543",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34474",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/q34474-E5D4FA25-5731-4007-9A29-E36A3DC3603E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q34474-E5D4FA25-5731-4007-9A29-E36A3DC3603E",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q37922"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q34474-E5D4FA25-5731-4007-9A29-E36A3DC3603E",
+        "predicate": "pq:P585",
+        "object": "1970-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q34474-E5D4FA25-5731-4007-9A29-E36A3DC3603E",
+        "predicate": "pq:P2121",
+        "object": "400000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q153676"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P21",
+      "object": "http://www.wikidata.org/entity/Q6581097"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandr%20Solzhenitsyn%201974crop.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P20",
+      "object": "http://www.wikidata.org/entity/Q649"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P25",
+      "object": "http://www.wikidata.org/entity/Q108838681"
+    }
+  ]
+}

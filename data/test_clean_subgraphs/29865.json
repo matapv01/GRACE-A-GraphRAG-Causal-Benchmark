@@ -1,0 +1,54 @@
+{
+  "question_id": "29865",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7733387",
+    "http://www.wikidata.org/entity/Q19007217"
+  ],
+  "gold_path": {
+    "question_id": "29865",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7733387",
+        "predicate": "http://www.wikidata.org/prop/direct/P57",
+        "object": "http://www.wikidata.org/entity/Q191037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7733387",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15416"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19007217",
+        "predicate": "http://www.wikidata.org/prop/direct/P57",
+        "object": "http://www.wikidata.org/entity/Q191037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19007217",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15416"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7733387",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7733387",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0kfnfs7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7733387",
+      "predicate": "http://schema.org/description",
+      "object": "televisieprogramma uit Verenigde Staten van Amerika"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7733387",
+      "predicate": "http://schema.org/description",
+      "object": "1982 Muppet TV special"
+    }
+  ]
+}

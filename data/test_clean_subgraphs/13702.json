@@ -1,0 +1,48 @@
+{
+  "question_id": "13702",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23556"
+  ],
+  "gold_path": {
+    "question_id": "13702",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q864407",
+        "predicate": "http://www.wikidata.org/prop/direct/P740",
+        "object": "http://www.wikidata.org/entity/Q23556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23556",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q637555"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q864407",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "group/984e5687-c63e-4811-a226-b0272d4f3a7d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864407",
+      "predicate": "http://www.wikidata.org/prop/P13591",
+      "object": "http://www.wikidata.org/entity/statement/Q864407-407A6802-86A3-49DE-BCDA-B6D5859CD558"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864407",
+      "predicate": "http://www.wikidata.org/prop/direct/P7502",
+      "object": "The_Home_Depot-ZB5REM"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864407",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "HD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q864407",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Home Depot"
+    }
+  ]
+}

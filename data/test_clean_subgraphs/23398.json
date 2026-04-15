@@ -1,0 +1,98 @@
+{
+  "question_id": "23398",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7373550",
+    "http://www.wikidata.org/entity/Q11452997",
+    "http://www.wikidata.org/entity/Q60806",
+    "http://www.wikidata.org/entity/Q6938452",
+    "http://www.wikidata.org/entity/Q18763305",
+    "http://www.wikidata.org/entity/Q111907507"
+  ],
+  "gold_path": {
+    "question_id": "23398",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q60806",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10648343"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60806",
+        "predicate": "rdfs:label",
+        "object": "Siegfried & Roy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7373550",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10648343"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7373550",
+        "predicate": "rdfs:label",
+        "object": "Roy and Royce"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6938452",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10648343"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6938452",
+        "predicate": "rdfs:label",
+        "object": "Murgatroyd and Winterbottom"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q111907507",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10648343"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q111907507",
+        "predicate": "rdfs:label",
+        "object": "Nick Bruno and Troy Quane"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11452997",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10648343"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11452997",
+        "predicate": "rdfs:label",
+        "object": "Mayumi Muroyama"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18763305",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10648343"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18763305",
+        "predicate": "rdfs:label",
+        "object": "Lawrence Bittaker and Roy Norris"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q60806",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Siegfried Fischbacher"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q60806",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Masters of the Impossible"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q60806",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SARMOTI"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q60806",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Siegfried and Roy"
+    }
+  ]
+}

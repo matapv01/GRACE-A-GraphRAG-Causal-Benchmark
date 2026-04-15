@@ -1,0 +1,53 @@
+{
+  "question_id": "25135",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3266236"
+  ],
+  "gold_path": {
+    "question_id": "25135",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3266236",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3658341"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3266236",
+        "predicate": "http://www.wikidata.org/prop/direct/P157",
+        "object": "http://www.wikidata.org/entity/Q660377"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3266236",
+        "predicate": "rdfs:label",
+        "object": "Count Dracula"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3266236",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "monster:Dracula"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3266236",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "ru.vanhelsing:Владислав_Дракула"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3266236",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "universalmonsters:Count_Dracula_(book_character)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3266236",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "video-games:Dracula"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3266236",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "villains:Count_Dracula_(Bram_Stoker)"
+    }
+  ]
+}

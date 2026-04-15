@@ -1,0 +1,49 @@
+{
+  "question_id": "19818",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7722771",
+    "http://www.wikidata.org/entity/Q2228256"
+  ],
+  "gold_path": {
+    "question_id": "19818",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2228256",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q191037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2228256",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q506240"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7722771",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q191037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7722771",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q506240"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2228256",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tale of the Bunny Picnic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2228256",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "The Tale of the Bunny Picnic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2228256",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "פיקניק הארנבים"
+    }
+  ]
+}

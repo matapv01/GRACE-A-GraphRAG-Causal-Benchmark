@@ -1,0 +1,43 @@
+{
+  "question_id": "28142",
+  "answers": [
+    "MONDO_0005362"
+  ],
+  "gold_path": {
+    "question_id": "28142",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q184674",
+        "predicate": "http://www.wikidata.org/prop/direct/P5270",
+        "object": "MONDO_0005362"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q184674",
+      "predicate": "http://www.wikidata.org/prop/direct/P667",
+      "object": "Y07"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184674",
+      "predicate": "http://www.wikidata.org/prop/direct/P673",
+      "object": "444220"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184674",
+      "predicate": "http://www.wikidata.org/prop/direct/P1889",
+      "object": "http://www.wikidata.org/entity/Q117663505"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184674",
+      "predicate": "http://www.wikidata.org/prop/direct/P672",
+      "object": "C12.100.500.214"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184674",
+      "predicate": "http://www.wikidata.org/prop/direct/P672",
+      "object": "C12.100.875.486"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "9036",
+  "answers": [
+    "1120000000"
+  ],
+  "gold_path": {
+    "question_id": "9036",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5401",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q5401-18d0ead9-483f-7270-c27d-09d51af3c182"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5401-18d0ead9-483f-7270-c27d-09d51af3c182",
+        "predicate": "ps:P1082",
+        "object": "1120000000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5401",
+      "predicate": "http://schema.org/version",
+      "object": "2478320645"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5401",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Evroazija"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5401",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Евраази"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5401",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Еврази"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5401",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "یۆڕاسیا"
+    }
+  ]
+}

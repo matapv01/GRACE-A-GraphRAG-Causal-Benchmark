@@ -1,0 +1,53 @@
+{
+  "question_id": "6108",
+  "answers": [
+    "1961-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6108",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1171",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q1171-ebd2a5c6-4e46-9e3a-f26e-6d643fd74065"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1171-ebd2a5c6-4e46-9e3a-f26e-6d643fd74065",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q323904"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1171-ebd2a5c6-4e46-9e3a-f26e-6d643fd74065",
+        "predicate": "pq:P582",
+        "object": "1961-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1171",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T18:05:37Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1171",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q12443800"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1171",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Terekhol%20River%20and%20Querim%20Beach%2C%20panoramic%20view%2C%20Goa%2C%20India.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1171",
+      "predicate": "http://www.wikidata.org/prop/direct/P208",
+      "object": "http://www.wikidata.org/entity/Q5575081"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1171",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "goa"
+    }
+  ]
+}

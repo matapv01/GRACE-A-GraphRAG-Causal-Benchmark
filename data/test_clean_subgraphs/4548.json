@@ -1,0 +1,68 @@
+{
+  "question_id": "4548",
+  "answers": [
+    "http://www.wikidata.org/entity/Q160337"
+  ],
+  "gold_path": {
+    "question_id": "4548",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q160341",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q160341-c12ecee8-48cd-fa72-efba-22d2a430b634"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160341-c12ecee8-48cd-fa72-efba-22d2a430b634",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18810062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160341-c12ecee8-48cd-fa72-efba-22d2a430b634",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q160337"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q160341",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q160341-c4ff95ca-4cef-8e59-b930-d9c9bd50744a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160341-c4ff95ca-4cef-8e59-b930-d9c9bd50744a",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18810062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160341-c4ff95ca-4cef-8e59-b930-d9c9bd50744a",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q160337"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q160341",
+      "predicate": "http://www.wikidata.org/prop/direct/P53",
+      "object": "http://www.wikidata.org/entity/Q105285"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160341",
+      "predicate": "http://www.wikidata.org/prop/P53",
+      "object": "http://www.wikidata.org/entity/statement/Q160341-13686E0D-B219-470B-84FA-90B3B9CDD020"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160341",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "1962"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160341",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "101"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160341",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q160341-F560CFE2-8BA6-4927-9088-712309AE8A06"
+    }
+  ]
+}

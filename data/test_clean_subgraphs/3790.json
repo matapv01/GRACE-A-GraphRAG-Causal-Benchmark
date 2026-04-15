@@ -1,0 +1,48 @@
+{
+  "question_id": "3790",
+  "answers": [
+    "95127"
+  ],
+  "gold_path": {
+    "question_id": "3790",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q894",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q894-5F07E7ED-1145-4E75-8C73-076022219F5E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q894-5F07E7ED-1145-4E75-8C73-076022219F5E",
+        "predicate": "ps:P1082",
+        "object": "95127"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q894",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-09T21:39:36Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q894",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/q894-FF63C761-E304-4B5F-A459-E58CF0B23E1C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q894",
+      "predicate": "http://www.wikidata.org/prop/P10832",
+      "object": "http://www.wikidata.org/entity/statement/Q894-d2db5cda-46c9-cbdf-cf81-d3ade6eede13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q894",
+      "predicate": "http://www.wikidata.org/prop/P1036",
+      "object": "http://www.wikidata.org/entity/statement/Q894-1b26bbad-4a1a-ca3d-adb8-0841e4ba88d3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q894",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Samara.svg"
+    }
+  ]
+}

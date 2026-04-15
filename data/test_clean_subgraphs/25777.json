@@ -1,0 +1,50 @@
+{
+  "question_id": "25777",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17371931",
+    "http://www.wikidata.org/entity/Q138656103",
+    "http://www.wikidata.org/entity/Q9146409"
+  ],
+  "gold_path": {
+    "question_id": "25777",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9146409",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q152864"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17371931",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q152864"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138656103",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q152864"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9146409",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9146409",
+      "predicate": "http://www.wikidata.org/prop/direct/P973",
+      "object": "https://www.tatlerasia.com/people/jonney-shih-eng"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9146409",
+      "predicate": "http://www.wikidata.org/prop/direct/P108",
+      "object": "http://www.wikidata.org/entity/Q481778"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9146409",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q701693"
+    }
+  ]
+}

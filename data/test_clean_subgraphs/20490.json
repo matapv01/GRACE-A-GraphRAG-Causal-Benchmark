@@ -1,0 +1,48 @@
+{
+  "question_id": "20490",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2087596"
+  ],
+  "gold_path": {
+    "question_id": "20490",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q460173",
+        "predicate": "http://www.wikidata.org/prop/direct/P2388",
+        "object": "http://www.wikidata.org/entity/Q2087596"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2087596",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4164871"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q460173",
+      "predicate": "http://www.wikidata.org/prop/direct/P10283",
+      "object": "I1302368450"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q460173",
+      "predicate": "http://www.wikidata.org/prop/direct/P3153",
+      "object": "100000139"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q460173",
+      "predicate": "http://www.wikidata.org/prop/direct/P10565",
+      "object": "38593"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q460173",
+      "predicate": "http://www.wikidata.org/prop/direct/P10565",
+      "object": "183977"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q460173",
+      "predicate": "http://www.wikidata.org/prop/direct/P12361",
+      "object": "usenvironment.bsky.social"
+    }
+  ]
+}

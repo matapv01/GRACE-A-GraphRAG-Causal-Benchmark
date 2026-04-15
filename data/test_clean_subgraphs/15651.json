@@ -1,0 +1,54 @@
+{
+  "question_id": "15651",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4413308",
+    "http://www.wikidata.org/entity/Q192050"
+  ],
+  "gold_path": {
+    "question_id": "15651",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q356639",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q361"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q361",
+        "predicate": "http://www.wikidata.org/prop/direct/P1478",
+        "object": "http://www.wikidata.org/entity/Q192050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q356639",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q362",
+        "predicate": "http://www.wikidata.org/prop/direct/P1478",
+        "object": "http://www.wikidata.org/entity/Q4413308"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q356639",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "143"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q356639",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nevil Norway"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q356639",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Shute"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q356639",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nevil Shute Norway"
+    }
+  ]
+}

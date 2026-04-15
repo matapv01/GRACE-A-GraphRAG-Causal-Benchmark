@@ -1,0 +1,92 @@
+{
+  "question_id": "2630",
+  "answers": [
+    "http://www.wikidata.org/entity/Q212975",
+    "http://www.wikidata.org/entity/Q2080143",
+    "http://www.wikidata.org/entity/Q1029217",
+    "http://www.wikidata.org/entity/Q904556",
+    "http://www.wikidata.org/entity/Q29076262"
+  ],
+  "gold_path": {
+    "question_id": "2630",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212975",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q852190"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212975",
+        "predicate": "http://www.wikidata.org/prop/direct/P2261",
+        "object": "78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29076262",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q852190"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29076262",
+        "predicate": "http://www.wikidata.org/prop/direct/P2261",
+        "object": "58"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1029217",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q852190"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1029217",
+        "predicate": "http://www.wikidata.org/prop/direct/P2261",
+        "object": "51.9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q904556",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q852190"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q904556",
+        "predicate": "http://www.wikidata.org/prop/direct/P2261",
+        "object": "51.2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2080143",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q852190"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2080143",
+        "predicate": "http://www.wikidata.org/prop/direct/P2261",
+        "object": "51.2"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q212975",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q212975-54452DE9-7AB8-4B6C-911B-63A4E9728F75"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212975",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q212975-5f0a7c6b-4882-c627-8106-8942737f7bbd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212975",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q212975-4B671B5A-72FA-45AA-BF82-202E88D54119"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212975",
+      "predicate": "http://www.wikidata.org/prop/P13591",
+      "object": "http://www.wikidata.org/entity/statement/Q212975-9E589E93-0E17-4B4F-957B-203C184F8F6A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212975",
+      "predicate": "http://schema.org/description",
+      "object": "حطام سفينة"
+    }
+  ]
+}

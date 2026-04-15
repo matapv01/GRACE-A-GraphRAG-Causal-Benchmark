@@ -1,0 +1,48 @@
+{
+  "question_id": "25073",
+  "answers": [
+    "http://www.wikidata.org/entity/Q106652"
+  ],
+  "gold_path": {
+    "question_id": "25073",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q106652",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1620908"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106652",
+        "predicate": "http://www.wikidata.org/prop/direct/P610",
+        "object": "http://www.wikidata.org/entity/Q104674"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106652",
+        "predicate": "rdfs:label",
+        "object": "Scottish Highlands"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q106652",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Highlands"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106652",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vysočina"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106652",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Scottish Highlands"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106652",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Terres altes d’Escòcia"
+    }
+  ]
+}

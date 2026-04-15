@@ -1,0 +1,28 @@
+{
+  "question_id": "29317",
+  "answers": [
+    "lou-harrison"
+  ],
+  "gold_path": {
+    "question_id": "29317",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q590911",
+        "predicate": "http://www.wikidata.org/prop/direct/P5226",
+        "object": "lou-harrison"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q590911",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "71"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q590911",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lou Silver Harrison"
+    }
+  ]
+}

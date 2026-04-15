@@ -1,0 +1,362 @@
+{
+  "clean": {
+    "question_id": "27802",
+    "answers": [
+      "http://www.wikidata.org/entity/Q24192067"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.wikidata.org/prop/direct/P2846",
+        "object": "http://www.wikidata.org/entity/Q24192067"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palau del Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "The Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "164"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "27802",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palau del Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "The Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "164"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q24192067"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "27802",
+    "answers": [
+      "http://www.wikidata.org/entity/Q24192067"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.wikidata.org/prop/direct/P2846",
+        "object": "http://www.wikidata.org/entity/Q24192067"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palau del Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "The Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "164"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/L1370427-S1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/L189-S10"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q2979"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q18757"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "http://www.wikidata.org/entity/Q28460"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "27802",
+    "answers": [
+      "http://www.wikidata.org/entity/Q24192067"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.wikidata.org/prop/direct/P2846",
+        "object": "http://www.wikidata.org/entity/Q24192067"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palau del Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "The Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "164"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-18C3B0DA-1F3E-4D3F-B3D0-807697C1C023"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-21DEC32B-F8BD-4739-BFC9-2BE0C99A0807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-2EB3F164-6B7B-42A9-9C74-0C147BCB2A46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-3AC93759-3B7B-4709-B427-775D6C914D16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-3CECE4C0-8F65-4CF9-87A6-0544F635C8D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-404C37CD-C42D-454C-8D73-70DDFA5C1510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-428663F8-796C-41AA-A817-1F9ECB537CAA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-4C0C809A-4570-4326-B8AB-22036464D776"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-4CC70B60-76A2-4350-B8BA-E520B583B8AD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-53F27AC6-EDF7-4277-BC79-193E33E0B5EA"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "27802",
+    "answers": [
+      "http://www.wikidata.org/entity/L1370427-S1"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Palau del Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "The Louvre"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://wikiba.se/ontology#sitelinks",
+        "object": "164"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19675",
+        "predicate": "http://www.wikidata.org/prop/direct/P2846",
+        "object": "http://www.wikidata.org/entity/L1370427-S1"
+      }
+    ]
+  }
+}

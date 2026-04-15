@@ -1,0 +1,54 @@
+{
+  "question_id": "9526",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3437147",
+    "http://www.wikidata.org/entity/Q111994477"
+  ],
+  "gold_path": {
+    "question_id": "9526",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q122634",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q3437147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q122634",
+        "predicate": "http://www.wikidata.org/prop/direct/P1441",
+        "object": "http://www.wikidata.org/entity/Q27266011"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q122634",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q111994477"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q122634",
+      "predicate": "http://www.wikidata.org/prop/P409",
+      "object": "http://www.wikidata.org/entity/statement/Q122634-d23802e5-4743-d1d1-2ac3-1d83bd01b33a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122634",
+      "predicate": "http://www.wikidata.org/prop/direct/P409",
+      "object": "58472945"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122634",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "119573112"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122634",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "de.memory-alpha:Robin_Hood"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122634",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "disney:Robin_Hood_(character)"
+    }
+  ]
+}

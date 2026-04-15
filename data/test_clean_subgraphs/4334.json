@@ -1,0 +1,53 @@
+{
+  "question_id": "4334",
+  "answers": [
+    "1788-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4334",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9312",
+        "predicate": "http://www.wikidata.org/prop/P800",
+        "object": "http://www.wikidata.org/entity/statement/Q9312-b640d53a-413c-c0fe-97c2-8451c401b045"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9312-b640d53a-413c-c0fe-97c2-8451c401b045",
+        "predicate": "ps:P800",
+        "object": "http://www.wikidata.org/entity/Q870851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9312-b640d53a-413c-c0fe-97c2-8451c401b045",
+        "predicate": "pq:P577",
+        "object": "1788-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9312",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T22:23:08Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9312",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q4120832"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9312",
+      "predicate": "http://www.wikidata.org/prop/direct/P140",
+      "object": "http://www.wikidata.org/entity/Q75809"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9312",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "CFIV000707"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9312",
+      "predicate": "http://www.wikidata.org/prop/direct/P866",
+      "object": "immanuel-kant"
+    }
+  ]
+}

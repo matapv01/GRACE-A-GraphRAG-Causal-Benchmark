@@ -1,0 +1,43 @@
+{
+  "question_id": "29436",
+  "answers": [
+    "PA00088801"
+  ],
+  "gold_path": {
+    "question_id": "29436",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q243",
+        "predicate": "http://www.wikidata.org/prop/direct/P380",
+        "object": "PA00088801"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q243",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "125"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.toureiffel.paris"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.toureiffel.paris/en"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.toureiffel.paris/it"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243",
+      "predicate": "http://www.wikidata.org/prop/direct/P4161",
+      "object": "europe/france/ile-de-france/ville-de-paris/paris/tour-eiffel"
+    }
+  ]
+}

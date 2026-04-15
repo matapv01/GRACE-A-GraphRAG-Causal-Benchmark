@@ -1,0 +1,48 @@
+{
+  "question_id": "12547",
+  "answers": [
+    "http://www.wikidata.org/entity/Q674827"
+  ],
+  "gold_path": {
+    "question_id": "12547",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q705818",
+        "predicate": "http://www.wikidata.org/prop/direct/P92",
+        "object": "http://www.wikidata.org/entity/Q674827"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q674827",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q183"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q705818",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q705818",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T16:32:25Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q705818",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P3911",
+      "object": "http://zbw.eu/stw/descriptor/11217-6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q705818",
+      "predicate": "http://www.wikidata.org/prop/direct/P3221",
+      "object": "subject/forced-labor"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q705818",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P3916",
+      "object": "http://vocabularies.unesco.org/thesaurus/concept6143"
+    }
+  ]
+}

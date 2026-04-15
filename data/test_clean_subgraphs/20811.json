@@ -1,0 +1,48 @@
+{
+  "question_id": "20811",
+  "answers": [
+    "http://www.wikidata.org/entity/Q253414"
+  ],
+  "gold_path": {
+    "question_id": "20811",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P797",
+        "object": "http://www.wikidata.org/entity/Q253414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q253414",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1478443"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "calcio"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "association football"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "サッカー"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "futbol"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "baolina kitra"
+    }
+  ]
+}

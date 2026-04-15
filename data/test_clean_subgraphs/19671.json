@@ -1,0 +1,48 @@
+{
+  "question_id": "19671",
+  "answers": [
+    "http://www.wikidata.org/entity/Q168"
+  ],
+  "gold_path": {
+    "question_id": "19671",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q167",
+        "predicate": "http://www.wikidata.org/prop/direct/P913",
+        "object": "http://www.wikidata.org/entity/Q168"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q168",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q19793459"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q167",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/6838"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q167",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P7033",
+      "object": "http://vocabulary.curriculum.edu.au/scot/7229"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q167",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "pi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q167",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ludolfovo číslo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q167",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pi"
+    }
+  ]
+}

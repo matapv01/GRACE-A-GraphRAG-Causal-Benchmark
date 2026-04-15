@@ -1,0 +1,38 @@
+{
+  "question_id": "8535",
+  "answers": [
+    "2014-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8535",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13915",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q13915-c5f955cc-432a-cc4b-b384-599de600f06d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q13915-c5f955cc-432a-cc4b-b384-599de600f06d",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q10960478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q13915-c5f955cc-432a-cc4b-b384-599de600f06d",
+        "predicate": "pq:P585",
+        "object": "2014-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13915",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "XKCD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13915",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Xkcd"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "11059",
+  "answers": [
+    "http://www.wikidata.org/entity/Q207847"
+  ],
+  "gold_path": {
+    "question_id": "11059",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q168261",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/q168261-f2509fd5-47e4-e188-8fc1-b25a5c0dbb36"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q168261-f2509fd5-47e4-e188-8fc1-b25a5c0dbb36",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q37110"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q168261-f2509fd5-47e4-e188-8fc1-b25a5c0dbb36",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q207847"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q168261",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "85"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168261",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ptolemy%20I%20Soter%20Louvre%20Ma849%20A.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168261",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q83958"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168261",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4212",
+      "object": "https://ark.frantiq.fr/ark:/26678/pcrtIvDvFbIScP"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168261",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q83958"
+    }
+  ]
+}

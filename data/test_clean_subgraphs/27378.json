@@ -1,0 +1,55 @@
+{
+  "question_id": "27378",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21175054",
+    "http://www.wikidata.org/entity/Q511818",
+    "http://www.wikidata.org/entity/Q202837"
+  ],
+  "gold_path": {
+    "question_id": "27378",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q202837",
+        "predicate": "http://www.wikidata.org/prop/direct/P2176",
+        "object": "http://www.wikidata.org/entity/Q208451"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q511818",
+        "predicate": "http://www.wikidata.org/prop/direct/P2176",
+        "object": "http://www.wikidata.org/entity/Q208451"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21175054",
+        "predicate": "http://www.wikidata.org/prop/direct/P2176",
+        "object": "http://www.wikidata.org/entity/Q208451"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q202837",
+      "predicate": "http://www.wikidata.org/prop/P5063",
+      "object": "http://www.wikidata.org/entity/statement/Q202837-AF837A8A-4B7C-4A47-B374-B3B8CB580D8F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202837",
+      "predicate": "http://www.wikidata.org/prop/P508",
+      "object": "http://www.wikidata.org/entity/statement/q202837-0F180266-E29B-40F3-8EF7-37E9C0BEBAF6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202837",
+      "predicate": "http://www.wikidata.org/prop/P5082",
+      "object": "http://www.wikidata.org/entity/statement/Q202837-9fcb85ab-1d5b-4690-a275-9a12ba7e3017"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202837",
+      "predicate": "http://www.wikidata.org/prop/P3827",
+      "object": "http://www.wikidata.org/entity/statement/Q202837-8676251F-ADEF-40ED-B3DA-90A3CAEF1279"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q202837",
+      "predicate": "http://www.wikidata.org/prop/P604",
+      "object": "http://www.wikidata.org/entity/statement/Q202837-471FCE2A-E099-4498-9A25-B383D21CDFEF"
+    }
+  ]
+}

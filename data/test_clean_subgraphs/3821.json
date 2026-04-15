@@ -1,0 +1,48 @@
+{
+  "question_id": "3821",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1340199"
+  ],
+  "gold_path": {
+    "question_id": "3821",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34474",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q34474-C262AD5F-145D-408A-AD8A-AA5EF888AF0E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q34474-C262AD5F-145D-408A-AD8A-AA5EF888AF0E",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1340199"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q153676"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P103",
+      "object": "http://www.wikidata.org/entity/Q7737"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandr%20Solzhenitsyn%201974crop.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P106",
+      "object": "http://www.wikidata.org/entity/Q28389"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34474",
+      "predicate": "http://www.wikidata.org/prop/direct/P106",
+      "object": "http://www.wikidata.org/entity/Q36180"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "question_id": "10440",
+  "answers": [
+    "http://www.wikidata.org/entity/Q71231"
+  ],
+  "gold_path": {
+    "question_id": "10440",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q215204",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q215204-2600398C-7E19-4C68-9C8E-1C1E15819B7A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q215204-2600398C-7E19-4C68-9C8E-1C1E15819B7A",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q271148"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q215204-2600398C-7E19-4C68-9C8E-1C1E15819B7A",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q71231"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q215204-2600398C-7E19-4C68-9C8E-1C1E15819B7A",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q150735"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q215204",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5587",
+      "object": "https://libris.kb.se/0xbdfp8j27fp603#it"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215204",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "54"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215204",
+      "predicate": "http://www.wikidata.org/prop/direct/P3218",
+      "object": "90104"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215204",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "58"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215204",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/118574906"
+    }
+  ]
+}

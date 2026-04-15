@@ -1,0 +1,59 @@
+{
+  "question_id": "14260",
+  "answers": [
+    "http://www.wikidata.org/entity/Q19801202",
+    "http://www.wikidata.org/entity/Q2262123"
+  ],
+  "gold_path": {
+    "question_id": "14260",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q315170",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q2262123"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2262123",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q7331879"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q315170",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q19801202"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19801202",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q7331879"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q315170",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "134"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315170",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q315170-01A066B7-5F8A-42D6-91F7-F2464CA92A93"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315170",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/00621223"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315170",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q315170",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q315170-7DC4985A-FE2F-44A9-BAF3-D6341367DD5A"
+    }
+  ]
+}

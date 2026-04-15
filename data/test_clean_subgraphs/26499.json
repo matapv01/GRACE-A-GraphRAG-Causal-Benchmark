@@ -1,0 +1,43 @@
+{
+  "question_id": "26499",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13261"
+  ],
+  "gold_path": {
+    "question_id": "26499",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13261",
+        "predicate": "http://www.wikidata.org/prop/direct/P1382",
+        "object": "http://www.wikidata.org/entity/Q13253"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13261",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p8376"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13261",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T20:26:33Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13261",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4163030-0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13261",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "какао"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13261",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "hot chocolate"
+    }
+  ]
+}

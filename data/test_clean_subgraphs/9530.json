@@ -1,0 +1,48 @@
+{
+  "question_id": "9530",
+  "answers": [
+    "http://www.wikidata.org/entity/Q60"
+  ],
+  "gold_path": {
+    "question_id": "9530",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q49001",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q60"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49001",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q49001",
+      "predicate": "http://www.wikidata.org/prop/P51",
+      "object": "http://www.wikidata.org/entity/statement/Q49001-bedb400e-4ca4-c7f5-4c69-633f696e34f6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49001",
+      "predicate": "http://www.wikidata.org/prop/direct/P51",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Whoopi%20Goldberg%20BBC%20Radio4%20Desert%20Island%20Discs%2010%20May%202009%20b00k7qyn.flac"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49001",
+      "predicate": "http://www.wikidata.org/prop/direct/P2605",
+      "object": "91"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49001",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "46791"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49001",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "13974415p"
+    }
+  ]
+}

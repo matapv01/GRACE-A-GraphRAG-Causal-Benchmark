@@ -1,0 +1,43 @@
+{
+  "question_id": "20104",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10218836"
+  ],
+  "gold_path": {
+    "question_id": "20104",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q456",
+        "predicate": "http://www.wikidata.org/prop/direct/P1740",
+        "object": "http://www.wikidata.org/entity/Q10218836"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10218836",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167836"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lione"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lyon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lugdunum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ലിയോൺ"
+    }
+  ]
+}

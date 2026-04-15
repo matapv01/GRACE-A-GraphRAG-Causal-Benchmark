@@ -1,0 +1,60 @@
+{
+  "question_id": "17269",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3783",
+    "http://www.wikidata.org/entity/Q22030706",
+    "http://www.wikidata.org/entity/Q21171224"
+  ],
+  "gold_path": {
+    "question_id": "17269",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q209036",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q97"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q97",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q3783"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q97",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q21171224"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q97",
+        "predicate": "http://www.wikidata.org/prop/direct/P974",
+        "object": "http://www.wikidata.org/entity/Q22030706"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q209036",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Lagoa%20das%20Sete%20Cidades%2C%20Miradouro%20da%20vista%20do%20Rei%2C%20Sete%20Cidades%2C%20Ponta%20Delgada%2C%20ilha%20de%20S%C3%A3o%20Miguel%2C%20A%C3%A7ores.JPG"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209036",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q209036-39cbc0a6-40c5-a58f-7eca-f87b5090d48b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209036",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q209036-DE6E05F6-5EAD-4A93-BA71-DD8545247A24"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209036",
+      "predicate": "http://www.wikidata.org/prop/direct/P1889",
+      "object": "http://www.wikidata.org/entity/Q365788"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209036",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q209036-347FC59F-4CCF-4AE0-B5B7-212660E879B5"
+    }
+  ]
+}

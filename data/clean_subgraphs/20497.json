@@ -1,0 +1,48 @@
+{
+  "question_id": "20497",
+  "answers": [
+    "http://www.wikidata.org/entity/Q213938"
+  ],
+  "gold_path": {
+    "question_id": "20497",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131227",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q213938"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q213938",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131227",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131227",
+      "predicate": "http://schema.org/version",
+      "object": "2478471512"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131227",
+      "predicate": "http://www.wikidata.org/prop/direct/P3186",
+      "object": "39079"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131227",
+      "predicate": "http://www.wikidata.org/prop/direct/P6864",
+      "object": "131939"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131227",
+      "predicate": "http://schema.org/description",
+      "object": "specie di fungo"
+    }
+  ]
+}

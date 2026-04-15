@@ -1,0 +1,59 @@
+{
+  "question_id": "16395",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1754",
+    "http://www.wikidata.org/entity/Q90"
+  ],
+  "gold_path": {
+    "question_id": "16395",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q219420",
+        "predicate": "http://www.wikidata.org/prop/direct/P737",
+        "object": "http://www.wikidata.org/entity/Q7724"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7724",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q1754"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q219420",
+        "predicate": "http://www.wikidata.org/prop/direct/P737",
+        "object": "http://www.wikidata.org/entity/Q37327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37327",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q90"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q219420",
+      "predicate": "http://schema.org/description",
+      "object": "Ameerika Ühendriikide näitekirjanik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219420",
+      "predicate": "http://schema.org/description",
+      "object": "dramaturg amerikan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219420",
+      "predicate": "http://schema.org/description",
+      "object": "US-amerikanischer Schriftsteller"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219420",
+      "predicate": "http://schema.org/description",
+      "object": "US-amerikanesche Schrëftsteller"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q219420",
+      "predicate": "http://schema.org/description",
+      "object": "dramiste american"
+    }
+  ]
+}

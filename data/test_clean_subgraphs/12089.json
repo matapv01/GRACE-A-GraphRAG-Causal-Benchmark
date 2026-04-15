@@ -1,0 +1,59 @@
+{
+  "question_id": "12089",
+  "answers": [
+    "http://www.wikidata.org/entity/Q309945",
+    "http://www.wikidata.org/entity/Q1378815"
+  ],
+  "gold_path": {
+    "question_id": "12089",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11221",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q309945"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q309945",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581097"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11221",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q1378815"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1378815",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581097"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11221",
+      "predicate": "http://www.wikidata.org/prop/P6058",
+      "object": "http://www.wikidata.org/entity/statement/Q11221-cb36f600-4779-3624-505e-a77deea21127"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11221",
+      "predicate": "http://www.wikidata.org/prop/direct/P6058",
+      "object": "divers/wd/143600"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11221",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Schlumpf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11221",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Les Schtroumpfs"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11221",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Puffi"
+    }
+  ]
+}

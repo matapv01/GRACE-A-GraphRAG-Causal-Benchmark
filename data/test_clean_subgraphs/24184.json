@@ -1,0 +1,38 @@
+{
+  "question_id": "24184",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3549"
+  ],
+  "gold_path": {
+    "question_id": "24184",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3549",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15105893"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3549",
+        "predicate": "rdfs:label",
+        "object": "Šibenik"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3549",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sibenik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3549",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sebenico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3549",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Σεμπένικο"
+    }
+  ]
+}

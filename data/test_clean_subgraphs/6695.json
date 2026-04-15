@@ -1,0 +1,53 @@
+{
+  "question_id": "6695",
+  "answers": [
+    "1984-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6695",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q93341",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q93341-FA32BF11-2C8D-4A25-A0D1-4AB9256F9F7F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q93341-FA32BF11-2C8D-4A25-A0D1-4AB9256F9F7F",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1165751"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q93341-FA32BF11-2C8D-4A25-A0D1-4AB9256F9F7F",
+        "predicate": "pq:P585",
+        "object": "1984-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q93341",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Davis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q93341",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cleo Henry"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q93341",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Miles Dewey Davis III"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q93341",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Майлз Дэвіс"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q93341",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Miles Davis III"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "15214",
+  "answers": [
+    "http://www.wikidata.org/entity/Q146911"
+  ],
+  "gold_path": {
+    "question_id": "15214",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28741396",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q138044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138044",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q146911"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28741396",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28741396",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Cypress, Point Lobos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28741396",
+      "predicate": "http://schema.org/description",
+      "object": "pintura d'Edward J. Holslag"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28741396",
+      "predicate": "http://schema.org/description",
+      "object": "quadre de Edward J. Holslag"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28741396",
+      "predicate": "http://schema.org/description",
+      "object": "maleri af Edward J. Holslag"
+    }
+  ]
+}

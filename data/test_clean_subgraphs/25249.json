@@ -1,0 +1,112 @@
+{
+  "question_id": "25249",
+  "answers": [
+    "http://www.wikidata.org/entity/Q125264116",
+    "http://www.wikidata.org/entity/Q124459508",
+    "http://www.wikidata.org/entity/Q125121529",
+    "http://www.wikidata.org/entity/Q117151090",
+    "http://www.wikidata.org/entity/Q149789"
+  ],
+  "gold_path": {
+    "question_id": "25249",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q117151090",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q117151090",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q117151090",
+        "predicate": "rdfs:label",
+        "object": "limited liability company"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124459508",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124459508",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124459508",
+        "predicate": "rdfs:label",
+        "object": "public benefit limited liability company"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125121529",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125121529",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125121529",
+        "predicate": "rdfs:label",
+        "object": "limited liability company"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125264116",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125264116",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125264116",
+        "predicate": "rdfs:label",
+        "object": "limited liability company"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q149789",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q149789",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q149789",
+        "predicate": "rdfs:label",
+        "object": "limited liability company"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q117151090",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "limited liability company"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117151090",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "شركة ذات مسؤولية محدودة"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117151090",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "有限責任会社"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117151090",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    }
+  ]
+}

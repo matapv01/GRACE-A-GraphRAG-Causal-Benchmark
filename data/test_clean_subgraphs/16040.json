@@ -1,0 +1,48 @@
+{
+  "question_id": "16040",
+  "answers": [
+    "http://www.wikidata.org/entity/Q187052"
+  ],
+  "gold_path": {
+    "question_id": "16040",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43325468",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q43325460"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43325460",
+        "predicate": "http://www.wikidata.org/prop/direct/P1027",
+        "object": "http://www.wikidata.org/entity/Q187052"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43325468",
+      "predicate": "http://www.wikidata.org/prop/P345",
+      "object": "http://www.wikidata.org/entity/statement/Q43325468-07bec337-4049-74b5-55bb-12b7b7d055fd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43325468",
+      "predicate": "http://www.wikidata.org/prop/P2605",
+      "object": "http://www.wikidata.org/entity/statement/Q43325468-99B51178-2F4E-4303-86CA-74E443E1452A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43325468",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q43325468-361ce4b7-4df0-8a63-2ffe-a0a93f6f77d3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43325468",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/Q43325468-42747b2a-4cf2-4829-61b3-f300bff63861"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43325468",
+      "predicate": "http://www.wikidata.org/prop/P166",
+      "object": "http://www.wikidata.org/entity/statement/Q43325468-80b9e9ca-4615-1f5d-ee53-9936392c2e4e"
+    }
+  ]
+}

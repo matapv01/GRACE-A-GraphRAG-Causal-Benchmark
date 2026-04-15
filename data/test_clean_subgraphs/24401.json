@@ -1,0 +1,48 @@
+{
+  "question_id": "24401",
+  "answers": [
+    "http://www.wikidata.org/entity/Q32491"
+  ],
+  "gold_path": {
+    "question_id": "24401",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q721639"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32491",
+        "predicate": "rdfs:label",
+        "object": "Qantas Airways"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb14624898w#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "60"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct/P452",
+      "object": "http://www.wikidata.org/entity/Q765633"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/direct/P452",
+      "object": "http://www.wikidata.org/entity/Q1757562"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q32491",
+      "predicate": "http://www.wikidata.org/prop/P452",
+      "object": "http://www.wikidata.org/entity/statement/Q32491-7b0a85d5-4465-69f2-2041-9dd43cbbc832"
+    }
+  ]
+}

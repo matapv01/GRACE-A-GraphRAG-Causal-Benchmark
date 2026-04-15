@@ -1,0 +1,58 @@
+{
+  "question_id": "10832",
+  "answers": [
+    "41"
+  ],
+  "gold_path": {
+    "question_id": "10832",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q67964",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q67964-9C8FC135-3372-4021-B184-FF084E336DF8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q67964-9C8FC135-3372-4021-B184-FF084E336DF8",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q67964-9C8FC135-3372-4021-B184-FF084E336DF8",
+        "predicate": "pq:P1350",
+        "object": "41"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q67964-9C8FC135-3372-4021-B184-FF084E336DF8",
+        "predicate": "pq:P1351",
+        "object": "9"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q67964",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q67964-98617CEF-87C4-4DA0-97F6-92F393581C55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q67964",
+      "predicate": "http://schema.org/version",
+      "object": "2480172144"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q67964",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q67964-2E577611-494C-4C1D-A5F3-45EF644E51DB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q67964",
+      "predicate": "http://www.wikidata.org/prop/P413",
+      "object": "http://www.wikidata.org/entity/statement/Q67964-DCCBAEE8-23A4-4537-A369-9BAD7378AE57"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q67964",
+      "predicate": "http://www.wikidata.org/prop/P1741",
+      "object": "http://www.wikidata.org/entity/statement/Q67964-D4B342E0-C3E9-440A-B288-A0A7E6E46D09"
+    }
+  ]
+}

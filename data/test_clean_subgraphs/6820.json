@@ -1,0 +1,69 @@
+{
+  "question_id": "6820",
+  "answers": [
+    "640",
+    "560"
+  ],
+  "gold_path": {
+    "question_id": "6820",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q61457",
+        "predicate": "http://www.wikidata.org/prop/P2240",
+        "object": "http://www.wikidata.org/entity/statement/Q61457-603353dd-45b6-d70b-b6d0-6d012d82abed"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q61457-603353dd-45b6-d70b-b6d0-6d012d82abed",
+        "predicate": "ps:P2240",
+        "object": "560"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q61457-603353dd-45b6-d70b-b6d0-6d012d82abed",
+        "predicate": "pq:P636",
+        "object": "http://www.wikidata.org/entity/Q2035485"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61457",
+        "predicate": "http://www.wikidata.org/prop/P2240",
+        "object": "http://www.wikidata.org/entity/statement/Q61457-b21432b5-4180-f16e-0cfd-d951c536ae4a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q61457-b21432b5-4180-f16e-0cfd-d951c536ae4a",
+        "predicate": "ps:P2240",
+        "object": "640"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q61457-b21432b5-4180-f16e-0cfd-d951c536ae4a",
+        "predicate": "pq:P636",
+        "object": "http://www.wikidata.org/entity/Q2035485"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q61457",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb12458381r#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61457",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "acetaldehyd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61457",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/30995"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61457",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p22746"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61457",
+      "predicate": "http://www.wikidata.org/prop/direct/P462",
+      "object": "http://www.wikidata.org/entity/Q11567495"
+    }
+  ]
+}

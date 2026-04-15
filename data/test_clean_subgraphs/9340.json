@@ -1,0 +1,48 @@
+{
+  "question_id": "9340",
+  "answers": [
+    "http://www.wikidata.org/entity/Q242722"
+  ],
+  "gold_path": {
+    "question_id": "9340",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q82110",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q82110-E666BDD2-7913-46A9-88EA-052D52F57676"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82110-E666BDD2-7913-46A9-88EA-052D52F57676",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q242722"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q82110",
+      "predicate": "http://www.wikidata.org/prop/direct/P2688",
+      "object": "stevenseagal"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82110",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "14024837n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82110",
+      "predicate": "http://www.wikidata.org/prop/direct/P2605",
+      "object": "482"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82110",
+      "predicate": "http://www.wikidata.org/prop/direct/P2387",
+      "object": "158195"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82110",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "60476"
+    }
+  ]
+}

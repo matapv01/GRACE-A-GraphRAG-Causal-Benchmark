@@ -1,0 +1,58 @@
+{
+  "question_id": "10272",
+  "answers": [
+    "33"
+  ],
+  "gold_path": {
+    "question_id": "10272",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22717",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q22717-580BA6A1-54B3-4335-B389-444540ADE286"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q22717-580BA6A1-54B3-4335-B389-444540ADE286",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q43310"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q22717-580BA6A1-54B3-4335-B389-444540ADE286",
+        "predicate": "pq:P1351",
+        "object": "33"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q22717-580BA6A1-54B3-4335-B389-444540ADE286",
+        "predicate": "pq:P1350",
+        "object": "61"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q22717",
+      "predicate": "http://schema.org/description",
+      "object": "لاعب كرة قدم ألماني"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22717",
+      "predicate": "http://schema.org/description",
+      "object": "calciatore tedesco"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22717",
+      "predicate": "http://schema.org/description",
+      "object": "Duits voetballer"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22717",
+      "predicate": "http://schema.org/description",
+      "object": "জার্মান ফুটবলার"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22717",
+      "predicate": "http://schema.org/description",
+      "object": "כדורגלן גרמני"
+    }
+  ]
+}

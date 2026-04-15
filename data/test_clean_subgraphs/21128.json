@@ -1,0 +1,48 @@
+{
+  "question_id": "21128",
+  "answers": [
+    "http://www.wikidata.org/entity/Q296260"
+  ],
+  "gold_path": {
+    "question_id": "21128",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q296260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296260",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167410"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "soccer"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "calço"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Futbaal"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "𐍆𐍉𐍄𐌿𐌱𐌰𐌻𐌻𐌿𐍃"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2736",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "football"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "question_id": "21490",
+  "answers": [
+    "http://www.wikidata.org/entity/Q127955",
+    "http://www.wikidata.org/entity/Q3543824",
+    "http://www.wikidata.org/entity/Q3543830"
+  ],
+  "gold_path": {
+    "question_id": "21490",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q127955",
+        "predicate": "http://www.wikidata.org/prop/direct/P931",
+        "object": "http://www.wikidata.org/entity/Q3711"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127955",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1248784"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3543824",
+        "predicate": "http://www.wikidata.org/prop/direct/P931",
+        "object": "http://www.wikidata.org/entity/Q3711"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3543824",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1248784"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3543830",
+        "predicate": "http://www.wikidata.org/prop/direct/P931",
+        "object": "http://www.wikidata.org/entity/Q3711"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3543830",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1248784"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q127955",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "54"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127955",
+      "predicate": "http://www.wikidata.org/prop/direct/P414",
+      "object": "http://www.wikidata.org/entity/Q550050"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127955",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q403"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127955",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/q127955-7664A1F3-0FD6-4F68-83A6-BE182B39C9C3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127955",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q644371"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "28774",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17265036"
+  ],
+  "gold_path": {
+    "question_id": "28774",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17265036",
+        "predicate": "http://www.wikidata.org/prop/direct/P3349",
+        "object": "http://www.wikidata.org/entity/Q9482"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17265036",
+      "predicate": "http://schema.org/version",
+      "object": "2455468865"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17265036",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "squirrel bridge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17265036",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "eekhoorntjesbrug"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17265036",
+      "predicate": "http://schema.org/description",
+      "object": "bridge for small animals"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17265036",
+      "predicate": "http://schema.org/description",
+      "object": "brug voor kleine dieren"
+    }
+  ]
+}

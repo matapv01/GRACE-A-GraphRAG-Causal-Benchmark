@@ -1,0 +1,48 @@
+{
+  "question_id": "13548",
+  "answers": [
+    "http://www.wikidata.org/entity/Q134270"
+  ],
+  "gold_path": {
+    "question_id": "13548",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q560",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q134270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q134270",
+        "predicate": "http://www.wikidata.org/prop/direct/P451",
+        "object": "http://www.wikidata.org/entity/Q1333108"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q560",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85060043"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q560",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4132459-6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q560",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "helium"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q560",
+      "predicate": "http://www.wikidata.org/prop/direct/P910",
+      "object": "http://www.wikidata.org/entity/Q7415569"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q560",
+      "predicate": "http://www.wikidata.org/prop/direct/P592",
+      "object": "CHEMBL1796997"
+    }
+  ]
+}

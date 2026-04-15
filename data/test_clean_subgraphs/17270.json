@@ -1,0 +1,48 @@
+{
+  "question_id": "17270",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3177899"
+  ],
+  "gold_path": {
+    "question_id": "17270",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21500303",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q4951263"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4951263",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q3177899"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21500303",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/Q21500303-3037c842-4359-58f8-2475-ec57c31e0dd9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21500303",
+      "predicate": "http://www.wikidata.org/prop/P131",
+      "object": "http://www.wikidata.org/entity/statement/Q21500303-75e7ef6b-4d2f-170a-10e1-860d26c2ada3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21500303",
+      "predicate": "http://www.wikidata.org/prop/P2671",
+      "object": "http://www.wikidata.org/entity/statement/Q21500303-6A7D40E4-7534-43DC-B39E-68AA24D99101"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21500303",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21500303",
+      "predicate": "http://schema.org/description",
+      "object": "bowling game from Guissény and Plouguernau, Brittany"
+    }
+  ]
+}

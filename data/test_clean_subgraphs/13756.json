@@ -1,0 +1,33 @@
+{
+  "question_id": "13756",
+  "answers": [
+    "http://www.wikidata.org/entity/Q35149"
+  ],
+  "gold_path": {
+    "question_id": "13756",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q321017",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q35149"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q35149",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q2999"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q321017",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "R"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q321017",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "rontgen"
+    }
+  ]
+}

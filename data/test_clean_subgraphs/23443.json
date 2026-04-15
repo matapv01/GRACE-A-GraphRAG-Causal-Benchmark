@@ -1,0 +1,48 @@
+{
+  "question_id": "23443",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7833392"
+  ],
+  "gold_path": {
+    "question_id": "23443",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7833392",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12140"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7833392",
+        "predicate": "rdfs:label",
+        "object": "trandolapril/verapamil"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7833392",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7833392",
+      "predicate": "http://www.wikidata.org/prop/P527",
+      "object": "http://www.wikidata.org/entity/statement/Q7833392-c50c25bc-417a-bffc-767d-e15c2ea43233"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7833392",
+      "predicate": "http://www.wikidata.org/prop/P527",
+      "object": "http://www.wikidata.org/entity/statement/Q7833392-d768779b-42bb-c98f-3372-fa9831761093"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7833392",
+      "predicate": "http://www.wikidata.org/prop/P3345",
+      "object": "http://www.wikidata.org/entity/statement/Q7833392-A8DDA368-3570-4040-B4F6-FB9E45D784C2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7833392",
+      "predicate": "http://www.wikidata.org/prop/P267",
+      "object": "http://www.wikidata.org/entity/statement/Q7833392-06498F3E-C924-48CB-A68E-2E5C3B5BB271"
+    }
+  ]
+}

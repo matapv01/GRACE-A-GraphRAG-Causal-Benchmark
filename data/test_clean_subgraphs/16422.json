@@ -1,0 +1,48 @@
+{
+  "question_id": "16422",
+  "answers": [
+    "http://www.wikidata.org/entity/Q463303"
+  ],
+  "gold_path": {
+    "question_id": "16422",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47783",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q455076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q455076",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q463303"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47783",
+      "predicate": "http://www.wikidata.org/prop/direct/P580",
+      "object": "1940-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47783",
+      "predicate": "http://www.wikidata.org/prop/direct/P3847",
+      "object": "postmodernism"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47783",
+      "predicate": "http://www.wikidata.org/prop/direct/P12086",
+      "object": "Postmodernisme"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47783",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "00935601"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47783",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "postmodernisme-1"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "17462",
+  "answers": [
+    "http://www.wikidata.org/entity/Q181658"
+  ],
+  "gold_path": {
+    "question_id": "17462",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q852100",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q124441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124441",
+        "predicate": "http://www.wikidata.org/prop/direct/P1419",
+        "object": "http://www.wikidata.org/entity/Q181658"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q852100",
+      "predicate": "http://schema.org/description",
+      "object": "process of washing textiles"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q852100",
+      "predicate": "http://schema.org/description",
+      "object": "proses om tekstiele te was"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q852100",
+      "predicate": "http://schema.org/description",
+      "object": "action de laver des tissus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q852100",
+      "predicate": "http://schema.org/description",
+      "object": "rengöring av textilier"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q852100",
+      "predicate": "http://schema.org/description",
+      "object": "清洗纺织品"
+    }
+  ]
+}

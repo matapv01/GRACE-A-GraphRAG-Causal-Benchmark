@@ -1,0 +1,53 @@
+{
+  "question_id": "5227",
+  "answers": [
+    "http://www.wikidata.org/entity/Q950900"
+  ],
+  "gold_path": {
+    "question_id": "5227",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q354897",
+        "predicate": "http://www.wikidata.org/prop/P512",
+        "object": "http://www.wikidata.org/entity/statement/Q354897-9d669697-430f-99c0-3c6f-084638de4318"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q354897-9d669697-430f-99c0-3c6f-084638de4318",
+        "predicate": "ps:P512",
+        "object": "http://www.wikidata.org/entity/Q950900"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q354897-9d669697-430f-99c0-3c6f-084638de4318",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q194292"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q354897",
+      "predicate": "http://www.wikidata.org/prop/direct/P3368",
+      "object": "2462573"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q354897",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007457166105171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q354897",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "bengt-holmström-(ekonom)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q354897",
+      "predicate": "http://www.wikidata.org/prop/direct/P6104",
+      "object": "http://www.wikidata.org/entity/Q8487137"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q354897",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Bengt_Holmström"
+    }
+  ]
+}

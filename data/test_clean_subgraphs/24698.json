@@ -1,0 +1,70 @@
+{
+  "question_id": "24698",
+  "answers": [
+    "http://www.wikidata.org/entity/Q50030",
+    "http://www.wikidata.org/entity/Q1856046",
+    "http://www.wikidata.org/entity/Q1469362"
+  ],
+  "gold_path": {
+    "question_id": "24698",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q50030",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1231896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50030",
+        "predicate": "rdfs:label",
+        "object": "watercolor"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1469362",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1231896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1469362",
+        "predicate": "rdfs:label",
+        "object": "wash technique"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1856046",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1231896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1856046",
+        "predicate": "rdfs:label",
+        "object": "wet-on-wet"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q50030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/11bc5nkcnh"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P10077",
+      "object": "http://tesauros.mecd.es/tesauros/tecnicas/1181621"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8406",
+      "object": "http://dx.doi.org/10.1093/gao/9781884446054.article.T090797"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb119309259#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q50030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4002511-1"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "13961",
+  "answers": [
+    "http://www.wikidata.org/entity/Q64236"
+  ],
+  "gold_path": {
+    "question_id": "13961",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12861",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q64236"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12861",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T16:44:12Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12861",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q12870"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12861",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q169336"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12861",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "poudre-noire"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12861",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "usage-de-la-poudre-noire"
+    }
+  ]
+}

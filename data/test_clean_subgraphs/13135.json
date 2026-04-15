@@ -1,0 +1,48 @@
+{
+  "question_id": "13135",
+  "answers": [
+    "http://www.wikidata.org/entity/Q675"
+  ],
+  "gold_path": {
+    "question_id": "13135",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25272",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q675",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581097"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25272",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ambeer"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25272",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ampɛ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25272",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "آمپر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25272",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "アンペア"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25272",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "amper"
+    }
+  ]
+}

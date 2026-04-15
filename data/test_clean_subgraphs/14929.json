@@ -1,0 +1,72 @@
+{
+  "question_id": "14929",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2302151",
+    "http://www.wikidata.org/entity/Q102932",
+    "http://www.wikidata.org/entity/Q2864737",
+    "http://www.wikidata.org/entity/Q191163",
+    "http://www.wikidata.org/entity/Q134307"
+  ],
+  "gold_path": {
+    "question_id": "14929",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20182314",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q93284"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q93284",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q102932"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q93284",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q134307"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q93284",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q191163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q93284",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q2302151"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q93284",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q2864737"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20182314",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20182314",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Le Pont de Passy et la Tour Eiffel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20182314",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2024-10-27T19:41:26Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20182314",
+      "predicate": "http://www.wikidata.org/prop/direct/P180",
+      "object": "http://www.wikidata.org/entity/Q515"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20182314",
+      "predicate": "http://www.wikidata.org/prop/direct/P180",
+      "object": "http://www.wikidata.org/entity/Q726"
+    }
+  ]
+}

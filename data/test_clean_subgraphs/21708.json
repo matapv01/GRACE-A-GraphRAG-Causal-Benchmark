@@ -1,0 +1,33 @@
+{
+  "question_id": "21708",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1088647"
+  ],
+  "gold_path": {
+    "question_id": "21708",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43432",
+        "predicate": "http://www.wikidata.org/prop/direct/P358",
+        "object": "http://www.wikidata.org/entity/Q1088647"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1088647",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q273057"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43432",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "賈斯汀·提姆布萊克"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43432",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "JT"
+    }
+  ]
+}

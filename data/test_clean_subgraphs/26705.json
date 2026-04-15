@@ -1,0 +1,44 @@
+{
+  "question_id": "26705",
+  "answers": [
+    "20320",
+    "15089"
+  ],
+  "gold_path": {
+    "question_id": "26705",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220665",
+        "predicate": "http://www.wikidata.org/prop/direct/P5290",
+        "object": "15089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q220665",
+        "predicate": "http://www.wikidata.org/prop/direct/P5290",
+        "object": "20320"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "89"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سبيس إنفيدرز"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سپيس انڤيدرز"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220665",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Space Invaders"
+    }
+  ]
+}

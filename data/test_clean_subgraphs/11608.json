@@ -1,0 +1,70 @@
+{
+  "question_id": "11608",
+  "answers": [
+    "1948-01-01T00:00:00Z",
+    "1943-01-01T00:00:00Z",
+    "1968-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11608",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q39212",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q39212-2192B7E2-49E3-4BDF-A4E5-0E967BD3960D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q39212-2192B7E2-49E3-4BDF-A4E5-0E967BD3960D",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q5353161"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q39212-2192B7E2-49E3-4BDF-A4E5-0E967BD3960D",
+        "predicate": "pq:P582",
+        "object": "1968-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q39212",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q39212-b4cfb776-4cdc-1b06-489b-ed4172ee8dc5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39212-b4cfb776-4cdc-1b06-489b-ed4172ee8dc5",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q17413216"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39212-b4cfb776-4cdc-1b06-489b-ed4172ee8dc5",
+        "predicate": "pq:P582",
+        "object": "1943-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q39212",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q39212-e90ca7b7-4c03-119c-9f76-70537fe6814d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39212-e90ca7b7-4c03-119c-9f76-70537fe6814d",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q22273839"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39212-e90ca7b7-4c03-119c-9f76-70537fe6814d",
+        "predicate": "pq:P582",
+        "object": "1948-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q39212",
+      "predicate": "http://www.wikidata.org/prop/P25",
+      "object": "http://www.wikidata.org/entity/statement/Q39212-7df200c7-3821-4948-b2f8-4afcca698ff6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39212",
+      "predicate": "http://www.wikidata.org/prop/direct/P4619",
+      "object": "000350429"
+    }
+  ]
+}

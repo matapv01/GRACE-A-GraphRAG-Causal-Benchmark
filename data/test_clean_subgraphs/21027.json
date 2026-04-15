@@ -1,0 +1,48 @@
+{
+  "question_id": "21027",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23702848"
+  ],
+  "gold_path": {
+    "question_id": "21027",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19943",
+        "predicate": "http://www.wikidata.org/prop/direct/P793",
+        "object": "http://www.wikidata.org/entity/Q23702848"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23702848",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2904148"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19943",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "127"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19943",
+      "predicate": "http://schema.org/description",
+      "object": "španělský král"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19943",
+      "predicate": "http://schema.org/description",
+      "object": "König von Spanien"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19943",
+      "predicate": "http://schema.org/description",
+      "object": "スペインの君主"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19943",
+      "predicate": "http://schema.org/description",
+      "object": "מלך ספרד"
+    }
+  ]
+}

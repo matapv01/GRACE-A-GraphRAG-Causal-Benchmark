@@ -1,0 +1,43 @@
+{
+  "question_id": "13974",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34095"
+  ],
+  "gold_path": {
+    "question_id": "13974",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6555477",
+        "predicate": "http://www.wikidata.org/prop/direct/P186",
+        "object": "http://www.wikidata.org/entity/Q34095"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q34095",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q39782"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6555477",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Naya%2C%20Carlo%20%281816-1882%29%20-%20n.%20157%20-%20Venezia%20-%20Leone%20in%20Piazza%20san%20Marco.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6555477",
+      "predicate": "http://www.wikidata.org/prop/direct/P276",
+      "object": "http://www.wikidata.org/entity/Q13776647"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6555477",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q6555477-0DDA4A51-6ED5-44BC-B536-8F62DFC3A898"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6555477",
+      "predicate": "http://schema.org/description",
+      "object": "פסל"
+    }
+  ]
+}

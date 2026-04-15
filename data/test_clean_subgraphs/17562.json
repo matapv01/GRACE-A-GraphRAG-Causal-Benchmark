@@ -1,0 +1,65 @@
+{
+  "question_id": "17562",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1873411",
+    "http://www.wikidata.org/entity/Q124881945",
+    "http://www.wikidata.org/entity/Q270273"
+  ],
+  "gold_path": {
+    "question_id": "17562",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q192649",
+        "predicate": "http://www.wikidata.org/prop/direct/P840",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q90",
+        "predicate": "http://www.wikidata.org/prop/direct/P1365",
+        "object": "http://www.wikidata.org/entity/Q270273"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q90",
+        "predicate": "http://www.wikidata.org/prop/direct/P1365",
+        "object": "http://www.wikidata.org/entity/Q124881945"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q192649",
+        "predicate": "http://www.wikidata.org/prop/direct/P840",
+        "object": "http://www.wikidata.org/entity/Q37776"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37776",
+        "predicate": "http://www.wikidata.org/prop/direct/P1365",
+        "object": "http://www.wikidata.org/entity/Q1873411"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q192649",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "11987967z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192649",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL733640W"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192649",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL733371W"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192649",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL733370W"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192649",
+      "predicate": "http://www.wikidata.org/prop/direct/P9818",
+      "object": "298093"
+    }
+  ]
+}

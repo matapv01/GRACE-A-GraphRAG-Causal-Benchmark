@@ -1,0 +1,53 @@
+{
+  "question_id": "25116",
+  "answers": [
+    "http://www.wikidata.org/entity/Q99775"
+  ],
+  "gold_path": {
+    "question_id": "25116",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q99775",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q55990535"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q99775",
+        "predicate": "http://www.wikidata.org/prop/direct/P306",
+        "object": "http://www.wikidata.org/entity/Q1115899"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q99775",
+        "predicate": "rdfs:label",
+        "object": "Commodore 64"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q99775",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "51"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q99775",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q99775-454F4FDD-CEE5-402B-AEAA-32B8BC1288D3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q99775",
+      "predicate": "http://www.wikidata.org/prop/P3847",
+      "object": "http://www.wikidata.org/entity/statement/Q99775-4e6b93b5-476d-8627-807a-5aa126fc0114"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q99775",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0228q"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q99775",
+      "predicate": "http://www.wikidata.org/prop/P2664",
+      "object": "http://www.wikidata.org/entity/statement/Q99775-2e47f5c0-49d5-7f4b-b4be-6f7853c997f7"
+    }
+  ]
+}

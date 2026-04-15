@@ -1,0 +1,53 @@
+{
+  "question_id": "11306",
+  "answers": [
+    "1923-03-29T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11306",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4605",
+        "predicate": "http://www.wikidata.org/prop/P793",
+        "object": "http://www.wikidata.org/entity/statement/Q4605-69BDD83A-0D64-4990-99EF-40B5C641565F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4605-69BDD83A-0D64-4990-99EF-40B5C641565F",
+        "predicate": "ps:P793",
+        "object": "http://www.wikidata.org/entity/Q201676"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4605-69BDD83A-0D64-4990-99EF-40B5C641565F",
+        "predicate": "pq:P585",
+        "object": "1923-03-29T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "bernhardt-sarah-rosine-bernard-dite-sarah"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p5810"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P3065",
+      "object": "A005813646"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/direct/P2380",
+      "object": "4333"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4605",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q4605-9D087BEB-D051-4F9F-86C0-94D05653B3C2"
+    }
+  ]
+}

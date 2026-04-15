@@ -1,0 +1,38 @@
+{
+  "question_id": "13925",
+  "answers": [
+    "http://www.wikidata.org/entity/Q190545"
+  ],
+  "gold_path": {
+    "question_id": "13925",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q39918",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q190545"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q39918",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "89"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39918",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "八担杏"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39918",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Αμυγδαλιά"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39918",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "almendras"
+    }
+  ]
+}

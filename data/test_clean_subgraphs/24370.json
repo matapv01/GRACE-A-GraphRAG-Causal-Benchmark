@@ -1,0 +1,48 @@
+{
+  "question_id": "24370",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4463210"
+  ],
+  "gold_path": {
+    "question_id": "24370",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4463210",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17342348"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4463210",
+        "predicate": "rdfs:label",
+        "object": "trit"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4463210",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/1225kms7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4463210",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4463210",
+      "predicate": "http://schema.org/description",
+      "object": "ternäre Ziffer"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4463210",
+      "predicate": "http://schema.org/description",
+      "object": "unit of information that can take one of three possible values, equivalent to log₂3 bits"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4463210",
+      "predicate": "http://schema.org/description",
+      "object": "троичная цифра"
+    }
+  ]
+}

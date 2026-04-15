@@ -1,0 +1,58 @@
+{
+  "question_id": "10636",
+  "answers": [
+    "1936-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10636",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q103835",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q103835-0cb2661b-430c-3a1d-1d96-e00ab20932e0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q103835-0cb2661b-430c-3a1d-1d96-e00ab20932e0",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q44585"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q103835-0cb2661b-430c-3a1d-1d96-e00ab20932e0",
+        "predicate": "pq:P585",
+        "object": "1936-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q103835-0cb2661b-430c-3a1d-1d96-e00ab20932e0",
+        "predicate": "pq:P2121",
+        "object": "159850"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q103835",
+      "predicate": "http://www.wikidata.org/prop/direct/P409",
+      "object": "35681579"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103835",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q103835-DE111ABA-1A17-4FF4-923C-D8A059C0BB02"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103835",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL115712A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103835",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q103835-25DD47FC-FDE7-41DB-9415-399B51F7D6B8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q103835",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q103835-C20F34D9-47E3-4753-8F0D-1434AC0158B4"
+    }
+  ]
+}

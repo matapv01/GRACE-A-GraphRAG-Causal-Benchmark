@@ -1,0 +1,53 @@
+{
+  "question_id": "6073",
+  "answers": [
+    "1960-01-04T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6073",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34670",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/Q34670-8706c1eb-4580-02e5-2b08-8c8c5d8a0fd1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q34670-8706c1eb-4580-02e5-2b08-8c8c5d8a0fd1",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q2942060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q34670-8706c1eb-4580-02e5-2b08-8c8c5d8a0fd1",
+        "predicate": "pq:P582",
+        "object": "1960-01-04T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34670",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL124171A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34670",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0lcx"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34670",
+      "predicate": "http://www.wikidata.org/prop/direct/P641",
+      "object": "http://www.wikidata.org/entity/Q2736"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34670",
+      "predicate": "http://www.wikidata.org/prop/direct/P863",
+      "object": "thinker/2753"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34670",
+      "predicate": "http://www.wikidata.org/prop/direct/P866",
+      "object": "albert-camus"
+    }
+  ]
+}

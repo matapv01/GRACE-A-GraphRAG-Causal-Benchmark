@@ -1,0 +1,59 @@
+{
+  "question_id": "20337",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1630775",
+    "http://www.wikidata.org/entity/Q15728910"
+  ],
+  "gold_path": {
+    "question_id": "20337",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1630775",
+        "predicate": "http://www.wikidata.org/prop/direct/P676",
+        "object": "http://www.wikidata.org/entity/Q366207"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1630775",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q134556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15728910",
+        "predicate": "http://www.wikidata.org/prop/direct/P676",
+        "object": "http://www.wikidata.org/entity/Q366207"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15728910",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q134556"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1630775",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q1630775-06738315-D763-4A68-A4E5-83811A50AE43"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1630775",
+      "predicate": "http://www.wikidata.org/prop/P1889",
+      "object": "http://www.wikidata.org/entity/statement/Q1630775-37E68E02-4024-42DD-BD11-9EEAACA9FE63"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1630775",
+      "predicate": "http://www.wikidata.org/prop/P264",
+      "object": "http://www.wikidata.org/entity/statement/q1630775-1123E39B-0024-4E3B-8551-5044C44AA1F8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1630775",
+      "predicate": "http://www.wikidata.org/prop/direct/P264",
+      "object": "http://www.wikidata.org/entity/Q165745"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1630775",
+      "predicate": "http://www.wikidata.org/prop/P435",
+      "object": "http://www.wikidata.org/entity/statement/Q1630775-BB9F59E5-93A8-42FB-AC97-01AD23AE31C6"
+    }
+  ]
+}

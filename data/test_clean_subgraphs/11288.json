@@ -1,0 +1,85 @@
+{
+  "question_id": "11288",
+  "answers": [
+    "1955-10-31T00:00:00Z",
+    "1946-09-13T00:00:00Z",
+    "1961-01-24T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11288",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4616",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q4616-31EA8615-27CA-42FD-BFED-B7A762B11725"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4616-31EA8615-27CA-42FD-BFED-B7A762B11725",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q297142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4616-31EA8615-27CA-42FD-BFED-B7A762B11725",
+        "predicate": "pq:P582",
+        "object": "1955-10-31T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4616",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q4616-3C597EF9-1197-48C9-BE53-E24CBCE30D67"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4616-3C597EF9-1197-48C9-BE53-E24CBCE30D67",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q80596"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4616-3C597EF9-1197-48C9-BE53-E24CBCE30D67",
+        "predicate": "pq:P582",
+        "object": "1961-01-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4616",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q4616-791FFF44-D02E-4406-82CF-50FDAC769EE0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4616-791FFF44-D02E-4406-82CF-50FDAC769EE0",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q946783"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q4616-791FFF44-D02E-4406-82CF-50FDAC769EE0",
+        "predicate": "pq:P582",
+        "object": "1946-09-13T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4616",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T04:59:49Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4616",
+      "predicate": "http://www.wikidata.org/prop/direct/P1988",
+      "object": "27140_artiste_JEANE_Norma"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4616",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Mortensen-1099"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4616",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "vn6781020"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4616",
+      "predicate": "http://www.wikidata.org/prop/direct/P2519",
+      "object": "8003"
+    }
+  ]
+}

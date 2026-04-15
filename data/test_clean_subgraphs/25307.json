@@ -1,0 +1,53 @@
+{
+  "question_id": "25307",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7737"
+  ],
+  "gold_path": {
+    "question_id": "25307",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1288568"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "http://www.wikidata.org/prop/direct/P5110",
+        "object": "http://www.wikidata.org/entity/Q51929369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "rdfs:label",
+        "object": "Russian"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://schema.org/version",
+      "object": "2480008118"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "русский"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Russian language"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ru"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Russisk"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "7317",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3771430"
+  ],
+  "gold_path": {
+    "question_id": "7317",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q3771430"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1458",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T07:27:47Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1458",
+      "predicate": "http://www.wikidata.org/prop/direct/P5587",
+      "object": "97mpnc6t4j02v1h"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1458",
+      "predicate": "http://www.wikidata.org/prop/direct/P9037",
+      "object": "bbf93ac0-eabc-4823-ab77-62cf08e6dc61"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1458",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q38"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1458",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "place/Calabria-region-Italy"
+    }
+  ]
+}

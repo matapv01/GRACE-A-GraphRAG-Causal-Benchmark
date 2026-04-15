@@ -1,0 +1,49 @@
+{
+  "question_id": "28397",
+  "answers": [
+    "0996",
+    "0992"
+  ],
+  "gold_path": {
+    "question_id": "28397",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11274",
+        "predicate": "http://www.wikidata.org/prop/direct/P4273",
+        "object": "0992"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11274",
+        "predicate": "http://www.wikidata.org/prop/direct/P4273",
+        "object": "0996"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11274",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "40"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11274",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01zmd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11274",
+      "predicate": "http://schema.org/version",
+      "object": "2480701059"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11274",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q11274-5D8588BF-1999-481C-A839-D64867477AA7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11274",
+      "predicate": "http://www.wikidata.org/prop/direct/P6405",
+      "object": "van-alen-the-chrysler-building"
+    }
+  ]
+}

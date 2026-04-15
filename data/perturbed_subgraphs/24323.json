@@ -1,0 +1,802 @@
+{
+  "clean": {
+    "question_id": "24323",
+    "answers": [
+      "http://www.wikidata.org/entity/Q135937345",
+      "http://www.wikidata.org/entity/Q844833",
+      "http://www.wikidata.org/entity/Q2472605",
+      "http://www.wikidata.org/entity/Q115408273",
+      "http://www.wikidata.org/entity/Q135726457",
+      "http://www.wikidata.org/entity/Q33713728",
+      "http://www.wikidata.org/entity/Q689100",
+      "http://www.wikidata.org/entity/Q6435454"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+        "object": "http://g.co/kg/g/155rskmt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q844833",
+        "predicate": "rdfs:label",
+        "object": "Wylie transliteration"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33713728",
+        "predicate": "rdfs:label",
+        "object": "Wancho script"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2472605",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135937345",
+        "predicate": "rdfs:label",
+        "object": "Wakhi in Latin (Khakikat Ali, 1985)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33713728",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135937345",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135726457",
+        "predicate": "rdfs:label",
+        "object": "Wakhi Alphabet (Shaydoev's version)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q689100",
+        "predicate": "rdfs:label",
+        "object": "Wrangel"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hant"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q844833",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115408273",
+        "predicate": "rdfs:label",
+        "object": "Writing system of Mienic languages"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2472605",
+        "predicate": "rdfs:label",
+        "object": "written Cantonese"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135726457",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://schema.org/description",
+        "object": "Chinese characters used in the Wu Chinese language"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115408273",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "rdfs:label",
+        "object": "Wu Chinese characters"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q689100",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "24323",
+    "answers": [
+      "http://www.wikidata.org/entity/Q135937345",
+      "http://www.wikidata.org/entity/Q844833",
+      "http://www.wikidata.org/entity/Q2472605",
+      "http://www.wikidata.org/entity/Q115408273",
+      "http://www.wikidata.org/entity/Q135726457",
+      "http://www.wikidata.org/entity/Q33713728",
+      "http://www.wikidata.org/entity/Q689100",
+      "http://www.wikidata.org/entity/Q6435454"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://g.co/kg/g/155rskmt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Wancho script"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "written Cantonese"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q6435454"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q33713728"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q844833"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q135937345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Chinese characters used in the Wu Chinese language"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q115408273"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Wu Chinese characters"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Writing system of Mienic languages"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "wuu-Hant"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Wrangel"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Wakhi in Latin (Khakikat Ali, 1985)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Wylie transliteration"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q135726457"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "wuu-Hans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2472605"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q689100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "Wakhi Alphabet (Shaydoev's version)"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "24323",
+    "answers": [
+      "http://www.wikidata.org/entity/Q135937345",
+      "http://www.wikidata.org/entity/Q844833",
+      "http://www.wikidata.org/entity/Q2472605",
+      "http://www.wikidata.org/entity/Q115408273",
+      "http://www.wikidata.org/entity/Q135726457",
+      "http://www.wikidata.org/entity/Q33713728",
+      "http://www.wikidata.org/entity/Q689100",
+      "http://www.wikidata.org/entity/Q6435454"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+        "object": "http://g.co/kg/g/155rskmt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q844833",
+        "predicate": "rdfs:label",
+        "object": "Wylie transliteration"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33713728",
+        "predicate": "rdfs:label",
+        "object": "Wancho script"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2472605",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135937345",
+        "predicate": "rdfs:label",
+        "object": "Wakhi in Latin (Khakikat Ali, 1985)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33713728",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135937345",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135726457",
+        "predicate": "rdfs:label",
+        "object": "Wakhi Alphabet (Shaydoev's version)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q689100",
+        "predicate": "rdfs:label",
+        "object": "Wrangel"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hant"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q844833",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115408273",
+        "predicate": "rdfs:label",
+        "object": "Writing system of Mienic languages"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2472605",
+        "predicate": "rdfs:label",
+        "object": "written Cantonese"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135726457",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://schema.org/description",
+        "object": "Chinese characters used in the Wu Chinese language"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115408273",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "rdfs:label",
+        "object": "Wu Chinese characters"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q689100",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q401"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8201"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8209"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q8229"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q26567"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "24323",
+    "answers": [
+      "http://www.wikidata.org/entity/Q135937345",
+      "http://www.wikidata.org/entity/Q844833",
+      "http://www.wikidata.org/entity/Q2472605",
+      "http://www.wikidata.org/entity/Q115408273",
+      "http://www.wikidata.org/entity/Q135726457",
+      "http://www.wikidata.org/entity/Q33713728",
+      "http://www.wikidata.org/entity/Q689100",
+      "http://www.wikidata.org/entity/Q6435454"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+        "object": "http://g.co/kg/g/155rskmt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q844833",
+        "predicate": "rdfs:label",
+        "object": "Wylie transliteration"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33713728",
+        "predicate": "rdfs:label",
+        "object": "Wancho script"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2472605",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135937345",
+        "predicate": "rdfs:label",
+        "object": "Wakhi in Latin (Khakikat Ali, 1985)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33713728",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135937345",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135726457",
+        "predicate": "rdfs:label",
+        "object": "Wakhi Alphabet (Shaydoev's version)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q689100",
+        "predicate": "rdfs:label",
+        "object": "Wrangel"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hant"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q844833",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115408273",
+        "predicate": "rdfs:label",
+        "object": "Writing system of Mienic languages"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2472605",
+        "predicate": "rdfs:label",
+        "object": "written Cantonese"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135726457",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "http://schema.org/description",
+        "object": "Chinese characters used in the Wu Chinese language"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115408273",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6435454",
+        "predicate": "rdfs:label",
+        "object": "Wu Chinese characters"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q689100",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "24323",
+    "answers": [
+      "http://www.wikidata.org/entity/Q135937345",
+      "http://www.wikidata.org/entity/Q844833",
+      "http://www.wikidata.org/entity/Q2472605",
+      "http://www.wikidata.org/entity/Q115408273",
+      "http://www.wikidata.org/entity/Q135726457",
+      "http://www.wikidata.org/entity/Q33713728",
+      "http://www.wikidata.org/entity/Q689100",
+      "http://www.wikidata.org/entity/Q6435454"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+        "object": "http://g.co/kg/g/155rskmt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "Wylie transliteration"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hans"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "Wancho script"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "Wakhi in Latin (Khakikat Ali, 1985)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "Wakhi Alphabet (Shaydoev's version)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "Wrangel"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "wuu-Hant"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "Writing system of Mienic languages"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "written Cantonese"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://schema.org/description",
+        "object": "Chinese characters used in the Wu Chinese language"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "rdfs:label",
+        "object": "Wu Chinese characters"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q401",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      }
+    ]
+  }
+}

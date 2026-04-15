@@ -1,0 +1,48 @@
+{
+  "question_id": "4868",
+  "answers": [
+    "2000-10-10T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4868",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q84",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/q84-91dc7f08-45ab-1599-daf7-1e0417f77a47"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q84-91dc7f08-45ab-1599-daf7-1e0417f77a47",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q64"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q84-91dc7f08-45ab-1599-daf7-1e0417f77a47",
+        "predicate": "pq:P580",
+        "object": "2000-10-10T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q84",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T16:22:40Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84",
+      "predicate": "http://schema.org/description",
+      "object": "英國首都"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84",
+      "predicate": "http://schema.org/description",
+      "object": "英國的首都與最大城市"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q84",
+      "predicate": "http://schema.org/description",
+      "object": "英国首都"
+    }
+  ]
+}

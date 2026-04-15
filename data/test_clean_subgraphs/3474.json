@@ -1,0 +1,43 @@
+{
+  "question_id": "3474",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30045370"
+  ],
+  "gold_path": {
+    "question_id": "3474",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30045370",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q815231"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30045370",
+        "predicate": "http://www.wikidata.org/prop/direct/P1752",
+        "object": "6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30045370",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6498959"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q30045370",
+      "predicate": "http://schema.org/description",
+      "object": "1/6th scale model of \"Commode\", a 24-pounder siege gun that could be dismantled into five parts and reassembled using bolts. Rochefort, France."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30045370",
+      "predicate": "http://schema.org/version",
+      "object": "708515012"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30045370",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q30045370-089544b1-429d-8897-79d5-22123a8ede51"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "question_id": "17224",
+  "answers": [
+    "http://www.wikidata.org/entity/Q82059",
+    "http://www.wikidata.org/entity/Q496672"
+  ],
+  "gold_path": {
+    "question_id": "17224",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190167",
+        "predicate": "http://www.wikidata.org/prop/direct/P178",
+        "object": "http://www.wikidata.org/entity/Q2283"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2283",
+        "predicate": "http://www.wikidata.org/prop/direct/P414",
+        "object": "http://www.wikidata.org/entity/Q82059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2283",
+        "predicate": "http://www.wikidata.org/prop/direct/P414",
+        "object": "http://www.wikidata.org/entity/Q496672"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q190167",
+      "predicate": "http://schema.org/version",
+      "object": "2474812929"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190167",
+      "predicate": "http://schema.org/description",
+      "object": "tiedostojärjestelmä"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190167",
+      "predicate": "http://schema.org/description",
+      "object": "family of file systems originally developed by Microsoft"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190167",
+      "predicate": "http://schema.org/description",
+      "object": "Семейство файловых систем, разработанных компанией Майкрософт"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190167",
+      "predicate": "http://schema.org/description",
+      "object": "сімейство файлових систем, спочатку розроблене «Microsoft»"
+    }
+  ]
+}

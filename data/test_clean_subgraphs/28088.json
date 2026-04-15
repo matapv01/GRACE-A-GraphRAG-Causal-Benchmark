@@ -1,0 +1,43 @@
+{
+  "question_id": "28088",
+  "answers": [
+    "-0402-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "28088",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193235",
+        "predicate": "http://www.wikidata.org/prop/direct/P576",
+        "object": "-0402-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193235",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193235",
+      "predicate": "http://schema.org/version",
+      "object": "2475111972"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193235",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193235",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1584",
+      "object": "https://pleiades.stoa.org/places/48050879"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193235",
+      "predicate": "http://www.wikidata.org/prop/direct/P4223",
+      "object": "lega-delio-attica"
+    }
+  ]
+}

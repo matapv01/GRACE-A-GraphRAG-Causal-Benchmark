@@ -1,0 +1,38 @@
+{
+  "question_id": "28109",
+  "answers": [
+    "10000553"
+  ],
+  "gold_path": {
+    "question_id": "28109",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1332346",
+        "predicate": "http://www.wikidata.org/prop/direct/P3111",
+        "object": "10000553"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332346",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "24"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332346",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q1028261"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332346",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Todd%20Gandalf%20Barbury%20dressage%202008.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332346",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mark Todd"
+    }
+  ]
+}

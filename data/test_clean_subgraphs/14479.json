@@ -1,0 +1,33 @@
+{
+  "question_id": "14479",
+  "answers": [
+    "http://www.wikidata.org/entity/Q43812"
+  ],
+  "gold_path": {
+    "question_id": "14479",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5304139",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q7574403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7574403",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q43812"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5304139",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5304139",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Dr. Hee"
+    }
+  ]
+}

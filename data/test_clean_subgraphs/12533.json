@@ -1,0 +1,43 @@
+{
+  "question_id": "12533",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5014725"
+  ],
+  "gold_path": {
+    "question_id": "12533",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q241163",
+        "predicate": "http://www.wikidata.org/prop/direct/P400",
+        "object": "http://www.wikidata.org/entity/Q5014725"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5014725",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q10683"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q241163",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MK"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q241163",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Мортал Комбат"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q241163",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "真人快打"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q241163",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mortal Combat"
+    }
+  ]
+}

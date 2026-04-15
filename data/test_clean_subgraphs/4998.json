@@ -1,0 +1,48 @@
+{
+  "question_id": "4998",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17395387"
+  ],
+  "gold_path": {
+    "question_id": "4998",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6733",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q6733-d78ddcb3-49db-1326-6301-181da0a7da21"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6733-d78ddcb3-49db-1326-6301-181da0a7da21",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q17395387"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6733",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "edward-teller"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6733",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q6733-629A2A72-F3C1-4E3F-9124-46012656605C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6733",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T04:16:46Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6733",
+      "predicate": "http://www.wikidata.org/prop/P22",
+      "object": "http://www.wikidata.org/entity/statement/Q6733-7c2ac643-4aca-c3f0-e147-79d8f66dd641"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6733",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL634389A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "24564",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4994575"
+  ],
+  "gold_path": {
+    "question_id": "24564",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4994575",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q18325242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4994575",
+        "predicate": "rdfs:label",
+        "object": "TV-pucken"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4994575",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "91"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4994575",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4994575",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "TV-pucken"
+    }
+  ]
+}

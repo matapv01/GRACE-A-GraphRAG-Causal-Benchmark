@@ -1,0 +1,44 @@
+{
+  "question_id": "16470",
+  "answers": [
+    "436",
+    "410"
+  ],
+  "gold_path": {
+    "question_id": "16470",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q430371",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q69329"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q69329",
+        "predicate": "http://www.wikidata.org/prop/direct/P2044",
+        "object": "410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q69329",
+        "predicate": "http://www.wikidata.org/prop/direct/P2044",
+        "object": "436"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q430371",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q430371",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "FIM"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q430371",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "הפדרציה הבינלאומית לאופנועים"
+    }
+  ]
+}

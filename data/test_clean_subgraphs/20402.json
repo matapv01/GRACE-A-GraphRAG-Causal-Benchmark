@@ -1,0 +1,59 @@
+{
+  "question_id": "20402",
+  "answers": [
+    "http://www.wikidata.org/entity/Q710985",
+    "http://www.wikidata.org/entity/Q934314"
+  ],
+  "gold_path": {
+    "question_id": "20402",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q117346",
+        "predicate": "http://www.wikidata.org/prop/direct/P184",
+        "object": "http://www.wikidata.org/entity/Q710985"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q710985",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q117346",
+        "predicate": "http://www.wikidata.org/prop/direct/P184",
+        "object": "http://www.wikidata.org/entity/Q934314"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q934314",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q117346",
+      "predicate": "http://www.wikidata.org/prop/direct/P22",
+      "object": "http://www.wikidata.org/entity/Q112493870"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117346",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grigori%20Perelman%2C%201993%20%28re-scanned%29%20%28cropped%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117346",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117346",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q117346-280A2204-85FD-4A43-9E84-7E9557C97844"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q117346",
+      "predicate": "http://www.wikidata.org/prop/P22",
+      "object": "http://www.wikidata.org/entity/statement/Q117346-2c83ba7e-7495-4831-8d38-7a1ae8bdb32a"
+    }
+  ]
+}

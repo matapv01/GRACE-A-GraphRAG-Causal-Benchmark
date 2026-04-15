@@ -1,0 +1,43 @@
+{
+  "question_id": "27703",
+  "answers": [
+    "http://www.wikidata.org/entity/Q368930"
+  ],
+  "gold_path": {
+    "question_id": "27703",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q213926",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q368930"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q213926",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P3859",
+      "object": "http://purl.obolibrary.org/obo/ENVO_00002200"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213926",
+      "predicate": "http://schema.org/description",
+      "object": "gefrorenes Meerwasser"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213926",
+      "predicate": "http://schema.org/description",
+      "object": "cristaux de glace formé par l'eau de mer gelée"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213926",
+      "predicate": "http://schema.org/description",
+      "object": "zamarznięta woda morska"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213926",
+      "predicate": "http://schema.org/description",
+      "object": "dour-mor skornet"
+    }
+  ]
+}

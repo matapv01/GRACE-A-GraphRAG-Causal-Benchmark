@@ -1,0 +1,48 @@
+{
+  "question_id": "25105",
+  "answers": [
+    "http://www.wikidata.org/entity/Q37156"
+  ],
+  "gold_path": {
+    "question_id": "25105",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q37156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1058914"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37156",
+        "predicate": "http://www.wikidata.org/prop/direct/P199",
+        "object": "http://www.wikidata.org/entity/Q12253"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37156",
+        "predicate": "rdfs:label",
+        "object": "IBM"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q37156",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "187"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37156",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "آي بي إم"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37156",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "IBM"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37156",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "آى بى ام"
+    }
+  ]
+}

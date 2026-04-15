@@ -1,0 +1,48 @@
+{
+  "question_id": "14744",
+  "answers": [
+    "http://www.wikidata.org/entity/Q78487"
+  ],
+  "gold_path": {
+    "question_id": "14744",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30106696",
+        "predicate": "http://www.wikidata.org/prop/direct/P1441",
+        "object": "http://www.wikidata.org/entity/Q1195668"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1195668",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q78487"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q30106696",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Der Mann ohne Eigenschaften"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30106696",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Man Without Qualities"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30106696",
+      "predicate": "http://www.wikidata.org/prop/direct/P9071",
+      "object": "http://www.wikidata.org/entity/Q110910"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30106696",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q18011418"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30106696",
+      "predicate": "http://www.wikidata.org/prop/direct/P973",
+      "object": "http://literaturlexikon.uni-saarland.de/index.php?id=1861"
+    }
+  ]
+}

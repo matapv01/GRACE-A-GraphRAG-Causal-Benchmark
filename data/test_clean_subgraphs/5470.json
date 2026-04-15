@@ -1,0 +1,48 @@
+{
+  "question_id": "5470",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6375489"
+  ],
+  "gold_path": {
+    "question_id": "5470",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q312702",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/Q312702-CC715525-41DB-41D6-BF95-D49EE3F0738A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312702-CC715525-41DB-41D6-BF95-D49EE3F0738A",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q6375489"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q312702",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jonathan Price"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312702",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sir Jonathan Pryce"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312702",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "조나단 프라이스"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312702",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Прайс, Джонатан"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312702",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jonathan Pryce"
+    }
+  ]
+}

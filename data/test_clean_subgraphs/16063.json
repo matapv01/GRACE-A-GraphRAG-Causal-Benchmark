@@ -1,0 +1,60 @@
+{
+  "question_id": "16063",
+  "answers": [
+    "http://www.wikidata.org/entity/Q115717465",
+    "http://www.wikidata.org/entity/Q84021",
+    "http://www.wikidata.org/entity/Q40085534"
+  ],
+  "gold_path": {
+    "question_id": "16063",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3442697",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q12461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12461",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q84021"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12461",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q40085534"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12461",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q115717465"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3442697",
+      "predicate": "http://www.wikidata.org/prop/direct/P6872",
+      "object": "http://www.wikidata.org/entity/Q12461"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3442697",
+      "predicate": "http://www.wikidata.org/prop/direct/P8179",
+      "object": "ncf12070597"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3442697",
+      "predicate": "http://www.wikidata.org/prop/direct/P11826",
+      "object": "809"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3442697",
+      "predicate": "http://www.wikidata.org/prop/P6872",
+      "object": "http://www.wikidata.org/entity/statement/Q3442697-BD4A750E-064B-4BF4-AF40-496C97D9551C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3442697",
+      "predicate": "http://www.wikidata.org/prop/P11826",
+      "object": "http://www.wikidata.org/entity/statement/Q3442697-0C0EEBBB-78F0-44B1-990A-747A4DC0B3E3"
+    }
+  ]
+}

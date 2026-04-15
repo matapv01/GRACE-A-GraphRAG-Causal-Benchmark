@@ -1,0 +1,43 @@
+{
+  "question_id": "26892",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5340721"
+  ],
+  "gold_path": {
+    "question_id": "26892",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q255872",
+        "predicate": "http://www.wikidata.org/prop/direct/P805",
+        "object": "http://www.wikidata.org/entity/Q5340721"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q255872",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "74"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255872",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255872",
+      "predicate": "http://www.wikidata.org/prop/P1225",
+      "object": "http://www.wikidata.org/entity/statement/Q255872-D949E3A8-7C2B-41E2-B155-46B315A279CA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255872",
+      "predicate": "http://www.wikidata.org/prop/direct/P1225",
+      "object": "10643764"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255872",
+      "predicate": "http://www.wikidata.org/prop/direct/P625",
+      "object": "Point(-92.18916667 46.6875)"
+    }
+  ]
+}

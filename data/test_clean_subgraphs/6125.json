@@ -1,0 +1,48 @@
+{
+  "question_id": "6125",
+  "answers": [
+    "5857"
+  ],
+  "gold_path": {
+    "question_id": "6125",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q181946",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q181946-9f26cd88-4049-825b-4c16-cccefd58b9d0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181946-9f26cd88-4049-825b-4c16-cccefd58b9d0",
+        "predicate": "ps:P1082",
+        "object": "5857"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q181946",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-13T19:13:18Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181946",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q181946-F16B06E1-BE1B-41B7-B2E0-15551A885EFF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181946",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Argenteuil%20-%20Pont%20%281%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181946",
+      "predicate": "http://www.wikidata.org/prop/P2044",
+      "object": "http://www.wikidata.org/entity/statement/Q181946-3b713b77-4d72-7fc5-85fc-5d6d9e42d764"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181946",
+      "predicate": "http://www.wikidata.org/prop/P2044",
+      "object": "http://www.wikidata.org/entity/statement/Q181946-4C10FDAC-C11D-45CE-B554-D662C1461A0F"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "question_id": "8978",
+  "answers": [
+    "http://www.wikidata.org/entity/Q596094",
+    "http://www.wikidata.org/entity/Q599322",
+    "http://www.wikidata.org/entity/Q3879583",
+    "http://www.wikidata.org/entity/Q8567",
+    "http://www.wikidata.org/entity/Q8558"
+  ],
+  "gold_path": {
+    "question_id": "8978",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318982",
+        "predicate": "http://www.wikidata.org/prop/P1344",
+        "object": "http://www.wikidata.org/entity/statement/Q318982-35B2F807-CEE5-44E0-A484-6860715F6562"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-35B2F807-CEE5-44E0-A484-6860715F6562",
+        "predicate": "ps:P1344",
+        "object": "http://www.wikidata.org/entity/Q8567"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-35B2F807-CEE5-44E0-A484-6860715F6562",
+        "predicate": "pq:P166",
+        "object": "http://www.wikidata.org/entity/Q15889641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q318982",
+        "predicate": "http://www.wikidata.org/prop/P1344",
+        "object": "http://www.wikidata.org/entity/statement/Q318982-432F3A77-0595-472F-A9B8-63C323B4DB93"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-432F3A77-0595-472F-A9B8-63C323B4DB93",
+        "predicate": "ps:P1344",
+        "object": "http://www.wikidata.org/entity/Q8558"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-432F3A77-0595-472F-A9B8-63C323B4DB93",
+        "predicate": "pq:P166",
+        "object": "http://www.wikidata.org/entity/Q15889641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q318982",
+        "predicate": "http://www.wikidata.org/prop/P1344",
+        "object": "http://www.wikidata.org/entity/statement/Q318982-7E370D49-DC8C-4CF9-8C82-3626793176B6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-7E370D49-DC8C-4CF9-8C82-3626793176B6",
+        "predicate": "ps:P1344",
+        "object": "http://www.wikidata.org/entity/Q599322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-7E370D49-DC8C-4CF9-8C82-3626793176B6",
+        "predicate": "pq:P166",
+        "object": "http://www.wikidata.org/entity/Q15889641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q318982",
+        "predicate": "http://www.wikidata.org/prop/P1344",
+        "object": "http://www.wikidata.org/entity/statement/Q318982-F05472E9-C95F-468C-9FF2-7C10315E9CAA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-F05472E9-C95F-468C-9FF2-7C10315E9CAA",
+        "predicate": "ps:P1344",
+        "object": "http://www.wikidata.org/entity/Q3879583"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-F05472E9-C95F-468C-9FF2-7C10315E9CAA",
+        "predicate": "pq:P166",
+        "object": "http://www.wikidata.org/entity/Q15889641"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q318982",
+        "predicate": "http://www.wikidata.org/prop/P1344",
+        "object": "http://www.wikidata.org/entity/statement/Q318982-F1EF7A6F-EAF1-4929-BA00-2BE0E674D732"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-F1EF7A6F-EAF1-4929-BA00-2BE0E674D732",
+        "predicate": "ps:P1344",
+        "object": "http://www.wikidata.org/entity/Q596094"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318982-F1EF7A6F-EAF1-4929-BA00-2BE0E674D732",
+        "predicate": "pq:P166",
+        "object": "http://www.wikidata.org/entity/Q15889641"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318982",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hackett"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318982",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Grant George Hackett"
+    }
+  ]
+}

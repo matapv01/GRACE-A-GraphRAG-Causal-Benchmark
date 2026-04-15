@@ -1,0 +1,33 @@
+{
+  "question_id": "12460",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15978631"
+  ],
+  "gold_path": {
+    "question_id": "12460",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12009087",
+        "predicate": "http://www.wikidata.org/prop/direct/P703",
+        "object": "http://www.wikidata.org/entity/Q15978631"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12009087",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12009087",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "49"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12009087",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "AVP"
+    }
+  ]
+}

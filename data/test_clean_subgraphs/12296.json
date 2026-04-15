@@ -1,0 +1,43 @@
+{
+  "question_id": "12296",
+  "answers": [
+    "http://www.wikidata.org/entity/Q674827"
+  ],
+  "gold_path": {
+    "question_id": "12296",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q310229",
+        "predicate": "http://www.wikidata.org/prop/direct/P92",
+        "object": "http://www.wikidata.org/entity/Q674827"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q310229",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4169344-9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310229",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1256",
+      "object": "http://iconclass.org/44G159"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310229",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb119835040#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310229",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4527",
+      "object": "http://data.parliament.uk/terms/92412"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310229",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P11473",
+      "object": "https://concepticon.clld.org/parameters/1792"
+    }
+  ]
+}

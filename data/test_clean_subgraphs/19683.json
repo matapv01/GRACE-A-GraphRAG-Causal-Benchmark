@@ -1,0 +1,92 @@
+{
+  "question_id": "19683",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14153484",
+    "http://www.wikidata.org/entity/Q20649152",
+    "http://www.wikidata.org/entity/Q13403064",
+    "http://www.wikidata.org/entity/Q3649320",
+    "http://www.wikidata.org/entity/Q611295"
+  ],
+  "gold_path": {
+    "question_id": "19683",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11831",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q611295"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q611295",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11831",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q3649320"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3649320",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11831",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q13403064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13403064",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11831",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q14153484"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14153484",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15632617"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11831",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q20649152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20649152",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15632617"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11831",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Snow White"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11831",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Biancaneve"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11831",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Blanche-Neige"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11831",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Schneewittchen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11831",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sneeuwwitje"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "question_id": "28681",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7300887"
+  ],
+  "gold_path": {
+    "question_id": "28681",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7300887",
+        "predicate": "http://www.wikidata.org/prop/direct/P3912",
+        "object": "http://www.wikidata.org/entity/Q173799"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7300887",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7300887",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Real Detroit Weekly"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7300887",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q11032"
+    }
+  ]
+}

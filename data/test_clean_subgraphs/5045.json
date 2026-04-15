@@ -1,0 +1,53 @@
+{
+  "question_id": "5045",
+  "answers": [
+    "1500-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5045",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q763357",
+        "predicate": "http://www.wikidata.org/prop/P569",
+        "object": "http://www.wikidata.org/entity/statement/Q763357-F7FD41D8-8114-420D-948C-D6CF08912A65"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q763357-F7FD41D8-8114-420D-948C-D6CF08912A65",
+        "predicate": "ps:P569",
+        "object": "1500-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q763357-F7FD41D8-8114-420D-948C-D6CF08912A65",
+        "predicate": "pq:P31",
+        "object": "http://www.wikidata.org/entity/Q26961029"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q763357",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-08-23T05:22:01Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q763357",
+      "predicate": "http://www.wikidata.org/prop/direct/P20",
+      "object": "http://www.wikidata.org/entity/Q1000673"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q763357",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007281785405171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q763357",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Hugh%20Willoughby.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q763357",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q763357-A1438A4D-405E-419C-933D-1C085322248F"
+    }
+  ]
+}

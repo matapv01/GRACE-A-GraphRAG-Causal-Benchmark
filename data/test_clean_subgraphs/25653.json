@@ -1,0 +1,53 @@
+{
+  "question_id": "25653",
+  "answers": [
+    "http://www.wikidata.org/entity/Q186162"
+  ],
+  "gold_path": {
+    "question_id": "25653",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q186162",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q785522"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q186162",
+        "predicate": "http://www.wikidata.org/prop/direct/P87",
+        "object": "http://www.wikidata.org/entity/Q334205"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q186162",
+        "predicate": "rdfs:label",
+        "object": "La traviata"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q186162",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186162",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q186162-DD719E75-FA38-4633-95E1-62EBE1815519"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186162",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "la-traviata"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186162",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P435",
+      "object": "http://musicbrainz.org/work/12fff04c-7a82-4113-b9f3-54d7d898fa29"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186162",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P435",
+      "object": "http://musicbrainz.org/work/24df0a9b-7977-4ff6-a4dc-7ad71db6972c"
+    }
+  ]
+}

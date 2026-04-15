@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "7317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3771430"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P1417",
+        "object": "place/Calabria-region-Italy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q3771430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P9037",
+        "object": "bbf93ac0-eabc-4823-ab77-62cf08e6dc61"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-11T07:27:47Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P5587",
+        "object": "97mpnc6t4j02v1h"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "7317",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P1417",
+        "object": "place/Calabria-region-Italy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P9037",
+        "object": "bbf93ac0-eabc-4823-ab77-62cf08e6dc61"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-11T07:27:47Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P5587",
+        "object": "97mpnc6t4j02v1h"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3771430"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "7317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3771430"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P1417",
+        "object": "place/Calabria-region-Italy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q3771430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P9037",
+        "object": "bbf93ac0-eabc-4823-ab77-62cf08e6dc61"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-11T07:27:47Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P5587",
+        "object": "97mpnc6t4j02v1h"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q42"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q76"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q91"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "7317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3771430"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P1417",
+        "object": "place/Calabria-region-Italy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q3771430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P9037",
+        "object": "bbf93ac0-eabc-4823-ab77-62cf08e6dc61"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-11T07:27:47Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P5587",
+        "object": "97mpnc6t4j02v1h"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "7317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1739"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P1417",
+        "object": "place/Calabria-region-Italy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P9037",
+        "object": "bbf93ac0-eabc-4823-ab77-62cf08e6dc61"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-11T07:27:47Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1458",
+        "predicate": "http://www.wikidata.org/prop/direct/P5587",
+        "object": "97mpnc6t4j02v1h"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q1458-dfb6fa67-461a-6f20-dc86-05e9d266eb12",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q1739"
+      }
+    ]
+  }
+}

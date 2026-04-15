@@ -1,0 +1,43 @@
+{
+  "question_id": "27517",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2041048"
+  ],
+  "gold_path": {
+    "question_id": "27517",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2041048",
+        "predicate": "http://www.wikidata.org/prop/direct/P707",
+        "object": "http://www.wikidata.org/entity/Q178481"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2041048",
+      "predicate": "http://schema.org/description",
+      "object": "lightweight window manager for X Window"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2041048",
+      "predicate": "http://schema.org/description",
+      "object": "Gestionnaire de fenêtre léger pour X Window"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2041048",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/03vxg_"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2041048",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "12"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2041048",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "36"
+    }
+  ]
+}

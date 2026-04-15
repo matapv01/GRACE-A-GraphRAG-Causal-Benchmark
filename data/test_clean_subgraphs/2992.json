@@ -1,0 +1,86 @@
+{
+  "question_id": "2992",
+  "answers": [
+    "http://www.wikidata.org/entity/Q241828",
+    "http://www.wikidata.org/entity/Q1138291",
+    "http://www.wikidata.org/entity/Q739416",
+    "http://www.wikidata.org/entity/Q381202"
+  ],
+  "gold_path": {
+    "question_id": "2992",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q739416",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q936518"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q739416",
+        "predicate": "http://www.wikidata.org/prop/direct/P3362",
+        "object": "2573000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q739416",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q739416",
+        "predicate": "http://www.wikidata.org/prop/direct/P3362",
+        "object": "1740000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q241828",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q936518"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q241828",
+        "predicate": "http://www.wikidata.org/prop/direct/P3362",
+        "object": "355158000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q241828",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1138291",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q936518"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1138291",
+        "predicate": "http://www.wikidata.org/prop/direct/P3362",
+        "object": "308000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1138291",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q381202",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q936518"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q381202",
+        "predicate": "http://www.wikidata.org/prop/direct/P3362",
+        "object": "285950000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q381202",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q739416",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "BAE"
+    }
+  ]
+}

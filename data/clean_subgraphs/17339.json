@@ -1,0 +1,48 @@
+{
+  "question_id": "17339",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2330966"
+  ],
+  "gold_path": {
+    "question_id": "17339",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q79932",
+        "predicate": "http://www.wikidata.org/prop/direct/P3094",
+        "object": "http://www.wikidata.org/entity/Q2452297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2452297",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q2330966"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q79932",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6293",
+      "object": "http://www.yso.fi/onto/ysa/Y104322"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79932",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2780618852"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79932",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1014",
+      "object": "http://vocab.getty.edu/aat/300213002"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79932",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P672",
+      "object": "http://id.nlm.nih.gov/mesh/A18.024.249.500.249.500"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q79932",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P486",
+      "object": "http://id.nlm.nih.gov/mesh/D011058"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "20534",
+  "answers": [
+    "http://www.wikidata.org/entity/Q58451"
+  ],
+  "gold_path": {
+    "question_id": "20534",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q198998",
+        "predicate": "http://www.wikidata.org/prop/direct/P2388",
+        "object": "http://www.wikidata.org/entity/Q58451"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q58451",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4164871"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q198998",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "קופטים"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q198998",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Коптская церковь"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q198998",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "كنيسة قبطية أرثوذكسية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q198998",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kopti"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q198998",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "الأقباط الأرثوذكس"
+    }
+  ]
+}

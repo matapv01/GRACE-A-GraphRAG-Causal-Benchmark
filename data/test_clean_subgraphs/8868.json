@@ -1,0 +1,53 @@
+{
+  "question_id": "8868",
+  "answers": [
+    "http://www.wikidata.org/entity/Q106090755"
+  ],
+  "gold_path": {
+    "question_id": "8868",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11812",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q11812-e1365a21-4d21-9578-f519-a9ce8f28aab0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q11812-e1365a21-4d21-9578-f519-a9ce8f28aab0",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q106090755"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q11812-e1365a21-4d21-9578-f519-a9ce8f28aab0",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q34969"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11812",
+      "predicate": "http://www.wikidata.org/prop/direct/P734",
+      "object": "http://www.wikidata.org/entity/Q13553637"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11812",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Thomas Jefferson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11812",
+      "predicate": "http://www.wikidata.org/prop/direct/P345",
+      "object": "nm1129524"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11812",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "00444617"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11812",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/q11812-390b1462-4c41-3f97-f258-0237f78d5418"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "8761",
+  "answers": [
+    "-2024-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8761",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q200200",
+        "predicate": "http://www.wikidata.org/prop/P1376",
+        "object": "http://www.wikidata.org/entity/statement/Q200200-dfbb5b68-4c3d-b6cb-fe88-ebd34a60aa8d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q200200-dfbb5b68-4c3d-b6cb-fe88-ebd34a60aa8d",
+        "predicate": "ps:P1376",
+        "object": "http://www.wikidata.org/entity/Q22948607"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q200200-dfbb5b68-4c3d-b6cb-fe88-ebd34a60aa8d",
+        "predicate": "pq:P580",
+        "object": "-2024-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q200200",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ashur"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200200",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Asuro"
+    }
+  ]
+}

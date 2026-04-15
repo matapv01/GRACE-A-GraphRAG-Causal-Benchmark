@@ -1,0 +1,61 @@
+{
+  "question_id": "26729",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1443",
+    "http://www.wikidata.org/entity/Q1282",
+    "http://www.wikidata.org/entity/Q1438",
+    "http://www.wikidata.org/entity/Q1447"
+  ],
+  "gold_path": {
+    "question_id": "26729",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14088",
+        "predicate": "http://www.wikidata.org/prop/direct/P1071",
+        "object": "http://www.wikidata.org/entity/Q1282"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14088",
+        "predicate": "http://www.wikidata.org/prop/direct/P1071",
+        "object": "http://www.wikidata.org/entity/Q1438"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14088",
+        "predicate": "http://www.wikidata.org/prop/direct/P1071",
+        "object": "http://www.wikidata.org/entity/Q1443"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14088",
+        "predicate": "http://www.wikidata.org/prop/direct/P1071",
+        "object": "http://www.wikidata.org/entity/Q1447"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14088",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q14088-A53A078A-DA8C-4E58-91DB-A9F6F7A2CB18"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14088",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mozzarella%20di%20bufala3.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14088",
+      "predicate": "http://www.wikidata.org/prop/P5930",
+      "object": "http://www.wikidata.org/entity/statement/Q14088-B440DCD4-E4D9-44BC-848D-0FED0BC7BD37"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14088",
+      "predicate": "http://www.wikidata.org/prop/P5930",
+      "object": "http://www.wikidata.org/entity/statement/Q14088-D4CC1064-329E-48E8-94DA-5F30C8767036"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14088",
+      "predicate": "http://www.wikidata.org/prop/P186",
+      "object": "http://www.wikidata.org/entity/statement/Q14088-c8e2eb08-46c6-7909-afe1-a9d938e3ba1e"
+    }
+  ]
+}

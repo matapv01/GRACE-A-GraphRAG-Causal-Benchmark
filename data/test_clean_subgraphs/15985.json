@@ -1,0 +1,48 @@
+{
+  "question_id": "15985",
+  "answers": [
+    "http://www.wikidata.org/entity/Q683074"
+  ],
+  "gold_path": {
+    "question_id": "15985",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2352789",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q841506"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q841506",
+        "predicate": "http://www.wikidata.org/prop/direct/P466",
+        "object": "http://www.wikidata.org/entity/Q683074"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2352789",
+      "predicate": "http://www.wikidata.org/prop/P12754",
+      "object": "http://www.wikidata.org/entity/statement/Q2352789-67454812-4C32-4718-888B-47AF3EB0CC4E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2352789",
+      "predicate": "http://www.wikidata.org/prop/P13023",
+      "object": "http://www.wikidata.org/entity/statement/Q2352789-19ab1e35-4f23-480b-39c6-d090206addec"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2352789",
+      "predicate": "http://www.wikidata.org/prop/direct/P13023",
+      "object": "el-rapto-de-persefone-de-bernini"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2352789",
+      "predicate": "http://www.wikidata.org/prop/direct/P12754",
+      "object": "0000289298"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2352789",
+      "predicate": "http://www.wikidata.org/prop/direct/P528",
+      "object": "5.2"
+    }
+  ]
+}

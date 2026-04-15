@@ -1,0 +1,48 @@
+{
+  "question_id": "12174",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1135146"
+  ],
+  "gold_path": {
+    "question_id": "12174",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10433",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q1135146"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135146",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581097"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10433",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10433",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "51"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10433",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/106460305X"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10433",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q10433-87246cac-4717-1a39-f0e0-688acb4ace74"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10433",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q10433-2ae36eae-427c-273c-0fe7-3452d1399fe6"
+    }
+  ]
+}

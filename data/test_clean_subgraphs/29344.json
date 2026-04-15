@@ -1,0 +1,49 @@
+{
+  "question_id": "29344",
+  "answers": [
+    "42.3",
+    "43.2"
+  ],
+  "gold_path": {
+    "question_id": "29344",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188373",
+        "predicate": "http://www.wikidata.org/prop/direct/P4442",
+        "object": "42.3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188373",
+        "predicate": "http://www.wikidata.org/prop/direct/P4442",
+        "object": "43.2"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188373",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/138375807"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188373",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "jižní Čechy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188373",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "محافظة بوهيميا الجنوبية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188373",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Южночешки край"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188373",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Budějovický kraj"
+    }
+  ]
+}

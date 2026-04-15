@@ -1,0 +1,59 @@
+{
+  "question_id": "4156",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1697077",
+    "http://www.wikidata.org/entity/Q821622"
+  ],
+  "gold_path": {
+    "question_id": "4156",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q76952",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q76952-816277E3-334B-41A3-BEC2-098F1BAC8615"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76952-816277E3-334B-41A3-BEC2-098F1BAC8615",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q821622"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q76952",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q76952-B7E49912-6763-4255-98B5-39E360EBD7F7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76952-B7E49912-6763-4255-98B5-39E360EBD7F7",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1697077"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q76952",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q76952-AB31FB63-42FB-4827-9957-881FFD8A97B9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76952",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q549138"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76952",
+      "predicate": "http://www.wikidata.org/prop/P13951",
+      "object": "http://www.wikidata.org/entity/statement/Q76952-84B3B0F7-517B-412C-AC81-A36F13DF94C4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76952",
+      "predicate": "http://www.wikidata.org/prop/P1953",
+      "object": "http://www.wikidata.org/entity/statement/Q76952-DD515DAA-B1AF-4E48-BDBB-085D657482E3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76952",
+      "predicate": "http://www.wikidata.org/prop/P1617",
+      "object": "http://www.wikidata.org/entity/statement/Q76952-45C565F6-DA09-4033-A10B-BC6F6BC73FFF"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "28152",
+  "answers": [
+    "h1232"
+  ],
+  "gold_path": {
+    "question_id": "28152",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105013",
+        "predicate": "http://www.wikidata.org/prop/direct/P865",
+        "object": "h1232"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105013",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "115"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105013",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1871",
+      "object": "http://thesaurus.cerl.org/record/cnp01500075"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105013",
+      "predicate": "http://schema.org/version",
+      "object": "2480704230"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105013",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P7444",
+      "object": "https://id.rijksmuseum.nl/31038220"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105013",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P11496",
+      "object": "https://cir.nii.ac.jp/crid/1140845216735145856.rdf"
+    }
+  ]
+}

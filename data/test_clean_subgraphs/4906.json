@@ -1,0 +1,48 @@
+{
+  "question_id": "4906",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4942343"
+  ],
+  "gold_path": {
+    "question_id": "4906",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q472870",
+        "predicate": "http://www.wikidata.org/prop/P98",
+        "object": "http://www.wikidata.org/entity/statement/Q472870-282eea61-4f76-be8b-9163-3e1f18309c2f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q472870-282eea61-4f76-be8b-9163-3e1f18309c2f",
+        "predicate": "ps:P98",
+        "object": "http://www.wikidata.org/entity/Q4942343"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q472870",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-10-26T12:31:30Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "魅力雜誌"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Glamour of Hollywood"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Glamour UK"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q472870",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "گلامور بریتانیا"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "8634",
+  "answers": [
+    "http://www.wikidata.org/entity/Q955609",
+    "http://www.wikidata.org/entity/Q193510"
+  ],
+  "gold_path": {
+    "question_id": "8634",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q619",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q619-A3812CEA-68D8-442A-AFA0-E1E78E882690"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q619-A3812CEA-68D8-442A-AFA0-E1E78E882690",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q193510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q619",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q619-E8F29228-AF7F-41EA-9570-9FAE435A5E16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q619-E8F29228-AF7F-41EA-9570-9FAE435A5E16",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q955609"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q619",
+      "predicate": "http://www.wikidata.org/prop/direct/P509",
+      "object": "http://www.wikidata.org/entity/Q12202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q619",
+      "predicate": "http://www.wikidata.org/prop/direct/P701",
+      "object": "P48182"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q619",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q47554"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q619",
+      "predicate": "http://www.wikidata.org/prop/direct/P551",
+      "object": "http://www.wikidata.org/entity/Q617"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q619",
+      "predicate": "http://www.wikidata.org/prop/direct/P551",
+      "object": "http://www.wikidata.org/entity/Q1891"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "21674",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6602",
+    "http://www.wikidata.org/entity/Q1842",
+    "http://www.wikidata.org/entity/Q239"
+  ],
+  "gold_path": {
+    "question_id": "21674",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q239",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1549591"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q1842"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1842",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1549591"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q6602"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6602",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1549591"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Europa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Европа"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "12483",
+    "answers": [
+      "http://www.wikidata.org/entity/Q2793400"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q7177289-1E88C0AA-7B4F-4497-A29A-23564F713928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2793400",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q10622039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q2793400"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+        "object": "http://www.idref.fr/175657467/id"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q486306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thomas%20Voiceover%20Artist.jpg"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "12483",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q7177289-1E88C0AA-7B4F-4497-A29A-23564F713928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+        "object": "http://www.idref.fr/175657467/id"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q486306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thomas%20Voiceover%20Artist.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q10622039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2793400"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "12483",
+    "answers": [
+      "http://www.wikidata.org/entity/Q2793400"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q7177289-1E88C0AA-7B4F-4497-A29A-23564F713928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2793400",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q10622039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q2793400"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+        "object": "http://www.idref.fr/175657467/id"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q486306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thomas%20Voiceover%20Artist.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/L1001455-S1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/L1001465-S1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/L1011175-S1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/L1011178-S1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/L1011894-S1"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "12483",
+    "answers": [
+      "http://www.wikidata.org/entity/Q2793400"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q7177289-1E88C0AA-7B4F-4497-A29A-23564F713928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2793400",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q10622039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q2793400"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+        "object": "http://www.idref.fr/175657467/id"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q486306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thomas%20Voiceover%20Artist.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "12483",
+    "answers": [
+      "http://www.wikidata.org/entity/L1001455-S1"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/q7177289-1E88C0AA-7B4F-4497-A29A-23564F713928"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+        "object": "http://www.idref.fr/175657467/id"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q486306"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thomas%20Voiceover%20Artist.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/L1001455-S1",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q10622039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7177289",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/L1001455-S1"
+      }
+    ]
+  }
+}

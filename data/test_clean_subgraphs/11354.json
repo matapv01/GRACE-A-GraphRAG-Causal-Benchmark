@@ -1,0 +1,101 @@
+{
+  "question_id": "11354",
+  "answers": [
+    "57",
+    "3",
+    "214",
+    "35"
+  ],
+  "gold_path": {
+    "question_id": "11354",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q109868",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q109868-0F43514E-9702-4267-8AE0-5098755F3B89"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-0F43514E-9702-4267-8AE0-5098755F3B89",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q154408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-0F43514E-9702-4267-8AE0-5098755F3B89",
+        "predicate": "pq:P1350",
+        "object": "214"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q109868",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q109868-17FDF08D-823B-4483-ACDD-3392D89E3AE2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-17FDF08D-823B-4483-ACDD-3392D89E3AE2",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q15849946"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-17FDF08D-823B-4483-ACDD-3392D89E3AE2",
+        "predicate": "pq:P1350",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q109868",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q109868-BE161A51-FF4C-4DCE-8F2F-E7501A968369"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-BE161A51-FF4C-4DCE-8F2F-E7501A968369",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q157352"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-BE161A51-FF4C-4DCE-8F2F-E7501A968369",
+        "predicate": "pq:P1350",
+        "object": "57"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q109868",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q109868-F8A9D3A1-195D-438E-A677-50C7ADD27452"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-F8A9D3A1-195D-438E-A677-50C7ADD27452",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q5044805"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q109868-F8A9D3A1-195D-438E-A677-50C7ADD27452",
+        "predicate": "pq:P1350",
+        "object": "35"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q109868",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q109868-234e8462-490c-71c8-2ebf-ebe41c7e2ebc"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109868",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q109868-72CBA4C3-15D9-49BB-AC2D-B9B9338EC5BA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109868",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q109868-7D901D50-B74B-45BD-8B25-243ACB954B4B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109868",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "2011-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q109868",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "birgit-prinz"
+    }
+  ]
+}

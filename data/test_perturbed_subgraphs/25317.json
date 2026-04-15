@@ -1,0 +1,953 @@
+{
+  "clean": {
+    "question_id": "25317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q842981",
+      "http://www.wikidata.org/entity/Q2659078",
+      "http://www.wikidata.org/entity/Q10380431",
+      "http://www.wikidata.org/entity/Q100257348",
+      "http://www.wikidata.org/entity/Q98391507",
+      "http://www.wikidata.org/entity/Q135650886",
+      "http://www.wikidata.org/entity/Q3984193",
+      "http://www.wikidata.org/entity/Q296936"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "rdfs:label",
+        "object": "therm (US)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P5061",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-73414f42-4870-3e8f-d62d-f7433cade6a5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "rdfs:label",
+        "object": "terawatt-year"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "rdfs:label",
+        "object": "tonne of oil equivalent"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P7007",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-105fb5a8-48e6-ae6d-5519-bb1b27d4ff80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "rdfs:label",
+        "object": "teraelectronvolt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P10565",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-55F6F13D-2CBA-442E-B29F-75E7EF91A56D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "rdfs:label",
+        "object": "therm (EC)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "rdfs:label",
+        "object": "ton of TNT"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-79aae68d-4c00-9971-0964-8b2faac7f1cc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "rdfs:label",
+        "object": "terawatt-hour"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "rdfs:label",
+        "object": "terajoule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-D009620E-26AA-4EF7-93C6-2DB304F8886C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "25317",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q842981"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q10380431"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "terajoule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "terawatt-hour"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "ton of TNT"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "therm (US)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3984193"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-D009620E-26AA-4EF7-93C6-2DB304F8886C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-73414f42-4870-3e8f-d62d-f7433cade6a5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q100257348"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2659078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-79aae68d-4c00-9971-0964-8b2faac7f1cc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q135650886"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "tonne of oil equivalent"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-105fb5a8-48e6-ae6d-5519-bb1b27d4ff80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "terawatt-year"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "teraelectronvolt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-55F6F13D-2CBA-442E-B29F-75E7EF91A56D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q98391507"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "therm (EC)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q296936"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "25317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q842981",
+      "http://www.wikidata.org/entity/Q2659078",
+      "http://www.wikidata.org/entity/Q10380431",
+      "http://www.wikidata.org/entity/Q100257348",
+      "http://www.wikidata.org/entity/Q98391507",
+      "http://www.wikidata.org/entity/Q135650886",
+      "http://www.wikidata.org/entity/Q3984193",
+      "http://www.wikidata.org/entity/Q296936"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "rdfs:label",
+        "object": "therm (US)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P5061",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-73414f42-4870-3e8f-d62d-f7433cade6a5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "rdfs:label",
+        "object": "terawatt-year"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "rdfs:label",
+        "object": "tonne of oil equivalent"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P7007",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-105fb5a8-48e6-ae6d-5519-bb1b27d4ff80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "rdfs:label",
+        "object": "teraelectronvolt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P10565",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-55F6F13D-2CBA-442E-B29F-75E7EF91A56D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "rdfs:label",
+        "object": "therm (EC)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "rdfs:label",
+        "object": "ton of TNT"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-79aae68d-4c00-9971-0964-8b2faac7f1cc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "rdfs:label",
+        "object": "terawatt-hour"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "rdfs:label",
+        "object": "terajoule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-D009620E-26AA-4EF7-93C6-2DB304F8886C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q25269"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q83327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q130964"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q182098"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q185153"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "25317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q842981",
+      "http://www.wikidata.org/entity/Q2659078",
+      "http://www.wikidata.org/entity/Q10380431",
+      "http://www.wikidata.org/entity/Q100257348",
+      "http://www.wikidata.org/entity/Q98391507",
+      "http://www.wikidata.org/entity/Q135650886",
+      "http://www.wikidata.org/entity/Q3984193",
+      "http://www.wikidata.org/entity/Q296936"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "rdfs:label",
+        "object": "therm (US)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P5061",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-73414f42-4870-3e8f-d62d-f7433cade6a5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "rdfs:label",
+        "object": "terawatt-year"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "rdfs:label",
+        "object": "tonne of oil equivalent"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P7007",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-105fb5a8-48e6-ae6d-5519-bb1b27d4ff80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "rdfs:label",
+        "object": "teraelectronvolt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135650886",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q842981",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P10565",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-55F6F13D-2CBA-442E-B29F-75E7EF91A56D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100257348",
+        "predicate": "rdfs:label",
+        "object": "therm (EC)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q98391507",
+        "predicate": "rdfs:label",
+        "object": "ton of TNT"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-79aae68d-4c00-9971-0964-8b2faac7f1cc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "rdfs:label",
+        "object": "terawatt-hour"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "rdfs:label",
+        "object": "terajoule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296936",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-D009620E-26AA-4EF7-93C6-2DB304F8886C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3984193",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2659078",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10380431",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "25317",
+    "answers": [
+      "http://www.wikidata.org/entity/Q25269"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "therm (US)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/P5061",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-73414f42-4870-3e8f-d62d-f7433cade6a5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "terawatt-year"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "tonne of oil equivalent"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/P7007",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-105fb5a8-48e6-ae6d-5519-bb1b27d4ff80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "teraelectronvolt"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/P10565",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-55F6F13D-2CBA-442E-B29F-75E7EF91A56D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "therm (EC)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "ton of TNT"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-79aae68d-4c00-9971-0964-8b2faac7f1cc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "terawatt-hour"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "rdfs:label",
+        "object": "terajoule"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q296936-D009620E-26AA-4EF7-93C6-2DB304F8886C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2916980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      }
+    ]
+  }
+}

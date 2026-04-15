@@ -1,0 +1,53 @@
+{
+  "question_id": "8369",
+  "answers": [
+    "2017-10-14T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8369",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q439314",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q439314-e37a54b5-40d6-199f-f924-5ba4fd93c2cf"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q439314-e37a54b5-40d6-199f-f924-5ba4fd93c2cf",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q57147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q439314-e37a54b5-40d6-199f-f924-5ba4fd93c2cf",
+        "predicate": "pq:P580",
+        "object": "2017-10-14T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q439314",
+      "predicate": "http://www.wikidata.org/prop/direct/P8885",
+      "object": "알리시아 비칸데르"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q439314",
+      "predicate": "http://www.wikidata.org/prop/direct/P898",
+      "object": "[aˈliːsɪa vɪˈkandɛr]"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q439314",
+      "predicate": "http://www.wikidata.org/prop/direct/P8879",
+      "object": "1585192"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q439314",
+      "predicate": "http://www.wikidata.org/prop/direct/P8309",
+      "object": "18-145769"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q439314",
+      "predicate": "http://www.wikidata.org/prop/direct/P8969",
+      "object": "82542"
+    }
+  ]
+}

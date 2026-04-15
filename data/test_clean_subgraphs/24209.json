@@ -1,0 +1,114 @@
+{
+  "question_id": "24209",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7762184",
+    "http://www.wikidata.org/entity/Q133540103",
+    "http://www.wikidata.org/entity/Q109255825",
+    "http://www.wikidata.org/entity/Q126931646",
+    "http://www.wikidata.org/entity/Q2092189",
+    "http://www.wikidata.org/entity/Q138714806",
+    "http://www.wikidata.org/entity/Q131353868"
+  ],
+  "gold_path": {
+    "question_id": "24209",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2092189",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2092189",
+        "predicate": "rdfs:label",
+        "object": "Transformers: Rescue Bots"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7762184",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7762184",
+        "predicate": "rdfs:label",
+        "object": "The Samsonadzes"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q109255825",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q109255825",
+        "predicate": "rdfs:label",
+        "object": "The Fantastic Dream Machine"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126931646",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126931646",
+        "predicate": "rdfs:label",
+        "object": "The New Norm"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131353868",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131353868",
+        "predicate": "rdfs:label",
+        "object": "The Wonderfully Weird World of Gumball"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q133540103",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q133540103",
+        "predicate": "rdfs:label",
+        "object": "The Gaslight District"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138714806",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q581714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138714806",
+        "predicate": "rdfs:label",
+        "object": "Tom and Jerry Gokko"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2092189",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2092189",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Transformers Rescue Bots"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2092189",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "救援金剛隊"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2092189",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Transformers Rescue Bots."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2092189",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "49"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "20786",
+  "answers": [
+    "http://www.wikidata.org/entity/Q59509664"
+  ],
+  "gold_path": {
+    "question_id": "20786",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5593",
+        "predicate": "http://www.wikidata.org/prop/direct/P1429",
+        "object": "http://www.wikidata.org/entity/Q59509664"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q59509664",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q144"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5593",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Picasso"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5593",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pablo Ruiz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5593",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "피카소"
+    }
+  ]
+}

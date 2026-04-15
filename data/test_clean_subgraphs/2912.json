@@ -1,0 +1,53 @@
+{
+  "question_id": "2912",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4586871"
+  ],
+  "gold_path": {
+    "question_id": "2912",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4586871",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q205418"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4586871",
+        "predicate": "http://www.wikidata.org/prop/direct/P3036",
+        "object": "94"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4586871",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q1537"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4586871",
+      "predicate": "http://schema.org/description",
+      "object": "storm in the Upper Midwest of the United States"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4586871",
+      "predicate": "http://www.wikidata.org/prop/direct/P6283",
+      "object": "event/halloween-blizzard-1991"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4586871",
+      "predicate": "http://www.wikidata.org/prop/P6283",
+      "object": "http://www.wikidata.org/entity/statement/Q4586871-AA1F8992-154B-4345-91D4-48B8BBE3D4B1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4586871",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q4586871-567A30E2-4CDA-4B97-A059-E1C5F8C98F32"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4586871",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q4586871-6403959b-4fbb-52aa-2a27-c57c29d7f7d1"
+    }
+  ]
+}

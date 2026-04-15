@@ -1,0 +1,78 @@
+{
+  "question_id": "8850",
+  "answers": [
+    "http://www.wikidata.org/entity/Q89867",
+    "http://www.wikidata.org/entity/Q64098",
+    "http://www.wikidata.org/entity/Q255",
+    "http://www.wikidata.org/entity/Q589987",
+    "http://www.wikidata.org/entity/Q113349",
+    "http://www.wikidata.org/entity/Q1707995"
+  ],
+  "gold_path": {
+    "question_id": "8850",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11989",
+        "predicate": "http://www.wikidata.org/prop/P1191",
+        "object": "http://www.wikidata.org/entity/statement/Q11989-2d14dbd0-4d2d-1ba3-62da-4824e3b6dd8f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11989-2d14dbd0-4d2d-1ba3-62da-4824e3b6dd8f",
+        "predicate": "pq:P175",
+        "object": "http://www.wikidata.org/entity/Q255"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11989-2d14dbd0-4d2d-1ba3-62da-4824e3b6dd8f",
+        "predicate": "pq:P175",
+        "object": "http://www.wikidata.org/entity/Q64098"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11989-2d14dbd0-4d2d-1ba3-62da-4824e3b6dd8f",
+        "predicate": "pq:P175",
+        "object": "http://www.wikidata.org/entity/Q89867"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11989-2d14dbd0-4d2d-1ba3-62da-4824e3b6dd8f",
+        "predicate": "pq:P175",
+        "object": "http://www.wikidata.org/entity/Q113349"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11989-2d14dbd0-4d2d-1ba3-62da-4824e3b6dd8f",
+        "predicate": "pq:P175",
+        "object": "http://www.wikidata.org/entity/Q589987"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11989-2d14dbd0-4d2d-1ba3-62da-4824e3b6dd8f",
+        "predicate": "pq:P175",
+        "object": "http://www.wikidata.org/entity/Q1707995"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11989",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-08T20:55:41Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11989",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q11989-EDEC6A75-C111-40F2-9E98-FDC59A2204E0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11989",
+      "predicate": "http://www.wikidata.org/prop/P941",
+      "object": "http://www.wikidata.org/entity/statement/Q11989-c93bb209-463f-6c18-517f-e91a4f05204b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11989",
+      "predicate": "http://www.wikidata.org/prop/P910",
+      "object": "http://www.wikidata.org/entity/statement/Q11989-082a51a7-4289-9bea-0b37-656f24a6e7a8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11989",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q11989-8D4A423D-A00D-41BA-BF4D-5E96DA823491"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "question_id": "24324",
+  "answers": [
+    "http://www.wikidata.org/entity/Q135912100",
+    "http://www.wikidata.org/entity/Q17037955",
+    "http://www.wikidata.org/entity/Q107274054"
+  ],
+  "gold_path": {
+    "question_id": "24324",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17037955",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2393196"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17037955",
+        "predicate": "rdfs:label",
+        "object": "valor"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q107274054",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2393196"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q107274054",
+        "predicate": "rdfs:label",
+        "object": "vengefulness"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135912100",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2393196"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135912100",
+        "predicate": "rdfs:label",
+        "object": "violent"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17037955",
+      "predicate": "http://schema.org/description",
+      "object": "добродетел"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17037955",
+      "predicate": "http://schema.org/description",
+      "object": "herojski pogum; junaštvo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17037955",
+      "predicate": "http://schema.org/description",
+      "object": "heroic courage; bravery"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17037955",
+      "predicate": "http://schema.org/description",
+      "object": "virtud, rasgo de la personalidad"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17037955",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "valor"
+    }
+  ]
+}

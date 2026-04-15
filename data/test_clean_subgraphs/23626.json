@@ -1,0 +1,43 @@
+{
+  "question_id": "23626",
+  "answers": [
+    "http://www.wikidata.org/entity/Q388864"
+  ],
+  "gold_path": {
+    "question_id": "23626",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q388864",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1047698"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q388864",
+        "predicate": "rdfs:label",
+        "object": "waterbending"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q388864",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q388864-1cbe8eda-4326-dffe-a469-223d2a2b753e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q388864",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "avatar:Waterbending"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q388864",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "ca.avatar:Aigua_Control"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q388864",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "de.avatar:Wasserbändigen"
+    }
+  ]
+}

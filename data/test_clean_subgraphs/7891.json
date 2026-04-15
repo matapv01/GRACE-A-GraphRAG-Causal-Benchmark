@@ -1,0 +1,43 @@
+{
+  "question_id": "7891",
+  "answers": [
+    "1971-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7891",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2864988",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q2864988-111A9970-6784-48BB-969D-55D355B3B258"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2864988-111A9970-6784-48BB-969D-55D355B3B258",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q2573367"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2864988-111A9970-6784-48BB-969D-55D355B3B258",
+        "predicate": "pq:P580",
+        "object": "1971-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2864988",
+      "predicate": "http://schema.org/version",
+      "object": "2472008690"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2864988",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "44"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2864988",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Arthur Beetson"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "4782",
+  "answers": [
+    "1986-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4782",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318518",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q318518-9FEEE723-9B66-4A5F-A47B-4274324707F9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-9FEEE723-9B66-4A5F-A47B-4274324707F9",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q463281"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-9FEEE723-9B66-4A5F-A47B-4274324707F9",
+        "predicate": "pq:P580",
+        "object": "1986-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://schema.org/version",
+      "object": "2480230649"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ميلتون بابيت"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Milton Babbitt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Милтън Бабит"
+    }
+  ]
+}

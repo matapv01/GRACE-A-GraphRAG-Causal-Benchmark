@@ -1,0 +1,59 @@
+{
+  "question_id": "16840",
+  "answers": [
+    "http://www.wikidata.org/entity/Q35032",
+    "http://www.wikidata.org/entity/Q9592"
+  ],
+  "gold_path": {
+    "question_id": "16840",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44258",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q191734"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191734",
+        "predicate": "http://www.wikidata.org/prop/direct/P140",
+        "object": "http://www.wikidata.org/entity/Q9592"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q44258",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q239081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q239081",
+        "predicate": "http://www.wikidata.org/prop/direct/P140",
+        "object": "http://www.wikidata.org/entity/Q35032"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44258",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/Q44258-8dae2add-4aad-a23f-b08b-9de31c3f248c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44258",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q1747689"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44258",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "basileios-den-store"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44258",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "11890479x"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44258",
+      "predicate": "http://www.wikidata.org/prop/direct/P271",
+      "object": "DA00968796"
+    }
+  ]
+}

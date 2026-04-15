@@ -1,0 +1,103 @@
+{
+  "question_id": "23845",
+  "answers": [
+    "http://www.wikidata.org/entity/Q517609",
+    "http://www.wikidata.org/entity/Q7066",
+    "http://www.wikidata.org/entity/Q620834",
+    "http://www.wikidata.org/entity/Q3844169",
+    "http://www.wikidata.org/entity/Q21151157",
+    "http://www.wikidata.org/entity/Q620805"
+  ],
+  "gold_path": {
+    "question_id": "23845",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7066",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q49447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7066",
+        "predicate": "rdfs:label",
+        "object": "atheism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q517609",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q49447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q517609",
+        "predicate": "rdfs:label",
+        "object": "agnostic atheism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q620805",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q49447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q620805",
+        "predicate": "rdfs:label",
+        "object": "theism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q620834",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q49447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q620834",
+        "predicate": "rdfs:label",
+        "object": "apatheism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3844169",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q49447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3844169",
+        "predicate": "rdfs:label",
+        "object": "Dialetheism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21151157",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q49447"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21151157",
+        "predicate": "rdfs:label",
+        "object": "cosmotheism"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7066",
+      "predicate": "http://www.wikidata.org/prop/direct/P1151",
+      "object": "http://www.wikidata.org/entity/Q8587311"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7066",
+      "predicate": "http://www.wikidata.org/prop/direct/P1051",
+      "object": "2900"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7066",
+      "predicate": "http://www.wikidata.org/prop/direct/P527",
+      "object": "http://www.wikidata.org/entity/Q1186975"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7066",
+      "predicate": "http://www.wikidata.org/prop/direct/P527",
+      "object": "http://www.wikidata.org/entity/Q3347105"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7066",
+      "predicate": "http://www.wikidata.org/prop/direct/P527",
+      "object": "http://www.wikidata.org/entity/Q131917674"
+    }
+  ]
+}

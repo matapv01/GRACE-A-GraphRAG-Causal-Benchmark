@@ -1,0 +1,48 @@
+{
+  "question_id": "17871",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11435"
+  ],
+  "gold_path": {
+    "question_id": "17871",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131800",
+        "predicate": "http://www.wikidata.org/prop/direct/P1542",
+        "object": "http://www.wikidata.org/entity/Q11432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11432",
+        "predicate": "http://www.wikidata.org/prop/direct/P5136",
+        "object": "http://www.wikidata.org/entity/Q11435"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131800",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "science/sublimation-phase-change"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131800",
+      "predicate": "http://www.wikidata.org/prop/direct/P7033",
+      "object": "scot/8374"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131800",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Sublimation"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131800",
+      "predicate": "http://www.wikidata.org/prop/direct/P13750",
+      "object": "2739"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131800",
+      "predicate": "http://www.wikidata.org/prop/direct/P2579",
+      "object": "http://www.wikidata.org/entity/Q11473"
+    }
+  ]
+}

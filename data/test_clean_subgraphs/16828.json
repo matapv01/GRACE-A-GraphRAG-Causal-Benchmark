@@ -1,0 +1,70 @@
+{
+  "question_id": "16828",
+  "answers": [
+    "0303-01-01T00:00:00Z",
+    "1327-08-24T00:00:00Z",
+    "0727-06-03T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "16828",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q144",
+        "predicate": "http://www.wikidata.org/prop/direct/P417",
+        "object": "http://www.wikidata.org/entity/Q152457"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q152457",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "1327-08-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q144",
+        "predicate": "http://www.wikidata.org/prop/direct/P417",
+        "object": "http://www.wikidata.org/entity/Q159834"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q159834",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0727-06-03T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q144",
+        "predicate": "http://www.wikidata.org/prop/direct/P417",
+        "object": "http://www.wikidata.org/entity/Q212850"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212850",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0303-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hund"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "犬"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "പട്ടി"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "dogs"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "cachorra"
+    }
+  ]
+}

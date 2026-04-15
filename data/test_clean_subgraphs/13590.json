@@ -1,0 +1,48 @@
+{
+  "question_id": "13590",
+  "answers": [
+    "http://www.wikidata.org/entity/Q61"
+  ],
+  "gold_path": {
+    "question_id": "13590",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q239657",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q61"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q107126"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q239657",
+      "predicate": "http://www.wikidata.org/prop/direct/P509",
+      "object": "http://www.wikidata.org/entity/Q12202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239657",
+      "predicate": "http://www.wikidata.org/prop/P509",
+      "object": "http://www.wikidata.org/entity/statement/Q239657-5fab49a3-2088-4d47-a03d-90df3919e60b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239657",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "St._Hill-4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239657",
+      "predicate": "http://www.wikidata.org/prop/direct/P7578",
+      "object": "shirley-chisholm"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239657",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q239657-C4978B22-1141-457F-8240-150DFE1B97A4"
+    }
+  ]
+}

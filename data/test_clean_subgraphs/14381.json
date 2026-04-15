@@ -1,0 +1,60 @@
+{
+  "question_id": "14381",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18528664",
+    "http://www.wikidata.org/entity/Q6807665",
+    "http://www.wikidata.org/entity/Q158957"
+  ],
+  "gold_path": {
+    "question_id": "14381",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3155258",
+        "predicate": "http://www.wikidata.org/prop/direct/P161",
+        "object": "http://www.wikidata.org/entity/Q2995813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2995813",
+        "predicate": "http://www.wikidata.org/prop/direct/P1038",
+        "object": "http://www.wikidata.org/entity/Q158957"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2995813",
+        "predicate": "http://www.wikidata.org/prop/direct/P1038",
+        "object": "http://www.wikidata.org/entity/Q6807665"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2995813",
+        "predicate": "http://www.wikidata.org/prop/direct/P1038",
+        "object": "http://www.wikidata.org/entity/Q18528664"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3155258",
+      "predicate": "http://www.wikidata.org/prop/P2603",
+      "object": "http://www.wikidata.org/entity/statement/Q3155258-0D7A7530-2A37-4022-9D63-76697C5DE9A7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3155258",
+      "predicate": "http://www.wikidata.org/prop/P9586",
+      "object": "http://www.wikidata.org/entity/statement/Q3155258-58B45567-795A-46A5-8D62-FE6F11F02265"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3155258",
+      "predicate": "http://www.wikidata.org/prop/P11460",
+      "object": "http://www.wikidata.org/entity/statement/Q3155258-3C78ADB4-56FA-40C6-AE66-AFFF36719D8A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3155258",
+      "predicate": "http://www.wikidata.org/prop/P162",
+      "object": "http://www.wikidata.org/entity/statement/q3155258-7F458E1A-B149-4413-8B99-42BED734D2ED"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3155258",
+      "predicate": "http://www.wikidata.org/prop/P12096",
+      "object": "http://www.wikidata.org/entity/statement/Q3155258-4C058095-A6C3-4D65-AD51-49987E1402B4"
+    }
+  ]
+}

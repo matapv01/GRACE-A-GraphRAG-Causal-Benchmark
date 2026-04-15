@@ -1,0 +1,70 @@
+{
+  "question_id": "17062",
+  "answers": [
+    "http://www.wikidata.org/entity/Q60741353",
+    "http://www.wikidata.org/entity/Q2266417",
+    "http://www.wikidata.org/entity/Q161081"
+  ],
+  "gold_path": {
+    "question_id": "17062",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1511107",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q366"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q366",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q60741353"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1511107",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q35865"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q35865",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q161081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1511107",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q41171"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41171",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q2266417"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1511107",
+      "predicate": "http://www.wikidata.org/prop/direct/P1617",
+      "object": "ba24db11-36d6-4770-ad4e-777c95d3798a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1511107",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q41"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1511107",
+      "predicate": "http://www.wikidata.org/prop/direct/P580",
+      "object": "2010-05-05T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1511107",
+      "predicate": "http://www.wikidata.org/prop/direct/P582",
+      "object": "2012-04-04T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1511107",
+      "predicate": "http://www.wikidata.org/prop/P1617",
+      "object": "http://www.wikidata.org/entity/statement/Q1511107-6844E5BB-2CB4-4797-A607-0D44F948511A"
+    }
+  ]
+}

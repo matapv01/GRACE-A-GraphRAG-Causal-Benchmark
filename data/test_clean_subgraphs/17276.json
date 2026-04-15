@@ -1,0 +1,78 @@
+{
+  "question_id": "17276",
+  "answers": [
+    "http://www.wikidata.org/entity/Q974135",
+    "http://www.wikidata.org/entity/Q133823",
+    "http://www.wikidata.org/entity/Q943897",
+    "http://www.wikidata.org/entity/Q172941",
+    "http://www.wikidata.org/entity/Q121041",
+    "http://www.wikidata.org/entity/Q164778"
+  ],
+  "gold_path": {
+    "question_id": "17276",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q180266",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q127076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127076",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q121041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127076",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q133823"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127076",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q164778"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127076",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q172941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127076",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q943897"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127076",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q974135"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q180266",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "81"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180266",
+      "predicate": "http://schema.org/description",
+      "object": "infectious disease wey Streptococcus pyogenes cause"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180266",
+      "predicate": "http://schema.org/description",
+      "object": "malattia infettiva"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180266",
+      "predicate": "http://schema.org/description",
+      "object": "инфекционная болезнь"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180266",
+      "predicate": "http://schema.org/description",
+      "object": "מחלה"
+    }
+  ]
+}

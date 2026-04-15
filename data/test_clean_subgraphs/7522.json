@@ -1,0 +1,53 @@
+{
+  "question_id": "7522",
+  "answers": [
+    "2002-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7522",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q104514",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q104514-0C797677-AECA-48AD-990B-28489FCF3693"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q104514-0C797677-AECA-48AD-990B-28489FCF3693",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q5412592"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q104514-0C797677-AECA-48AD-990B-28489FCF3693",
+        "predicate": "pq:P585",
+        "object": "2002-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q104514",
+      "predicate": "http://www.wikidata.org/prop/direct/P3065",
+      "object": "A019038906"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q104514",
+      "predicate": "http://www.wikidata.org/prop/direct/P3056",
+      "object": "22775"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q104514",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb140225062#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q104514",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "96876"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q104514",
+      "predicate": "http://www.wikidata.org/prop/direct/P10302",
+      "object": "edrien-broudi"
+    }
+  ]
+}

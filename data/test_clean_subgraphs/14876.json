@@ -1,0 +1,96 @@
+{
+  "question_id": "14876",
+  "answers": [
+    "http://www.wikidata.org/entity/Q139377",
+    "http://www.wikidata.org/entity/Q12544",
+    "http://www.wikidata.org/entity/Q45813",
+    "http://www.wikidata.org/entity/Q220643",
+    "http://www.wikidata.org/entity/Q83891",
+    "http://www.wikidata.org/entity/Q733668",
+    "http://www.wikidata.org/entity/Q370957",
+    "http://www.wikidata.org/entity/Q943191",
+    "http://www.wikidata.org/entity/Q19083"
+  ],
+  "gold_path": {
+    "question_id": "14876",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18217408",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q2326066"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q12544"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q19083"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q45813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q83891"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q139377"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q220643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q370957"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q733668"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2326066",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q943191"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18217408",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "10"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18217408",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18217408",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-10-18T04:02:58Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18217408",
+      "predicate": "http://schema.org/description",
+      "object": "أمير ساساني من القرن السادس"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18217408",
+      "predicate": "http://schema.org/description",
+      "object": "6th-century Sasanian prince"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "question_id": "10872",
+  "answers": [
+    "http://www.wikidata.org/entity/Q212852",
+    "http://www.wikidata.org/entity/Q189660",
+    "http://www.wikidata.org/entity/Q233461",
+    "http://www.wikidata.org/entity/Q28984"
+  ],
+  "gold_path": {
+    "question_id": "10872",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q82339",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q82339-7314EAB3-876F-4F19-ACB6-4132907E090F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-7314EAB3-876F-4F19-ACB6-4132907E090F",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-7314EAB3-876F-4F19-ACB6-4132907E090F",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q28984"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-7314EAB3-876F-4F19-ACB6-4132907E090F",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q193869"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-7314EAB3-876F-4F19-ACB6-4132907E090F",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q189660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-7314EAB3-876F-4F19-ACB6-4132907E090F",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q212852"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q82339-7314EAB3-876F-4F19-ACB6-4132907E090F",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q233461"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "90"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "94"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://www.wikidata.org/prop/direct/P3280",
+      "object": "0000675802"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://www.wikidata.org/prop/P3280",
+      "object": "http://www.wikidata.org/entity/statement/q82339-31c5a91a-44a3-8732-44ce-051ba360a362"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q82339",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "144"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "6466",
+  "answers": [
+    "http://www.wikidata.org/entity/Q43027"
+  ],
+  "gold_path": {
+    "question_id": "6466",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2513",
+        "predicate": "http://www.wikidata.org/prop/P138",
+        "object": "http://www.wikidata.org/entity/statement/q2513-98F87675-E91B-4782-AC4D-0718B70D69C7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q2513-98F87675-E91B-4782-AC4D-0718B70D69C7",
+        "predicate": "ps:P138",
+        "object": "http://www.wikidata.org/entity/Q43027"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2513",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Habl"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2513",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hubble Space Telescope"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2513",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hubble-ruimteteleskoop"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2513",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Хаббл"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2513",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "טלסקופ החלל האבל"
+    }
+  ]
+}

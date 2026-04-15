@@ -1,0 +1,55 @@
+{
+  "question_id": "29497",
+  "answers": [
+    "http://www.wikidata.org/entity/Q60934773",
+    "http://www.wikidata.org/entity/Q29920058",
+    "http://www.wikidata.org/entity/Q28445019"
+  ],
+  "gold_path": {
+    "question_id": "29497",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28445019",
+        "predicate": "http://www.wikidata.org/prop/direct/P3354",
+        "object": "http://www.wikidata.org/entity/Q18216"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29920058",
+        "predicate": "http://www.wikidata.org/prop/direct/P3354",
+        "object": "http://www.wikidata.org/entity/Q18216"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60934773",
+        "predicate": "http://www.wikidata.org/prop/direct/P3354",
+        "object": "http://www.wikidata.org/entity/Q18216"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28445019",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MUTATION"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28445019",
+      "predicate": "http://schema.org/description",
+      "object": "genetic variant"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28445019",
+      "predicate": "http://schema.org/description",
+      "object": "gen variant"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28445019",
+      "predicate": "http://schema.org/description",
+      "object": "генетичний варіант"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28445019",
+      "predicate": "http://www.wikidata.org/prop/P1057",
+      "object": "http://www.wikidata.org/entity/statement/Q28445019-CDB690A6-8A6C-4FC4-868B-DB8DFCBCDF88"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "30072",
+  "answers": [
+    "http://www.wikidata.org/entity/Q132396803"
+  ],
+  "gold_path": {
+    "question_id": "30072",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q132396803",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q178528"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q132396803",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q101352"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q132396803",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hang'atan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132396803",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "杭阿坦"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132396803",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132396803",
+      "predicate": "http://schema.org/version",
+      "object": "2311809756"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132396803",
+      "predicate": "http://schema.org/description",
+      "object": "Surname of Manchu people"
+    }
+  ]
+}

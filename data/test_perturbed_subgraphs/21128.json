@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "21128",
+    "answers": [
+      "http://www.wikidata.org/entity/Q296260"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud800\udf46\ud800\udf49\ud800\udf44\ud800\udf3f\ud800\udf31\ud800\udf30\ud800\udf3b\ud800\udf3b\ud800\udf3f\ud800\udf43"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "cal\u00e7o"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296260",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Futbaal"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "football"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q296260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "soccer"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "21128",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud800\udf46\ud800\udf49\ud800\udf44\ud800\udf3f\ud800\udf31\ud800\udf30\ud800\udf3b\ud800\udf3b\ud800\udf3f\ud800\udf43"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "cal\u00e7o"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Futbaal"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "football"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "soccer"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q4167410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q296260"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "21128",
+    "answers": [
+      "http://www.wikidata.org/entity/Q296260"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud800\udf46\ud800\udf49\ud800\udf44\ud800\udf3f\ud800\udf31\ud800\udf30\ud800\udf3b\ud800\udf3b\ud800\udf3f\ud800\udf43"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "cal\u00e7o"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296260",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Futbaal"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "football"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q296260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "soccer"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "http://www.wikidata.org/entity/Q24921"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "http://www.wikidata.org/entity/Q24951"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "http://www.wikidata.org/entity/Q24956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "http://www.wikidata.org/entity/Q24960"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "http://www.wikidata.org/entity/Q24972"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "21128",
+    "answers": [
+      "http://www.wikidata.org/entity/Q296260"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud800\udf46\ud800\udf49\ud800\udf44\ud800\udf3f\ud800\udf31\ud800\udf30\ud800\udf3b\ud800\udf3b\ud800\udf3f\ud800\udf43"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "cal\u00e7o"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296260",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Futbaal"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "football"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q296260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "soccer"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q419"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q424"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q458"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q574"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q664"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q668"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q685"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "21128",
+    "answers": [
+      "http://www.wikidata.org/entity/Q182"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud800\udf46\ud800\udf49\ud800\udf44\ud800\udf3f\ud800\udf31\ud800\udf30\ud800\udf3b\ud800\udf3b\ud800\udf3f\ud800\udf43"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "cal\u00e7o"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Futbaal"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "football"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "soccer"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2736",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q182"
+      }
+    ]
+  }
+}

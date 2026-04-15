@@ -1,0 +1,44 @@
+{
+  "question_id": "15401",
+  "answers": [
+    "http://www.wikidata.org/entity/Q76826",
+    "http://www.wikidata.org/entity/Q152388"
+  ],
+  "gold_path": {
+    "question_id": "15401",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q76688",
+        "predicate": "http://www.wikidata.org/prop/direct/P184",
+        "object": "http://www.wikidata.org/entity/Q76357"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q76357",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q76826"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q76357",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q152388"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q76688",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hoppe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76688",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hans Hoppe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76688",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hans Hermann Hoppe"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "27445",
+  "answers": [
+    "un"
+  ],
+  "gold_path": {
+    "question_id": "27445",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1065",
+        "predicate": "http://www.wikidata.org/prop/direct/P3579",
+        "object": "un"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1065",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "FN"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1065",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "United Nations Organization"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1065",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "PBB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1065",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ООН"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1065",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "UN"
+    }
+  ]
+}

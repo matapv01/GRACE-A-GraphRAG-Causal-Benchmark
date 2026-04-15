@@ -1,0 +1,48 @@
+{
+  "question_id": "16390",
+  "answers": [
+    "http://www.wikidata.org/entity/Q22686"
+  ],
+  "gold_path": {
+    "question_id": "16390",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q169962",
+        "predicate": "http://www.wikidata.org/prop/direct/P205",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q169962",
+      "predicate": "http://www.wikidata.org/prop/direct/P3984",
+      "object": "tahoe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169962",
+      "predicate": "http://www.wikidata.org/prop/direct/P3984",
+      "object": "laketahoe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169962",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "316432591"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169962",
+      "predicate": "http://www.wikidata.org/prop/P214",
+      "object": "http://www.wikidata.org/entity/statement/Q169962-3D59726B-4A3C-4F33-8F44-E5C7F8F3F30E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169962",
+      "predicate": "http://www.wikidata.org/prop/P3984",
+      "object": "http://www.wikidata.org/entity/statement/Q169962-257bd10e-4a19-fe85-0e15-11d0256a01b8"
+    }
+  ]
+}

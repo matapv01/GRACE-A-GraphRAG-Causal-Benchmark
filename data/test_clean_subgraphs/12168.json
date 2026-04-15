@@ -1,0 +1,48 @@
+{
+  "question_id": "12168",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1050"
+  ],
+  "gold_path": {
+    "question_id": "12168",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q1050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1050",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q57340"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q30",
+      "predicate": "http://schema.org/description",
+      "object": "stát v Severní Americe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30",
+      "predicate": "http://schema.org/description",
+      "object": "pays d'Amérique du Nord"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30",
+      "predicate": "http://schema.org/description",
+      "object": "federal republik i Nordamerika"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30",
+      "predicate": "http://schema.org/description",
+      "object": "Staat in Nordamerika"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30",
+      "predicate": "http://schema.org/description",
+      "object": "مُلُک"
+    }
+  ]
+}

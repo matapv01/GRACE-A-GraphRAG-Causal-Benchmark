@@ -1,0 +1,44 @@
+{
+  "question_id": "23403",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1156522",
+    "http://www.wikidata.org/entity/Q207788"
+  ],
+  "gold_path": {
+    "question_id": "23403",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q207788",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3526264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q207788",
+        "predicate": "rdfs:label",
+        "object": "Earl Grey tea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1156522",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3526264"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1156522",
+        "predicate": "rdfs:label",
+        "object": "Lady Grey"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q207788",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Earl Grey"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207788",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "格雷伯爵茶"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "16152",
+  "answers": [
+    "http://www.wikidata.org/entity/Q302533"
+  ],
+  "gold_path": {
+    "question_id": "16152",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3642092",
+        "predicate": "http://www.wikidata.org/prop/direct/P156",
+        "object": "http://www.wikidata.org/entity/Q15698429"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15698429",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q302533"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3642092",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q3642092-6175AF72-36FB-406B-8B36-9309508F1649"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3642092",
+      "predicate": "http://www.wikidata.org/prop/P1729",
+      "object": "http://www.wikidata.org/entity/statement/Q3642092-0A5CB349-CE4C-41F3-B62F-1416A7C71EDF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3642092",
+      "predicate": "http://www.wikidata.org/prop/P264",
+      "object": "http://www.wikidata.org/entity/statement/q3642092-321B8322-5FD0-4396-BB19-3956C6034C9D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3642092",
+      "predicate": "http://www.wikidata.org/prop/P1954",
+      "object": "http://www.wikidata.org/entity/statement/Q3642092-e30657f7-a266-41ec-87c1-b92cd25517e6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3642092",
+      "predicate": "http://www.wikidata.org/prop/P175",
+      "object": "http://www.wikidata.org/entity/statement/q3642092-848CE4B0-8216-4C9E-9C42-8ABE518052D9"
+    }
+  ]
+}

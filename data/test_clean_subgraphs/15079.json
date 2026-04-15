@@ -1,0 +1,48 @@
+{
+  "question_id": "15079",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1376398"
+  ],
+  "gold_path": {
+    "question_id": "15079",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47536037",
+        "predicate": "http://www.wikidata.org/prop/direct/P137",
+        "object": "http://www.wikidata.org/entity/Q371068"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q371068",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q1376398"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47536037",
+      "predicate": "http://www.wikidata.org/prop/direct/P625",
+      "object": "Point(-86.368056 35.284722)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47536037",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47536037",
+      "predicate": "http://www.wikidata.org/prop/P625",
+      "object": "http://www.wikidata.org/entity/statement/Q47536037-66473cb6-41f3-66ba-eddc-ece97437db73"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47536037",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jack Daniel Distillery"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47536037",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Destileria de Jack Daniel"
+    }
+  ]
+}

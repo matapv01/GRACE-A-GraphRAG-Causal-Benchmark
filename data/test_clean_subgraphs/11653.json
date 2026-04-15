@@ -1,0 +1,69 @@
+{
+  "question_id": "11653",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5284525",
+    "http://www.wikidata.org/entity/Q2973648"
+  ],
+  "gold_path": {
+    "question_id": "11653",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q312722",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q312722-00823a59-413a-56fa-4e84-1621d565e905"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312722-00823a59-413a-56fa-4e84-1621d565e905",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18912794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312722-00823a59-413a-56fa-4e84-1621d565e905",
+        "predicate": "pq:P768",
+        "object": "http://www.wikidata.org/entity/Q5284525"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q312722",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q312722-69A1299D-60B9-4EA6-907E-8C68666A12EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312722-69A1299D-60B9-4EA6-907E-8C68666A12EC",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18912794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312722-69A1299D-60B9-4EA6-907E-8C68666A12EC",
+        "predicate": "pq:P768",
+        "object": "http://www.wikidata.org/entity/Q2973648"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q312722",
+      "predicate": "http://www.wikidata.org/prop/direct/P1559",
+      "object": "Harold Edward Holt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312722",
+      "predicate": "http://www.wikidata.org/prop/direct/P1819",
+      "object": "I00443051"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312722",
+      "predicate": "http://www.wikidata.org/prop/direct/P1741",
+      "object": "110626"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312722",
+      "predicate": "http://www.wikidata.org/prop/direct/P5361",
+      "object": "HoltHaroldEdward1908-1967"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312722",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "7253158"
+    }
+  ]
+}

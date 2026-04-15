@@ -1,0 +1,53 @@
+{
+  "question_id": "5373",
+  "answers": [
+    "1995-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5373",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q112307",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q112307-E13E43B2-EABC-4CF8-8322-BED252B2AACC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q112307-E13E43B2-EABC-4CF8-8322-BED252B2AACC",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3113384"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q112307-E13E43B2-EABC-4CF8-8322-BED252B2AACC",
+        "predicate": "pq:P585",
+        "object": "1995-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q112307",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-22T19:54:50Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112307",
+      "predicate": "http://www.wikidata.org/prop/P13956",
+      "object": "http://www.wikidata.org/entity/statement/Q112307-F249467B-7B18-4596-B30F-63D04F4DD85B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112307",
+      "predicate": "http://www.wikidata.org/prop/P12098",
+      "object": "http://www.wikidata.org/entity/statement/Q112307-E86A716E-CBBE-4ABF-AA6D-167697758226"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112307",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Horne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q112307",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lena Mary Calhoun Horne"
+    }
+  ]
+}

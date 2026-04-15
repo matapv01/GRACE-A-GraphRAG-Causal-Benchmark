@@ -1,0 +1,48 @@
+{
+  "question_id": "10122",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2001"
+  ],
+  "gold_path": {
+    "question_id": "10122",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q243439",
+        "predicate": "http://www.wikidata.org/prop/direct/P162",
+        "object": "http://www.wikidata.org/entity/Q2001"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q243439",
+        "predicate": "http://www.wikidata.org/prop/direct/P1431",
+        "object": "http://www.wikidata.org/entity/Q69234"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nacido para matar"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Born to Kill"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Пълно бойно снаражение"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cara de guerra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "La chaqueta metálica"
+    }
+  ]
+}

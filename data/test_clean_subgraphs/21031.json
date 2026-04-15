@@ -1,0 +1,43 @@
+{
+  "question_id": "21031",
+  "answers": [
+    "http://www.wikidata.org/entity/Q46633"
+  ],
+  "gold_path": {
+    "question_id": "21031",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q46633",
+        "predicate": "http://www.wikidata.org/prop/direct/P737",
+        "object": "http://www.wikidata.org/entity/Q7259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q46633",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q46633",
+      "predicate": "http://www.wikidata.org/prop/direct/P12946",
+      "object": "Charles+Babbage"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46633",
+      "predicate": "http://www.wikidata.org/prop/direct/P1273",
+      "object": "a10876121"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46633",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "バベッジ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46633",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Babbage"
+    }
+  ]
+}

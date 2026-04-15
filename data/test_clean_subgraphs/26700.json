@@ -1,0 +1,49 @@
+{
+  "question_id": "26700",
+  "answers": [
+    "1051",
+    "1050"
+  ],
+  "gold_path": {
+    "question_id": "26700",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q752075",
+        "predicate": "http://www.wikidata.org/prop/direct/P1058",
+        "object": "1050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q752075",
+        "predicate": "http://www.wikidata.org/prop/direct/P1058",
+        "object": "1051"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q752075",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "39"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q752075",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-31T01:21:01Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q752075",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q752075-40105F86-A5DA-4965-A18B-7FE732582E53"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q752075",
+      "predicate": "http://schema.org/version",
+      "object": "2476571205"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q752075",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0jc1"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "question_id": "10547",
+  "answers": [
+    "http://www.wikidata.org/entity/Q131458"
+  ],
+  "gold_path": {
+    "question_id": "10547",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131590",
+        "predicate": "http://www.wikidata.org/prop/P179",
+        "object": "http://www.wikidata.org/entity/statement/Q131590-79aba987-4032-c9cf-f6a3-3776a60c8c0b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131590-79aba987-4032-c9cf-f6a3-3776a60c8c0b",
+        "predicate": "ps:P179",
+        "object": "http://www.wikidata.org/entity/Q216383"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131590-79aba987-4032-c9cf-f6a3-3776a60c8c0b",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q131458"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131590-79aba987-4032-c9cf-f6a3-3776a60c8c0b",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q178390"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131590",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4073016-5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131590",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "127"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131590",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/174984154"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131590",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n79115332"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131590",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P3348",
+      "object": "http://data.nlg.gr/resource/authority/A163257"
+    }
+  ]
+}

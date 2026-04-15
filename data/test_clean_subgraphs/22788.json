@@ -1,0 +1,70 @@
+{
+  "question_id": "22788",
+  "answers": [
+    "http://www.wikidata.org/entity/Q691565",
+    "http://www.wikidata.org/entity/Q153316",
+    "http://www.wikidata.org/entity/Q113047"
+  ],
+  "gold_path": {
+    "question_id": "22788",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q113047",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q113047",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153316",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153316",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q691565",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q691565",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q113047",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2024-07-10T15:00:10Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113047",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113047",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113047",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Schlacht bei Struth"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q113047",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Battle of Struth"
+    }
+  ]
+}

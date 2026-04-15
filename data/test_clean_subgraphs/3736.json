@@ -1,0 +1,48 @@
+{
+  "question_id": "3736",
+  "answers": [
+    "-13000-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "3736",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q133575",
+        "predicate": "http://www.wikidata.org/prop/P571",
+        "object": "http://www.wikidata.org/entity/statement/Q133575-341274f1-4551-752e-e2d1-3761a9ae53e0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q133575-341274f1-4551-752e-e2d1-3761a9ae53e0",
+        "predicate": "pq:P1326",
+        "object": "-13000-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q133575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pinturres de Altamira"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Альтаміра (пячора)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Altamira"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cuevas de altamira"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q133575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Al tamira"
+    }
+  ]
+}

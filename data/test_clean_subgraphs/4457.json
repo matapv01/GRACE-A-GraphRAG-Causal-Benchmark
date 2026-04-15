@@ -1,0 +1,38 @@
+{
+  "question_id": "4457",
+  "answers": [
+    "7"
+  ],
+  "gold_path": {
+    "question_id": "4457",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151114",
+        "predicate": "http://www.wikidata.org/prop/P658",
+        "object": "http://www.wikidata.org/entity/statement/Q151114-892995fa-404f-c5f0-51e1-8f76f3ad4464"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q151114-892995fa-404f-c5f0-51e1-8f76f3ad4464",
+        "predicate": "ps:P658",
+        "object": "http://www.wikidata.org/entity/Q2454009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q151114-892995fa-404f-c5f0-51e1-8f76f3ad4464",
+        "predicate": "pq:P1545",
+        "object": "7"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151114",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "The Wall"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151114",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "دیوار"
+    }
+  ]
+}

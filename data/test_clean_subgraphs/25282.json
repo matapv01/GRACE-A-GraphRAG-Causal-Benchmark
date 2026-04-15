@@ -1,0 +1,48 @@
+{
+  "question_id": "25282",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7976"
+  ],
+  "gold_path": {
+    "question_id": "25282",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7976",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q951873"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7976",
+        "predicate": "http://www.wikidata.org/prop/direct/P2341",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7976",
+        "predicate": "rdfs:label",
+        "object": "American English"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "American English"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "amerikansk-engelsk"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7976",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "angloamerikansk"
+    }
+  ]
+}

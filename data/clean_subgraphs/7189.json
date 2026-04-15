@@ -1,0 +1,53 @@
+{
+  "question_id": "7189",
+  "answers": [
+    "1483-04-18T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7189",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q170470",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q170470-f790c86e-4775-7bf6-a88b-8fd4f3760845"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q170470-f790c86e-4775-7bf6-a88b-8fd4f3760845",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18810062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q170470-f790c86e-4775-7bf6-a88b-8fd4f3760845",
+        "predicate": "pq:P580",
+        "object": "1483-04-18T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q170470",
+      "predicate": "http://www.wikidata.org/prop/direct/P6385",
+      "object": "istoriya/EDUARD_V.html"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170470",
+      "predicate": "http://www.wikidata.org/prop/direct/P4638",
+      "object": "p10165.htm#i101645"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170470",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/09x14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170470",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q170470-78660CB0-C825-4301-AD27-D1600F097D73"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q170470",
+      "predicate": "http://www.wikidata.org/prop/P4638",
+      "object": "http://www.wikidata.org/entity/statement/Q170470-734990B8-7088-4167-94C1-CBAC7305E930"
+    }
+  ]
+}

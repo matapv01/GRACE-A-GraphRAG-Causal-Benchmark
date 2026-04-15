@@ -1,0 +1,70 @@
+{
+  "question_id": "29873",
+  "answers": [
+    "http://www.wikidata.org/entity/Q26552568",
+    "http://www.wikidata.org/entity/Q136666273",
+    "http://www.wikidata.org/entity/Q25291883"
+  ],
+  "gold_path": {
+    "question_id": "29873",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25291883",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25291883",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q179700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26552568",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26552568",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q179700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q136666273",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q136666273",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q179700"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25291883",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Newton (After Blake)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25291883",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Newton After Blake"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25291883",
+      "predicate": "http://www.wikidata.org/prop/P7959",
+      "object": "http://www.wikidata.org/entity/statement/Q25291883-7D6F3BA2-590C-4D14-B0CA-08A8CC00B556"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25291883",
+      "predicate": "http://www.wikidata.org/prop/P11693",
+      "object": "http://www.wikidata.org/entity/statement/Q25291883-C8DEEAF8-5EAE-4E9A-AAF0-DDDF9653BA31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25291883",
+      "predicate": "http://www.wikidata.org/prop/P2671",
+      "object": "http://www.wikidata.org/entity/statement/Q25291883-F6DFDCCA-E7C1-48CF-8080-3A6CE80DBDC9"
+    }
+  ]
+}

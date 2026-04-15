@@ -1,0 +1,53 @@
+{
+  "question_id": "5971",
+  "answers": [
+    "12289"
+  ],
+  "gold_path": {
+    "question_id": "5971",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36661",
+        "predicate": "http://www.wikidata.org/prop/P119",
+        "object": "http://www.wikidata.org/entity/statement/Q36661-694912B7-C3E8-4857-858E-B8C1D727CD01"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36661-694912B7-C3E8-4857-858E-B8C1D727CD01",
+        "predicate": "ps:P119",
+        "object": "http://www.wikidata.org/entity/Q1069938"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q36661-694912B7-C3E8-4857-858E-B8C1D727CD01",
+        "predicate": "pq:P965",
+        "object": "12289"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q36661",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q36661-f7fc5e2a-49e8-1451-ab6a-85e296f85699"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36661",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/03pm9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36661",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q36661-17D4B475-F923-4B88-8750-F6371ED8076D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36661",
+      "predicate": "http://www.wikidata.org/prop/direct/P2600",
+      "object": "6000000001073458644"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36661",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL13192A"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "10762",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41796534"
+  ],
+  "gold_path": {
+    "question_id": "10762",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q312561",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q312561-DDBA0395-9033-423E-9B7F-526D9686E43E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312561-DDBA0395-9033-423E-9B7F-526D9686E43E",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q21578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312561-DDBA0395-9033-423E-9B7F-526D9686E43E",
+        "predicate": "pq:P184",
+        "object": "http://www.wikidata.org/entity/Q41796534"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312561-DDBA0395-9033-423E-9B7F-526D9686E43E",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q312561",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Heckman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312561",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "James Heckman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312561",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джеймс Джоузеф Хекман"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312561",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Хекман"
+    }
+  ]
+}

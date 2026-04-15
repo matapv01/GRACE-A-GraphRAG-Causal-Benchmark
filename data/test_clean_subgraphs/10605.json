@@ -1,0 +1,58 @@
+{
+  "question_id": "10605",
+  "answers": [
+    "175293"
+  ],
+  "gold_path": {
+    "question_id": "10605",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151414",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/q151414-D32379B4-E300-4EC7-8095-61452AD202C7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q151414-D32379B4-E300-4EC7-8095-61452AD202C7",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q35637"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q151414-D32379B4-E300-4EC7-8095-61452AD202C7",
+        "predicate": "pq:P2121",
+        "object": "175293"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q151414-D32379B4-E300-4EC7-8095-61452AD202C7",
+        "predicate": "pq:P585",
+        "object": "1953-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151414",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q151414-D34FEEC0-245D-4D43-86C2-63A9B75C1BB6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151414",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q151414-E970A685-F0E0-4305-ADA0-71451630AD8D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151414",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q151414-74EF4423-997C-4473-B798-9A500D8B8635"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151414",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q151414-92BF04EE-BCEB-4350-BE90-465A95497269"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151414",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q151414-C7330C06-68F3-46B4-A401-BA397A367260"
+    }
+  ]
+}

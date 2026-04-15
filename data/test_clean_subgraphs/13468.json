@@ -1,0 +1,48 @@
+{
+  "question_id": "13468",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6581097"
+  ],
+  "gold_path": {
+    "question_id": "13468",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q81018",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581097"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6581097",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q8441"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q81018",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P26"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81018",
+      "predicate": "http://www.wikidata.org/prop/P5986",
+      "object": "http://www.wikidata.org/entity/statement/Q81018-C9982F1D-C0E6-4D77-8534-721E4F3A6483"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81018",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/118558536"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81018",
+      "predicate": "http://www.wikidata.org/prop/P5905",
+      "object": "http://www.wikidata.org/entity/statement/Q81018-EC3CD5FC-CF8B-4D70-B6E7-481C87B14C7D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81018",
+      "predicate": "http://www.wikidata.org/prop/P3846",
+      "object": "http://www.wikidata.org/entity/statement/q81018-859576cf-42c8-8156-7370-ad336b1f5988"
+    }
+  ]
+}

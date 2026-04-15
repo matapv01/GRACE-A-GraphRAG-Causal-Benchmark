@@ -1,0 +1,43 @@
+{
+  "question_id": "28251",
+  "answers": [
+    "STP"
+  ],
+  "gold_path": {
+    "question_id": "28251",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1039",
+        "predicate": "http://www.wikidata.org/prop/direct/P2983",
+        "object": "STP"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1039",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1039",
+      "predicate": "http://www.wikidata.org/prop/direct/P38",
+      "object": "http://www.wikidata.org/entity/Q193712"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1039",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%20administrative%20divisions%2Blocation%20in%20Africa.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1039",
+      "predicate": "http://www.wikidata.org/prop/direct/P47",
+      "object": "http://www.wikidata.org/entity/Q983"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1039",
+      "predicate": "http://www.wikidata.org/prop/direct/P47",
+      "object": "http://www.wikidata.org/entity/Q1000"
+    }
+  ]
+}

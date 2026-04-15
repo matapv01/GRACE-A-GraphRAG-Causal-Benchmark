@@ -1,0 +1,53 @@
+{
+  "question_id": "6227",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34370"
+  ],
+  "gold_path": {
+    "question_id": "6227",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q633529",
+        "predicate": "http://www.wikidata.org/prop/P159",
+        "object": "http://www.wikidata.org/entity/statement/Q633529-967B7214-3985-4028-A0C4-0196B633F807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q633529-967B7214-3985-4028-A0C4-0196B633F807",
+        "predicate": "ps:P159",
+        "object": "http://www.wikidata.org/entity/Q34370"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q633529-967B7214-3985-4028-A0C4-0196B633F807",
+        "predicate": "pq:P17",
+        "object": "http://www.wikidata.org/entity/Q55"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q633529",
+      "predicate": "http://schema.org/version",
+      "object": "2478784682"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q633529",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q633529",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/EURbuilding.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q633529",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Erasmus-Universiteit"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q633529",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Erasmus-University-Rotterdam"
+    }
+  ]
+}

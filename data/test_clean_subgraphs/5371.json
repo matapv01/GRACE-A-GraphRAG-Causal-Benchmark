@@ -1,0 +1,68 @@
+{
+  "question_id": "5371",
+  "answers": [
+    "http://www.wikidata.org/entity/Q488651"
+  ],
+  "gold_path": {
+    "question_id": "5371",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131285",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q131285-21FCC2F0-E530-4327-A6CB-21B768129625"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131285-21FCC2F0-E530-4327-A6CB-21B768129625",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q488651"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131285-21FCC2F0-E530-4327-A6CB-21B768129625",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q257443"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131285",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q131285-5FA32E4D-1E5F-4B7F-81DD-FD003BDAAF2C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131285-5FA32E4D-1E5F-4B7F-81DD-FD003BDAAF2C",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q488651"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131285-5FA32E4D-1E5F-4B7F-81DD-FD003BDAAF2C",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q257443"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131285",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "williams-john-towner"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131285",
+      "predicate": "http://www.wikidata.org/prop/direct/P5719",
+      "object": "john-williams"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131285",
+      "predicate": "http://www.wikidata.org/prop/direct/P3056",
+      "object": "206713|0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131285",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1932-02-08T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131285",
+      "predicate": "http://www.wikidata.org/prop/direct/P5356",
+      "object": "John-Williams"
+    }
+  ]
+}

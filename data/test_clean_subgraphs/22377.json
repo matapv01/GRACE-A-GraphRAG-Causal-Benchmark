@@ -1,0 +1,48 @@
+{
+  "question_id": "22377",
+  "answers": [
+    "http://www.wikidata.org/entity/Q206959"
+  ],
+  "gold_path": {
+    "question_id": "22377",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q276",
+        "predicate": "http://www.wikidata.org/prop/direct/P144",
+        "object": "http://www.wikidata.org/entity/Q206959"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q206959",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15416"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q276",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "Eurovision"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q276",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "eurovision"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q276",
+      "predicate": "http://www.wikidata.org/prop/direct/P3280",
+      "object": "0000474453"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q276",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Eurovision"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q276",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "אירוויזיון"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "25837",
+  "answers": [
+    "vincent-van-gogh"
+  ],
+  "gold_path": {
+    "question_id": "25837",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5582",
+        "predicate": "http://www.wikidata.org/prop/direct/P2042",
+        "object": "vincent-van-gogh"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "312"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q5582-C0393772-E163-4BAD-9BC8-240C1733440C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Self-Portrait%20-%20Google%20Art%20Project%20%28454045%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/direct/P172",
+      "object": "http://www.wikidata.org/entity/Q200569"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5582",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q5582-E1249ED2-64CE-458D-938C-847162F520F4"
+    }
+  ]
+}

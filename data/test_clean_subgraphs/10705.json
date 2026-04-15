@@ -1,0 +1,58 @@
+{
+  "question_id": "10705",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7595468"
+  ],
+  "gold_path": {
+    "question_id": "10705",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199894",
+        "predicate": "http://www.wikidata.org/prop/P793",
+        "object": "http://www.wikidata.org/entity/statement/Q199894-b53277f6-4cb9-0a39-459b-892cdde17f0f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199894-b53277f6-4cb9-0a39-459b-892cdde17f0f",
+        "predicate": "ps:P793",
+        "object": "http://www.wikidata.org/entity/Q125375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199894-b53277f6-4cb9-0a39-459b-892cdde17f0f",
+        "predicate": "pq:P276",
+        "object": "http://www.wikidata.org/entity/Q7595468"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199894-b53277f6-4cb9-0a39-459b-892cdde17f0f",
+        "predicate": "pq:P585",
+        "object": "1533-04-09T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q199894",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q1957196"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199894",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q199894-762680D0-1D24-4CFA-9106-3A59DCB525A0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199894",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-13T10:51:39Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199894",
+      "predicate": "http://www.wikidata.org/prop/P5019",
+      "object": "http://www.wikidata.org/entity/statement/Q199894-37E50C29-13B5-42EC-BC9B-238EFCC81005"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199894",
+      "predicate": "http://www.wikidata.org/prop/direct/P1711",
+      "object": "67841"
+    }
+  ]
+}

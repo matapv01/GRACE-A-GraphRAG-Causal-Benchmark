@@ -1,0 +1,48 @@
+{
+  "question_id": "9981",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17122705"
+  ],
+  "gold_path": {
+    "question_id": "9981",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199369",
+        "predicate": "http://www.wikidata.org/prop/direct/P1340",
+        "object": "http://www.wikidata.org/entity/Q17122705"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q199369",
+        "predicate": "http://www.wikidata.org/prop/direct/P1884",
+        "object": "http://www.wikidata.org/entity/Q2367101"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q199369",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb13969234d#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199369",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+      "object": "http://www.idref.fr/245190694/id"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199369",
+      "predicate": "http://www.wikidata.org/prop/direct/P2604",
+      "object": "22744"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199369",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q199369-285FA808-42BD-48B0-8BD5-417E5139B230"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199369",
+      "predicate": "http://www.wikidata.org/prop/P269",
+      "object": "http://www.wikidata.org/entity/statement/Q199369-f0965f3f-5f80-4425-adc4-c33199188674"
+    }
+  ]
+}

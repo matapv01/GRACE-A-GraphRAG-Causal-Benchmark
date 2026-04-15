@@ -1,0 +1,43 @@
+{
+  "question_id": "29298",
+  "answers": [
+    "VIII/E.05a"
+  ],
+  "gold_path": {
+    "question_id": "29298",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q106532",
+        "predicate": "http://www.wikidata.org/prop/direct/P711",
+        "object": "VIII/E.05a"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q106532",
+      "predicate": "http://schema.org/version",
+      "object": "2472543304"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106532",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/14707246-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106532",
+      "predicate": "http://www.wikidata.org/prop/direct/P8814",
+      "object": "14707246-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106532",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/Muscovite"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106532",
+      "predicate": "http://www.wikidata.org/prop/direct/P8408",
+      "object": "Muscovite"
+    }
+  ]
+}

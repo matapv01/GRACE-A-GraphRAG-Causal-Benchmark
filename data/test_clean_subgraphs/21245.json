@@ -1,0 +1,48 @@
+{
+  "question_id": "21245",
+  "answers": [
+    "http://www.wikidata.org/entity/Q228085"
+  ],
+  "gold_path": {
+    "question_id": "21245",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q228085",
+        "predicate": "http://www.wikidata.org/prop/direct/P927",
+        "object": "http://www.wikidata.org/entity/Q7891"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q228085",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q12136"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q228085",
+      "predicate": "http://schema.org/description",
+      "object": "malattia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q228085",
+      "predicate": "http://schema.org/description",
+      "object": "eine Atemwegserkrankung"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q228085",
+      "predicate": "http://schema.org/description",
+      "object": "German term: a respiratory disease"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q228085",
+      "predicate": "http://schema.org/description",
+      "object": "terme allemand: une maladie respiratoire"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q228085",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zuckerschleim"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "13763",
+  "answers": [
+    "http://www.wikidata.org/entity/Q674827"
+  ],
+  "gold_path": {
+    "question_id": "13763",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157833",
+        "predicate": "http://www.wikidata.org/prop/direct/P92",
+        "object": "http://www.wikidata.org/entity/Q674827"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q674827",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q183"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q157833",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2776529561"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157833",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5429",
+      "object": "http://cv.iptc.org/newscodes/mediatopic/20000090"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157833",
+      "predicate": "http://www.wikidata.org/prop/direct/P3221",
+      "object": "subject/embezzlement"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157833",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "embezzlement"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157833",
+      "predicate": "http://www.wikidata.org/prop/direct/P1343",
+      "object": "http://www.wikidata.org/entity/Q867541"
+    }
+  ]
+}

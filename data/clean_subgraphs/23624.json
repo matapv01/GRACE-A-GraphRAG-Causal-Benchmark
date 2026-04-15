@@ -1,0 +1,48 @@
+{
+  "question_id": "23624",
+  "answers": [
+    "http://www.wikidata.org/entity/Q335048"
+  ],
+  "gold_path": {
+    "question_id": "23624",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q335048",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q13417114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q335048",
+        "predicate": "rdfs:label",
+        "object": "Üsenberger"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q335048",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q335048",
+      "predicate": "http://www.wikidata.org/prop/P2671",
+      "object": "http://www.wikidata.org/entity/statement/Q335048-14729463-5491-41A6-844D-AEA714A6FF2B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q335048",
+      "predicate": "http://www.wikidata.org/prop/P582",
+      "object": "http://www.wikidata.org/entity/statement/Q335048-333682e9-4d3e-59af-186b-2fba9631f26e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q335048",
+      "predicate": "http://www.wikidata.org/prop/P159",
+      "object": "http://www.wikidata.org/entity/statement/Q335048-adffb346-4396-9c2e-0c0b-9c284d85e5af"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q335048",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "8"
+    }
+  ]
+}

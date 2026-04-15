@@ -1,0 +1,38 @@
+{
+  "question_id": "6360",
+  "answers": [
+    "http://www.wikidata.org/entity/Q157491"
+  ],
+  "gold_path": {
+    "question_id": "6360",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q517",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q517-76248E99-EF99-4E3A-95B6-F351A0243615"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q517-76248E99-EF99-4E3A-95B6-F351A0243615",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q157491"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q517",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T07:10:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q517",
+      "predicate": "http://schema.org/version",
+      "object": "2480561324"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q517",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Napoleon"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "21381",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3045538"
+  ],
+  "gold_path": {
+    "question_id": "21381",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3045538",
+        "predicate": "http://www.wikidata.org/prop/direct/P1001",
+        "object": "http://www.wikidata.org/entity/Q8692"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3045538",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q22996476"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3045538",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://www.bilbao.eus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3045538",
+      "predicate": "http://www.wikidata.org/prop/direct/P6375",
+      "object": "Plaza de Ernesto Erkoreka, 12"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3045538",
+      "predicate": "http://www.wikidata.org/prop/direct/P6375",
+      "object": "Ernesto Erkoreka Plaza, 12"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3045538",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Bilbao City Council"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3045538",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Consistori bilbaí"
+    }
+  ]
+}

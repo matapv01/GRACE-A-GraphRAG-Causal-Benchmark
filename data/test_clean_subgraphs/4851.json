@@ -1,0 +1,38 @@
+{
+  "question_id": "4851",
+  "answers": [
+    "http://www.wikidata.org/entity/Q879351"
+  ],
+  "gold_path": {
+    "question_id": "4851",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q60093",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q60093-396E91BB-9862-4444-8C78-F0E57E019B37"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q60093-396E91BB-9862-4444-8C78-F0E57E019B37",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q879351"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q60093",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q60093-3C3D0ABB-8D80-423F-A6B9-3B0D99679674"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q60093",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q60093-447B61FC-9804-4640-8A5F-729CCE153EC3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q60093",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Zuse"
+    }
+  ]
+}

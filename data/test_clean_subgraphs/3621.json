@@ -1,0 +1,48 @@
+{
+  "question_id": "3621",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6655"
+  ],
+  "gold_path": {
+    "question_id": "3621",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q215",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q215-2739FC26-4285-4A9C-B618-54BF8A16FEDD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q215-2739FC26-4285-4A9C-B618-54BF8A16FEDD",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q215-2739FC26-4285-4A9C-B618-54BF8A16FEDD",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q1777301"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q215",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-07T14:54:58Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215",
+      "predicate": "http://schema.org/version",
+      "object": "2479169739"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "si"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SI"
+    }
+  ]
+}

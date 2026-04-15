@@ -1,0 +1,48 @@
+{
+  "question_id": "12800",
+  "answers": [
+    "http://www.wikidata.org/entity/Q45789"
+  ],
+  "gold_path": {
+    "question_id": "12800",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43101",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q45789"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45789",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q170790"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43101",
+      "predicate": "http://schema.org/version",
+      "object": "2474751307"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43101",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "37"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43101",
+      "predicate": "http://www.wikidata.org/prop/P7775",
+      "object": "http://www.wikidata.org/entity/statement/Q43101-a0c9ee35-4b61-3634-12e1-b693588fbab6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43101",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "57"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43101",
+      "predicate": "http://schema.org/description",
+      "object": "particella subatomica che segue la statistica di Bose-Einstein"
+    }
+  ]
+}

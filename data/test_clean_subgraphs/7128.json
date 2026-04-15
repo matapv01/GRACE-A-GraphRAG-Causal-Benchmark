@@ -1,0 +1,53 @@
+{
+  "question_id": "7128",
+  "answers": [
+    "1795-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7128",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12994",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q12994-69da721d-4d4b-bb68-706d-57fc8071a353"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q12994-69da721d-4d4b-bb68-706d-57fc8071a353",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q157070"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q12994-69da721d-4d4b-bb68-706d-57fc8071a353",
+        "predicate": "pq:P582",
+        "object": "1795-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12994",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q12994-6BA91656-940C-4F3B-AF46-BFED6DCE8740"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12994",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Brugge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12994",
+      "predicate": "http://www.wikidata.org/prop/direct/P3888",
+      "object": "27506"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12994",
+      "predicate": "http://www.wikidata.org/prop/direct/P4264",
+      "object": "stad-brugge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12994",
+      "predicate": "http://www.wikidata.org/prop/direct/P4238",
+      "object": "https://www.skylinewebcams.com/en/webcam/belgique/flandres/bruges/bruges.html"
+    }
+  ]
+}

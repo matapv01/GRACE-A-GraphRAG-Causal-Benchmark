@@ -1,0 +1,53 @@
+{
+  "question_id": "7732",
+  "answers": [
+    "1991-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7732",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1731",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q1731-91c18d68-4cea-14b6-29cc-9e980cf9638d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1731-91c18d68-4cea-14b6-29cc-9e980cf9638d",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q24174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1731-91c18d68-4cea-14b6-29cc-9e980cf9638d",
+        "predicate": "pq:P580",
+        "object": "1991-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1731",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T07:43:18Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1731",
+      "predicate": "http://www.wikidata.org/prop/direct/P395",
+      "object": "DD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1731",
+      "predicate": "http://schema.org/version",
+      "object": "2480566623"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1731",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "113"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1731",
+      "predicate": "http://www.wikidata.org/prop/direct/P443",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/De-Dresden.oga"
+    }
+  ]
+}

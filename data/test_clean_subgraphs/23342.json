@@ -1,0 +1,48 @@
+{
+  "question_id": "23342",
+  "answers": [
+    "http://www.wikidata.org/entity/Q20860"
+  ],
+  "gold_path": {
+    "question_id": "23342",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20860",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q39367"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20860",
+        "predicate": "rdfs:label",
+        "object": "Wetterhoun"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20860",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20860",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ويتيرون"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20860",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "gos d'aigua frisó"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20860",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Веттерхун"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20860",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Wetterhoun"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "14971",
+  "answers": [
+    "0.0567"
+  ],
+  "gold_path": {
+    "question_id": "14971",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1358214",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q405"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q405",
+        "predicate": "http://www.wikidata.org/prop/direct/P1096",
+        "object": "0.0567"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1358214",
+      "predicate": "http://schema.org/description",
+      "object": "structure interne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1358214",
+      "predicate": "http://schema.org/description",
+      "object": "Überblick über die innere Struktur des Mondes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1358214",
+      "predicate": "http://schema.org/description",
+      "object": "overview of the internal structure of the Moon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1358214",
+      "predicate": "http://schema.org/description",
+      "object": "struttura interna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1358214",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "concept/58cecd37-328a-41e5-963e-341c2ea93bc5"
+    }
+  ]
+}

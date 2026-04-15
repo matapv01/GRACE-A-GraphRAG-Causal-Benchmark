@@ -1,0 +1,53 @@
+{
+  "question_id": "8061",
+  "answers": [
+    "http://www.wikidata.org/entity/Q22923081"
+  ],
+  "gold_path": {
+    "question_id": "8061",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q81212",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q81212-135d9a92-466a-9389-b2a1-298754888c7f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q81212-135d9a92-466a-9389-b2a1-298754888c7f",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q81212-135d9a92-466a-9389-b2a1-298754888c7f",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q191003"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q81212",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/118594540"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81212",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/264661907"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81212",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/71159234587703372208"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81212",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/268159474185627661671"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81212",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/280159474182827661550"
+    }
+  ]
+}

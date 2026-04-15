@@ -1,0 +1,59 @@
+{
+  "question_id": "16359",
+  "answers": [
+    "1957-07-26T00:00:00Z",
+    "1945-12-07T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "16359",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q62558",
+        "predicate": "http://www.wikidata.org/prop/direct/P1038",
+        "object": "http://www.wikidata.org/entity/Q231576"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q231576",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1957-07-26T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q62558",
+        "predicate": "http://www.wikidata.org/prop/direct/P1038",
+        "object": "http://www.wikidata.org/entity/Q3136619"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3136619",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1945-12-07T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q62558",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "cyd-charisse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62558",
+      "predicate": "http://www.wikidata.org/prop/P1220",
+      "object": "http://www.wikidata.org/entity/statement/Q62558-82534F87-D093-4C76-AA87-B6370AA595D9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62558",
+      "predicate": "http://www.wikidata.org/prop/P1220",
+      "object": "http://www.wikidata.org/entity/statement/Q62558-EA53F8F4-F260-4BF5-90D1-FBF737B3AC67"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62558",
+      "predicate": "http://www.wikidata.org/prop/direct/P21",
+      "object": "http://www.wikidata.org/entity/Q6581072"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62558",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "cyd-charisse"
+    }
+  ]
+}

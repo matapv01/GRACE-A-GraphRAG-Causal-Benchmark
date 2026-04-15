@@ -1,0 +1,64 @@
+{
+  "question_id": "10591",
+  "answers": [
+    "http://www.wikidata.org/entity/Q157690",
+    "http://www.wikidata.org/entity/Q5119150"
+  ],
+  "gold_path": {
+    "question_id": "10591",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157655",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q157655-32f74fed-4b55-4584-0357-a66d4f9afa7b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157655-32f74fed-4b55-4584-0357-a66d4f9afa7b",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q605151"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157655-32f74fed-4b55-4584-0357-a66d4f9afa7b",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q157690"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157655-32f74fed-4b55-4584-0357-a66d4f9afa7b",
+        "predicate": "pq:P585",
+        "object": "1976-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157655-32f74fed-4b55-4584-0357-a66d4f9afa7b",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q5119150"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q157655",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T10:18:35Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157655",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/q157655-D6320B34-BEFE-411D-88C5-A43B3A3D5310"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157655",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q157655-4A998E77-641E-4BAB-8576-43159C128D6B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157655",
+      "predicate": "http://schema.org/version",
+      "object": "2480263787"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157655",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "mairead-corrigan-maguire"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "24469",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2076739"
+  ],
+  "gold_path": {
+    "question_id": "24469",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2076739",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q9134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2076739",
+        "predicate": "rdfs:label",
+        "object": "Vedic mythology"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2076739",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2076739",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q2076739-5FCFAAE9-EA9D-4F1F-8399-0EE9632A0B52"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2076739",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "বৈদিক পুরাণ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2076739",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Vedische Mythologie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2076739",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Vedic mythology"
+    }
+  ]
+}

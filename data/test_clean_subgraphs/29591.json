@@ -1,0 +1,43 @@
+{
+  "question_id": "29591",
+  "answers": [
+    "D001110"
+  ],
+  "gold_path": {
+    "question_id": "29591",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25322",
+        "predicate": "http://www.wikidata.org/prop/direct/P486",
+        "object": "D001110"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25322",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "72"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25322",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Artide"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25322",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Aatik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25322",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "არქტიკა"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25322",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Arktika"
+    }
+  ]
+}

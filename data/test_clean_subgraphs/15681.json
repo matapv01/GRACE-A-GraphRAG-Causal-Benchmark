@@ -1,0 +1,70 @@
+{
+  "question_id": "15681",
+  "answers": [
+    "101000000",
+    "3177740",
+    "143000000"
+  ],
+  "gold_path": {
+    "question_id": "15681",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7204",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q15"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15",
+        "predicate": "http://www.wikidata.org/prop/direct/P2573",
+        "object": "101000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7204",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q46",
+        "predicate": "http://www.wikidata.org/prop/direct/P2573",
+        "object": "3177740"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7204",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48",
+        "predicate": "http://www.wikidata.org/prop/direct/P2573",
+        "object": "143000000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7204",
+      "predicate": "http://www.wikidata.org/prop/direct/P8408",
+      "object": "MiddleEast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7204",
+      "predicate": "http://www.wikidata.org/prop/direct/P8309",
+      "object": "18-185583"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7204",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007562898205171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7204",
+      "predicate": "http://www.wikidata.org/prop/direct/P508",
+      "object": "29715"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7204",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q5460604"
+    }
+  ]
+}

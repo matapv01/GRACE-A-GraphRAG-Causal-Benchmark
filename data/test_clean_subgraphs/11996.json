@@ -1,0 +1,48 @@
+{
+  "question_id": "11996",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14918679"
+  ],
+  "gold_path": {
+    "question_id": "11996",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2610844",
+        "predicate": "http://www.wikidata.org/prop/direct/P1312",
+        "object": "http://www.wikidata.org/entity/Q14918679"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14918679",
+        "predicate": "http://www.wikidata.org/prop/direct/P3263",
+        "object": "http://www.wikidata.org/entity/Q157002"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2610844",
+      "predicate": "http://schema.org/description",
+      "object": "مثيل رباعي الأبعاد لعشروني الوجوه"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2610844",
+      "predicate": "http://schema.org/description",
+      "object": "four-dimensional analog of the icosahedron"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2610844",
+      "predicate": "http://schema.org/description",
+      "object": "4-politop, analog icosaedrului din 3D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2610844",
+      "predicate": "http://schema.org/description",
+      "object": "konvexes reguläres vierdimensionales Polytop"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2610844",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2777906604"
+    }
+  ]
+}

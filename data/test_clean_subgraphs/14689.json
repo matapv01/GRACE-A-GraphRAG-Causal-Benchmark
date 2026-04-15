@@ -1,0 +1,66 @@
+{
+  "question_id": "14689",
+  "answers": [
+    "http://www.wikidata.org/entity/Q275118",
+    "http://www.wikidata.org/entity/Q270230",
+    "http://www.wikidata.org/entity/Q200126",
+    "http://www.wikidata.org/entity/Q194420"
+  ],
+  "gold_path": {
+    "question_id": "14689",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q106418",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q197297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q197297",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q194420"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q197297",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q200126"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q197297",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q270230"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q197297",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q275118"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q106418",
+      "predicate": "http://www.wikidata.org/prop/direct/P5340",
+      "object": "28395"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106418",
+      "predicate": "http://www.wikidata.org/prop/direct/P5319",
+      "object": "174246"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106418",
+      "predicate": "http://www.wikidata.org/prop/direct/P5327",
+      "object": "catherine-deneuve/filmografie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106418",
+      "predicate": "http://www.wikidata.org/prop/direct/P5312",
+      "object": "579"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106418",
+      "predicate": "http://www.wikidata.org/prop/direct/P3845",
+      "object": "143753"
+    }
+  ]
+}

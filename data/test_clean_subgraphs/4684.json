@@ -1,0 +1,53 @@
+{
+  "question_id": "4684",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103360"
+  ],
+  "gold_path": {
+    "question_id": "4684",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q259913",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q259913-91867C8E-9348-4DE9-85DC-9140DFE57245"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q259913-91867C8E-9348-4DE9-85DC-9140DFE57245",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q259913-91867C8E-9348-4DE9-85DC-9140DFE57245",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q429319"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q259913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "אדם שפיגל"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q259913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Richard Coufey"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q259913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Richard Couffe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q259913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Richard Koufey"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q259913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Adam Spiegel"
+    }
+  ]
+}

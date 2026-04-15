@@ -1,0 +1,43 @@
+{
+  "question_id": "3569",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1474410"
+  ],
+  "gold_path": {
+    "question_id": "3569",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318312",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q318312-f13872af-423a-0879-3f79-2604127b5761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318312-f13872af-423a-0879-3f79-2604127b5761",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1474410"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318312",
+      "predicate": "http://www.wikidata.org/prop/P5034",
+      "object": "http://www.wikidata.org/entity/statement/q318312-9dd391c1-4097-0551-e7cf-a0406e97add7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318312",
+      "predicate": "http://www.wikidata.org/prop/P509",
+      "object": "http://www.wikidata.org/entity/statement/q318312-819E5883-F85B-44B4-8CBD-6F12E37F2126"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318312",
+      "predicate": "http://www.wikidata.org/prop/P5033",
+      "object": "http://www.wikidata.org/entity/statement/Q318312-425103CB-798C-47BE-B023-76C0FF8DDE2E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318312",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Edward James Begley"
+    }
+  ]
+}

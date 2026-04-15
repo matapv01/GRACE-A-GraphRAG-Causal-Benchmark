@@ -1,0 +1,48 @@
+{
+  "question_id": "12492",
+  "answers": [
+    "http://www.wikidata.org/entity/Q807"
+  ],
+  "gold_path": {
+    "question_id": "12492",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q214130",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q807",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q69757"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q214130",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "43"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214130",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214130",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "66"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214130",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "federation-aeronautique-internationale"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214130",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "airsports_fai"
+    }
+  ]
+}

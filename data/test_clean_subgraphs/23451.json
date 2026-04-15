@@ -1,0 +1,76 @@
+{
+  "question_id": "23451",
+  "answers": [
+    "http://www.wikidata.org/entity/Q56366702",
+    "http://www.wikidata.org/entity/Q748015",
+    "http://www.wikidata.org/entity/Q59627780",
+    "http://www.wikidata.org/entity/Q7834412"
+  ],
+  "gold_path": {
+    "question_id": "23451",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7834412",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3249551"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7834412",
+        "predicate": "rdfs:label",
+        "object": "transition from walking to running"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q748015",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3249551"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q748015",
+        "predicate": "rdfs:label",
+        "object": "Chilean transition to democracy"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56366702",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3249551"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56366702",
+        "predicate": "rdfs:label",
+        "object": "Transition of church communities to OCU"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q59627780",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3249551"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q59627780",
+        "predicate": "rdfs:label",
+        "object": "transition"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7834412",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7834412",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/195290138"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7834412",
+      "predicate": "http://schema.org/description",
+      "object": "aspect of human locomotion"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7834412",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2022-07-04T22:55:41Z"
+    }
+  ]
+}

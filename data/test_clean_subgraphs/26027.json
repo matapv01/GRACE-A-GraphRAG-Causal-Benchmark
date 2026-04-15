@@ -1,0 +1,49 @@
+{
+  "question_id": "26027",
+  "answers": [
+    "http://www.wikidata.org/entity/Q20714248",
+    "http://www.wikidata.org/entity/Q295089"
+  ],
+  "gold_path": {
+    "question_id": "26027",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13361286",
+        "predicate": "http://www.wikidata.org/prop/direct/P2560",
+        "object": "http://www.wikidata.org/entity/Q295089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13361286",
+        "predicate": "http://www.wikidata.org/prop/direct/P2560",
+        "object": "http://www.wikidata.org/entity/Q20714248"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13361286",
+      "predicate": "http://schema.org/description",
+      "object": "herní konzole"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13361286",
+      "predicate": "http://schema.org/description",
+      "object": "console de jogos eletrônicos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13361286",
+      "predicate": "http://schema.org/description",
+      "object": "herná konzola"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13361286",
+      "predicate": "http://schema.org/description",
+      "object": "consolă de jocuri video"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13361286",
+      "predicate": "http://schema.org/description",
+      "object": "a Microsoft játékkonzolja"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "12408",
+  "answers": [
+    "http://www.wikidata.org/entity/Q20248467"
+  ],
+  "gold_path": {
+    "question_id": "12408",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q272631",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q20248467"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20248467",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q2919046"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q272631",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272631",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/00575477"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272631",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Idola Cilik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272631",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "بوليميراز الحمض النووي الريبوزي"
+    }
+  ]
+}

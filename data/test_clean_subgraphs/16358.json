@@ -1,0 +1,128 @@
+{
+  "question_id": "16358",
+  "answers": [
+    "http://www.wikidata.org/entity/Q52943434",
+    "http://www.wikidata.org/entity/Q1775415",
+    "http://www.wikidata.org/entity/Q1305037",
+    "http://www.wikidata.org/entity/Q499327",
+    "http://www.wikidata.org/entity/Q54020116",
+    "http://www.wikidata.org/entity/Q1775461"
+  ],
+  "gold_path": {
+    "question_id": "16358",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q960994",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q652"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q652",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q652",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q960994",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q960994",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q7737"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1305037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q960994",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q9299"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9299",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775415"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9299",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9299",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q52943434"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9299",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q54020116"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q960994",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q960994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Aleksandar Sapiç"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q960994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sapiç"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q960994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "sapik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q960994",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Aca Šapić"
+    }
+  ]
+}

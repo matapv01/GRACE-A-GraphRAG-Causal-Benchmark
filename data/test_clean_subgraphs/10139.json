@@ -1,0 +1,60 @@
+{
+  "question_id": "10139",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3821682",
+    "http://www.wikidata.org/entity/Q1358",
+    "http://www.wikidata.org/entity/Q30587689"
+  ],
+  "gold_path": {
+    "question_id": "10139",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1357",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q1358"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1357",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q2740926"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1357",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q3821682"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1357",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q30587689"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1357",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "87"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1357",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "laba-laba"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1357",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "lancah"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1357",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ananse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1357",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ragno"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "22679",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28973233"
+  ],
+  "gold_path": {
+    "question_id": "22679",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20165",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q28973233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28973233",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1480166"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20165",
+      "predicate": "http://schema.org/version",
+      "object": "2480698491"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20165",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "نيسان"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20165",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nissan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20165",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nissan Motor Co., Ltd."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20165",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nissan Motor Company"
+    }
+  ]
+}

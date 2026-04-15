@@ -1,0 +1,48 @@
+{
+  "question_id": "13633",
+  "answers": [
+    "http://www.wikidata.org/entity/Q90"
+  ],
+  "gold_path": {
+    "question_id": "13633",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q448",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q90",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q223140"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q448",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n79081610"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q448",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "026831406"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q448",
+      "predicate": "http://www.wikidata.org/prop/direct/P22",
+      "object": "http://www.wikidata.org/entity/Q1210539"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q448",
+      "predicate": "http://www.wikidata.org/prop/P2340",
+      "object": "http://www.wikidata.org/entity/statement/Q448-B8170F89-1AF8-453C-A95D-AE2643C93BD1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q448",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q15078893"
+    }
+  ]
+}

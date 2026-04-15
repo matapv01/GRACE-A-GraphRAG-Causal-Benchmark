@@ -1,0 +1,43 @@
+{
+  "question_id": "11892",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1135204"
+  ],
+  "gold_path": {
+    "question_id": "11892",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1375",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q1135204"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135204",
+        "predicate": "http://www.wikidata.org/prop/direct/P740",
+        "object": "http://www.wikidata.org/entity/Q5083"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1375",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Dungeons & Dragons"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1375",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سیاهچالها و اژدهاها"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1375",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Doinsiúin agus Dragain"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1375",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Dungeons and Dragons"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "4444",
+  "answers": [
+    "1907-08-03T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4444",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3012496",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q3012496-9DE1A7DF-6F62-420C-95E9-85565232BF01"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3012496-9DE1A7DF-6F62-420C-95E9-85565232BF01",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q622443"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3012496-9DE1A7DF-6F62-420C-95E9-85565232BF01",
+        "predicate": "pq:P580",
+        "object": "1907-08-03T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3012496",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2024-05-15T05:24:03Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3012496",
+      "predicate": "http://schema.org/version",
+      "object": "2154709748"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3012496",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Dally Messenger"
+    }
+  ]
+}

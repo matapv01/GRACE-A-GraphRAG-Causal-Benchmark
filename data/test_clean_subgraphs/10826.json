@@ -1,0 +1,58 @@
+{
+  "question_id": "10826",
+  "answers": [
+    "http://www.wikidata.org/entity/Q918466"
+  ],
+  "gold_path": {
+    "question_id": "10826",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193630",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q193630-98D5FC9E-02E0-43CA-B564-88024EA91437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193630-98D5FC9E-02E0-43CA-B564-88024EA91437",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582621"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193630-98D5FC9E-02E0-43CA-B564-88024EA91437",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q918466"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193630-98D5FC9E-02E0-43CA-B564-88024EA91437",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q741182"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193630",
+      "predicate": "http://www.wikidata.org/prop/direct/P4471",
+      "object": "375"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193630",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q27169"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193630",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q19462434"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193630",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q23304309"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193630",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q28872303"
+    }
+  ]
+}

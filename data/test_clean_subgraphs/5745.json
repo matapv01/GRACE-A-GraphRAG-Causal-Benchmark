@@ -1,0 +1,53 @@
+{
+  "question_id": "5745",
+  "answers": [
+    "1"
+  ],
+  "gold_path": {
+    "question_id": "5745",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q941724",
+        "predicate": "http://www.wikidata.org/prop/P870",
+        "object": "http://www.wikidata.org/entity/statement/Q941724-bbcec46f-44f5-e872-2cd7-889bb8d745c5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q941724-bbcec46f-44f5-e872-2cd7-889bb8d745c5",
+        "predicate": "ps:P870",
+        "object": "http://www.wikidata.org/entity/Q80019"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q941724-bbcec46f-44f5-e872-2cd7-889bb8d745c5",
+        "predicate": "pq:P1114",
+        "object": "1"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q941724",
+      "predicate": "http://schema.org/description",
+      "object": "сюіта Каміля Сэн-Сана"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q941724",
+      "predicate": "http://schema.org/description",
+      "object": "suite musical en 14 moviments"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q941724",
+      "predicate": "http://schema.org/description",
+      "object": "Suite von Camille Saint-Saëns"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q941724",
+      "predicate": "http://schema.org/description",
+      "object": "μουσική σουίτα του Καμίγ Σεν-Σανς"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q941724",
+      "predicate": "http://schema.org/description",
+      "object": "musical suite by Camille Saint-Saëns."
+    }
+  ]
+}

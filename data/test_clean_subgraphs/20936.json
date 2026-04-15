@@ -1,0 +1,43 @@
+{
+  "question_id": "20936",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5112"
+  ],
+  "gold_path": {
+    "question_id": "20936",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q35715",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q5112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5112",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q515"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q35715",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Südaustralien"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q35715",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Austràlia del Sud"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q35715",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q35715",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "South Australia"
+    }
+  ]
+}

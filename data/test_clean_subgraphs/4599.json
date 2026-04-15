@@ -1,0 +1,48 @@
+{
+  "question_id": "4599",
+  "answers": [
+    "http://www.wikidata.org/entity/Q329464"
+  ],
+  "gold_path": {
+    "question_id": "4599",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7604",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q7604-83D6E201-0B5B-4AF4-9D0C-4C6F4AF983F3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7604-83D6E201-0B5B-4AF4-9D0C-4C6F4AF983F3",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q329464"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7604",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "212"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7604",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "383"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7604",
+      "predicate": "http://schema.org/description",
+      "object": "matematikaria"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7604",
+      "predicate": "http://schema.org/description",
+      "object": "ލިޔުންތެރިއެއް"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7604",
+      "predicate": "http://schema.org/description",
+      "object": "ಗಣಿತಜ್ಞ"
+    }
+  ]
+}

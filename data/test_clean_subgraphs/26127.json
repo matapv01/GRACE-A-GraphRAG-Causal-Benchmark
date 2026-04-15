@@ -1,0 +1,43 @@
+{
+  "question_id": "26127",
+  "answers": [
+    "128.9"
+  ],
+  "gold_path": {
+    "question_id": "26127",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q132298",
+        "predicate": "http://www.wikidata.org/prop/direct/P2116",
+        "object": "128.9"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q132298",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5063",
+      "object": "http://globalwordnet.org/ili/i115954"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132298",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/15021410-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132298",
+      "predicate": "http://schema.org/description",
+      "object": "composé chimique"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132298",
+      "predicate": "http://schema.org/description",
+      "object": "תרכובת"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132298",
+      "predicate": "http://schema.org/description",
+      "object": "chemische Verbindung"
+    }
+  ]
+}

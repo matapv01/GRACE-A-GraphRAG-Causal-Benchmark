@@ -1,0 +1,58 @@
+{
+  "question_id": "10500",
+  "answers": [
+    "http://www.wikidata.org/entity/Q220208"
+  ],
+  "gold_path": {
+    "question_id": "10500",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128967",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q128967-F6A20336-7AA8-4DCA-86F1-355EF926685B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128967-F6A20336-7AA8-4DCA-86F1-355EF926685B",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582608"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128967-F6A20336-7AA8-4DCA-86F1-355EF926685B",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q220208"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128967-F6A20336-7AA8-4DCA-86F1-355EF926685B",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q741182"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128967",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "111"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128967",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Edward_Heath"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128967",
+      "predicate": "http://www.wikidata.org/prop/direct/P4553",
+      "object": "13448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128967",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q128967-7EA371B5-1A5D-4972-B420-D24E7081B30C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128967",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q128967-A7D58ED8-9C5E-497C-B149-AA63C6D3A36E"
+    }
+  ]
+}

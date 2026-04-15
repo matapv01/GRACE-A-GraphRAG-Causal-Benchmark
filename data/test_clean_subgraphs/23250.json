@@ -1,0 +1,43 @@
+{
+  "question_id": "23250",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1728107"
+  ],
+  "gold_path": {
+    "question_id": "23250",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1728107",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q18189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1728107",
+        "predicate": "rdfs:label",
+        "object": "Kantonsschule"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1728107",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kanti"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1728107",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ecole de maturite"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1728107",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "École de maturité"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1728107",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "École de maturité (Suisse)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "question_id": "7137",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49",
+    "http://www.wikidata.org/entity/Q46"
+  ],
+  "gold_path": {
+    "question_id": "7137",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q214232",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q214232-90968ca6-4e0a-1e1d-63ca-f5fb4df7d8a4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q214232-90968ca6-4e0a-1e1d-63ca-f5fb4df7d8a4",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q214232-90968ca6-4e0a-1e1d-63ca-f5fb4df7d8a4",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q49"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q214232",
+      "predicate": "http://www.wikidata.org/prop/direct/P9968",
+      "object": "final-fantasy-vii"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214232",
+      "predicate": "http://www.wikidata.org/prop/direct/P9877",
+      "object": "7470"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214232",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-13T14:00:12Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214232",
+      "predicate": "http://www.wikidata.org/prop/direct/P9697",
+      "object": "final_fantasy_vii"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214232",
+      "predicate": "http://www.wikidata.org/prop/direct/P942",
+      "object": "http://www.wikidata.org/entity/Q9052444"
+    }
+  ]
+}

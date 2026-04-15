@@ -1,0 +1,48 @@
+{
+  "question_id": "20577",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1065"
+  ],
+  "gold_path": {
+    "question_id": "20577",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q81066",
+        "predicate": "http://www.wikidata.org/prop/direct/P2389",
+        "object": "http://www.wikidata.org/entity/Q1065"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1065",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q484652"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q81066",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20Guterres%2C%2023.03.23.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81066",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81066",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q13382529"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81066",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q81066",
+      "predicate": "http://www.wikidata.org/prop/direct/P94",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/UN%20emblem%20blue.svg"
+    }
+  ]
+}

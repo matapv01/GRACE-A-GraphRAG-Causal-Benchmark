@@ -1,0 +1,53 @@
+{
+  "question_id": "8294",
+  "answers": [
+    "1932-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8294",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q127417",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q127417-7430af00-4624-3a68-a87b-10be559b154d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q127417-7430af00-4624-3a68-a87b-10be559b154d",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q93728"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q127417-7430af00-4624-3a68-a87b-10be559b154d",
+        "predicate": "pq:P585",
+        "object": "1932-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q127417",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "MacArthur-4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127417",
+      "predicate": "http://www.wikidata.org/prop/direct/P2924",
+      "object": "2165373"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127417",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "DDSV200444"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127417",
+      "predicate": "http://www.wikidata.org/prop/direct/P434",
+      "object": "1ad986d9-b955-455a-81b8-fcf7820d5962"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127417",
+      "predicate": "http://www.wikidata.org/prop/direct/P4159",
+      "object": "Douglas_Macarthur_(1)"
+    }
+  ]
+}

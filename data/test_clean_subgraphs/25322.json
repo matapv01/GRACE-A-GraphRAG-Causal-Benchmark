@@ -1,0 +1,53 @@
+{
+  "question_id": "25322",
+  "answers": [
+    "http://www.wikidata.org/entity/Q201492"
+  ],
+  "gold_path": {
+    "question_id": "25322",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q201492",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q62078547"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q201492",
+        "predicate": "http://www.wikidata.org/prop/direct/P1792",
+        "object": "http://www.wikidata.org/entity/Q9074335"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q201492",
+        "predicate": "rdfs:label",
+        "object": "McGill University"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q201492",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1004",
+      "object": "http://musicbrainz.org/place/144cb4a9-0df2-41e5-9691-3cc8db509817"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201492",
+      "predicate": "http://www.wikidata.org/prop/direct/P1004",
+      "object": "144cb4a9-0df2-41e5-9691-3cc8db509817"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201492",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q16"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201492",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "66"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q201492",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/Q201492-098BA649-1123-47F2-9335-F5A130108651"
+    }
+  ]
+}

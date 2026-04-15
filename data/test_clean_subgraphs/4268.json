@@ -1,0 +1,53 @@
+{
+  "question_id": "4268",
+  "answers": [
+    "1992-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4268",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q62414",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q62414-8f9801f8-4229-800a-13c4-e7bda95a5ef2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q62414-8f9801f8-4229-800a-13c4-e7bda95a5ef2",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q20638958"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q62414-8f9801f8-4229-800a-13c4-e7bda95a5ef2",
+        "predicate": "pq:P582",
+        "object": "1992-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.wikidata.org/prop/direct/P6414",
+      "object": "augstein-rudolf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01clns"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL4004391A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "rudolf-augstein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62414",
+      "predicate": "http://www.wikidata.org/prop/direct/P13183",
+      "object": "118651080"
+    }
+  ]
+}

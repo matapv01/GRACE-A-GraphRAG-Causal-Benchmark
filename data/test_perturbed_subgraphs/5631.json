@@ -1,0 +1,593 @@
+{
+  "clean": {
+    "question_id": "5631",
+    "answers": [
+      "1999-01-01T00:00:00Z",
+      "1996-01-01T00:00:00Z",
+      "1995-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "pq:P585",
+        "object": "1996-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P1477",
+        "object": "James Scott Bumgarner"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "pq:P585",
+        "object": "1999-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14178",
+        "object": "pna2008444778"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14334",
+        "object": "spelare/james-garner/10767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P8895"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P12098",
+        "object": "19054"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "pq:P585",
+        "object": "1995-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "5631",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P1477",
+        "object": "James Scott Bumgarner"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14178",
+        "object": "pna2008444778"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14334",
+        "object": "spelare/james-garner/10767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P8895"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P12098",
+        "object": "19054"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1996-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1995-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1999-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "5631",
+    "answers": [
+      "1999-01-01T00:00:00Z",
+      "1996-01-01T00:00:00Z",
+      "1995-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "pq:P585",
+        "object": "1996-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P1477",
+        "object": "James Scott Bumgarner"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "pq:P585",
+        "object": "1999-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14178",
+        "object": "pna2008444778"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14334",
+        "object": "spelare/james-garner/10767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P8895"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P12098",
+        "object": "19054"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "pq:P585",
+        "object": "1995-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "1997-07-05T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "1998-02-23T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "1994-05-09T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "1999-04-19T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "1997-11-30T00:00:00Z"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "5631",
+    "answers": [
+      "1999-01-01T00:00:00Z",
+      "1996-01-01T00:00:00Z",
+      "1995-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "pq:P585",
+        "object": "1996-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P1477",
+        "object": "James Scott Bumgarner"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "pq:P585",
+        "object": "1999-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14178",
+        "object": "pna2008444778"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14334",
+        "object": "spelare/james-garner/10767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P8895"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P12098",
+        "object": "19054"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "pq:P585",
+        "object": "1995-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q827525"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q842490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q899770"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1043527"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1072120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1331152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1377612"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1480793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1764511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1928989"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "5631",
+    "answers": [
+      "2000-05-10T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P1477",
+        "object": "James Scott Bumgarner"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14178",
+        "object": "pna2008444778"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P14334",
+        "object": "spelare/james-garner/10767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P8895"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/direct/P12098",
+        "object": "19054"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108510",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q2665878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-CCF7E926-DDD1-4C67-B1BA-5021ED06E0A1",
+        "predicate": "pq:P585",
+        "object": "2000-05-10T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-EE4C633D-F311-4190-8CBB-F8D3140B455A",
+        "predicate": "pq:P585",
+        "object": "2000-05-10T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q108510-31AC2946-5D6A-416C-AA89-7F0E27560772",
+        "predicate": "pq:P585",
+        "object": "2000-05-10T00:00:00Z"
+      }
+    ]
+  }
+}

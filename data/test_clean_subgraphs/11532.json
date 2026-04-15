@@ -1,0 +1,101 @@
+{
+  "question_id": "11532",
+  "answers": [
+    "1986-01-01T00:00:00Z",
+    "1962-01-01T00:00:00Z",
+    "1974-06-22T00:00:00Z",
+    "1979-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11532",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q272519",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q272519-01c957b7-4643-70db-91af-29570aaa6251"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-01c957b7-4643-70db-91af-29570aaa6251",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q131315250"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-01c957b7-4643-70db-91af-29570aaa6251",
+        "predicate": "pq:P585",
+        "object": "1962-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q272519",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q272519-08FAAE95-1A90-4A91-AF64-9C6AE923BCDD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-08FAAE95-1A90-4A91-AF64-9C6AE923BCDD",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q11415564"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-08FAAE95-1A90-4A91-AF64-9C6AE923BCDD",
+        "predicate": "pq:P585",
+        "object": "1974-06-22T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q272519",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q272519-408B1EF0-4F02-4199-BB04-D5E6B5C5AF18"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-408B1EF0-4F02-4199-BB04-D5E6B5C5AF18",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q47170"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-408B1EF0-4F02-4199-BB04-D5E6B5C5AF18",
+        "predicate": "pq:P585",
+        "object": "1979-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q272519",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q272519-472c6c00-48aa-3b1e-f80e-49faac3eab1b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-472c6c00-48aa-3b1e-f80e-49faac3eab1b",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q126416250"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q272519-472c6c00-48aa-3b1e-f80e-49faac3eab1b",
+        "predicate": "pq:P585",
+        "object": "1986-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q272519",
+      "predicate": "http://schema.org/description",
+      "object": "باحت"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272519",
+      "predicate": "http://schema.org/description",
+      "object": "United Kingdom karimba ŋun nyɛ doo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272519",
+      "predicate": "http://schema.org/description",
+      "object": "economista britànic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272519",
+      "predicate": "http://schema.org/description",
+      "object": "اقتصاددان بریتانیایی"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q272519",
+      "predicate": "http://schema.org/description",
+      "object": "brittisk ekonom"
+    }
+  ]
+}

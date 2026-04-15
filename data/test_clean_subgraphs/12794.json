@@ -1,0 +1,38 @@
+{
+  "question_id": "12794",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1371212"
+  ],
+  "gold_path": {
+    "question_id": "12794",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q187349",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q1371212"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1371212",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q1068487"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q187349",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "John Watson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q187349",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Watson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q187349",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ワトソン"
+    }
+  ]
+}

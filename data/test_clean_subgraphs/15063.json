@@ -1,0 +1,120 @@
+{
+  "question_id": "15063",
+  "answers": [
+    "http://www.wikidata.org/entity/Q174257",
+    "http://www.wikidata.org/entity/Q41604",
+    "http://www.wikidata.org/entity/Q201352",
+    "http://www.wikidata.org/entity/Q131329",
+    "http://www.wikidata.org/entity/Q154724",
+    "http://www.wikidata.org/entity/Q621",
+    "http://www.wikidata.org/entity/Q648",
+    "http://www.wikidata.org/entity/Q193903"
+  ],
+  "gold_path": {
+    "question_id": "15063",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1894786",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q12661"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12661",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q648"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1894786",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q12675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12675",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q174257"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1894786",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q12689"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12689",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q131329"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1894786",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q12761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12761",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q154724"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1894786",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q12770"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12770",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q41604"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1894786",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q12784"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12784",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q193903"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12784",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q201352"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1894786",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q979470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q979470",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q621"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1894786",
+      "predicate": "http://www.wikidata.org/prop/direct/P16",
+      "object": "http://www.wikidata.org/entity/Q1426271"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1894786",
+      "predicate": "http://www.wikidata.org/prop/P16",
+      "object": "http://www.wikidata.org/entity/statement/Q1894786-ED267F7F-53FB-401D-B819-196218008AC1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1894786",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Highway%20D1016%20south%20of%20Breuil-le-Vert.JPG"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1894786",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1894786",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "6"
+    }
+  ]
+}

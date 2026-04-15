@@ -1,0 +1,48 @@
+{
+  "question_id": "5822",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14213"
+  ],
+  "gold_path": {
+    "question_id": "5822",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q207191",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q207191-3E8A60F8-DB0F-408B-AE69-2AD2E64B9F79"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q207191-3E8A60F8-DB0F-408B-AE69-2AD2E64B9F79",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q14213"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q207191",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "190"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207191",
+      "predicate": "http://schema.org/version",
+      "object": "2481179289"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207191",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "117"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207191",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P648",
+      "object": "http://openlibrary.org/works/OL32486A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207191",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P648",
+      "object": "http://openlibrary.org/works/OL4487611A"
+    }
+  ]
+}

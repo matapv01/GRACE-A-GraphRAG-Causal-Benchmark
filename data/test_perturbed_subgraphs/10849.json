@@ -1,0 +1,462 @@
+{
+  "clean": {
+    "question_id": "10849",
+    "answers": [
+      "http://www.wikidata.org/entity/Q186579"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1263",
+        "object": "215/000048071"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0067643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1273",
+        "object": "a10165642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q186579"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P12385",
+        "object": "lionel-trilling"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "10849",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1263",
+        "object": "215/000048071"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0067643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1273",
+        "object": "a10165642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P12385",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q186579"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "10849",
+    "answers": [
+      "http://www.wikidata.org/entity/Q186579"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1263",
+        "object": "215/000048071"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0067643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1273",
+        "object": "a10165642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q186579"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P12385",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1723523"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1759908"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1784202"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1793007"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1853321"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "10849",
+    "answers": [
+      "http://www.wikidata.org/entity/Q186579"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1263",
+        "object": "215/000048071"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0067643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1273",
+        "object": "a10165642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q186579"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P12385",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "10849",
+    "answers": [
+      "http://www.wikidata.org/entity/Q24449"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1263",
+        "object": "215/000048071"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1296",
+        "object": "0067643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P1273",
+        "object": "a10165642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q752297"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1827287",
+        "predicate": "http://www.wikidata.org/prop/direct/P12385",
+        "object": "lionel-trilling"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1827287-47C93862-9E20-4223-A39E-36AB23219FC2",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q24449"
+      }
+    ]
+  }
+}

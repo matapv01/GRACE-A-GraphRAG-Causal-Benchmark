@@ -1,0 +1,48 @@
+{
+  "question_id": "22941",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21013651"
+  ],
+  "gold_path": {
+    "question_id": "22941",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105092",
+        "predicate": "http://www.wikidata.org/prop/direct/P1906",
+        "object": "http://www.wikidata.org/entity/Q21013651"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21013651",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q355567"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105092",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1667",
+      "object": "http://vocab.getty.edu/tgn/7016740"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105092",
+      "predicate": "http://www.wikidata.org/prop/direct/P38",
+      "object": "http://www.wikidata.org/entity/Q4763680"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105092",
+      "predicate": "http://www.wikidata.org/prop/P38",
+      "object": "http://www.wikidata.org/entity/statement/Q105092-92f851c2-48a5-5baa-2d3d-6c15d94485ce"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105092",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/132584935"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105092",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4115104-5"
+    }
+  ]
+}

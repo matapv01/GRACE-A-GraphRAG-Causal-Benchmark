@@ -1,0 +1,86 @@
+{
+  "question_id": "2552",
+  "answers": [
+    "http://www.wikidata.org/entity/Q951476",
+    "http://www.wikidata.org/entity/Q126726318",
+    "http://www.wikidata.org/entity/Q100289091",
+    "http://www.wikidata.org/entity/Q138839799"
+  ],
+  "gold_path": {
+    "question_id": "2552",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q100289091",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11032"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100289091",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "52"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126726318",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11032"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126726318",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q951476",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11032"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q951476",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138839799",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11032"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q138839799",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126726318",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "24"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q100289091",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2024-11-29T08:48:21Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q100289091",
+      "predicate": "http://www.wikidata.org/prop/P571",
+      "object": "http://www.wikidata.org/entity/statement/Q100289091-62dbc57c-4d25-4294-0be3-e1790d28a0b1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q100289091",
+      "predicate": "http://www.wikidata.org/prop/P576",
+      "object": "http://www.wikidata.org/entity/statement/Q100289091-d1393145-4c98-008f-82e2-7acc68d411c5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q100289091",
+      "predicate": "http://www.wikidata.org/prop/P495",
+      "object": "http://www.wikidata.org/entity/statement/Q100289091-BB059EEE-5062-43B5-9479-09DD9D6F458A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q100289091",
+      "predicate": "http://www.wikidata.org/prop/direct/P495",
+      "object": "http://www.wikidata.org/entity/Q30"
+    }
+  ]
+}

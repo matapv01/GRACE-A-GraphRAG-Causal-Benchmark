@@ -1,0 +1,58 @@
+{
+  "question_id": "10307",
+  "answers": [
+    "2012-09-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10307",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q49081",
+        "predicate": "http://www.wikidata.org/prop/P800",
+        "object": "http://www.wikidata.org/entity/statement/Q49081-ae20adf3-4cf7-80ba-399d-b329517dd2a1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q49081-ae20adf3-4cf7-80ba-399d-b329517dd2a1",
+        "predicate": "ps:P800",
+        "object": "http://www.wikidata.org/entity/Q6914395"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q49081-ae20adf3-4cf7-80ba-399d-b329517dd2a1",
+        "predicate": "pq:P577",
+        "object": "2012-09-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q49081-ae20adf3-4cf7-80ba-399d-b329517dd2a1",
+        "predicate": "pq:P123",
+        "object": "http://www.wikidata.org/entity/Q1567078"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q49081",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T00:58:15Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49081",
+      "predicate": "http://www.wikidata.org/prop/direct/P3846",
+      "object": "87097968437393"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49081",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q49081-636FC0E1-2832-4E11-BEEE-2E5B1B5F5290"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49081",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01hb6v"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49081",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/q49081-3C27851E-19D9-4717-9373-3B2EB89465E5"
+    }
+  ]
+}

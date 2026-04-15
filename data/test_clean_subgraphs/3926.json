@@ -1,0 +1,53 @@
+{
+  "question_id": "3926",
+  "answers": [
+    "2009-06-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "3926",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q975",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/q975-12EB0738-AA10-4486-AB75-CCDF23FC1FE3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q975-12EB0738-AA10-4486-AB75-CCDF23FC1FE3",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q970720"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q975-12EB0738-AA10-4486-AB75-CCDF23FC1FE3",
+        "predicate": "pq:P580",
+        "object": "2009-06-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q975",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/Q975-7C4473C6-EC56-43DD-88B1-C40C6335F0B0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q975",
+      "predicate": "http://www.wikidata.org/prop/P194",
+      "object": "http://www.wikidata.org/entity/statement/Q975-a61a39c1-4ef7-7dd9-c377-0e80a7993eb3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q975",
+      "predicate": "http://www.wikidata.org/prop/direct/P2390",
+      "object": "San_Antonio,_Texas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q975",
+      "predicate": "http://www.wikidata.org/prop/P190",
+      "object": "http://www.wikidata.org/entity/statement/Q975-010BDA21-BE8C-48D6-92FE-208602D379B2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q975",
+      "predicate": "http://www.wikidata.org/prop/P190",
+      "object": "http://www.wikidata.org/entity/statement/Q975-1d5a4960-4a07-1c7a-7d31-eea86908b104"
+    }
+  ]
+}

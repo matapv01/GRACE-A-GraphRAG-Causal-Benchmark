@@ -1,0 +1,48 @@
+{
+  "question_id": "6456",
+  "answers": [
+    "http://www.wikidata.org/entity/Q478850"
+  ],
+  "gold_path": {
+    "question_id": "6456",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q55195",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q55195-6f69befb-445e-80ea-9a6c-326dff7fa3c3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q55195-6f69befb-445e-80ea-9a6c-326dff7fa3c3",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q478850"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q55195",
+      "predicate": "http://www.wikidata.org/prop/P5019",
+      "object": "http://www.wikidata.org/entity/statement/Q55195-66CB3633-3A56-4962-A06E-3A9E429E4A02"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55195",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "pudowkin-wsewolod-illarionowitsch"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55195",
+      "predicate": "http://www.wikidata.org/prop/P509",
+      "object": "http://www.wikidata.org/entity/statement/Q55195-10d98724-b161-4563-a7f9-18991e3a7654"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55195",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q55195-562947D0-008F-49C8-9BD7-EC414F43BFB5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55195",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "25108882"
+    }
+  ]
+}

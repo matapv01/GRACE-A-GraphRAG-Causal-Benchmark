@@ -1,0 +1,48 @@
+{
+  "question_id": "7270",
+  "answers": [
+    "1998-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7270",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3565170",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q3565170-18CB7ABD-E632-4A4B-8EFB-332E9E73CABE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3565170-18CB7ABD-E632-4A4B-8EFB-332E9E73CABE",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q1782908"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3565170-18CB7ABD-E632-4A4B-8EFB-332E9E73CABE",
+        "predicate": "pq:P580",
+        "object": "1998-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3565170",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Waisale Tikoisolomoni Serevi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3565170",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ワイセレ・セレヴィ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3565170",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Сереви, Вайсале"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3565170",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-06-19T07:43:33Z"
+    }
+  ]
+}

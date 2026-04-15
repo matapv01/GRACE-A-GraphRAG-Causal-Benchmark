@@ -1,0 +1,28 @@
+{
+  "question_id": "14384",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "14384",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18754",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q44430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q44430",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18754",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "WWE Raw"
+    }
+  ]
+}

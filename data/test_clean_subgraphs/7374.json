@@ -1,0 +1,53 @@
+{
+  "question_id": "7374",
+  "answers": [
+    "http://www.wikidata.org/entity/Q953"
+  ],
+  "gold_path": {
+    "question_id": "7374",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1020",
+        "predicate": "http://www.wikidata.org/prop/P530",
+        "object": "http://www.wikidata.org/entity/statement/Q1020-47F68390-0C6A-4DD1-A7BF-1A489744CBFF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1020-47F68390-0C6A-4DD1-A7BF-1A489744CBFF",
+        "predicate": "ps:P530",
+        "object": "http://www.wikidata.org/entity/Q953"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1020-47F68390-0C6A-4DD1-A7BF-1A489744CBFF",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q6741521"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1020",
+      "predicate": "http://www.wikidata.org/prop/direct/P36",
+      "object": "http://www.wikidata.org/entity/Q3876"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1020",
+      "predicate": "http://www.wikidata.org/prop/direct/P213",
+      "object": "0000000121867269"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1020",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "138148995952859751705"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1020",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q16202782"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1020",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20-%20Location%20Map%20%282013%29%20-%20MWI%20-%20UNOCHA.svg"
+    }
+  ]
+}

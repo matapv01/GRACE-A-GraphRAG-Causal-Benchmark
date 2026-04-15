@@ -1,0 +1,53 @@
+{
+  "question_id": "25647",
+  "answers": [
+    "http://www.wikidata.org/entity/Q956699"
+  ],
+  "gold_path": {
+    "question_id": "25647",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q956699",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43516519"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q956699",
+        "predicate": "http://www.wikidata.org/prop/direct/P837",
+        "object": "http://www.wikidata.org/entity/Q2761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q956699",
+        "predicate": "rdfs:label",
+        "object": "Boxing Day"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q956699",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-01-23T17:00:30Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q956699",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q956699-e551a62e-4ddc-b012-9f8e-220773d6b812"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q956699",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh2011004257"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q956699",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q956699-1acb1b17-4ad4-f02a-14c6-c63f8d28c03e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q956699",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q956699-2248E482-5268-41CC-BF9B-A1BCC3DE06AC"
+    }
+  ]
+}

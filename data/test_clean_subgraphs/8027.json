@@ -1,0 +1,48 @@
+{
+  "question_id": "8027",
+  "answers": [
+    "http://www.wikidata.org/entity/Q164234"
+  ],
+  "gold_path": {
+    "question_id": "8027",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34713",
+        "predicate": "http://www.wikidata.org/prop/P190",
+        "object": "http://www.wikidata.org/entity/statement/Q34713-56adcccb-4456-484e-9e25-2d7c7d28335e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q34713-56adcccb-4456-484e-9e25-2d7c7d28335e",
+        "predicate": "ps:P190",
+        "object": "http://www.wikidata.org/entity/Q164234"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34713",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-14T01:40:12Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34713",
+      "predicate": "http://schema.org/version",
+      "object": "2481217378"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34713",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "salzbourg-ville"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34713",
+      "predicate": "http://schema.org/description",
+      "object": "kaupunki Itävallassa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34713",
+      "predicate": "http://schema.org/description",
+      "object": "شهری در اتریش"
+    }
+  ]
+}

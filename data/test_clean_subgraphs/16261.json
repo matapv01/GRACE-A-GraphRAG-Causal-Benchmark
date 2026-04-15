@@ -1,0 +1,48 @@
+{
+  "question_id": "16261",
+  "answers": [
+    "91"
+  ],
+  "gold_path": {
+    "question_id": "16261",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q287076",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q2807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2807",
+        "predicate": "http://www.wikidata.org/prop/direct/P473",
+        "object": "91"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q287076",
+      "predicate": "http://schema.org/description",
+      "object": "西班牙报纸"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q287076",
+      "predicate": "http://schema.org/description",
+      "object": "diari espanyol"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q287076",
+      "predicate": "http://schema.org/description",
+      "object": "xornal español"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q287076",
+      "predicate": "http://schema.org/description",
+      "object": "quotidiano spagnolo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q287076",
+      "predicate": "http://schema.org/description",
+      "object": "spanische Tageszeitung"
+    }
+  ]
+}

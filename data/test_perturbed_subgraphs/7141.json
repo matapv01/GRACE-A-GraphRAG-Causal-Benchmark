@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "7141",
+    "answers": [
+      "9380854"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P30",
+        "object": "http://www.wikidata.org/entity/statement/q1045-39D576F3-C46F-4B57-BFF1-EA77DC4729A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-4b966e05-41ea-d0bf-3ffd-19e5ac3431d7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "ps:P1082",
+        "object": "9380854"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P213",
+        "object": "000000012173591X"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P208",
+        "object": "http://www.wikidata.org/entity/Q5440239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P94",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "7141",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P30",
+        "object": "http://www.wikidata.org/entity/statement/q1045-39D576F3-C46F-4B57-BFF1-EA77DC4729A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-4b966e05-41ea-d0bf-3ffd-19e5ac3431d7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P213",
+        "object": "000000012173591X"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P208",
+        "object": "http://www.wikidata.org/entity/Q5440239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P94",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "9380854"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "7141",
+    "answers": [
+      "9380854"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P30",
+        "object": "http://www.wikidata.org/entity/statement/q1045-39D576F3-C46F-4B57-BFF1-EA77DC4729A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-4b966e05-41ea-d0bf-3ffd-19e5ac3431d7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "ps:P1082",
+        "object": "9380854"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P213",
+        "object": "000000012173591X"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P208",
+        "object": "http://www.wikidata.org/entity/Q5440239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P94",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "9665720"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "9438786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "10043265"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "12181310"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "8433944"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "7141",
+    "answers": [
+      "9380854"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P30",
+        "object": "http://www.wikidata.org/entity/statement/q1045-39D576F3-C46F-4B57-BFF1-EA77DC4729A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-4b966e05-41ea-d0bf-3ffd-19e5ac3431d7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "ps:P1082",
+        "object": "9380854"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P213",
+        "object": "000000012173591X"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P208",
+        "object": "http://www.wikidata.org/entity/Q5440239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P94",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "7141",
+    "answers": [
+      "7346620"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P30",
+        "object": "http://www.wikidata.org/entity/statement/q1045-39D576F3-C46F-4B57-BFF1-EA77DC4729A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-4b966e05-41ea-d0bf-3ffd-19e5ac3431d7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P213",
+        "object": "000000012173591X"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P208",
+        "object": "http://www.wikidata.org/entity/Q5440239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/direct/P94",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "ps:P1082",
+        "object": "7346620"
+      }
+    ]
+  }
+}

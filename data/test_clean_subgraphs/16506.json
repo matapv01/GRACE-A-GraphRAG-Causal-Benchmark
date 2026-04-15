@@ -1,0 +1,33 @@
+{
+  "question_id": "16506",
+  "answers": [
+    "http://www.wikidata.org/entity/Q170538"
+  ],
+  "gold_path": {
+    "question_id": "16506",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4763358",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q5381442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5381442",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q170538"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4763358",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Angle of Entry"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4763358",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    }
+  ]
+}

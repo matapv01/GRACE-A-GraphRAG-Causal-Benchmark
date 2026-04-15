@@ -1,0 +1,440 @@
+{
+  "clean": {
+    "question_id": "17846",
+    "answers": [
+      "http://www.wikidata.org/entity/Q455830",
+      "http://www.wikidata.org/entity/Q236469"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-B417FD18-CE44-4026-A7A5-6617202F6586"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesJoyce%20Portrait1916.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2919056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Portrait%20of%20the%20Artist%20as%20a%20Young%20Man.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P1922",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-16d6bf49-40c8-eb9a-97da-5bcb9e6ccf8c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-7562664F-2D05-4E54-813D-0652D87E6E0F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q455830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q236469"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "17846",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-B417FD18-CE44-4026-A7A5-6617202F6586"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesJoyce%20Portrait1916.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2919056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Portrait%20of%20the%20Artist%20as%20a%20Young%20Man.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P1922",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-16d6bf49-40c8-eb9a-97da-5bcb9e6ccf8c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-7562664F-2D05-4E54-813D-0652D87E6E0F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q455830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q236469"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "17846",
+    "answers": [
+      "http://www.wikidata.org/entity/Q455830",
+      "http://www.wikidata.org/entity/Q236469"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-B417FD18-CE44-4026-A7A5-6617202F6586"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesJoyce%20Portrait1916.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2919056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Portrait%20of%20the%20Artist%20as%20a%20Young%20Man.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P1922",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-16d6bf49-40c8-eb9a-97da-5bcb9e6ccf8c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-7562664F-2D05-4E54-813D-0652D87E6E0F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q455830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q236469"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q42"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q76"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q91"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "17846",
+    "answers": [
+      "http://www.wikidata.org/entity/Q455830",
+      "http://www.wikidata.org/entity/Q236469"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-B417FD18-CE44-4026-A7A5-6617202F6586"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesJoyce%20Portrait1916.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2919056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Portrait%20of%20the%20Artist%20as%20a%20Young%20Man.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P1922",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-16d6bf49-40c8-eb9a-97da-5bcb9e6ccf8c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-7562664F-2D05-4E54-813D-0652D87E6E0F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q455830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q236469"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-18C3B0DA-1F3E-4D3F-B3D0-807697C1C023"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-21DEC32B-F8BD-4739-BFC9-2BE0C99A0807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-2EB3F164-6B7B-42A9-9C74-0C147BCB2A46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-3AC93759-3B7B-4709-B427-775D6C914D16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-3CECE4C0-8F65-4CF9-87A6-0544F635C8D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-404C37CD-C42D-454C-8D73-70DDFA5C1510"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-428663F8-796C-41AA-A817-1F9ECB537CAA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-4C0C809A-4570-4326-B8AB-22036464D776"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-4CC70B60-76A2-4350-B8BA-E520B583B8AD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q30-53F27AC6-EDF7-4277-BC79-193E33E0B5EA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "17846",
+    "answers": [
+      "http://www.wikidata.org/entity/Q23"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-B417FD18-CE44-4026-A7A5-6617202F6586"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesJoyce%20Portrait1916.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2919056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Portrait%20of%20the%20Artist%20as%20a%20Young%20Man.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P1922",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-16d6bf49-40c8-eb9a-97da-5bcb9e6ccf8c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q465360-7562664F-2D05-4E54-813D-0652D87E6E0F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  }
+}

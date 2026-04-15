@@ -1,0 +1,48 @@
+{
+  "question_id": "21115",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15174"
+  ],
+  "gold_path": {
+    "question_id": "21115",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q15175",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q15174"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15174",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q515"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q15175",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "60"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15175",
+      "predicate": "http://schema.org/description",
+      "object": "a Kínai Népköztársaság tartománya"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15175",
+      "predicate": "http://schema.org/description",
+      "object": "talaith Tsieina"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15175",
+      "predicate": "http://schema.org/description",
+      "object": "中华人民共和国省份"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q15175",
+      "predicate": "http://schema.org/description",
+      "object": "中華人民共和國省份"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "29500",
+  "answers": [
+    "DB00653"
+  ],
+  "gold_path": {
+    "question_id": "29500",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q288266",
+        "predicate": "http://www.wikidata.org/prop/direct/P715",
+        "object": "DB00653"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q288266-13F885C5-BE7A-4EDF-8BD3-1EFF37D76290"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.wikidata.org/prop/P592",
+      "object": "http://www.wikidata.org/entity/statement/Q288266-D1DBA0A1-A6B9-4D56-B15A-DC3F64F89F6F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.wikidata.org/prop/P1820",
+      "object": "http://www.wikidata.org/entity/statement/Q288266-EA53BEDD-4C79-46C4-AEAB-59F62B4EF7AE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+      "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2021423"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q288266",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Magnesium%20sulfate%20anhydrous.jpg"
+    }
+  ]
+}

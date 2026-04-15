@@ -1,0 +1,79 @@
+{
+  "question_id": "10225",
+  "answers": [
+    "263",
+    "667"
+  ],
+  "gold_path": {
+    "question_id": "10225",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41421",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q41421-080AC10D-A376-4852-AC97-D1BC37A01507"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41421-080AC10D-A376-4852-AC97-D1BC37A01507",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q128109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41421-080AC10D-A376-4852-AC97-D1BC37A01507",
+        "predicate": "pq:P1350",
+        "object": "263"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41421-080AC10D-A376-4852-AC97-D1BC37A01507",
+        "predicate": "pq:P1351",
+        "object": "7736"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41421",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q41421-2F4FB96B-7BC6-4910-84BB-5B6114E51A8F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41421-2F4FB96B-7BC6-4910-84BB-5B6114E51A8F",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q128109"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41421-2F4FB96B-7BC6-4910-84BB-5B6114E51A8F",
+        "predicate": "pq:P1350",
+        "object": "667"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41421-2F4FB96B-7BC6-4910-84BB-5B6114E51A8F",
+        "predicate": "pq:P1351",
+        "object": "21541"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41421",
+      "predicate": "http://schema.org/version",
+      "object": "2479551955"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41421",
+      "predicate": "http://schema.org/description",
+      "object": "baloncestista estadounidense"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41421",
+      "predicate": "http://schema.org/description",
+      "object": "amerikansk basketspelare"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41421",
+      "predicate": "http://schema.org/description",
+      "object": "pemain bola basket di Amerika Serikat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41421",
+      "predicate": "http://schema.org/description",
+      "object": "koszykarz amerykański"
+    }
+  ]
+}

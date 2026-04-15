@@ -1,0 +1,48 @@
+{
+  "question_id": "24461",
+  "answers": [
+    "http://www.wikidata.org/entity/Q145292"
+  ],
+  "gold_path": {
+    "question_id": "24461",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q145292",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q640364"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145292",
+        "predicate": "rdfs:label",
+        "object": "Zalău"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q145292",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
+      "object": "https://sws.geonames.org/8334769/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145292",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/246320544"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145292",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/7582810-8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145292",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "18"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q145292",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P982",
+      "object": "http://musicbrainz.org/area/5c8ee4b1-5eb5-4818-b8b3-6538fadf3073"
+    }
+  ]
+}

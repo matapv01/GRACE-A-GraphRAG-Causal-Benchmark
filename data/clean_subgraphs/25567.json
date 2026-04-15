@@ -1,0 +1,48 @@
+{
+  "question_id": "25567",
+  "answers": [
+    "http://www.wikidata.org/entity/Q46452"
+  ],
+  "gold_path": {
+    "question_id": "25567",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q46452",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3706669"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q46452",
+        "predicate": "http://www.wikidata.org/prop/direct/P1582",
+        "object": "http://www.wikidata.org/entity/Q131584"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q46452",
+        "predicate": "rdfs:label",
+        "object": "opium"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q46452",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q46452-04976e2b-4901-d963-1ebd-ee1a0bb22a65"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46452",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q46452-5e9efed9-477f-d8d8-9f7d-b8feb174eb20"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46452",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q735160"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46452",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q46452-759C77D7-CBE3-4CAF-946B-977BEE9EF422"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "25565",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11432"
+  ],
+  "gold_path": {
+    "question_id": "25565",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11432",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15831576"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11432",
+        "predicate": "http://www.wikidata.org/prop/direct/P1557",
+        "object": "http://www.wikidata.org/entity/Q29147941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11432",
+        "predicate": "rdfs:label",
+        "object": "gas"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Gas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "gaas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "gaz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "gass"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "gas"
+    }
+  ]
+}

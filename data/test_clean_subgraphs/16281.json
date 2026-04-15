@@ -1,0 +1,48 @@
+{
+  "question_id": "16281",
+  "answers": [
+    "http://www.wikidata.org/entity/Q134646"
+  ],
+  "gold_path": {
+    "question_id": "16281",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3119409",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q209344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q209344",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q134646"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3119409",
+      "predicate": "http://schema.org/version",
+      "object": "2480229235"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3119409",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3119409",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T06:50:11Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3119409",
+      "predicate": "http://schema.org/description",
+      "object": "ইতালীয় রাজনীতিবিদ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3119409",
+      "predicate": "http://schema.org/description",
+      "object": "פוליטיקאי איטלקי"
+    }
+  ]
+}

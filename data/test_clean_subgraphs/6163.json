@@ -1,0 +1,108 @@
+{
+  "question_id": "6163",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17",
+    "http://www.wikidata.org/entity/Q145",
+    "http://www.wikidata.org/entity/Q16",
+    "http://www.wikidata.org/entity/Q34",
+    "http://www.wikidata.org/entity/Q183",
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "6163",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q186341",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q186341-001c9114-47ed-0865-ff01-0192d6951e3c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q186341-001c9114-47ed-0865-ff01-0192d6951e3c",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q34"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q186341",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q186341-65567722-E647-4A58-AEEB-DA9F70F27856"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q186341-65567722-E647-4A58-AEEB-DA9F70F27856",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q186341",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q186341-ae743c15-47a7-5eeb-fe60-c90fcf3e664e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q186341-ae743c15-47a7-5eeb-fe60-c90fcf3e664e",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q186341",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q186341-CC25D3D5-320E-4324-A945-CF66F5957701"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q186341-CC25D3D5-320E-4324-A945-CF66F5957701",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q183"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q186341",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q186341-e826cc42-4e49-de80-c901-817cc8f824c6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q186341-e826cc42-4e49-de80-c901-817cc8f824c6",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q186341",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q186341-AE10C191-DD88-4E30-8EDF-B1A0555F8E8C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q186341-AE10C191-DD88-4E30-8EDF-B1A0555F8E8C",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q186341-AE10C191-DD88-4E30-8EDF-B1A0555F8E8C",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q186341",
+      "predicate": "http://www.wikidata.org/prop/P750",
+      "object": "http://www.wikidata.org/entity/statement/Q186341-5AF8E092-2DB5-43A9-A215-24F10A58D33B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186341",
+      "predicate": "http://www.wikidata.org/prop/P750",
+      "object": "http://www.wikidata.org/entity/statement/Q186341-7c0e21ce-4260-7542-f983-139ab84131d9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186341",
+      "predicate": "http://www.wikidata.org/prop/P750",
+      "object": "http://www.wikidata.org/entity/statement/Q186341-D28CC3FF-75AD-400E-A4EF-D787AA2ED344"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186341",
+      "predicate": "http://www.wikidata.org/prop/direct/P750",
+      "object": "http://www.wikidata.org/entity/Q126399"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q186341",
+      "predicate": "http://www.wikidata.org/prop/direct/P750",
+      "object": "http://www.wikidata.org/entity/Q186941"
+    }
+  ]
+}

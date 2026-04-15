@@ -1,0 +1,48 @@
+{
+  "question_id": "14157",
+  "answers": [
+    "http://www.wikidata.org/entity/Q956"
+  ],
+  "gold_path": {
+    "question_id": "14157",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14624977",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q956",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q148"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14624977",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Guoqiru.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14624977",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-01T23:06:22Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14624977",
+      "predicate": "http://www.wikidata.org/prop/direct/P20",
+      "object": "http://www.wikidata.org/entity/Q956"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14624977",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q14624977-B01DF54A-7E25-4255-9EC2-4BDCC4BB3CBC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14624977",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q14624977-ae67c1e0-4687-6ac6-43d5-0aef6938ebb7"
+    }
+  ]
+}

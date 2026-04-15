@@ -1,0 +1,70 @@
+{
+  "question_id": "20551",
+  "answers": [
+    "http://www.wikidata.org/entity/Q82946",
+    "http://www.wikidata.org/entity/Q48332",
+    "http://www.wikidata.org/entity/Q187659"
+  ],
+  "gold_path": {
+    "question_id": "20551",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5287",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q48332"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48332",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q182133"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5287",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q82946"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q82946",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q182133"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5287",
+        "predicate": "http://www.wikidata.org/prop/direct/P282",
+        "object": "http://www.wikidata.org/entity/Q187659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q187659",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q182133"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ҷопонӣ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "和語"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Japanese language"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "にほんご"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5287",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ญี่ปุ่น"
+    }
+  ]
+}

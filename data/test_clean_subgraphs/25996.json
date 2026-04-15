@@ -1,0 +1,55 @@
+{
+  "question_id": "25996",
+  "answers": [
+    "http://www.wikidata.org/entity/Q65965587",
+    "http://www.wikidata.org/entity/Q245385",
+    "http://www.wikidata.org/entity/Q51244015"
+  ],
+  "gold_path": {
+    "question_id": "25996",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q245385",
+        "predicate": "http://www.wikidata.org/prop/direct/P5004",
+        "object": "http://www.wikidata.org/entity/Q12802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51244015",
+        "predicate": "http://www.wikidata.org/prop/direct/P5004",
+        "object": "http://www.wikidata.org/entity/Q12802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65965587",
+        "predicate": "http://www.wikidata.org/prop/direct/P5004",
+        "object": "http://www.wikidata.org/entity/Q12802"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q245385",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.ippnw.org/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245385",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q183"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245385",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "IPPNW"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245385",
+      "predicate": "http://www.wikidata.org/prop/direct/P1801",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/International%20Physicians%20for%20the%20Prevention%20of%20Nuclear%20War%20sign.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245385",
+      "predicate": "http://www.wikidata.org/prop/direct/P213",
+      "object": "0000000119404337"
+    }
+  ]
+}

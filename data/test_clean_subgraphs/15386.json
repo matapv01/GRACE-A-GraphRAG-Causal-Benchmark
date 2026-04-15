@@ -1,0 +1,90 @@
+{
+  "question_id": "15386",
+  "answers": [
+    "http://www.wikidata.org/entity/Q79",
+    "http://www.wikidata.org/entity/Q851",
+    "http://www.wikidata.org/entity/Q817",
+    "http://www.wikidata.org/entity/Q3108185",
+    "http://www.wikidata.org/entity/Q142",
+    "http://www.wikidata.org/entity/Q145",
+    "http://www.wikidata.org/entity/Q408",
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "15386",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q746774",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q37643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q79"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q817"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37643",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q3108185"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q746774",
+      "predicate": "http://www.wikidata.org/prop/P8594",
+      "object": "http://www.wikidata.org/entity/statement/Q746774-b2256559-4e81-43df-8c5a-091754372652"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q746774",
+      "predicate": "http://www.wikidata.org/prop/direct/P8594",
+      "object": "470"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q746774",
+      "predicate": "http://www.wikidata.org/prop/P2048",
+      "object": "http://www.wikidata.org/entity/statement/Q746774-28559243-9796-40E3-A152-412F97C68A68"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q746774",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/Q746774-9e36e178-4926-32d6-6142-0c7988bfd860"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q746774",
+      "predicate": "http://www.wikidata.org/prop/direct/P2048",
+      "object": "2.22"
+    }
+  ]
+}

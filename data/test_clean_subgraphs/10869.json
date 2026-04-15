@@ -1,0 +1,58 @@
+{
+  "question_id": "10869",
+  "answers": [
+    "http://www.wikidata.org/entity/Q45160"
+  ],
+  "gold_path": {
+    "question_id": "10869",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2494",
+        "predicate": "http://www.wikidata.org/prop/P793",
+        "object": "http://www.wikidata.org/entity/statement/Q2494-e4d73424-4eee-3bbb-4dd0-62fe17ef2818"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2494-e4d73424-4eee-3bbb-4dd0-62fe17ef2818",
+        "predicate": "ps:P793",
+        "object": "http://www.wikidata.org/entity/Q41463697"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2494-e4d73424-4eee-3bbb-4dd0-62fe17ef2818",
+        "predicate": "pq:P748",
+        "object": "http://www.wikidata.org/entity/Q45160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2494-e4d73424-4eee-3bbb-4dd0-62fe17ef2818",
+        "predicate": "pq:P276",
+        "object": "http://www.wikidata.org/entity/Q262769"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2494",
+      "predicate": "http://www.wikidata.org/prop/direct/P184",
+      "object": "http://www.wikidata.org/entity/Q107169"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2494",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Papst%20Benedikt%20XVI%20in%20Berlin%202011.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2494",
+      "predicate": "http://www.wikidata.org/prop/direct/P185",
+      "object": "http://www.wikidata.org/entity/Q46378450"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2494",
+      "predicate": "http://www.wikidata.org/prop/direct/P25",
+      "object": "http://www.wikidata.org/entity/Q100441774"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2494",
+      "predicate": "http://www.wikidata.org/prop/direct/P172",
+      "object": "http://www.wikidata.org/entity/Q42884"
+    }
+  ]
+}

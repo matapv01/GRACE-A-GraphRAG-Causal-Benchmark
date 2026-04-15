@@ -1,0 +1,43 @@
+{
+  "question_id": "23313",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2325588"
+  ],
+  "gold_path": {
+    "question_id": "23313",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2325588",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56019"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2325588",
+        "predicate": "rdfs:label",
+        "object": "Stabswachtmeister"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2325588",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2325588",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Stabswachtmeister"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2325588",
+      "predicate": "http://schema.org/version",
+      "object": "2164450420"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2325588",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "2"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "5504",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4047513"
+  ],
+  "gold_path": {
+    "question_id": "5504",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42992",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q42992-480081c9-4ba7-2348-169e-3f5559ea48ed"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42992-480081c9-4ba7-2348-169e-3f5559ea48ed",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q4047513"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42992-480081c9-4ba7-2348-169e-3f5559ea48ed",
+        "predicate": "pq:P2937",
+        "object": "http://www.wikidata.org/entity/Q6260319"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Meira"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Меїр"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Meir"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "غولدا ميئير"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42992",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "گولدا مئير"
+    }
+  ]
+}

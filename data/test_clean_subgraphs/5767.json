@@ -1,0 +1,48 @@
+{
+  "question_id": "5767",
+  "answers": [
+    "http://www.wikidata.org/entity/Q209459"
+  ],
+  "gold_path": {
+    "question_id": "5767",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q557546",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q557546-F89A2DF3-6AB8-41C9-80DD-EF2CD2DE1749"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q557546-F89A2DF3-6AB8-41C9-80DD-EF2CD2DE1749",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q209459"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q557546",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q557546-3f883029-4add-df6a-aada-a2fcafbb12e4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q557546",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p166456"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q557546",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q557546-5336ADEF-C150-4801-AE85-02BC9610A039"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q557546",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q25282"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q557546",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tran%20Anh%20Hung%20%22International%20Competition%20Jury%22%20at%20Opening%20Ceremony%20of%20the%2028th%20Tokyo%20International%20Film%20Festival%20%2822453104525%29%20%28cropped%29.jpg"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "9206",
+  "answers": [
+    "1939-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9206",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q233852",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q233852-D9984BA5-D72B-425C-8574-CE3FD1D27DE7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q233852-D9984BA5-D72B-425C-8574-CE3FD1D27DE7",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q313279"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q233852-D9984BA5-D72B-425C-8574-CE3FD1D27DE7",
+        "predicate": "pq:P582",
+        "object": "1939-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q233852",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q233852-EC357668-6C12-4B40-9AA7-1C638D9FC9D2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233852",
+      "predicate": "http://www.wikidata.org/prop/P4666",
+      "object": "http://www.wikidata.org/entity/statement/Q233852-42649EA9-9CDE-4F8E-93BE-628FE8DD792E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233852",
+      "predicate": "http://www.wikidata.org/prop/P5905",
+      "object": "http://www.wikidata.org/entity/statement/Q233852-DC7FB099-9522-4907-9845-F320522A4FB3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233852",
+      "predicate": "http://www.wikidata.org/prop/P2639",
+      "object": "http://www.wikidata.org/entity/statement/Q233852-215BEF0B-E57D-4377-8E4C-9FB822DA1D4F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233852",
+      "predicate": "http://www.wikidata.org/prop/P570",
+      "object": "http://www.wikidata.org/entity/statement/q233852-697B0137-98B6-4042-900F-E8FA1817CFC7"
+    }
+  ]
+}

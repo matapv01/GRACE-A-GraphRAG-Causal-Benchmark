@@ -1,0 +1,70 @@
+{
+  "question_id": "14633",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2898644",
+    "http://www.wikidata.org/entity/Q1289586",
+    "http://www.wikidata.org/entity/Q131302672"
+  ],
+  "gold_path": {
+    "question_id": "14633",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q232873",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q337543"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q337543",
+        "predicate": "http://www.wikidata.org/prop/direct/P488",
+        "object": "http://www.wikidata.org/entity/Q2898644"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q232873",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1132636"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1132636",
+        "predicate": "http://www.wikidata.org/prop/direct/P488",
+        "object": "http://www.wikidata.org/entity/Q1289586"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q232873",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1429947"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1429947",
+        "predicate": "http://www.wikidata.org/prop/direct/P488",
+        "object": "http://www.wikidata.org/entity/Q131302672"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q232873",
+      "predicate": "http://www.wikidata.org/prop/direct/P7902",
+      "object": "120076713"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q232873",
+      "predicate": "http://www.wikidata.org/prop/direct/P13613",
+      "object": "96411"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q232873",
+      "predicate": "http://www.wikidata.org/prop/direct/P7699",
+      "object": "LNB:Bpmd;=CN"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q232873",
+      "predicate": "http://www.wikidata.org/prop/direct/P7929",
+      "object": "p=rene;n=cassin;oc=2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q232873",
+      "predicate": "http://www.wikidata.org/prop/direct/P7982",
+      "object": "10954"
+    }
+  ]
+}

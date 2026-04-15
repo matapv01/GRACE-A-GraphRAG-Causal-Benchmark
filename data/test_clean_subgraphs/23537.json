@@ -1,0 +1,43 @@
+{
+  "question_id": "23537",
+  "answers": [
+    "http://www.wikidata.org/entity/Q293560"
+  ],
+  "gold_path": {
+    "question_id": "23537",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q293560",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16513881"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293560",
+        "predicate": "rdfs:label",
+        "object": "Óðr"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q293560",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q293560",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q293560-7720C87F-E824-4D2F-A987-1F41B1453DD4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q293560",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01p916"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q293560",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Od"
+    }
+  ]
+}

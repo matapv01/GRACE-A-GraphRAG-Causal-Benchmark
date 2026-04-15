@@ -1,0 +1,58 @@
+{
+  "question_id": "17575",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103824"
+  ],
+  "gold_path": {
+    "question_id": "17575",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q127060",
+        "predicate": "http://www.wikidata.org/prop/direct/P2175",
+        "object": "http://www.wikidata.org/entity/Q2070695"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2070695",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q103824"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q127060",
+        "predicate": "http://www.wikidata.org/prop/direct/P2175",
+        "object": "http://www.wikidata.org/entity/Q10832211"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10832211",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q103824"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q127060",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ވިޓަމިން ބީ9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127060",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "φυλλικό οξύ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127060",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Folic acid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127060",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "folic acid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q127060",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "foliata acido"
+    }
+  ]
+}

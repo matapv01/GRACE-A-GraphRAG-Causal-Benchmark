@@ -1,0 +1,54 @@
+{
+  "question_id": "23066",
+  "answers": [
+    "http://www.wikidata.org/entity/Q725849",
+    "http://www.wikidata.org/entity/Q498722"
+  ],
+  "gold_path": {
+    "question_id": "23066",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q312833",
+        "predicate": "http://www.wikidata.org/prop/direct/P450",
+        "object": "http://www.wikidata.org/entity/Q498722"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q498722",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q752783"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q312833",
+        "predicate": "http://www.wikidata.org/prop/direct/P450",
+        "object": "http://www.wikidata.org/entity/Q725849"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q725849",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q752783"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q312833",
+      "predicate": "http://www.wikidata.org/prop/direct/P2600",
+      "object": "6000000022048574852"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312833",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cooper"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312833",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Leroy Cooper"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312833",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Gordo Cooper"
+    }
+  ]
+}

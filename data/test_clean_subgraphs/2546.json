@@ -1,0 +1,70 @@
+{
+  "question_id": "2546",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3537108",
+    "http://www.wikidata.org/entity/Q1522904",
+    "http://www.wikidata.org/entity/Q948685"
+  ],
+  "gold_path": {
+    "question_id": "2546",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q948685",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15640053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q948685",
+        "predicate": "http://www.wikidata.org/prop/direct/P2217",
+        "object": "20"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1522904",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15640053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1522904",
+        "predicate": "http://www.wikidata.org/prop/direct/P2217",
+        "object": "20"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3537108",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15640053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3537108",
+        "predicate": "http://www.wikidata.org/prop/direct/P2217",
+        "object": "17.1"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q948685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "STRS"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q948685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ترامواي الرباط"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q948685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ترامواي الرباط سلا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q948685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "طراموي الرباط - سلا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q948685",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ラバト＝サレ市電"
+    }
+  ]
+}

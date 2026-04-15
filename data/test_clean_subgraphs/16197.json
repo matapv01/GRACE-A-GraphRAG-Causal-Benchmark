@@ -1,0 +1,66 @@
+{
+  "question_id": "16197",
+  "answers": [
+    "http://www.wikidata.org/entity/Q183259",
+    "http://www.wikidata.org/entity/Q200912",
+    "http://www.wikidata.org/entity/Q1063978",
+    "http://www.wikidata.org/entity/Q1047516"
+  ],
+  "gold_path": {
+    "question_id": "16197",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2081247",
+        "predicate": "http://www.wikidata.org/prop/direct/P400",
+        "object": "http://www.wikidata.org/entity/Q10676"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10676",
+        "predicate": "http://www.wikidata.org/prop/direct/P156",
+        "object": "http://www.wikidata.org/entity/Q200912"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10676",
+        "predicate": "http://www.wikidata.org/prop/direct/P156",
+        "object": "http://www.wikidata.org/entity/Q1047516"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10676",
+        "predicate": "http://www.wikidata.org/prop/direct/P156",
+        "object": "http://www.wikidata.org/entity/Q1063978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2081247",
+        "predicate": "http://www.wikidata.org/prop/direct/P400",
+        "object": "http://www.wikidata.org/entity/Q172742"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172742",
+        "predicate": "http://www.wikidata.org/prop/direct/P156",
+        "object": "http://www.wikidata.org/entity/Q183259"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2081247",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Insector-X"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2081247",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "39"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2081247",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "28"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2081247",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0f3tzl"
+    }
+  ]
+}

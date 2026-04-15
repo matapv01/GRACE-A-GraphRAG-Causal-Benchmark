@@ -1,0 +1,43 @@
+{
+  "question_id": "3307",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12149756"
+  ],
+  "gold_path": {
+    "question_id": "3307",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12149756",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12149756",
+        "predicate": "http://www.wikidata.org/prop/direct/P4184",
+        "object": "1.2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12149756",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q2620713"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12149756",
+      "predicate": "http://schema.org/version",
+      "object": "2425021890"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12149756",
+      "predicate": "http://schema.org/description",
+      "object": "watergang"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12149756",
+      "predicate": "http://schema.org/description",
+      "object": "Fluss in der Ukraine"
+    }
+  ]
+}

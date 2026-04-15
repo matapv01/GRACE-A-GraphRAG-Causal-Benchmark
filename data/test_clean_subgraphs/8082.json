@@ -1,0 +1,48 @@
+{
+  "question_id": "8082",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3440901"
+  ],
+  "gold_path": {
+    "question_id": "8082",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q275146",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q275146-1fe7d95e-4435-2999-e844-85b86304187a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q275146-1fe7d95e-4435-2999-e844-85b86304187a",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q3440901"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q275146",
+      "predicate": "http://www.wikidata.org/prop/direct/P20",
+      "object": "http://www.wikidata.org/entity/Q1353"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q275146",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Narasimha%20Rao%2C%20Indian%20Minister%20for%20Foreign%20Affairs%2C%20to%20the%20CEC%20%28cropped%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q275146",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q275146-1F601B19-F06D-4A62-953D-54F3CBEB7DF3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q275146",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q275146-F43E93EF-FE4A-4634-808D-AF636CE6200A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q275146",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007361201105171"
+    }
+  ]
+}

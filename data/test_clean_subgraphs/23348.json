@@ -1,0 +1,38 @@
+{
+  "question_id": "23348",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17108217"
+  ],
+  "gold_path": {
+    "question_id": "23348",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17108217",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q471855"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17108217",
+        "predicate": "rdfs:label",
+        "object": "viguerie"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17108217",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17108217",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Viguerie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17108217",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "viguerie"
+    }
+  ]
+}

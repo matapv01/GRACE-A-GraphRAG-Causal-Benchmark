@@ -1,0 +1,59 @@
+{
+  "question_id": "21577",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36812",
+    "http://www.wikidata.org/entity/Q10479"
+  ],
+  "gold_path": {
+    "question_id": "21577",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10479",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q13590412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10479",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36812",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q13590412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36812",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10479",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q10479-4bc0df4f-4490-61ca-e50c-59aeba0bbaac"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10479",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Princess%20of%20Wales%20in%202023%20%28cropped%2903.JPG"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10479",
+      "predicate": "http://www.wikidata.org/prop/direct/P1819",
+      "object": "I00221930"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10479",
+      "predicate": "http://www.wikidata.org/prop/P53",
+      "object": "http://www.wikidata.org/entity/statement/q10479-64a393ae-4d2f-5083-30df-c181c5e82a44"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10479",
+      "predicate": "http://www.wikidata.org/prop/P53",
+      "object": "http://www.wikidata.org/entity/statement/Q10479-98377444-47d9-a3c1-66fa-35a60febb286"
+    }
+  ]
+}

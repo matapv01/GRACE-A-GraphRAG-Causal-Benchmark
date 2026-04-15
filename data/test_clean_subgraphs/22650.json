@@ -1,0 +1,48 @@
+{
+  "question_id": "22650",
+  "answers": [
+    "http://www.wikidata.org/entity/Q525"
+  ],
+  "gold_path": {
+    "question_id": "22650",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q332",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q525"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q525",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5864"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "نيڤتون"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "רהב"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Waruna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptuno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nettunu"
+    }
+  ]
+}

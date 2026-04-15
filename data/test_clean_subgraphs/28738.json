@@ -1,0 +1,28 @@
+{
+  "question_id": "28738",
+  "answers": [
+    "dale-earnhardt"
+  ],
+  "gold_path": {
+    "question_id": "28738",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q355420",
+        "predicate": "http://www.wikidata.org/prop/direct/P4375",
+        "object": "dale-earnhardt"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q355420",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "31"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q355420",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Dale Earnhardt"
+    }
+  ]
+}

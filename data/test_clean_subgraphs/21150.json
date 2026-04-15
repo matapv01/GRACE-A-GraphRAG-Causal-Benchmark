@@ -1,0 +1,59 @@
+{
+  "question_id": "21150",
+  "answers": [
+    "http://www.wikidata.org/entity/Q162606",
+    "http://www.wikidata.org/entity/Q1207969"
+  ],
+  "gold_path": {
+    "question_id": "21150",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12206",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q162606"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q162606",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q930752"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12206",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q1207969"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1207969",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q930752"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://schema.org/version",
+      "object": "2476476166"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "112"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://schema.org/description",
+      "object": "stofskiftesygdom"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://schema.org/description",
+      "object": "מחלה"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12206",
+      "predicate": "http://schema.org/description",
+      "object": "group of metabolic disorders characterized by high blood sugar levels over a prolonged period"
+    }
+  ]
+}

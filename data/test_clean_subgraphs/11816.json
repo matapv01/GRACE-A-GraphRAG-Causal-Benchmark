@@ -1,0 +1,48 @@
+{
+  "question_id": "11816",
+  "answers": [
+    "http://www.wikidata.org/entity/Q65"
+  ],
+  "gold_path": {
+    "question_id": "11816",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q624790",
+        "predicate": "http://www.wikidata.org/prop/direct/P740",
+        "object": "http://www.wikidata.org/entity/Q65"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q1156"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q624790",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-08T17:24:17Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q624790",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "44"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q624790",
+      "predicate": "http://schema.org/description",
+      "object": "gruppo musicale statunitense"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q624790",
+      "predicate": "http://schema.org/description",
+      "object": "band"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q624790",
+      "predicate": "http://schema.org/description",
+      "object": "hudební skupina"
+    }
+  ]
+}

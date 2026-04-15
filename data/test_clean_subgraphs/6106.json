@@ -1,0 +1,43 @@
+{
+  "question_id": "6106",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103360"
+  ],
+  "gold_path": {
+    "question_id": "6106",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q56014",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q56014-0FE8F4C0-9002-4568-A3F4-09A6265A8B46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q56014-0FE8F4C0-9002-4568-A3F4-09A6265A8B46",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q56014-0FE8F4C0-9002-4568-A3F4-09A6265A8B46",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q917076"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q56014",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q56014-77e71336-4cda-a070-5629-f9086a63264a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q56014",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "George Dewey Cukor"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q56014",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джордж Д’юі К’юкар"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "24773",
+  "answers": [
+    "http://www.wikidata.org/entity/Q456020"
+  ],
+  "gold_path": {
+    "question_id": "24773",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q456020",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q182545"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q456020",
+        "predicate": "rdfs:label",
+        "object": "Īhām"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q456020",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Iham"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456020",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Îhâm"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456020",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/1211chly"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456020",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q456020",
+      "predicate": "http://schema.org/description",
+      "object": "figure of speech"
+    }
+  ]
+}

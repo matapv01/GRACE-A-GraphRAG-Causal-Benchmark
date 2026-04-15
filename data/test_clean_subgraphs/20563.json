@@ -1,0 +1,70 @@
+{
+  "question_id": "20563",
+  "answers": [
+    "http://www.wikidata.org/entity/Q834854",
+    "http://www.wikidata.org/entity/Q5540994",
+    "http://www.wikidata.org/entity/Q374276"
+  ],
+  "gold_path": {
+    "question_id": "20563",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q374276",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q12495"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q374276",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q834854",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q12495"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q834854",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5540994",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q12495"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5540994",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q374276",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q374276-20E3396A-25CC-4C12-B729-F417790D33C6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374276",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/q374276-739443F9-4AE3-487F-B0A3-6D7A3FC2A9EB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374276",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q1297"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374276",
+      "predicate": "http://www.wikidata.org/prop/P269",
+      "object": "http://www.wikidata.org/entity/statement/Q374276-E6488E39-B357-4C37-BA56-D222111DC8BC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q374276",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q30"
+    }
+  ]
+}

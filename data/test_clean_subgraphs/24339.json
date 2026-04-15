@@ -1,0 +1,76 @@
+{
+  "question_id": "24339",
+  "answers": [
+    "http://www.wikidata.org/entity/Q61744047",
+    "http://www.wikidata.org/entity/Q61744039",
+    "http://www.wikidata.org/entity/Q61744027",
+    "http://www.wikidata.org/entity/Q61750148"
+  ],
+  "gold_path": {
+    "question_id": "24339",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q61750148",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q60029820"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61750148",
+        "predicate": "rdfs:label",
+        "object": "Vaccinio-Piceetea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61744027",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q60029820"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61744027",
+        "predicate": "rdfs:label",
+        "object": "Vegetated sea cliffs of the Atlantic and Baltic Coasts"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61744039",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q60029820"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61744039",
+        "predicate": "rdfs:label",
+        "object": "Vegetated sea cliffs of the Mediterranean coasts with endemic Limonium spp."
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61744047",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q60029820"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61744047",
+        "predicate": "rdfs:label",
+        "object": "Vegetated sea cliffs with endemic flora of the Macaronesian coasts"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q61750148",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Vaccinio-Piceetea"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61750148",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Montane bis alpine bodensaure Fichtenwälder"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61750148",
+      "predicate": "http://www.wikidata.org/prop/P6436",
+      "object": "http://www.wikidata.org/entity/statement/Q61750148-20376d8b-472a-bd69-55f7-99cee2903442"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61750148",
+      "predicate": "http://www.wikidata.org/prop/direct/P6436",
+      "object": "9410"
+    }
+  ]
+}

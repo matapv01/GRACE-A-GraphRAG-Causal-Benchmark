@@ -1,0 +1,48 @@
+{
+  "question_id": "22882",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13409231"
+  ],
+  "gold_path": {
+    "question_id": "22882",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q216293",
+        "predicate": "http://www.wikidata.org/prop/direct/P178",
+        "object": "http://www.wikidata.org/entity/Q13409231"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13409231",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q210167"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q216293",
+      "predicate": "http://www.wikidata.org/prop/direct/P8059",
+      "object": "100136"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216293",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q192851"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216293",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Signed%20Pong%20Cabinet.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216293",
+      "predicate": "http://www.wikidata.org/prop/direct/P9075",
+      "object": "Pong"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216293",
+      "predicate": "http://www.wikidata.org/prop/direct/P880",
+      "object": "http://www.wikidata.org/entity/Q11653"
+    }
+  ]
+}

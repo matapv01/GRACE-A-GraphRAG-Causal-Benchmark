@@ -1,0 +1,53 @@
+{
+  "question_id": "25293",
+  "answers": [
+    "http://www.wikidata.org/entity/Q152518"
+  ],
+  "gold_path": {
+    "question_id": "25293",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q152518",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15275719"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q152518",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q484342"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q152518",
+        "predicate": "rdfs:label",
+        "object": "Burning Man"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q152518",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152518",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "154949341"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152518",
+      "predicate": "http://www.wikidata.org/prop/direct/P11514",
+      "object": "burning-man-5deaa9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152518",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01cy43"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152518",
+      "predicate": "http://www.wikidata.org/prop/direct/P11079",
+      "object": "burningmanproject"
+    }
+  ]
+}

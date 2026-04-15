@@ -1,0 +1,53 @@
+{
+  "question_id": "5189",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12536"
+  ],
+  "gold_path": {
+    "question_id": "5189",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q194442",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/q194442-BB390216-5D90-4989-8D55-C849E97F9961"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q194442-BB390216-5D90-4989-8D55-C849E97F9961",
+        "predicate": "ps:P19",
+        "object": "http://www.wikidata.org/entity/Q1530"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q194442-BB390216-5D90-4989-8D55-C849E97F9961",
+        "predicate": "pq:P17",
+        "object": "http://www.wikidata.org/entity/Q12536"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q194442",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "45"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194442",
+      "predicate": "http://www.wikidata.org/prop/direct/P511",
+      "object": "http://www.wikidata.org/entity/Q98123376"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194442",
+      "predicate": "http://www.wikidata.org/prop/P511",
+      "object": "http://www.wikidata.org/entity/statement/Q194442-1cb451d5-404d-858f-a51d-6b3f9789b462"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194442",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "161"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q194442",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-08T01:53:47Z"
+    }
+  ]
+}

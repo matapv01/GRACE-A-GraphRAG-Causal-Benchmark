@@ -1,0 +1,43 @@
+{
+  "question_id": "15130",
+  "answers": [
+    "http://www.wikidata.org/entity/Q79757"
+  ],
+  "gold_path": {
+    "question_id": "15130",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21403222",
+        "predicate": "http://www.wikidata.org/prop/direct/P22",
+        "object": "http://www.wikidata.org/entity/Q21403218"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21403218",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q79757"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21403222",
+      "predicate": "http://www.wikidata.org/prop/direct/P734",
+      "object": "http://www.wikidata.org/entity/Q65110217"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21403222",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q15728056"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21403222",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21403222",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    }
+  ]
+}

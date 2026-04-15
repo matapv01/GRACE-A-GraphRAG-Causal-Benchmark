@@ -1,0 +1,53 @@
+{
+  "question_id": "5731",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1414470"
+  ],
+  "gold_path": {
+    "question_id": "5731",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3473673",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q3473673-ecf048ed-4442-8a80-3fcb-dd4e92810fae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3473673-ecf048ed-4442-8a80-3fcb-dd4e92810fae",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1414470"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3473673-ecf048ed-4442-8a80-3fcb-dd4e92810fae",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q1393668"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3473673",
+      "predicate": "http://www.wikidata.org/prop/P1477",
+      "object": "http://www.wikidata.org/entity/statement/Q3473673-28841097-43d7-008b-f17b-5c74b238f91f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3473673",
+      "predicate": "http://www.wikidata.org/prop/P734",
+      "object": "http://www.wikidata.org/entity/statement/Q3473673-bc329717-4eba-d143-77c1-aaaac814ae72"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3473673",
+      "predicate": "http://www.wikidata.org/prop/P7923",
+      "object": "http://www.wikidata.org/entity/statement/Q3473673-3C90E7D4-E9E7-4935-A6A3-8F647D67264E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3473673",
+      "predicate": "http://www.wikidata.org/prop/P12098",
+      "object": "http://www.wikidata.org/entity/statement/Q3473673-2C6B26B0-DF48-4B09-8B4E-D460EEEB224E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3473673",
+      "predicate": "http://www.wikidata.org/prop/P140",
+      "object": "http://www.wikidata.org/entity/statement/Q3473673-50B558C9-1E42-4EEC-8C48-40150853E9BE"
+    }
+  ]
+}

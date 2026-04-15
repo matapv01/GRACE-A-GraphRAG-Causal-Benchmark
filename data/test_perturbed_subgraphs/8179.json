@@ -1,0 +1,437 @@
+{
+  "clean": {
+    "question_id": "8179",
+    "answers": [
+      "1983-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "ernst-mayr"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P349",
+        "object": "http://www.wikidata.org/entity/statement/q5354-6BE154C2-35CB-4073-AC2C-F6D888C0B6F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "pq:P585",
+        "object": "1983-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3417",
+        "object": "Ernst-Mayr-1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P5019",
+        "object": "mayr-ernst"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5349948"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P244",
+        "object": "http://www.wikidata.org/entity/statement/q5354-CC1202D5-2DF5-4AF2-B1C9-F9836398E1D6"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "8179",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "ernst-mayr"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P349",
+        "object": "http://www.wikidata.org/entity/statement/q5354-6BE154C2-35CB-4073-AC2C-F6D888C0B6F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3417",
+        "object": "Ernst-Mayr-1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P5019",
+        "object": "mayr-ernst"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5349948"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P244",
+        "object": "http://www.wikidata.org/entity/statement/q5354-CC1202D5-2DF5-4AF2-B1C9-F9836398E1D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1983-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "8179",
+    "answers": [
+      "1983-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "ernst-mayr"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P349",
+        "object": "http://www.wikidata.org/entity/statement/q5354-6BE154C2-35CB-4073-AC2C-F6D888C0B6F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "pq:P585",
+        "object": "1983-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3417",
+        "object": "Ernst-Mayr-1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P5019",
+        "object": "mayr-ernst"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5349948"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P244",
+        "object": "http://www.wikidata.org/entity/statement/q5354-CC1202D5-2DF5-4AF2-B1C9-F9836398E1D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "1983-04-29T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "1983-11-05T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "1980-12-29T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "1978-10-03T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "1982-01-25T00:00:00Z"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "8179",
+    "answers": [
+      "1983-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "ernst-mayr"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P349",
+        "object": "http://www.wikidata.org/entity/statement/q5354-6BE154C2-35CB-4073-AC2C-F6D888C0B6F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "pq:P585",
+        "object": "1983-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3417",
+        "object": "Ernst-Mayr-1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P5019",
+        "object": "mayr-ernst"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5349948"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P244",
+        "object": "http://www.wikidata.org/entity/statement/q5354-CC1202D5-2DF5-4AF2-B1C9-F9836398E1D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "8179",
+    "answers": [
+      "1987-06-13T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3222",
+        "object": "ernst-mayr"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P349",
+        "object": "http://www.wikidata.org/entity/statement/q5354-6BE154C2-35CB-4073-AC2C-F6D888C0B6F0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P3417",
+        "object": "Ernst-Mayr-1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/direct/P5019",
+        "object": "mayr-ernst"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5349948"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P244",
+        "object": "http://www.wikidata.org/entity/statement/q5354-CC1202D5-2DF5-4AF2-B1C9-F9836398E1D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "pq:P585",
+        "object": "1987-06-13T00:00:00Z"
+      }
+    ]
+  }
+}

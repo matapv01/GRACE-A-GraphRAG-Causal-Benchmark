@@ -1,0 +1,59 @@
+{
+  "question_id": "21500",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17507129",
+    "http://www.wikidata.org/entity/Q29401270"
+  ],
+  "gold_path": {
+    "question_id": "21500",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17507129",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q38645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17507129",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29401270",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q38645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q29401270",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17507129",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "تربوز"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17507129",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "watermelon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17507129",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "수박"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17507129",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "tembikai"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17507129",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "แตงโม"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "21941",
+  "answers": [
+    "http://www.wikidata.org/entity/Q259261"
+  ],
+  "gold_path": {
+    "question_id": "21941",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42482",
+        "predicate": "http://www.wikidata.org/prop/direct/P822",
+        "object": "http://www.wikidata.org/entity/Q259261"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q259261",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28020127"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42482",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "渴望艾迪之旅"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42482",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "アイアンメイデン"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42482",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "铁处女"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42482",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Iron Maiden"
+    }
+  ]
+}

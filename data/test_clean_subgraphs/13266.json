@@ -1,0 +1,38 @@
+{
+  "question_id": "13266",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6581097"
+  ],
+  "gold_path": {
+    "question_id": "13266",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3699686",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581097"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3699686",
+      "predicate": "http://www.wikidata.org/prop/P2632",
+      "object": "http://www.wikidata.org/entity/statement/Q3699686-36F7217B-1357-4E72-9B04-BCEEBADFCF73"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3699686",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q3699686-D4CA658A-C7B4-4063-A86A-266AD92BF7E9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3699686",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "كورتيس ارين"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3699686",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Curtis Warren"
+    }
+  ]
+}

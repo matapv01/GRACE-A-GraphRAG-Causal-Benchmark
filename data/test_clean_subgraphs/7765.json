@@ -1,0 +1,53 @@
+{
+  "question_id": "7765",
+  "answers": [
+    "http://www.wikidata.org/entity/Q319145"
+  ],
+  "gold_path": {
+    "question_id": "7765",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q356261",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q356261-69156DA1-BCD0-4B29-9DB9-1710A079C29D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q356261-69156DA1-BCD0-4B29-9DB9-1710A079C29D",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q319145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q356261-69156DA1-BCD0-4B29-9DB9-1710A079C29D",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q356411"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q356261",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "McMahon-898"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q356261",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q356261-E307E200-A650-4FA0-9C9D-9453AB08DF06"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q356261",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "131664865"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q356261",
+      "predicate": "http://www.wikidata.org/prop/direct/P9232",
+      "object": "mcmahon-sir-william-billy-15043"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q356261",
+      "predicate": "http://www.wikidata.org/prop/direct/P9159",
+      "object": "15043"
+    }
+  ]
+}

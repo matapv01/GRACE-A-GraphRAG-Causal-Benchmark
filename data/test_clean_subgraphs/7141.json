@@ -1,0 +1,48 @@
+{
+  "question_id": "7141",
+  "answers": [
+    "9380854"
+  ],
+  "gold_path": {
+    "question_id": "7141",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1045",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1045-B8222AAD-C20D-4946-A668-E1B740925B4C",
+        "predicate": "ps:P1082",
+        "object": "9380854"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1045",
+      "predicate": "http://www.wikidata.org/prop/direct/P208",
+      "object": "http://www.wikidata.org/entity/Q5440239"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1045",
+      "predicate": "http://www.wikidata.org/prop/direct/P213",
+      "object": "000000012173591X"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1045",
+      "predicate": "http://www.wikidata.org/prop/P30",
+      "object": "http://www.wikidata.org/entity/statement/q1045-39D576F3-C46F-4B57-BFF1-EA77DC4729A6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1045",
+      "predicate": "http://www.wikidata.org/prop/direct/P94",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Somalia.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1045",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q1045-4b966e05-41ea-d0bf-3ffd-19e5ac3431d7"
+    }
+  ]
+}

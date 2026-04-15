@@ -1,0 +1,69 @@
+{
+  "question_id": "7089",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5093647",
+    "http://www.wikidata.org/entity/Q7597728"
+  ],
+  "gold_path": {
+    "question_id": "7089",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23362",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q23362-2eac2a7a-4b06-43c4-14ec-cd87489ea853"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23362-2eac2a7a-4b06-43c4-14ec-cd87489ea853",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18912794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23362-2eac2a7a-4b06-43c4-14ec-cd87489ea853",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q5093647"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23362",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q23362-5C0D4887-E802-439A-B18F-185FCFA6336D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23362-5C0D4887-E802-439A-B18F-185FCFA6336D",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18912794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q23362-5C0D4887-E802-439A-B18F-185FCFA6336D",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q7597728"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23362",
+      "predicate": "http://www.wikidata.org/prop/direct/P7902",
+      "object": "133756319"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23362",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q677191"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23362",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q1158477"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23362",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "biography/James-Henry-Scullin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23362",
+      "predicate": "http://www.wikidata.org/prop/direct/P734",
+      "object": "http://www.wikidata.org/entity/Q37439948"
+    }
+  ]
+}

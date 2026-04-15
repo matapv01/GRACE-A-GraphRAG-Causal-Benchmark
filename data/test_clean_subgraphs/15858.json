@@ -1,0 +1,48 @@
+{
+  "question_id": "15858",
+  "answers": [
+    "http://www.wikidata.org/entity/Q201252"
+  ],
+  "gold_path": {
+    "question_id": "15858",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11906743",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q11939963"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11939963",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q201252"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11906743",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11906743",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11906743",
+      "predicate": "http://schema.org/description",
+      "object": "athlète antique"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11906743",
+      "predicate": "http://schema.org/description",
+      "object": "αρχαίος Έλληνας ολυμπιονίκης"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11906743",
+      "predicate": "http://schema.org/description",
+      "object": "ancient Greek olympian"
+    }
+  ]
+}

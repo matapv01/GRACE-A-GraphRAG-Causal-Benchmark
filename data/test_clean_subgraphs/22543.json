@@ -1,0 +1,81 @@
+{
+  "question_id": "22543",
+  "answers": [
+    "http://www.wikidata.org/entity/Q131976",
+    "http://www.wikidata.org/entity/Q15631010",
+    "http://www.wikidata.org/entity/Q4027930",
+    "http://www.wikidata.org/entity/Q402121"
+  ],
+  "gold_path": {
+    "question_id": "22543",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131976",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q11768"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131976",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q164950"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q402121",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q11768"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q402121",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q164950"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4027930",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q11768"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4027930",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q164950"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15631010",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q11768"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15631010",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q164950"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131976",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "62"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131976",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q131976-844CB605-C3C7-4358-9192-073428E07BCA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131976",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/42634079"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131976",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/305506400"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131976",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/305883919"
+    }
+  ]
+}

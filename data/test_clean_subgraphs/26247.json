@@ -1,0 +1,69 @@
+{
+  "question_id": "26247",
+  "answers": [
+    "http://www.wikidata.org/entity/Q80973592",
+    "http://www.wikidata.org/entity/Q95679135",
+    "http://www.wikidata.org/entity/Q94126521",
+    "http://www.wikidata.org/entity/Q96186334",
+    "http://www.wikidata.org/entity/Q108122378",
+    "http://www.wikidata.org/entity/Q80973596",
+    "http://www.wikidata.org/entity/Q80973595"
+  ],
+  "gold_path": {
+    "question_id": "26247",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q80973592",
+        "predicate": "http://www.wikidata.org/prop/direct/P1072",
+        "object": "http://www.wikidata.org/entity/Q2195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q80973595",
+        "predicate": "http://www.wikidata.org/prop/direct/P1072",
+        "object": "http://www.wikidata.org/entity/Q2195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q80973596",
+        "predicate": "http://www.wikidata.org/prop/direct/P1072",
+        "object": "http://www.wikidata.org/entity/Q2195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q94126521",
+        "predicate": "http://www.wikidata.org/prop/direct/P1072",
+        "object": "http://www.wikidata.org/entity/Q2195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q95679135",
+        "predicate": "http://www.wikidata.org/prop/direct/P1072",
+        "object": "http://www.wikidata.org/entity/Q2195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q96186334",
+        "predicate": "http://www.wikidata.org/prop/direct/P1072",
+        "object": "http://www.wikidata.org/entity/Q2195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q108122378",
+        "predicate": "http://www.wikidata.org/prop/direct/P1072",
+        "object": "http://www.wikidata.org/entity/Q2195"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q80973592",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q182933"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80973592",
+      "predicate": "http://www.wikidata.org/prop/P400",
+      "object": "http://www.wikidata.org/entity/statement/Q80973592-3a9f4ae9-4fef-6d6d-0529-aef796997512"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80973592",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "CombineZ5"
+    }
+  ]
+}

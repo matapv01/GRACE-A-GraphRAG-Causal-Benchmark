@@ -1,0 +1,59 @@
+{
+  "question_id": "23417",
+  "answers": [
+    "http://www.wikidata.org/entity/Q568267",
+    "http://www.wikidata.org/entity/Q7933443"
+  ],
+  "gold_path": {
+    "question_id": "23417",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q568267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15773317"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q568267",
+        "predicate": "rdfs:label",
+        "object": "Viper"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7933443",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15773317"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7933443",
+        "predicate": "rdfs:label",
+        "object": "Viper"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q568267",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568267",
+      "predicate": "http://www.wikidata.org/prop/P463",
+      "object": "http://www.wikidata.org/entity/statement/Q568267-077d3513-4dc3-9c58-de63-e33545530e38"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568267",
+      "predicate": "http://www.wikidata.org/prop/P463",
+      "object": "http://www.wikidata.org/entity/statement/Q568267-23cab4ac-4f77-7176-9866-35e0ffe81e48"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568267",
+      "predicate": "http://www.wikidata.org/prop/P463",
+      "object": "http://www.wikidata.org/entity/statement/Q568267-5d09c41a-49a7-45e2-a757-b00e2450fabe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568267",
+      "predicate": "http://www.wikidata.org/prop/P463",
+      "object": "http://www.wikidata.org/entity/statement/Q568267-67b81c11-4aa4-b75d-52fa-79e7393c22b5"
+    }
+  ]
+}

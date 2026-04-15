@@ -1,0 +1,48 @@
+{
+  "question_id": "16186",
+  "answers": [
+    "1845-03-07T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "16186",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q658096",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q943655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q943655",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1845-03-07T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q658096",
+      "predicate": "http://www.wikidata.org/prop/P508",
+      "object": "http://www.wikidata.org/entity/statement/Q658096-75ab3603-ef93-4362-ad44-165984dd2a77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q658096",
+      "predicate": "http://www.wikidata.org/prop/P1036",
+      "object": "http://www.wikidata.org/entity/statement/Q658096-1339C2AF-6825-4B34-956C-EEA23C903D72"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q658096",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "כירופרקטור"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q658096",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Вертебрология"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q658096",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "كيروبراكتيك"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "question_id": "26452",
+  "answers": [
+    "00049542"
+  ],
+  "gold_path": {
+    "question_id": "26452",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q174843",
+        "predicate": "http://www.wikidata.org/prop/direct/P1649",
+        "object": "00049542"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q174843",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "141"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174843",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Jeff Bridges"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174843",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "جيف بريدجز"
+    }
+  ]
+}

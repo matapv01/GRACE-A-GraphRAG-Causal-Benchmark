@@ -1,0 +1,43 @@
+{
+  "question_id": "14158",
+  "answers": [
+    "http://www.wikidata.org/entity/Q638"
+  ],
+  "gold_path": {
+    "question_id": "14158",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q122960",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q638"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q122960",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4305",
+      "object": "https://id.erfgoed.net/thesauri/stijlen_en_culturen/9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122960",
+      "predicate": "http://www.wikidata.org/prop/direct/P3241",
+      "object": "13106a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122960",
+      "predicate": "http://www.wikidata.org/prop/P3241",
+      "object": "http://www.wikidata.org/entity/statement/Q122960-B70041BC-12CD-4FB7-ADCE-41C07D5F7B2D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122960",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8406",
+      "object": "http://dx.doi.org/10.1093/gao/9781884446054.article.T072542"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122960",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P950",
+      "object": "https://datos.bne.es/resource/XX525351"
+    }
+  ]
+}

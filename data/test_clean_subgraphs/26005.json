@@ -1,0 +1,43 @@
+{
+  "question_id": "26005",
+  "answers": [
+    "18079"
+  ],
+  "gold_path": {
+    "question_id": "26005",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q600751",
+        "predicate": "http://www.wikidata.org/prop/direct/P867",
+        "object": "18079"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q600751",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/00565548"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q600751",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p17393"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q600751",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4056631-6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q600751",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4525377-8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q600751",
+      "predicate": "http://www.wikidata.org/prop/direct/P3827",
+      "object": "criminal-prosecution"
+    }
+  ]
+}

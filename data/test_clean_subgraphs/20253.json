@@ -1,0 +1,48 @@
+{
+  "question_id": "20253",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6735900"
+  ],
+  "gold_path": {
+    "question_id": "20253",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6735900",
+        "predicate": "http://www.wikidata.org/prop/direct/P88",
+        "object": "http://www.wikidata.org/entity/Q178848"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6735900",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41176"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6735900",
+      "predicate": "http://schema.org/version",
+      "object": "2451039956"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6735900",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6735900",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/063_q9v"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6735900",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/NDU-Goldkuppel.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6735900",
+      "predicate": "http://schema.org/description",
+      "object": "building in Notre Dame, Indiana, United States"
+    }
+  ]
+}

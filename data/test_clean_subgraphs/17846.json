@@ -1,0 +1,54 @@
+{
+  "question_id": "17846",
+  "answers": [
+    "http://www.wikidata.org/entity/Q455830",
+    "http://www.wikidata.org/entity/Q236469"
+  ],
+  "gold_path": {
+    "question_id": "17846",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q465360",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2919056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q236469"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2919056",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q455830"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q465360",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q465360-7562664F-2D05-4E54-813D-0652D87E6E0F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q465360",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q465360-B417FD18-CE44-4026-A7A5-6617202F6586"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q465360",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Portrait%20of%20the%20Artist%20as%20a%20Young%20Man.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q465360",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesJoyce%20Portrait1916.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q465360",
+      "predicate": "http://www.wikidata.org/prop/P1922",
+      "object": "http://www.wikidata.org/entity/statement/Q465360-16d6bf49-40c8-eb9a-97da-5bcb9e6ccf8c"
+    }
+  ]
+}

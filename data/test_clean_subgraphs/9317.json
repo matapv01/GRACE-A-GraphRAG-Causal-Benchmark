@@ -1,0 +1,53 @@
+{
+  "question_id": "9317",
+  "answers": [
+    "1986-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9317",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47526",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q47526-E9462A5C-721B-4EB7-A4A7-F2A41959816E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47526-E9462A5C-721B-4EB7-A4A7-F2A41959816E",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q83459"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47526-E9462A5C-721B-4EB7-A4A7-F2A41959816E",
+        "predicate": "pq:P582",
+        "object": "1986-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47526",
+      "predicate": "http://schema.org/version",
+      "object": "2479654983"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47526",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T06:41:04Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47526",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "47"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47526",
+      "predicate": "http://www.wikidata.org/prop/P2020",
+      "object": "http://www.wikidata.org/entity/statement/Q47526-b0c8ad82-4d17-9e38-e6bb-a3b30667c298"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47526",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "74"
+    }
+  ]
+}

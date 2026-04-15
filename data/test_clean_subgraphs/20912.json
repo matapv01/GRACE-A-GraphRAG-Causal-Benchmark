@@ -1,0 +1,48 @@
+{
+  "question_id": "20912",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3779582"
+  ],
+  "gold_path": {
+    "question_id": "20912",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3779582",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q7193"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3779582",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28640"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3779582",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "27"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3779582",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "18"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3779582",
+      "predicate": "http://schema.org/description",
+      "object": "учёный, изучающий микроорганизмы"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3779582",
+      "predicate": "http://schema.org/description",
+      "object": "biolog som studerar mikrobiologi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3779582",
+      "predicate": "http://schema.org/description",
+      "object": "person who investigates the characteristics of microscopic organisms"
+    }
+  ]
+}

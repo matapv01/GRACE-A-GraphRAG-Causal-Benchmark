@@ -1,0 +1,460 @@
+{
+  "clean": {
+    "question_id": "29814",
+    "answers": [
+      "http://www.wikidata.org/entity/Q14213",
+      "http://www.wikidata.org/entity/Q11147"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14213",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4997",
+        "object": "https://www.nga.org/governor/john-jay/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11147",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P8034",
+        "object": "495/167284"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/statement/Q310847-19411A22-43FB-407C-B098-F6F3DD42EC4A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q14213"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q11147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P5421",
+        "object": "42610"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "John_Jay_(10)"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "29814",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4997",
+        "object": "https://www.nga.org/governor/john-jay/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P8034",
+        "object": "495/167284"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/statement/Q310847-19411A22-43FB-407C-B098-F6F3DD42EC4A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P5421",
+        "object": "42610"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "John_Jay_(10)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q11147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q14213"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "29814",
+    "answers": [
+      "http://www.wikidata.org/entity/Q14213",
+      "http://www.wikidata.org/entity/Q11147"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14213",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4997",
+        "object": "https://www.nga.org/governor/john-jay/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11147",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P8034",
+        "object": "495/167284"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/statement/Q310847-19411A22-43FB-407C-B098-F6F3DD42EC4A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q14213"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q11147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P5421",
+        "object": "42610"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "John_Jay_(10)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "http://www.wikidata.org/entity/Q8882"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "http://www.wikidata.org/entity/Q11144"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "http://www.wikidata.org/entity/Q11147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "http://www.wikidata.org/entity/Q14211"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "http://www.wikidata.org/entity/Q25223"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "29814",
+    "answers": [
+      "http://www.wikidata.org/entity/Q14213",
+      "http://www.wikidata.org/entity/Q11147"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14213",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4997",
+        "object": "https://www.nga.org/governor/john-jay/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11147",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P8034",
+        "object": "495/167284"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/statement/Q310847-19411A22-43FB-407C-B098-F6F3DD42EC4A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q14213"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q11147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P5421",
+        "object": "42610"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "John_Jay_(10)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q827525"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q842490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q899770"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1043527"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1072120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1331152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1377612"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1480793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1764511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1928989"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "29814",
+    "answers": [
+      "http://www.wikidata.org/entity/Q8882"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4997",
+        "object": "https://www.nga.org/governor/john-jay/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P8034",
+        "object": "495/167284"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/P4997",
+        "object": "http://www.wikidata.org/entity/statement/Q310847-19411A22-43FB-407C-B098-F6F3DD42EC4A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P5421",
+        "object": "42610"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P4159",
+        "object": "John_Jay_(10)"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8882",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8882",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q8882"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q310847",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q8882"
+      }
+    ]
+  }
+}

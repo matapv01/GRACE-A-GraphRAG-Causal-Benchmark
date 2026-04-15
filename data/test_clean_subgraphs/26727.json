@@ -1,0 +1,43 @@
+{
+  "question_id": "26727",
+  "answers": [
+    "vie"
+  ],
+  "gold_path": {
+    "question_id": "26727",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9199",
+        "predicate": "http://www.wikidata.org/prop/direct/P219",
+        "object": "vie"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9199",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P218",
+      "object": "http://id.loc.gov/vocabulary/iso639-1/vi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9199",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P220",
+      "object": "http://lexvo.org/id/iso639-3/vie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9199",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4117376-4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9199",
+      "predicate": "http://www.wikidata.org/prop/P5996",
+      "object": "http://www.wikidata.org/entity/statement/Q9199-ACBEFBC2-3D5C-4551-9788-77A27DE893ED"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9199",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85143298"
+    }
+  ]
+}

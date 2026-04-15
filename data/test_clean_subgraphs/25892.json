@@ -1,0 +1,43 @@
+{
+  "question_id": "25892",
+  "answers": [
+    "http://www.wikidata.org/entity/Q51628"
+  ],
+  "gold_path": {
+    "question_id": "25892",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19809",
+        "predicate": "http://www.wikidata.org/prop/direct/P547",
+        "object": "http://www.wikidata.org/entity/Q51628"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19809",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T15:09:29Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19809",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Krismas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19809",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Noheli"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19809",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Kerstmis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19809",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Vánoce"
+    }
+  ]
+}

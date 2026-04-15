@@ -1,0 +1,48 @@
+{
+  "question_id": "8235",
+  "answers": [
+    "http://www.wikidata.org/entity/Q46992920"
+  ],
+  "gold_path": {
+    "question_id": "8235",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7747",
+        "predicate": "http://www.wikidata.org/prop/P1344",
+        "object": "http://www.wikidata.org/entity/statement/Q7747-bbfc9692-43f9-0581-f26a-3dc247a4f033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7747-bbfc9692-43f9-0581-f26a-3dc247a4f033",
+        "predicate": "ps:P1344",
+        "object": "http://www.wikidata.org/entity/Q46992920"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7747",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T11:06:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7747",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Уладзімер Уладзімеравіч Пуцін"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7747",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Putin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7747",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Weladimir bin Weladimir Putin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7747",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "पुतिन"
+    }
+  ]
+}

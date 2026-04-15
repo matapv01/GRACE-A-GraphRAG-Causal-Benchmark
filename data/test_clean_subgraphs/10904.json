@@ -1,0 +1,58 @@
+{
+  "question_id": "10904",
+  "answers": [
+    "593"
+  ],
+  "gold_path": {
+    "question_id": "10904",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47512",
+        "predicate": "http://www.wikidata.org/prop/P873",
+        "object": "http://www.wikidata.org/entity/statement/Q47512-73dd4063-477a-983d-a8aa-228795d6cf3d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47512-73dd4063-477a-983d-a8aa-228795d6cf3d",
+        "predicate": "ps:P873",
+        "object": "http://www.wikidata.org/entity/Q111059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47512-73dd4063-477a-983d-a8aa-228795d6cf3d",
+        "predicate": "pq:P2076",
+        "object": "593"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47512-73dd4063-477a-983d-a8aa-228795d6cf3d",
+        "predicate": "pq:P2077",
+        "object": "5.79"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://schema.org/description",
+      "object": "chemická zlúčenina"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://schema.org/description",
+      "object": "Ethansäure, einprotonige Carbonsäure"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://schema.org/description",
+      "object": "compost químic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://schema.org/description",
+      "object": "compuesto químico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://schema.org/description",
+      "object": "kemiallinen yhdiste"
+    }
+  ]
+}

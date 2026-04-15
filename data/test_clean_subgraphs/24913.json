@@ -1,0 +1,53 @@
+{
+  "question_id": "24913",
+  "answers": [
+    "http://www.wikidata.org/entity/Q111135"
+  ],
+  "gold_path": {
+    "question_id": "24913",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q111135",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1114461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q111135",
+        "predicate": "http://www.wikidata.org/prop/direct/P767",
+        "object": "http://www.wikidata.org/entity/Q2420722"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q111135",
+        "predicate": "rdfs:label",
+        "object": "Goofy"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q111135",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "40"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111135",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Goofy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111135",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Шиља"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111135",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Šilja"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q111135",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Långben"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "question_id": "20212",
+  "answers": [
+    "http://www.wikidata.org/entity/Q213849",
+    "http://www.wikidata.org/entity/Q1046482",
+    "http://www.wikidata.org/entity/Q17108081",
+    "http://www.wikidata.org/entity/Q28971311"
+  ],
+  "gold_path": {
+    "question_id": "20212",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q213849",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q128896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q213849",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1046482",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q128896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1046482",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17108081",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q128896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17108081",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28971311",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q128896"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28971311",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q213849",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://ati.amd.com/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213849",
+      "predicate": "http://www.wikidata.org/prop/direct/P910",
+      "object": "http://www.wikidata.org/entity/Q8217893"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213849",
+      "predicate": "http://www.wikidata.org/prop/direct/P2088",
+      "object": "ati-technologies"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213849",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q6881511"
+    }
+  ]
+}

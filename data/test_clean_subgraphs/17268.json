@@ -1,0 +1,48 @@
+{
+  "question_id": "17268",
+  "answers": [
+    "\\sharp"
+  ],
+  "gold_path": {
+    "question_id": "17268",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7001368",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q2542618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2542618",
+        "predicate": "http://www.wikidata.org/prop/direct/P1993",
+        "object": "\\sharp"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7001368",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P7033",
+      "object": "http://vocabulary.curriculum.edu.au/scot/417"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7001368",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "bemoll"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7001368",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7001368",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "béčko"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7001368",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "бэмоль"
+    }
+  ]
+}

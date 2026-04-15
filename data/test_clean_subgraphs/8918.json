@@ -1,0 +1,48 @@
+{
+  "question_id": "8918",
+  "answers": [
+    "http://www.wikidata.org/entity/Q236705"
+  ],
+  "gold_path": {
+    "question_id": "8918",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q162492",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/Q162492-47B23F96-882C-4875-A86C-28AD13F535B3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q162492-47B23F96-882C-4875-A86C-28AD13F535B3",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q236705"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q162492",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "كولين فيرث"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162492",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "کالین فرث"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162492",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Колін Фэрт"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162492",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Колин Фърт"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162492",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "কলিন ফার্থ"
+    }
+  ]
+}

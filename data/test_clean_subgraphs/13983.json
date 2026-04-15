@@ -1,0 +1,48 @@
+{
+  "question_id": "13983",
+  "answers": [
+    "http://www.wikidata.org/entity/Q476294"
+  ],
+  "gold_path": {
+    "question_id": "13983",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42865",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q476294"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q476294",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q4806809"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42865",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "40"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42865",
+      "predicate": "http://schema.org/description",
+      "object": "תרבות המזרח בראייה מערבית"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42865",
+      "predicate": "http://schema.org/description",
+      "object": "西欧近代におけるオリエント世界(西アジア)へのあこがれに根ざす文学・芸術上の風潮｡東方趣味､東洋趣味､異国趣味。"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42865",
+      "predicate": "http://schema.org/description",
+      "object": "течія переважно в західноєвропейському мистецтві"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42865",
+      "predicate": "http://schema.org/description",
+      "object": "mișcare literară și artistică ce a apărut în Europa de Vest în secolul al XVIII-lea; imitarea sau reprezentarea unor aspecte ale culturilor din Orientul Mijlociu și Asia de Est"
+    }
+  ]
+}

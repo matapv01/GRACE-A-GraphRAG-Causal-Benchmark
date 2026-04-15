@@ -1,0 +1,48 @@
+{
+  "question_id": "14500",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28034971"
+  ],
+  "gold_path": {
+    "question_id": "14500",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16390",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q60"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q60",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q28034971"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16390",
+      "predicate": "http://www.wikidata.org/prop/direct/P4823",
+      "object": "1800125"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16390",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Humphrey-Bogart-1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16390",
+      "predicate": "http://www.wikidata.org/prop/direct/P345",
+      "object": "nm0000007"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16390",
+      "predicate": "http://www.wikidata.org/prop/direct/P2028",
+      "object": "1123062"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16390",
+      "predicate": "http://www.wikidata.org/prop/direct/P2031",
+      "object": "1921-01-01T00:00:00Z"
+    }
+  ]
+}

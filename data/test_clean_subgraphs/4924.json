@@ -1,0 +1,48 @@
+{
+  "question_id": "4924",
+  "answers": [
+    "http://www.wikidata.org/entity/Q230641"
+  ],
+  "gold_path": {
+    "question_id": "4924",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q203268",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q203268-D5E87F97-6E0E-4A46-AF6A-CEF0AAF87440"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q203268-D5E87F97-6E0E-4A46-AF6A-CEF0AAF87440",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q230641"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q203268",
+      "predicate": "http://www.wikidata.org/prop/direct/P8796",
+      "object": "75320"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203268",
+      "predicate": "http://www.wikidata.org/prop/direct/P8309",
+      "object": "18-245433"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203268",
+      "predicate": "http://www.wikidata.org/prop/P8796",
+      "object": "http://www.wikidata.org/entity/statement/Q203268-EDD25849-BE33-40B1-B50E-949FF15CA019"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203268",
+      "predicate": "http://www.wikidata.org/prop/direct/P6839",
+      "object": "Creator/MichaelCHall"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q203268",
+      "predicate": "http://www.wikidata.org/prop/direct/P6886",
+      "object": "http://www.wikidata.org/entity/Q1860"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "question_id": "16136",
+  "answers": [
+    "http://www.wikidata.org/entity/Q142714",
+    "http://www.wikidata.org/entity/Q33972",
+    "http://www.wikidata.org/entity/Q1335161",
+    "http://www.wikidata.org/entity/Q192851",
+    "http://www.wikidata.org/entity/Q7889"
+  ],
+  "gold_path": {
+    "question_id": "16136",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1079957",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q45700"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q7889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q33972"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q142714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q192851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45700",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q1335161"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1079957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MARTIAL CHAMPION"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1079957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "マーシャル チャンピオン"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1079957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "マーシャル・チャンピオン"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1079957",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "マーシャルチャンピオン"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "20098",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6987295"
+  ],
+  "gold_path": {
+    "question_id": "20098",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36312",
+        "predicate": "http://www.wikidata.org/prop/direct/P1792",
+        "object": "http://www.wikidata.org/entity/Q6987295"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6987295",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4167836"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q36312",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36312",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "കാൽഗറി"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36312",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "קלגרי"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36312",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Calgary"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36312",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "カルガリー"
+    }
+  ]
+}

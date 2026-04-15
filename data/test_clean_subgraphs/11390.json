@@ -1,0 +1,53 @@
+{
+  "question_id": "11390",
+  "answers": [
+    "http://www.wikidata.org/entity/Q638519"
+  ],
+  "gold_path": {
+    "question_id": "11390",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q233989",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q233989-580BCD66-B9CE-40E8-A8B8-85F394F6C3B8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q233989-580BCD66-B9CE-40E8-A8B8-85F394F6C3B8",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q54030"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q233989-580BCD66-B9CE-40E8-A8B8-85F394F6C3B8",
+        "predicate": "pq:P2842",
+        "object": "http://www.wikidata.org/entity/Q638519"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q233989",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T18:12:46Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233989",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1523-10-28T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233989",
+      "predicate": "http://www.wikidata.org/prop/direct/P1871",
+      "object": "cnp01012666"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233989",
+      "predicate": "http://www.wikidata.org/prop/direct/P7666",
+      "object": "ona-jogailaite"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q233989",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/q233989-F16F66ED-E2F0-402A-80CB-722567B3C890"
+    }
+  ]
+}

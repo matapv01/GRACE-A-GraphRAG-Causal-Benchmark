@@ -1,0 +1,43 @@
+{
+  "question_id": "21691",
+  "answers": [
+    "http://www.wikidata.org/entity/Q62006073"
+  ],
+  "gold_path": {
+    "question_id": "21691",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q62006073",
+        "predicate": "http://www.wikidata.org/prop/direct/P277",
+        "object": "http://www.wikidata.org/entity/Q59"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q62006073",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q9158"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q62006073",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62006073",
+      "predicate": "http://schema.org/version",
+      "object": "2477766770"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62006073",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cockmail"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62006073",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "12"
+    }
+  ]
+}

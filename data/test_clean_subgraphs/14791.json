@@ -1,0 +1,54 @@
+{
+  "question_id": "14791",
+  "answers": [
+    "http://www.wikidata.org/entity/Q154340",
+    "http://www.wikidata.org/entity/Q5593"
+  ],
+  "gold_path": {
+    "question_id": "14791",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28553642",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q159907"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q159907",
+        "predicate": "http://www.wikidata.org/prop/direct/P737",
+        "object": "http://www.wikidata.org/entity/Q5593"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q159907",
+        "predicate": "http://www.wikidata.org/prop/direct/P737",
+        "object": "http://www.wikidata.org/entity/Q154340"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28553642",
+      "predicate": "http://schema.org/description",
+      "object": "pintura de David Hockney"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28553642",
+      "predicate": "http://schema.org/description",
+      "object": "quadre de David Hockney"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28553642",
+      "predicate": "http://schema.org/description",
+      "object": "maleri af David Hockney"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28553642",
+      "predicate": "http://schema.org/description",
+      "object": "Gemälde von David Hockney"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28553642",
+      "predicate": "http://schema.org/description",
+      "object": "painting by David Hockney"
+    }
+  ]
+}

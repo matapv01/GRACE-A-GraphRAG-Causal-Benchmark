@@ -1,0 +1,83 @@
+{
+  "question_id": "10128",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3629023",
+    "http://www.wikidata.org/entity/Q4413456",
+    "http://www.wikidata.org/entity/Q202440",
+    "http://www.wikidata.org/entity/Q770103",
+    "http://www.wikidata.org/entity/Q183412",
+    "http://www.wikidata.org/entity/Q18628"
+  ],
+  "gold_path": {
+    "question_id": "10128",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q18628"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q11366"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q83270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q379671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q183412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q202440"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q770103"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q3629023"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483802",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q4413456"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q483802",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Niklbek"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483802",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nickelback"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483802",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "نيكيلباك"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483802",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "نیکل بک"
+    }
+  ]
+}

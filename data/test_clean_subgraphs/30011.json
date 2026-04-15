@@ -1,0 +1,81 @@
+{
+  "question_id": "30011",
+  "answers": [
+    "http://www.wikidata.org/entity/Q131760292",
+    "http://www.wikidata.org/entity/Q5973006",
+    "http://www.wikidata.org/entity/Q21286202",
+    "http://www.wikidata.org/entity/Q1554004"
+  ],
+  "gold_path": {
+    "question_id": "30011",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1554004",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q11024"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1554004",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5973006",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q11024"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5973006",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21286202",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q11024"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21286202",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131760292",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q11024"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131760292",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q618779"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1554004",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1554004",
+      "predicate": "http://schema.org/description",
+      "object": "award"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1554004",
+      "predicate": "http://schema.org/description",
+      "object": "нагорода"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1554004",
+      "predicate": "http://schema.org/description",
+      "object": "Cena za svobodu projevu (UNESCO)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1554004",
+      "predicate": "http://schema.org/description",
+      "object": "von der UNESCO vergebene Auszeichnung für besonderen Einsatz für die Pressefreiheit"
+    }
+  ]
+}

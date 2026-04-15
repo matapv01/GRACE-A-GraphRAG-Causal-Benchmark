@@ -1,0 +1,59 @@
+{
+  "question_id": "17029",
+  "answers": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+  ],
+  "gold_path": {
+    "question_id": "17029",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q8481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8481",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Sternum.stl"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q196672",
+        "predicate": "http://www.wikidata.org/prop/direct/P2789",
+        "object": "http://www.wikidata.org/entity/Q578786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q578786",
+        "predicate": "http://www.wikidata.org/prop/direct/P4896",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BodyParts3D%20Thoracic%20vertebrae.stl"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q196672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "rib"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q196672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "دنده"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q196672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "kostezenn"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q196672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ribben"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q196672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ripo"
+    }
+  ]
+}

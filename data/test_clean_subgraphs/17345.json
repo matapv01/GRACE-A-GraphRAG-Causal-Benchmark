@@ -1,0 +1,71 @@
+{
+  "question_id": "17345",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16204167",
+    "http://www.wikidata.org/entity/Q123908460",
+    "http://www.wikidata.org/entity/Q11686474",
+    "http://www.wikidata.org/entity/Q259317"
+  ],
+  "gold_path": {
+    "question_id": "17345",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21498061",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q1185824"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1185824",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q259317"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1185824",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q11686474"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1185824",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q123908460"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21498061",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q1543066"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1543066",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q16204167"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21498061",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21498061",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21498061",
+      "predicate": "http://www.wikidata.org/prop/direct/P10302",
+      "object": "ben-wizner"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21498061",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q21498061-CFE4680A-318C-4D8E-A55E-F0085BCF9A20"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21498061",
+      "predicate": "http://www.wikidata.org/prop/P10302",
+      "object": "http://www.wikidata.org/entity/statement/Q21498061-01b29718-1dcd-41aa-a274-dd803c19f60d"
+    }
+  ]
+}

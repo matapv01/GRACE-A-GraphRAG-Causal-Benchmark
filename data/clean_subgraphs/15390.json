@@ -1,0 +1,48 @@
+{
+  "question_id": "15390",
+  "answers": [
+    "http://www.wikidata.org/entity/Q677706"
+  ],
+  "gold_path": {
+    "question_id": "15390",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7289442",
+        "predicate": "http://www.wikidata.org/prop/direct/P184",
+        "object": "http://www.wikidata.org/entity/Q92638"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q92638",
+        "predicate": "http://www.wikidata.org/prop/direct/P737",
+        "object": "http://www.wikidata.org/entity/Q677706"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7289442",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q7289371"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7289442",
+      "predicate": "http://www.wikidata.org/prop/direct/P4955",
+      "object": "163230"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7289442",
+      "predicate": "http://www.wikidata.org/prop/direct/P549",
+      "object": "82165"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7289442",
+      "predicate": "http://www.wikidata.org/prop/P735",
+      "object": "http://www.wikidata.org/entity/statement/Q7289442-53BE4045-E51E-4DC4-811F-2D7248BF8D94"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7289442",
+      "predicate": "http://www.wikidata.org/prop/direct/P2456",
+      "object": "s/RameshKSitaraman"
+    }
+  ]
+}

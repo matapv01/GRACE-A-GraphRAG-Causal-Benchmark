@@ -1,0 +1,53 @@
+{
+  "question_id": "4951",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18810062"
+  ],
+  "gold_path": {
+    "question_id": "4951",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q191203",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q191203-17f3f5aa-411a-2332-d056-12a286edccf6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q191203-17f3f5aa-411a-2332-d056-12a286edccf6",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18810062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q191203-17f3f5aa-411a-2332-d056-12a286edccf6",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q192925"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q191203",
+      "predicate": "http://www.wikidata.org/prop/direct/P3241",
+      "object": "05324a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191203",
+      "predicate": "http://www.wikidata.org/prop/P3241",
+      "object": "http://www.wikidata.org/entity/statement/Q191203-9F59F238-8740-4EB1-8A72-0F0E74ED692E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191203",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "42"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191203",
+      "predicate": "http://www.wikidata.org/prop/direct/P4638",
+      "object": "p10243.htm#i102430"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191203",
+      "predicate": "http://www.wikidata.org/prop/direct/P4159",
+      "object": "Eadwig_of_England_(1)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "14102",
+  "answers": [
+    "http://www.wikidata.org/entity/Q801"
+  ],
+  "gold_path": {
+    "question_id": "14102",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q162843",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q801"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q801",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q213"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q162843",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Пустыня Негев"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162843",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Фаран"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162843",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Negevská púšť"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162843",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Негеб"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162843",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Неђев"
+    }
+  ]
+}

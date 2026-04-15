@@ -1,0 +1,43 @@
+{
+  "question_id": "27604",
+  "answers": [
+    "200"
+  ],
+  "gold_path": {
+    "question_id": "27604",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q213220",
+        "predicate": "http://www.wikidata.org/prop/direct/P5493",
+        "object": "200"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q213220",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "154"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213220",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Aldine"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213220",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bassianus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213220",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Romanus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213220",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Aldus"
+    }
+  ]
+}

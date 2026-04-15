@@ -1,0 +1,53 @@
+{
+  "question_id": "8287",
+  "answers": [
+    "1671-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8287",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41166",
+        "predicate": "http://www.wikidata.org/prop/P551",
+        "object": "http://www.wikidata.org/entity/statement/Q41166-4A95937F-B2D0-4B6C-ABA3-EAFEEC478252"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41166-4A95937F-B2D0-4B6C-ABA3-EAFEEC478252",
+        "predicate": "ps:P551",
+        "object": "http://www.wikidata.org/entity/Q1012481"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41166-4A95937F-B2D0-4B6C-ABA3-EAFEEC478252",
+        "predicate": "pq:P582",
+        "object": "1671-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41166",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T22:05:47Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41166",
+      "predicate": "http://www.wikidata.org/prop/direct/P5478",
+      "object": "swift-jonathan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41166",
+      "predicate": "http://www.wikidata.org/prop/direct/P4772",
+      "object": "496"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41166",
+      "predicate": "http://www.wikidata.org/prop/direct/P4928",
+      "object": "s/Swift_J/life"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41166",
+      "predicate": "http://www.wikidata.org/prop/direct/P2799",
+      "object": "2146"
+    }
+  ]
+}

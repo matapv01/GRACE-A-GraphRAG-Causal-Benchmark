@@ -1,0 +1,48 @@
+{
+  "question_id": "13675",
+  "answers": [
+    "http://www.wikidata.org/entity/Q183257"
+  ],
+  "gold_path": {
+    "question_id": "13675",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12135",
+        "predicate": "http://www.wikidata.org/prop/direct/P1995",
+        "object": "http://www.wikidata.org/entity/Q183257"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q183257",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q212980"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12135",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/q12135-4ff989dd-47fa-14e9-1116-018c4bb49202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12135",
+      "predicate": "http://www.wikidata.org/prop/direct/P4229",
+      "object": "F99"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12135",
+      "predicate": "http://www.wikidata.org/prop/direct/P4229",
+      "object": "F99-F99"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12135",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4047686-8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12135",
+      "predicate": "http://www.wikidata.org/prop/direct/P8408",
+      "object": "PsychologicalAilment"
+    }
+  ]
+}

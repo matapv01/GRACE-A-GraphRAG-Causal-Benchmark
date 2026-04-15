@@ -1,0 +1,38 @@
+{
+  "question_id": "14401",
+  "answers": [
+    "http://www.wikidata.org/entity/Q127216"
+  ],
+  "gold_path": {
+    "question_id": "14401",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1677001",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P2238",
+        "object": "http://www.wikidata.org/entity/Q127216"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1677001",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "25"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1677001",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "জ্যাক কোল"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1677001",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Jack Cole"
+    }
+  ]
+}

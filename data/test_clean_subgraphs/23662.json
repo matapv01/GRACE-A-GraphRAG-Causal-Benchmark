@@ -1,0 +1,48 @@
+{
+  "question_id": "23662",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1146902"
+  ],
+  "gold_path": {
+    "question_id": "23662",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1146902",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q54928607"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1146902",
+        "predicate": "rdfs:label",
+        "object": "underweight"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146902",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P508",
+      "object": "http://purl.org/bncf/tid/52395"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146902",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p10828"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146902",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85075512"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146902",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4186979-5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1146902",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2781121325"
+    }
+  ]
+}

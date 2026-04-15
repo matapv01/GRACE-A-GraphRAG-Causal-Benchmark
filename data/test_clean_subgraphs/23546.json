@@ -1,0 +1,54 @@
+{
+  "question_id": "23546",
+  "answers": [
+    "http://www.wikidata.org/entity/Q244891",
+    "http://www.wikidata.org/entity/Q956699"
+  ],
+  "gold_path": {
+    "question_id": "23546",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q244891",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43516519"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q244891",
+        "predicate": "rdfs:label",
+        "object": "Boxing Week"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q956699",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43516519"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q956699",
+        "predicate": "rdfs:label",
+        "object": "Boxing Day"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q244891",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-12-23T20:23:34Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244891",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "mellandagarna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244891",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "romjul"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244891",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zwischen den Jahren"
+    }
+  ]
+}

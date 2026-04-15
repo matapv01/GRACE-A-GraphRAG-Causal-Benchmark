@@ -1,0 +1,60 @@
+{
+  "question_id": "17496",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5",
+    "http://www.wikidata.org/entity/Q11068",
+    "http://www.wikidata.org/entity/Q169953"
+  ],
+  "gold_path": {
+    "question_id": "17496",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q423021",
+        "predicate": "http://www.wikidata.org/prop/direct/P1542",
+        "object": "http://www.wikidata.org/entity/Q21174157"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21174157",
+        "predicate": "http://www.wikidata.org/prop/direct/P689",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21174157",
+        "predicate": "http://www.wikidata.org/prop/direct/P689",
+        "object": "http://www.wikidata.org/entity/Q11068"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21174157",
+        "predicate": "http://www.wikidata.org/prop/direct/P689",
+        "object": "http://www.wikidata.org/entity/Q169953"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q423021",
+      "predicate": "http://www.wikidata.org/prop/P4842",
+      "object": "http://www.wikidata.org/entity/statement/Q423021-bca591b5-41ed-8f01-492e-9e0de7610583"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q423021",
+      "predicate": "http://www.wikidata.org/prop/direct/P4842",
+      "object": "12"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q423021",
+      "predicate": "http://www.wikidata.org/prop/P4964",
+      "object": "http://www.wikidata.org/entity/statement/Q423021-1A891D9E-6854-4413-92E4-3A477421C416"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q423021",
+      "predicate": "http://www.wikidata.org/prop/P592",
+      "object": "http://www.wikidata.org/entity/statement/Q423021-4E3D004A-4373-479A-9D46-9B70072CF16F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q423021",
+      "predicate": "http://www.wikidata.org/prop/P2993",
+      "object": "http://www.wikidata.org/entity/statement/Q423021-ca51a81b-46c6-1451-c9b6-e6d1174c0083"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "13864",
+  "answers": [
+    "http://www.wikidata.org/entity/Q457860"
+  ],
+  "gold_path": {
+    "question_id": "13864",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q669430",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q457860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q457860",
+        "predicate": "http://www.wikidata.org/prop/direct/P103",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q669430",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "10"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q669430",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "23"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q669430",
+      "predicate": "http://schema.org/version",
+      "object": "2477836435"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q669430",
+      "predicate": "http://www.wikidata.org/prop/P6517",
+      "object": "http://www.wikidata.org/entity/statement/Q669430-7dba0f3f-4057-91b3-db50-43e14ac63edb"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q669430",
+      "predicate": "http://www.wikidata.org/prop/direct/P6517",
+      "object": "Onyanko-Club"
+    }
+  ]
+}

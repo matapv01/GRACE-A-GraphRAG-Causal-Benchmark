@@ -1,0 +1,43 @@
+{
+  "question_id": "9984",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6649"
+  ],
+  "gold_path": {
+    "question_id": "9984",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q160456",
+        "predicate": "http://www.wikidata.org/prop/direct/P91",
+        "object": "http://www.wikidata.org/entity/Q6649"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q160456",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581072"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q160456",
+      "predicate": "http://www.wikidata.org/prop/direct/P6488",
+      "object": "angela-davis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160456",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q160456-3BA88B3E-976B-4CD8-B941-E23CCA8590D5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160456",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P648",
+      "object": "http://openlibrary.org/works/OL396182A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160456",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Angela Davis"
+    }
+  ]
+}

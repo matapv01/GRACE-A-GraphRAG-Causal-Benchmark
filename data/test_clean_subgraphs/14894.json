@@ -1,0 +1,84 @@
+{
+  "question_id": "14894",
+  "answers": [
+    "http://www.wikidata.org/entity/Q232913",
+    "http://www.wikidata.org/entity/Q2984138",
+    "http://www.wikidata.org/entity/Q1067",
+    "http://www.wikidata.org/entity/Q115457",
+    "http://www.wikidata.org/entity/Q208633",
+    "http://www.wikidata.org/entity/Q2044",
+    "http://www.wikidata.org/entity/Q545578"
+  ],
+  "gold_path": {
+    "question_id": "14894",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1763678",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q5221207"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5221207",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q1067"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5221207",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q2044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5221207",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q115457"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5221207",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q208633"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5221207",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q232913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5221207",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q545578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5221207",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q2984138"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1763678",
+      "predicate": "http://schema.org/description",
+      "object": "فنان بريطاني"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1763678",
+      "predicate": "http://schema.org/description",
+      "object": "ব্রিটিশ শিল্পী"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1763678",
+      "predicate": "http://schema.org/description",
+      "object": "artista britànic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1763678",
+      "predicate": "http://schema.org/description",
+      "object": "artista británico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1763678",
+      "predicate": "http://schema.org/description",
+      "object": "Suurbritannia kunstnik"
+    }
+  ]
+}

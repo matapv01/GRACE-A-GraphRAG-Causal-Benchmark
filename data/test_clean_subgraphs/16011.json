@@ -1,0 +1,48 @@
+{
+  "question_id": "16011",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6655"
+  ],
+  "gold_path": {
+    "question_id": "16011",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4783249",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q3572"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3572",
+        "predicate": "http://www.wikidata.org/prop/direct/P421",
+        "object": "http://www.wikidata.org/entity/Q6655"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4783249",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-03T10:44:15Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4783249",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n81129573"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4783249",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/263937746"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4783249",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n81129573"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4783249",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/5032481-0"
+    }
+  ]
+}

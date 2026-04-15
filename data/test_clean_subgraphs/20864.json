@@ -1,0 +1,48 @@
+{
+  "question_id": "20864",
+  "answers": [
+    "http://www.wikidata.org/entity/Q83835"
+  ],
+  "gold_path": {
+    "question_id": "20864",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193002",
+        "predicate": "http://www.wikidata.org/prop/direct/P137",
+        "object": "http://www.wikidata.org/entity/Q83835"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83835",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q249556"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193002",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "68"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193002",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Gotthard-basistonnel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193002",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "نفق قاعدة غوتارد"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193002",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Túnel de base de San Gotardu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193002",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Qotard tuneli"
+    }
+  ]
+}

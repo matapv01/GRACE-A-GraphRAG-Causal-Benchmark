@@ -1,0 +1,48 @@
+{
+  "question_id": "6715",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3323440"
+  ],
+  "gold_path": {
+    "question_id": "6715",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q152768",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q152768-5FD8AF3E-0158-4BBF-8F8B-4A8043AE6395"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q152768-5FD8AF3E-0158-4BBF-8F8B-4A8043AE6395",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3323440"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q152768",
+      "predicate": "http://www.wikidata.org/prop/direct/P3106",
+      "object": "music/daniel-barenboim"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152768",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152768",
+      "predicate": "http://www.wikidata.org/prop/direct/P3430",
+      "object": "w60k2bb2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152768",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Daniel_Barenboim"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152768",
+      "predicate": "http://www.wikidata.org/prop/direct/P1005",
+      "object": "139605"
+    }
+  ]
+}

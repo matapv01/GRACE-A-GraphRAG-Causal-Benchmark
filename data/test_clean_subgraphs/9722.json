@@ -1,0 +1,43 @@
+{
+  "question_id": "9722",
+  "answers": [
+    "http://www.wikidata.org/entity/Q20"
+  ],
+  "gold_path": {
+    "question_id": "9722",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q106807",
+        "predicate": "http://www.wikidata.org/prop/direct/P1532",
+        "object": "http://www.wikidata.org/entity/Q20"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106807",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q718"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q106807",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Magnus Øen Carlsen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106807",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sven Magnus Øen Carlsen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106807",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "سفين ماغنوس أوين كارلسن"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q106807",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Магнюс Карлсен"
+    }
+  ]
+}

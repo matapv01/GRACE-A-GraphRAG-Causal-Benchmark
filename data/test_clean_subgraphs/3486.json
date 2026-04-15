@@ -1,0 +1,53 @@
+{
+  "question_id": "3486",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28693488"
+  ],
+  "gold_path": {
+    "question_id": "3486",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28693488",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q17152639"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28693488",
+        "predicate": "http://www.wikidata.org/prop/direct/P3575",
+        "object": "45883"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28693488",
+        "predicate": "http://www.wikidata.org/prop/direct/P1687",
+        "object": "http://www.wikidata.org/entity/P3633"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28693488",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28693488",
+      "predicate": "http://www.wikidata.org/prop/P973",
+      "object": "http://www.wikidata.org/entity/statement/Q28693488-b3493c45-4ebc-49a8-5427-2f085a402c63"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28693488",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "مكنز مكان في المتحف البريطاني"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28693488",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "tesaurus de lloc del Museu Britànic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28693488",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "British Museum place thesaurus"
+    }
+  ]
+}

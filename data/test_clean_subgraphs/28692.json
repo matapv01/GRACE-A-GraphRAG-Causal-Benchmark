@@ -1,0 +1,43 @@
+{
+  "question_id": "28692",
+  "answers": [
+    "http://www.wikidata.org/entity/Q168"
+  ],
+  "gold_path": {
+    "question_id": "28692",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q168",
+        "predicate": "http://www.wikidata.org/prop/direct/P4878",
+        "object": "http://www.wikidata.org/entity/Q167"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q168",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+      "object": "http://babelnet.org/rdf/s00062196n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "pí"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Pi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "पाय"
+    }
+  ]
+}

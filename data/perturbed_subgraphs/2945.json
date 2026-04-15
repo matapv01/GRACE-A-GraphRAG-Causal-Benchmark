@@ -8,28 +8,18 @@
     "triples": [
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/P646",
-        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
         "predicate": "http://www.wikidata.org/prop/direct/P1435",
         "object": "http://www.wikidata.org/entity/Q916333"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://wikiba.se/ontology#identifiers",
-        "object": "13"
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
-        "object": "https://sws.geonames.org/2745816/"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
-        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
+        "predicate": "http://www.wikidata.org/prop/direct/P3041",
+        "object": "11000"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
@@ -43,8 +33,18 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P3041",
-        "object": "11000"
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
+        "object": "https://sws.geonames.org/2745816/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2778629",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "13"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2778629",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
+        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
@@ -59,7 +59,58 @@
       "http://www.wikidata.org/entity/Q2778629"
     ],
     "perturbation_type": "broken",
-    "triples": []
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2778629"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "https://sws.geonames.org/2745816/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "13"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q2778629-58c10e5e-473b-82ef-1de4-dd6ad8d1dd09"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "11000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q916333"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "45000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q4989906"
+      }
+    ]
   },
   "type_matching": {
     "question_id": "2945",
@@ -70,28 +121,18 @@
     "triples": [
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/P646",
-        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
         "predicate": "http://www.wikidata.org/prop/direct/P1435",
         "object": "http://www.wikidata.org/entity/Q916333"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://wikiba.se/ontology#identifiers",
-        "object": "13"
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
-        "object": "https://sws.geonames.org/2745816/"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
-        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
+        "predicate": "http://www.wikidata.org/prop/direct/P3041",
+        "object": "11000"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
@@ -105,8 +146,18 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P3041",
-        "object": "11000"
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
+        "object": "https://sws.geonames.org/2745816/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2778629",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "13"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2778629",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
+        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
@@ -114,29 +165,29 @@
         "object": "http://www.wikidata.org/entity/statement/Q2778629-58c10e5e-473b-82ef-1de4-dd6ad8d1dd09"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q908251"
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q11784"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q911787"
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q20669"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q911805"
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q39858"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q911835"
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q43244"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q911848"
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q45976"
       }
     ]
   },
@@ -149,28 +200,18 @@
     "triples": [
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/P646",
-        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
         "predicate": "http://www.wikidata.org/prop/direct/P1435",
         "object": "http://www.wikidata.org/entity/Q916333"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://wikiba.se/ontology#identifiers",
-        "object": "13"
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
-        "object": "https://sws.geonames.org/2745816/"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
-        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
+        "predicate": "http://www.wikidata.org/prop/direct/P3041",
+        "object": "11000"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
@@ -184,8 +225,18 @@
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P3041",
-        "object": "11000"
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
+        "object": "https://sws.geonames.org/2745816/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2778629",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "13"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2778629",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
+        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
       },
       {
         "subject": "http://www.wikidata.org/entity/Q2778629",
@@ -193,8 +244,63 @@
         "object": "http://www.wikidata.org/entity/statement/Q2778629-58c10e5e-473b-82ef-1de4-dd6ad8d1dd09"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
         "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
         "object": "http://www.wikidata.org/entity/Q145"
       },
       {
@@ -248,63 +354,8 @@
         "object": "http://www.wikidata.org/entity/Q84"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q31"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P6",
-        "object": "http://www.wikidata.org/entity/Q336599"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P15",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P17",
-        "object": "http://www.wikidata.org/entity/Q31"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P18",
-        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P30",
-        "object": "http://www.wikidata.org/entity/Q46"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q6256"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q43702"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q3624078"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P35",
-        "object": "http://www.wikidata.org/entity/Q155004"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q31",
-        "predicate": "http://www.wikidata.org/prop/direct/P36",
-        "object": "http://www.wikidata.org/entity/Q239"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q2778629",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
         "object": "http://www.wikidata.org/entity/Q1860"
       },
       {
@@ -367,47 +418,47 @@
     "perturbation_type": "swapping",
     "triples": [
       {
-        "subject": "http://www.wikidata.org/entity/Q908251",
-        "predicate": "http://www.wikidata.org/prop/P646",
-        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q908251",
+        "subject": "http://www.wikidata.org/entity/Q11784",
         "predicate": "http://www.wikidata.org/prop/direct/P1435",
         "object": "http://www.wikidata.org/entity/Q916333"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q908251",
-        "predicate": "http://wikiba.se/ontology#identifiers",
-        "object": "13"
+        "subject": "http://www.wikidata.org/entity/Q11784",
+        "predicate": "http://www.wikidata.org/prop/P646",
+        "object": "http://www.wikidata.org/entity/statement/Q2778629-EC4B52A7-66A4-47B7-9C60-B9D2066B4295"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q908251",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
-        "object": "https://sws.geonames.org/2745816/"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q908251",
-        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
-        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q908251",
-        "predicate": "http://www.wikidata.org/prop/direct/P3041",
-        "object": "45000"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q908251",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q4989906"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q908251",
+        "subject": "http://www.wikidata.org/entity/Q11784",
         "predicate": "http://www.wikidata.org/prop/direct/P3041",
         "object": "11000"
       },
       {
-        "subject": "http://www.wikidata.org/entity/Q908251",
+        "subject": "http://www.wikidata.org/entity/Q11784",
+        "predicate": "http://www.wikidata.org/prop/direct/P3041",
+        "object": "45000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11784",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4989906"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11784",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1566",
+        "object": "https://sws.geonames.org/2745816/"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11784",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "13"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11784",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P5208",
+        "object": "http://bag.basisregistraties.overheid.nl/bag/id/pand/0373100000016150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11784",
         "predicate": "http://www.wikidata.org/prop/P31",
         "object": "http://www.wikidata.org/entity/statement/Q2778629-58c10e5e-473b-82ef-1de4-dd6ad8d1dd09"
       }

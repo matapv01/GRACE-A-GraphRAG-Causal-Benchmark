@@ -1,0 +1,48 @@
+{
+  "question_id": "17520",
+  "answers": [
+    "1638-01-11T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "17520",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q842427",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q151722"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151722",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1638-01-11T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q842427",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-11-25T05:31:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q842427",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Law-of-Superposition"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q842427",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q842427-75AF252E-DB6E-4CC7-9DFF-657735D427EB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q842427",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q1550643"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q842427",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/02pdh5"
+    }
+  ]
+}

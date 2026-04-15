@@ -1,0 +1,48 @@
+{
+  "question_id": "11986",
+  "answers": [
+    "http://www.wikidata.org/entity/Q794"
+  ],
+  "gold_path": {
+    "question_id": "11986",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q171551",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q794",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q180075"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q171551",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "خراسان الجنوبیة"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171551",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "محافظة خراسان الجنوبية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171551",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "محافظة خراسان جنوبي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171551",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "محافظة خراسان جنوبی"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q171551",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Cənubi Xorasan"
+    }
+  ]
+}

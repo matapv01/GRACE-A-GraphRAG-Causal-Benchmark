@@ -1,0 +1,48 @@
+{
+  "question_id": "17187",
+  "answers": [
+    "000000"
+  ],
+  "gold_path": {
+    "question_id": "17187",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q177463",
+        "predicate": "http://www.wikidata.org/prop/direct/P462",
+        "object": "http://www.wikidata.org/entity/Q23445"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23445",
+        "predicate": "http://www.wikidata.org/prop/direct/P465",
+        "object": "000000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q177463",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85022633"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177463",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4126285-2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177463",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P3832",
+      "object": "http://thesaurus.europeanafashion.eu/thesaurus/10816"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177463",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4212",
+      "object": "https://ark.frantiq.fr/ark:/26678/pcrt4GtjAItlOn"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q177463",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2347",
+      "object": "http://www.yso.fi/onto/yso/p12089"
+    }
+  ]
+}

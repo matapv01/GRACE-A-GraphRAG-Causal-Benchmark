@@ -1,0 +1,43 @@
+{
+  "question_id": "27829",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21102938"
+  ],
+  "gold_path": {
+    "question_id": "27829",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21102938",
+        "predicate": "http://www.wikidata.org/prop/direct/P1604",
+        "object": "http://www.wikidata.org/entity/Q199"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21102938",
+      "predicate": "http://www.wikidata.org/prop/P3253",
+      "object": "http://www.wikidata.org/entity/statement/Q21102938-2eb6b9b2-4ac0-009a-c893-4efa73a85dbe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21102938",
+      "predicate": "http://www.wikidata.org/prop/direct/P3253",
+      "object": "37"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21102938",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q21102938-5C16DB10-979B-46C9-8E1E-21B734938CAA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21102938",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q21102938-6e885a45-4a6d-ac08-e2de-124d43c8371c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21102938",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P685",
+      "object": "http://purl.uniprot.org/taxonomy/511145"
+    }
+  ]
+}

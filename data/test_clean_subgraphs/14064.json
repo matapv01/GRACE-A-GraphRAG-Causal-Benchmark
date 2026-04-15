@@ -1,0 +1,43 @@
+{
+  "question_id": "14064",
+  "answers": [
+    "http://www.wikidata.org/entity/Q134907"
+  ],
+  "gold_path": {
+    "question_id": "14064",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131662",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q134907"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131662",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/PolokwaneCanvas.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131662",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q131662-A9719DB8-1D42-4132-8867-EA06D05A2685"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131662",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q131662-C6124C99-DE63-4DE6-96EA-7893CBF57A57"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131662",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://polokwane.gov.za"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131662",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "237011326"
+    }
+  ]
+}

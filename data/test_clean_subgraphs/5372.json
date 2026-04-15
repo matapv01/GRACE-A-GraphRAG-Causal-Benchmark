@@ -1,0 +1,53 @@
+{
+  "question_id": "5372",
+  "answers": [
+    "0775-10-10T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5372",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q31066",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q31066-52d6d3db-4d9c-39a4-a9ac-765563b4bc5e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q31066-52d6d3db-4d9c-39a4-a9ac-765563b4bc5e",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q28541943"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q31066-52d6d3db-4d9c-39a4-a9ac-765563b4bc5e",
+        "predicate": "pq:P582",
+        "object": "0775-10-10T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q31066",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-29T12:44:37Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31066",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/001186088"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31066",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6821",
+      "object": "http://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:61961"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31066",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "abu-gafar-al-mansur"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31066",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/3267911"
+    }
+  ]
+}

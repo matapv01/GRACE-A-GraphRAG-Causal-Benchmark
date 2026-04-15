@@ -1,0 +1,103 @@
+{
+  "question_id": "24813",
+  "answers": [
+    "http://www.wikidata.org/entity/Q57655560",
+    "http://www.wikidata.org/entity/Q5015128",
+    "http://www.wikidata.org/entity/Q112149813",
+    "http://www.wikidata.org/entity/Q131427665",
+    "http://www.wikidata.org/entity/Q117112914",
+    "http://www.wikidata.org/entity/Q106514250"
+  ],
+  "gold_path": {
+    "question_id": "24813",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5015128",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5015128",
+        "predicate": "rdfs:label",
+        "object": "C corporation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57655560",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q57655560",
+        "predicate": "rdfs:label",
+        "object": "corporation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106514250",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106514250",
+        "predicate": "rdfs:label",
+        "object": "county government in California"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q112149813",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q112149813",
+        "predicate": "rdfs:label",
+        "object": "California corporation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q117112914",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q117112914",
+        "predicate": "rdfs:label",
+        "object": "California general stock corporation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131427665",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q57653825"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131427665",
+        "predicate": "rdfs:label",
+        "object": "charter county"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5015128",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "corporació C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5015128",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "C corporation"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5015128",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "corporación C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5015128",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "C型公司"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5015128",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "4"
+    }
+  ]
+}

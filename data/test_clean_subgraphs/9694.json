@@ -1,0 +1,49 @@
+{
+  "question_id": "9694",
+  "answers": [
+    "http://www.wikidata.org/entity/Q205766",
+    "http://www.wikidata.org/entity/Q47740"
+  ],
+  "gold_path": {
+    "question_id": "9694",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q432",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q47740"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q432",
+        "predicate": "http://www.wikidata.org/prop/direct/P457",
+        "object": "http://www.wikidata.org/entity/Q428"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q432",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q205766"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Islam"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "islam"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ислам"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q432",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Musulunsi"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "20063",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1146293"
+  ],
+  "gold_path": {
+    "question_id": "20063",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q719725",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q1146293"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1146293",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q719725",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Backhefe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q719725",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "فطريات الخميرة"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q719725",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "فطريات الخميره"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q719725",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Saccharomyces cerevisiae"
+    }
+  ]
+}

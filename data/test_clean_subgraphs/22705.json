@@ -1,0 +1,48 @@
+{
+  "question_id": "22705",
+  "answers": [
+    "http://www.wikidata.org/entity/Q131723"
+  ],
+  "gold_path": {
+    "question_id": "22705",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131723",
+        "predicate": "http://www.wikidata.org/prop/direct/P178",
+        "object": "http://www.wikidata.org/entity/Q13382352"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131723",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q341"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131723",
+      "predicate": "http://schema.org/version",
+      "object": "2480747033"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131723",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "BTC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131723",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "البت كوين"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131723",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Microcoin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131723",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Millicoin"
+    }
+  ]
+}

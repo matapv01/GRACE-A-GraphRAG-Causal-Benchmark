@@ -1,0 +1,48 @@
+{
+  "question_id": "6486",
+  "answers": [
+    "1993-01-21T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6486",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q192314",
+        "predicate": "http://www.wikidata.org/prop/P3761",
+        "object": "http://www.wikidata.org/entity/statement/Q192314-0CA5F9BF-457C-4148-B40B-AC1CB5C5FF60"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q192314-0CA5F9BF-457C-4148-B40B-AC1CB5C5FF60",
+        "predicate": "pq:P580",
+        "object": "1993-01-21T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q192314",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1617",
+      "object": "http://www.bbc.co.uk/things/f650d44e-cd52-4d85-a150-9e54fcf72c41#id"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192314",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/no2002000775"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192314",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/126697014"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192314",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/267690881"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192314",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4527",
+      "object": "http://data.parliament.uk/terms/41706"
+    }
+  ]
+}

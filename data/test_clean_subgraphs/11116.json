@@ -1,0 +1,53 @@
+{
+  "question_id": "11116",
+  "answers": [
+    "http://www.wikidata.org/entity/Q395"
+  ],
+  "gold_path": {
+    "question_id": "11116",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q298521",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q298521-F42B75B2-B735-4036-BDA1-2C6F7F5D163F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q298521-F42B75B2-B735-4036-BDA1-2C6F7F5D163F",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q13371"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q298521-F42B75B2-B735-4036-BDA1-2C6F7F5D163F",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q395"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q298521",
+      "predicate": "http://www.wikidata.org/prop/direct/P8849",
+      "object": "28144997"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298521",
+      "predicate": "http://www.wikidata.org/prop/direct/P8179",
+      "object": "ncf12077175"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298521",
+      "predicate": "http://www.wikidata.org/prop/direct/P6886",
+      "object": "http://www.wikidata.org/entity/Q1860"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298521",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007264093605171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q298521",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Saul_A._Kripke"
+    }
+  ]
+}

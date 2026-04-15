@@ -1,0 +1,58 @@
+{
+  "question_id": "10688",
+  "answers": [
+    "1969-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10688",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7546",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q7546-E729DFBA-1645-430B-B631-E0E4C4C07851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7546-E729DFBA-1645-430B-B631-E0E4C4C07851",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q438786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7546-E729DFBA-1645-430B-B631-E0E4C4C07851",
+        "predicate": "pq:P582",
+        "object": "1969-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7546-E729DFBA-1645-430B-B631-E0E4C4C07851",
+        "predicate": "pq:P580",
+        "object": "1959-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7546",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-28T18:38:10Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7546",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q438786"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7546",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q3723687"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7546",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q4938547"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7546",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q4975453"
+    }
+  ]
+}

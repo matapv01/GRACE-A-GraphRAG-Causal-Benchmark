@@ -1,0 +1,69 @@
+{
+  "question_id": "3252",
+  "answers": [
+    "http://www.wikidata.org/entity/Q912189",
+    "http://www.wikidata.org/entity/Q21175367"
+  ],
+  "gold_path": {
+    "question_id": "3252",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q912189",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q79529"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q912189",
+        "predicate": "http://www.wikidata.org/prop/direct/P2128",
+        "object": "20"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q912189",
+        "predicate": "http://www.wikidata.org/prop/direct/P2128",
+        "object": "55"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21175367",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q79529"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21175367",
+        "predicate": "http://www.wikidata.org/prop/direct/P2128",
+        "object": "180"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21175367",
+        "predicate": "http://www.wikidata.org/prop/direct/P2128",
+        "object": "190"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q912189",
+      "predicate": "http://schema.org/description",
+      "object": "solvente"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q912189",
+      "predicate": "http://schema.org/description",
+      "object": "mieszanina węglowodorów"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q912189",
+      "predicate": "http://schema.org/description",
+      "object": "petroleum ether"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q912189",
+      "predicate": "http://schema.org/description",
+      "object": "směs alkanů z ropy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q912189",
+      "predicate": "http://schema.org/description",
+      "object": "farbloses Gemisch verschiedener gesättigter Kohlenwasserstoffe"
+    }
+  ]
+}

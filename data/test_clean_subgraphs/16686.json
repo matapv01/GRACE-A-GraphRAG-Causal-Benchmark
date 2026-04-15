@@ -1,0 +1,48 @@
+{
+  "question_id": "16686",
+  "answers": [
+    "http://www.wikidata.org/entity/Q522107"
+  ],
+  "gold_path": {
+    "question_id": "16686",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2689743",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q617891"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q617891",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q522107"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2689743",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-07-15T05:11:24Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2689743",
+      "predicate": "http://schema.org/version",
+      "object": "2379796182"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2689743",
+      "predicate": "http://schema.org/description",
+      "object": "bouwwerk in Californië"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2689743",
+      "predicate": "http://schema.org/description",
+      "object": "Mission franciscaine implantée en Californie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2689743",
+      "predicate": "http://schema.org/description",
+      "object": "Mission in Kalifornien"
+    }
+  ]
+}

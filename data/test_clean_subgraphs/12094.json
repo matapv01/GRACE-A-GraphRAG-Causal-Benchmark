@@ -1,0 +1,48 @@
+{
+  "question_id": "12094",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7850807"
+  ],
+  "gold_path": {
+    "question_id": "12094",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2690965",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q7850807"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7850807",
+        "predicate": "http://www.wikidata.org/prop/direct/P427",
+        "object": "http://www.wikidata.org/entity/Q74692"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2690965",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "trufa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2690965",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "trøffel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2690965",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "כמהין"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2690965",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "truffe"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2690965",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "truffle"
+    }
+  ]
+}

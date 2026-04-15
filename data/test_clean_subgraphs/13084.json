@@ -1,0 +1,55 @@
+{
+  "question_id": "13084",
+  "answers": [
+    "http://www.wikidata.org/entity/Q191384",
+    "http://www.wikidata.org/entity/Q1065",
+    "http://www.wikidata.org/entity/Q7809"
+  ],
+  "gold_path": {
+    "question_id": "13084",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q244",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q1065"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q244",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q7809"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q244",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q191384"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q244",
+      "predicate": "http://www.wikidata.org/prop/P36",
+      "object": "http://www.wikidata.org/entity/statement/q244-BCE9E26D-BDC4-4D1D-A456-6FA6445CFC5C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/Q244-8363b2f9-4212-0047-91a0-52d370ba62b5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/q244-89F52C8E-DE3E-4AB4-AC5D-C130CCDBE4A9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244",
+      "predicate": "http://www.wikidata.org/prop/P194",
+      "object": "http://www.wikidata.org/entity/statement/q244-adff8bf6-4218-a011-9cb3-4564f6fea75c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q244",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/Q244-CBF76438-3561-41D8-B666-549D1E8A8C84"
+    }
+  ]
+}

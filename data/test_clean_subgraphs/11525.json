@@ -1,0 +1,85 @@
+{
+  "question_id": "11525",
+  "answers": [
+    "1850-07-01T00:00:00Z",
+    "1839-01-01T00:00:00Z",
+    "1838-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11525",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42831",
+        "predicate": "http://www.wikidata.org/prop/P551",
+        "object": "http://www.wikidata.org/entity/statement/Q42831-62444426-44e3-15f2-51b6-d4cf2c158e24"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42831-62444426-44e3-15f2-51b6-d4cf2c158e24",
+        "predicate": "ps:P551",
+        "object": "http://www.wikidata.org/entity/Q64"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42831-62444426-44e3-15f2-51b6-d4cf2c158e24",
+        "predicate": "pq:P1319",
+        "object": "1838-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42831",
+        "predicate": "http://www.wikidata.org/prop/P551",
+        "object": "http://www.wikidata.org/entity/statement/Q42831-913aa06f-48d6-b326-38ef-809a102752b1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42831-913aa06f-48d6-b326-38ef-809a102752b1",
+        "predicate": "ps:P551",
+        "object": "http://www.wikidata.org/entity/Q23929917"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42831-913aa06f-48d6-b326-38ef-809a102752b1",
+        "predicate": "pq:P1319",
+        "object": "1850-07-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42831",
+        "predicate": "http://www.wikidata.org/prop/P551",
+        "object": "http://www.wikidata.org/entity/statement/Q42831-f8d5e7e1-455f-a3ff-bbca-4456080ec24d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42831-f8d5e7e1-455f-a3ff-bbca-4456080ec24d",
+        "predicate": "ps:P551",
+        "object": "http://www.wikidata.org/entity/Q19908749"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42831-f8d5e7e1-455f-a3ff-bbca-4456080ec24d",
+        "predicate": "pq:P1319",
+        "object": "1839-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42831",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T00:19:47Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42831",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/q42831-22EC545B-0D65-416E-AB30-6393B45C9AA8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42831",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q42831-583C2AC0-10E4-4AAE-9278-DD715158E713"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42831",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Turgenev%20by%20Repin.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42831",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q3118"
+    }
+  ]
+}

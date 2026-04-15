@@ -1,0 +1,50 @@
+{
+  "question_id": "28299",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1770788",
+    "http://www.wikidata.org/entity/Q1659519",
+    "http://www.wikidata.org/entity/Q25245618"
+  ],
+  "gold_path": {
+    "question_id": "28299",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1659519",
+        "predicate": "http://www.wikidata.org/prop/direct/P1876",
+        "object": "http://www.wikidata.org/entity/Q579421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1770788",
+        "predicate": "http://www.wikidata.org/prop/direct/P1876",
+        "object": "http://www.wikidata.org/entity/Q579421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25245618",
+        "predicate": "http://www.wikidata.org/prop/direct/P1876",
+        "object": "http://www.wikidata.org/entity/Q579421"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1659519",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://nssdc.gsfc.nasa.gov/nmc/spacecraftOrbit.do?id=1973-096A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1659519",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Soyuz%207K-T%202-seats%20drawing.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1659519",
+      "predicate": "http://www.wikidata.org/prop/direct/P522",
+      "object": "http://www.wikidata.org/entity/Q663611"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1659519",
+      "predicate": "http://schema.org/version",
+      "object": "2427188927"
+    }
+  ]
+}

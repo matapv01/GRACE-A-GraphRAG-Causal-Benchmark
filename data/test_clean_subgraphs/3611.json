@@ -1,0 +1,53 @@
+{
+  "question_id": "3611",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28776412"
+  ],
+  "gold_path": {
+    "question_id": "3611",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7200",
+        "predicate": "http://www.wikidata.org/prop/P106",
+        "object": "http://www.wikidata.org/entity/statement/Q7200-192dea95-4d53-6c44-6da6-a1c2dfb6ad3d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7200-192dea95-4d53-6c44-6da6-a1c2dfb6ad3d",
+        "predicate": "ps:P106",
+        "object": "http://www.wikidata.org/entity/Q28776412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7200-192dea95-4d53-6c44-6da6-a1c2dfb6ad3d",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q28664827"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7200",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Pushkin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7200",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Пушкин"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7200",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Alexander Puschkin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7200",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Aleksandr Pushkin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7200",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Белкин, Иван Петрович"
+    }
+  ]
+}

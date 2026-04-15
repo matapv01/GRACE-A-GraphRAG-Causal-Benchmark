@@ -1,0 +1,43 @@
+{
+  "question_id": "14667",
+  "answers": [
+    "314"
+  ],
+  "gold_path": {
+    "question_id": "14667",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q154942",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q1013904"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1013904",
+        "predicate": "http://www.wikidata.org/prop/direct/P1082",
+        "object": "314"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q154942",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Chlum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q154942",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sadowa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q154942",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "бітва пад Градзец-Кралавам"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q154942",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "бітва пад Кёнігграцам"
+    }
+  ]
+}

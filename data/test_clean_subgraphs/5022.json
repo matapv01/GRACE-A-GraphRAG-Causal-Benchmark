@@ -1,0 +1,53 @@
+{
+  "question_id": "5022",
+  "answers": [
+    "http://www.wikidata.org/entity/Q172"
+  ],
+  "gold_path": {
+    "question_id": "5022",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193871",
+        "predicate": "http://www.wikidata.org/prop/P20",
+        "object": "http://www.wikidata.org/entity/statement/Q193871-C6D2D5F8-E9A9-4424-91F5-D53A801C9260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193871-C6D2D5F8-E9A9-4424-91F5-D53A801C9260",
+        "predicate": "ps:P20",
+        "object": "http://www.wikidata.org/entity/Q172"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193871-C6D2D5F8-E9A9-4424-91F5-D53A801C9260",
+        "predicate": "pq:P131",
+        "object": "http://www.wikidata.org/entity/Q1904"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193871",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "marshall-mcluhan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193871",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "10566"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193871",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "mcluhan-herbert-marshall"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193871",
+      "predicate": "http://www.wikidata.org/prop/direct/P2381",
+      "object": "79822"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193871",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "marshall-mcluhan"
+    }
+  ]
+}

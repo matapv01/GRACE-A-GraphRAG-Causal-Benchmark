@@ -1,0 +1,48 @@
+{
+  "question_id": "16402",
+  "answers": [
+    "143000000"
+  ],
+  "gold_path": {
+    "question_id": "16402",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q134108",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48",
+        "predicate": "http://www.wikidata.org/prop/direct/P2573",
+        "object": "143000000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q134108",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007531893005171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134108",
+      "predicate": "http://www.wikidata.org/prop/direct/P1889",
+      "object": "http://www.wikidata.org/entity/Q1960702"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134108",
+      "predicate": "http://www.wikidata.org/prop/direct/P8826",
+      "object": "H0017437"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134108",
+      "predicate": "http://www.wikidata.org/prop/direct/P8989",
+      "object": "http://www.wikidata.org/entity/Q104598141"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134108",
+      "predicate": "http://www.wikidata.org/prop/P1889",
+      "object": "http://www.wikidata.org/entity/statement/Q134108-77BC7AC9-D422-456C-9DBB-5D1E16908CC6"
+    }
+  ]
+}

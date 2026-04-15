@@ -1,0 +1,59 @@
+{
+  "question_id": "4650",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12981673",
+    "http://www.wikidata.org/entity/Q4765305"
+  ],
+  "gold_path": {
+    "question_id": "4650",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q214475",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q214475-1F0A17B6-C42D-46F1-8516-EA1658D3E12F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q214475-1F0A17B6-C42D-46F1-8516-EA1658D3E12F",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q4765305"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q214475",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q214475-6afc0371-4486-f72b-b877-b34ea0bf453a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q214475-6afc0371-4486-f72b-b877-b34ea0bf453a",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q12981673"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q214475",
+      "predicate": "http://www.wikidata.org/prop/P8197",
+      "object": "http://www.wikidata.org/entity/statement/Q214475-53220851-49f4-f00e-ce8d-0e8ff2958a09"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214475",
+      "predicate": "http://www.wikidata.org/prop/direct/P8197",
+      "object": "ayaan-hirsi-ali"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214475",
+      "predicate": "http://www.wikidata.org/prop/direct/P8179",
+      "object": "ncf10585178"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214475",
+      "predicate": "http://www.wikidata.org/prop/P8980",
+      "object": "http://www.wikidata.org/entity/statement/Q214475-0D9B86AB-D9D6-47C6-A35F-92746D71E214"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214475",
+      "predicate": "http://www.wikidata.org/prop/direct/P8980",
+      "object": "000122188"
+    }
+  ]
+}

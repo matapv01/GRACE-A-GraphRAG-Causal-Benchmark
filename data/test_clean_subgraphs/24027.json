@@ -1,0 +1,147 @@
+{
+  "question_id": "24027",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21653407",
+    "http://www.wikidata.org/entity/Q193870",
+    "http://www.wikidata.org/entity/Q619452",
+    "http://www.wikidata.org/entity/Q3089168",
+    "http://www.wikidata.org/entity/Q18362",
+    "http://www.wikidata.org/entity/Q2426412",
+    "http://www.wikidata.org/entity/Q126078535",
+    "http://www.wikidata.org/entity/Q647589",
+    "http://www.wikidata.org/entity/Q11473",
+    "http://www.wikidata.org/entity/Q43514"
+  ],
+  "gold_path": {
+    "question_id": "24027",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q126078535",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q126078535",
+        "predicate": "rdfs:label",
+        "object": "thermology"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11473",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11473",
+        "predicate": "rdfs:label",
+        "object": "thermodynamics"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18362",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18362",
+        "predicate": "rdfs:label",
+        "object": "theoretical physics"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21653407",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21653407",
+        "predicate": "rdfs:label",
+        "object": "theory of integrable systems"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43514",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43514",
+        "predicate": "rdfs:label",
+        "object": "theory of relativity"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193870",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193870",
+        "predicate": "rdfs:label",
+        "object": "tribology"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q619452",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q619452",
+        "predicate": "rdfs:label",
+        "object": "thermal physics"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q647589",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q647589",
+        "predicate": "rdfs:label",
+        "object": "Thin-film optics"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2426412",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2426412",
+        "predicate": "rdfs:label",
+        "object": "tectonophysics"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3089168",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4162444"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3089168",
+        "predicate": "rdfs:label",
+        "object": "theoretical astrophysics"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q126078535",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q126078535",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q126078535",
+      "predicate": "http://www.wikidata.org/prop/direct/P1889",
+      "object": "http://www.wikidata.org/entity/Q126078571"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q126078535",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q1047113"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q126078535",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q2267705"
+    }
+  ]
+}

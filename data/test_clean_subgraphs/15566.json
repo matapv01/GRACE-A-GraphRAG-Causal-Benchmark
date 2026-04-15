@@ -1,0 +1,59 @@
+{
+  "question_id": "15566",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6938597",
+    "http://www.wikidata.org/entity/Q109845767"
+  ],
+  "gold_path": {
+    "question_id": "15566",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q718415",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q61"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6938597"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q718415",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q23556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q23556",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q109845767"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q718415",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q718415-79895141-AFB0-4F2B-A5A8-5597011F2192"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q718415",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q718415-4c23b8c5-4bad-db03-053d-242e78e4147a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q718415",
+      "predicate": "http://www.wikidata.org/prop/P509",
+      "object": "http://www.wikidata.org/entity/statement/Q718415-19c156e5-4d89-4eed-8922-b1af69c53ab9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q718415",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q2443384"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q718415",
+      "predicate": "http://www.wikidata.org/prop/P4903",
+      "object": "http://www.wikidata.org/entity/statement/Q718415-A3D40870-6DE1-4AD4-997D-FA5D30CC3FC4"
+    }
+  ]
+}

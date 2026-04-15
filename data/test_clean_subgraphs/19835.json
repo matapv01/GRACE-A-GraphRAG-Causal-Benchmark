@@ -1,0 +1,70 @@
+{
+  "question_id": "19835",
+  "answers": [
+    "http://www.wikidata.org/entity/Q184549",
+    "http://www.wikidata.org/entity/Q311646",
+    "http://www.wikidata.org/entity/Q231063"
+  ],
+  "gold_path": {
+    "question_id": "19835",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q184549",
+        "predicate": "http://www.wikidata.org/prop/direct/P157",
+        "object": "http://www.wikidata.org/entity/Q8413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184549",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q231063",
+        "predicate": "http://www.wikidata.org/prop/direct/P157",
+        "object": "http://www.wikidata.org/entity/Q8413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q231063",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q311646",
+        "predicate": "http://www.wikidata.org/prop/direct/P157",
+        "object": "http://www.wikidata.org/entity/Q8413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q311646",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q184549",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "53"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184549",
+      "predicate": "http://www.wikidata.org/prop/direct/P1711",
+      "object": "101877"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184549",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "129338753"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184549",
+      "predicate": "http://www.wikidata.org/prop/direct/P2365",
+      "object": "http://www.wikidata.org/entity/Q90049306"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184549",
+      "predicate": "http://www.wikidata.org/prop/direct/P1900",
+      "object": "dates/lod/44"
+    }
+  ]
+}

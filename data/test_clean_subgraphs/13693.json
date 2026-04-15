@@ -1,0 +1,43 @@
+{
+  "question_id": "13693",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6667"
+  ],
+  "gold_path": {
+    "question_id": "13693",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q83496",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q6667"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q83496",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/09516335-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83496",
+      "predicate": "http://schema.org/version",
+      "object": "2463360508"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83496",
+      "predicate": "http://schema.org/description",
+      "object": "ギリシア神話の怪物"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83496",
+      "predicate": "http://schema.org/description",
+      "object": "mythisch wezen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83496",
+      "predicate": "http://schema.org/description",
+      "object": "Fabelwesen der griechischen Mythologie"
+    }
+  ]
+}

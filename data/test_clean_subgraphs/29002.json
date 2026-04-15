@@ -1,0 +1,43 @@
+{
+  "question_id": "29002",
+  "answers": [
+    "http://www.wikidata.org/entity/Q208008"
+  ],
+  "gold_path": {
+    "question_id": "29002",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1008",
+        "predicate": "http://www.wikidata.org/prop/direct/P2746",
+        "object": "http://www.wikidata.org/entity/Q208008"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1008",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Republic of Côte d'Ivoire"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1008",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Republic of Ivory Coast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1008",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Republic of the Ivory Coast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1008",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Ivory Coast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1008",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Côte d’Ivoire"
+    }
+  ]
+}

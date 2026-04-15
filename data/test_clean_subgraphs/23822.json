@@ -1,0 +1,59 @@
+{
+  "question_id": "23822",
+  "answers": [
+    "http://www.wikidata.org/entity/Q191631",
+    "http://www.wikidata.org/entity/Q131338445"
+  ],
+  "gold_path": {
+    "question_id": "23822",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q191631",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4115113"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191631",
+        "predicate": "rdfs:label",
+        "object": "vitalism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131338445",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4115113"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131338445",
+        "predicate": "rdfs:label",
+        "object": "Montpellier vitalism"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q191631",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "35"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191631",
+      "predicate": "http://www.wikidata.org/prop/direct/P1036",
+      "object": "147"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191631",
+      "predicate": "http://www.wikidata.org/prop/P1036",
+      "object": "http://www.wikidata.org/entity/statement/Q191631-926243EE-B6AE-4BAC-965B-F0F537F6B18E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191631",
+      "predicate": "http://www.wikidata.org/prop/direct/P10565",
+      "object": "236856"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191631",
+      "predicate": "http://www.wikidata.org/prop/direct/P9286",
+      "object": "Vitalismo"
+    }
+  ]
+}

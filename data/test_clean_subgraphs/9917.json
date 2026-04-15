@@ -1,0 +1,38 @@
+{
+  "question_id": "9917",
+  "answers": [
+    "http://www.wikidata.org/entity/Q16568"
+  ],
+  "gold_path": {
+    "question_id": "9917",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q158462",
+        "predicate": "http://www.wikidata.org/prop/direct/P740",
+        "object": "http://www.wikidata.org/entity/Q16568"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q158462",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q3229688"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q158462",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "لينيرد سكاينيرد"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q158462",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lynyrd Skynyrd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q158462",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "لنرد اسکینرد"
+    }
+  ]
+}

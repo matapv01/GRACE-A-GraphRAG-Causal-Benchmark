@@ -1,0 +1,64 @@
+{
+  "question_id": "3182",
+  "answers": [
+    "http://www.wikidata.org/entity/Q902",
+    "http://www.wikidata.org/entity/Q1037"
+  ],
+  "gold_path": {
+    "question_id": "3182",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1037",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1037",
+        "predicate": "http://www.wikidata.org/prop/direct/P4010",
+        "object": "58120000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1037",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q7809"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q902",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q902",
+        "predicate": "http://www.wikidata.org/prop/direct/P4010",
+        "object": "966485000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q902",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q7809"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "170"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037",
+      "predicate": "http://www.wikidata.org/prop/direct/P194",
+      "object": "http://www.wikidata.org/entity/Q4162795"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Rwanda"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ruanda"
+    }
+  ]
+}

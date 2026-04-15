@@ -1,0 +1,69 @@
+{
+  "question_id": "9198",
+  "answers": [
+    "1939-09-20T00:00:00Z",
+    "1920-07-19T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9198",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q181376",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q181376-2cc802d7-444b-a207-e476-bc79b2232233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181376-2cc802d7-444b-a207-e476-bc79b2232233",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q207272"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181376-2cc802d7-444b-a207-e476-bc79b2232233",
+        "predicate": "pq:P582",
+        "object": "1939-09-20T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q181376",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q181376-cb36a087-40be-e848-de51-e3c14f41275d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181376-cb36a087-40be-e848-de51-e3c14f41275d",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q207272"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q181376-cb36a087-40be-e848-de51-e3c14f41275d",
+        "predicate": "pq:P582",
+        "object": "1920-07-19T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q181376",
+      "predicate": "http://www.wikidata.org/prop/direct/P242",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grodno%20region%20location%20map.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181376",
+      "predicate": "http://www.wikidata.org/prop/P242",
+      "object": "http://www.wikidata.org/entity/statement/Q181376-c4e201ab-4d01-5baf-cf59-b9bbb7e27128"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181376",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-10T19:18:20Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181376",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q184"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181376",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "place/Hrodna-Belarus"
+    }
+  ]
+}

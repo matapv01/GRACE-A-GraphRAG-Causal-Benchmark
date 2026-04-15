@@ -1,0 +1,48 @@
+{
+  "question_id": "12218",
+  "answers": [
+    "http://www.wikidata.org/entity/Q84"
+  ],
+  "gold_path": {
+    "question_id": "12218",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25820",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q84",
+        "predicate": "http://www.wikidata.org/prop/direct/P1313",
+        "object": "http://www.wikidata.org/entity/Q38931"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25820",
+      "predicate": "http://www.wikidata.org/prop/direct/P1816",
+      "object": "mp04986"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25820",
+      "predicate": "http://www.wikidata.org/prop/direct/P2418",
+      "object": "1010046"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25820",
+      "predicate": "http://www.wikidata.org/prop/direct/P1415",
+      "object": "30282"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25820",
+      "predicate": "http://www.wikidata.org/prop/P1417",
+      "object": "http://www.wikidata.org/entity/statement/Q25820-BAF12B73-2A08-48B8-9B57-6FB1DABEEEE4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25820",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "biography/Thomas-Young"
+    }
+  ]
+}

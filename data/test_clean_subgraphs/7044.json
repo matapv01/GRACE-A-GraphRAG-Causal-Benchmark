@@ -1,0 +1,48 @@
+{
+  "question_id": "7044",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18910363"
+  ],
+  "gold_path": {
+    "question_id": "7044",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25804",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q25804-4a071839-4113-79de-c3ec-d26639465830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25804-4a071839-4113-79de-c3ec-d26639465830",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q18910363"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25804",
+      "predicate": "http://www.wikidata.org/prop/direct/P8814",
+      "object": "08783456-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25804",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007562086805171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25804",
+      "predicate": "http://www.wikidata.org/prop/direct/P8179",
+      "object": "ncf12150348"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25804",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Trondheim"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25804",
+      "predicate": "http://www.wikidata.org/prop/direct/P982",
+      "object": "4c093436-be96-4317-a82f-733938485084"
+    }
+  ]
+}

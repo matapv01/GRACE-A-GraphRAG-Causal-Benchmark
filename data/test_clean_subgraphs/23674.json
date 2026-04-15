@@ -1,0 +1,70 @@
+{
+  "question_id": "23674",
+  "answers": [
+    "http://www.wikidata.org/entity/Q85765456",
+    "http://www.wikidata.org/entity/Q56318921",
+    "http://www.wikidata.org/entity/Q173412"
+  ],
+  "gold_path": {
+    "question_id": "23674",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q214753"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "rdfs:label",
+        "object": "radiocarbon dating"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56318921",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q214753"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56318921",
+        "predicate": "rdfs:label",
+        "object": "lead-210 dating"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q85765456",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q214753"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q85765456",
+        "predicate": "rdfs:label",
+        "object": "Hafnium–tungsten dating"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-12T13:36:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Radiokarbonmethode"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "放射性碳定年法"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Radiokoolstof datering"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173412",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "تأريخ بالكربون المشع"
+    }
+  ]
+}

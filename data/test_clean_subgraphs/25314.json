@@ -1,0 +1,43 @@
+{
+  "question_id": "25314",
+  "answers": [
+    "http://www.wikidata.org/entity/Q490"
+  ],
+  "gold_path": {
+    "question_id": "25314",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q490",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q515"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q490",
+        "predicate": "http://www.wikidata.org/prop/direct/P237",
+        "object": "http://www.wikidata.org/entity/Q2363861"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q490",
+        "predicate": "rdfs:label",
+        "object": "Milan"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q490",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Milan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q490",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mailand"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q490",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Milano"
+    }
+  ]
+}

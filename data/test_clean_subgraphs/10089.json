@@ -1,0 +1,33 @@
+{
+  "question_id": "10089",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3107204"
+  ],
+  "gold_path": {
+    "question_id": "10089",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q150820",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q3107204"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q150820",
+        "predicate": "http://www.wikidata.org/prop/direct/P98",
+        "object": "http://www.wikidata.org/entity/Q194280"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q150820",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Playboy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150820",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "花花公子"
+    }
+  ]
+}

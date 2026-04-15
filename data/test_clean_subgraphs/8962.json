@@ -1,0 +1,48 @@
+{
+  "question_id": "8962",
+  "answers": [
+    "241247"
+  ],
+  "gold_path": {
+    "question_id": "8962",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30650",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q30650-c79f4f52-4ecd-0597-d894-eeb611b709ba"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q30650-c79f4f52-4ecd-0597-d894-eeb611b709ba",
+        "predicate": "ps:P1082",
+        "object": "241247"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q30650",
+      "predicate": "http://www.wikidata.org/prop/direct/P242",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20Valley%20in%20Egypt%20%282011%29.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30650",
+      "predicate": "http://www.wikidata.org/prop/P5573",
+      "object": "http://www.wikidata.org/entity/statement/Q30650-31FA9D3A-78FB-4246-98C8-AAB8E4088D7F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30650",
+      "predicate": "http://www.wikidata.org/prop/P242",
+      "object": "http://www.wikidata.org/entity/statement/Q30650-C209BE95-FC02-4BE7-B8C5-C1C3F664FACA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30650",
+      "predicate": "http://www.wikidata.org/prop/direct/P5573",
+      "object": "43445"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30650",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-01-30T09:44:25Z"
+    }
+  ]
+}

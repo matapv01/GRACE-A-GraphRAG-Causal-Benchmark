@@ -1,0 +1,71 @@
+{
+  "question_id": "8851",
+  "answers": [
+    "http://www.wikidata.org/entity/Q51844312",
+    "http://www.wikidata.org/entity/Q51844270",
+    "http://www.wikidata.org/entity/Q51844261",
+    "http://www.wikidata.org/entity/Q51844411"
+  ],
+  "gold_path": {
+    "question_id": "8851",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41576",
+        "predicate": "http://www.wikidata.org/prop/P4952",
+        "object": "http://www.wikidata.org/entity/statement/Q41576-bef3aba8-4ad5-ae40-fcb6-0908b5e8182e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41576-bef3aba8-4ad5-ae40-fcb6-0908b5e8182e",
+        "predicate": "ps:P4952",
+        "object": "http://www.wikidata.org/entity/Q2005334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41576-bef3aba8-4ad5-ae40-fcb6-0908b5e8182e",
+        "predicate": "pq:P5041",
+        "object": "http://www.wikidata.org/entity/Q51844261"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41576-bef3aba8-4ad5-ae40-fcb6-0908b5e8182e",
+        "predicate": "pq:P5041",
+        "object": "http://www.wikidata.org/entity/Q51844270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41576-bef3aba8-4ad5-ae40-fcb6-0908b5e8182e",
+        "predicate": "pq:P5041",
+        "object": "http://www.wikidata.org/entity/Q51844312"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41576-bef3aba8-4ad5-ae40-fcb6-0908b5e8182e",
+        "predicate": "pq:P5041",
+        "object": "http://www.wikidata.org/entity/Q51844411"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41576",
+      "predicate": "http://www.wikidata.org/prop/direct/P2924",
+      "object": "2079205"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41576",
+      "predicate": "http://www.wikidata.org/prop/direct/P4168",
+      "object": "158626"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41576",
+      "predicate": "http://www.wikidata.org/prop/direct/P4527",
+      "object": "9240"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41576",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q41576-2D6F12EE-C785-4C5E-A7ED-BE5943FE7B13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41576",
+      "predicate": "http://www.wikidata.org/prop/direct/P2102",
+      "object": "187"
+    }
+  ]
+}

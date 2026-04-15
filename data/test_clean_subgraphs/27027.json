@@ -1,0 +1,43 @@
+{
+  "question_id": "27027",
+  "answers": [
+    "451533"
+  ],
+  "gold_path": {
+    "question_id": "27027",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q204871",
+        "predicate": "http://www.wikidata.org/prop/direct/P4533",
+        "object": "451533"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q204871",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "60"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204871",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "33"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204871",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Karlův most"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204871",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Karl Köprüsü"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204871",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Karlsbrücke"
+    }
+  ]
+}

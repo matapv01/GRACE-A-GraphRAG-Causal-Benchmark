@@ -1,0 +1,53 @@
+{
+  "question_id": "5426",
+  "answers": [
+    "1821-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5426",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14277",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q14277-f965bc32-4e3e-28eb-f0ee-2f0206bbd8da"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q14277-f965bc32-4e3e-28eb-f0ee-2f0206bbd8da",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q24357183"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q14277-f965bc32-4e3e-28eb-f0ee-2f0206bbd8da",
+        "predicate": "pq:P580",
+        "object": "1821-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14277",
+      "predicate": "http://www.wikidata.org/prop/direct/P5063",
+      "object": "i95506"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14277",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "herschel-sir-william"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14277",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "herschel-friedrich-wilhelm-william"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14277",
+      "predicate": "http://www.wikidata.org/prop/direct/P214",
+      "object": "19885773"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14277",
+      "predicate": "http://www.wikidata.org/prop/direct/P1953",
+      "object": "2954095"
+    }
+  ]
+}

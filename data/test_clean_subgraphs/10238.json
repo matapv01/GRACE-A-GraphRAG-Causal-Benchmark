@@ -1,0 +1,58 @@
+{
+  "question_id": "10238",
+  "answers": [
+    "1993-11-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10238",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-7dd787a1-4e75-eb0c-7100-19060ad380d8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-7dd787a1-4e75-eb0c-7100-19060ad380d8",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q52847"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-7dd787a1-4e75-eb0c-7100-19060ad380d8",
+        "predicate": "pq:P576",
+        "object": "1993-11-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-7dd787a1-4e75-eb0c-7100-19060ad380d8",
+        "predicate": "pq:P571",
+        "object": "1958-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T18:17:30Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://schema.org/version",
+      "object": "2480717239"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Den europeiske union"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Unnion Ûropéenne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ଇଉରୋପୀୟ ସଂଘ"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "2638",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3704725",
+    "http://www.wikidata.org/entity/Q5145911"
+  ],
+  "gold_path": {
+    "question_id": "2638",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3704725",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q679692"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3704725",
+        "predicate": "http://www.wikidata.org/prop/direct/P4250",
+        "object": "1.75"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5145911",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q679692"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5145911",
+        "predicate": "http://www.wikidata.org/prop/direct/P4250",
+        "object": "0.9"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3704725",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+      "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108396"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3704725",
+      "predicate": "http://www.wikidata.org/prop/P4250",
+      "object": "http://www.wikidata.org/entity/statement/Q3704725-9E190152-B5FD-4C3F-8EA6-D748A5A8E7FA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3704725",
+      "predicate": "http://www.wikidata.org/prop/P592",
+      "object": "http://www.wikidata.org/entity/statement/Q3704725-EDDE911F-4B07-4DEB-9F1F-7D78B466D569"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3704725",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P665",
+      "object": "http://www.kegg.jp/entry/D07423"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3704725",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-01-05T06:07:22Z"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "28169",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6157578"
+  ],
+  "gold_path": {
+    "question_id": "28169",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6157578",
+        "predicate": "http://www.wikidata.org/prop/direct/P1302",
+        "object": "http://www.wikidata.org/entity/Q191914"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6157578",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6157578",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "75"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6157578",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6157578",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/R45%20Hachinohe-bypass.JPG"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6157578",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "National Route 45"
+    }
+  ]
+}

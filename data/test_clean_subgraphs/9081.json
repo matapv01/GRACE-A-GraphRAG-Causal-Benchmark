@@ -1,0 +1,43 @@
+{
+  "question_id": "9081",
+  "answers": [
+    "2013-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9081",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2335730",
+        "predicate": "http://www.wikidata.org/prop/P102",
+        "object": "http://www.wikidata.org/entity/statement/Q2335730-dc442ecd-49bb-a759-8f38-daec51583d14"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2335730-dc442ecd-49bb-a759-8f38-daec51583d14",
+        "predicate": "ps:P102",
+        "object": "http://www.wikidata.org/entity/Q55438132"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2335730-dc442ecd-49bb-a759-8f38-daec51583d14",
+        "predicate": "pq:P582",
+        "object": "2013-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2335730",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Paco Rosendo Moncayo Gallegos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2335730",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Paco Moncayo Gallegos"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2335730",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Монкайо, Пако"
+    }
+  ]
+}

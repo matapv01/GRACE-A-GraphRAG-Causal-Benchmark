@@ -1,0 +1,43 @@
+{
+  "question_id": "20896",
+  "answers": [
+    "http://www.wikidata.org/entity/Q980"
+  ],
+  "gold_path": {
+    "question_id": "20896",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48244",
+        "predicate": "http://www.wikidata.org/prop/direct/P3931",
+        "object": "http://www.wikidata.org/entity/Q980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q980",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1221156"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48244",
+      "predicate": "http://www.wikidata.org/prop/direct/P3931",
+      "object": "http://www.wikidata.org/entity/Q352"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48244",
+      "predicate": "http://www.wikidata.org/prop/direct/P495",
+      "object": "http://www.wikidata.org/entity/Q41304"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48244",
+      "predicate": "http://www.wikidata.org/prop/direct/P291",
+      "object": "http://www.wikidata.org/entity/Q1726"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48244",
+      "predicate": "http://www.wikidata.org/prop/direct/P6839",
+      "object": "Literature/MeinKampf"
+    }
+  ]
+}

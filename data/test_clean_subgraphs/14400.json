@@ -1,0 +1,116 @@
+{
+  "question_id": "14400",
+  "answers": [
+    "http://www.wikidata.org/entity/Q385378",
+    "http://www.wikidata.org/entity/Q106195621",
+    "http://www.wikidata.org/entity/Q12271",
+    "http://www.wikidata.org/entity/Q3875186",
+    "http://www.wikidata.org/entity/Q323611",
+    "http://www.wikidata.org/entity/Q8180985",
+    "http://www.wikidata.org/entity/Q352842",
+    "http://www.wikidata.org/entity/Q10366773",
+    "http://www.wikidata.org/entity/Q811338"
+  ],
+  "gold_path": {
+    "question_id": "14400",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1359943",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q42603"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42603",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q10366773"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1359943",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q42973"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42973",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q12271"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42973",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q323611"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42973",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q385378"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42973",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q3875186"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42973",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q106195621"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1359943",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q1622272"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1622272",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q352842"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1359943",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q11486702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11486702",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q8180985"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1359943",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q26233771"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26233771",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q811338"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1359943",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q11827483"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1359943",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "UBOV431141"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1359943",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q78"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1359943",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1875-10-28T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1359943",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q5"
+    }
+  ]
+}

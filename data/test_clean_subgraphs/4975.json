@@ -1,0 +1,59 @@
+{
+  "question_id": "4975",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3323371",
+    "http://www.wikidata.org/entity/Q2639529"
+  ],
+  "gold_path": {
+    "question_id": "4975",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q235470",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q235470-206CC290-725B-493E-A129-47312DE8B1A3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q235470-206CC290-725B-493E-A129-47312DE8B1A3",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3323371"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q235470",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q235470-A3D5386D-CABB-491E-AA79-D49DAAECF7B2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q235470-A3D5386D-CABB-491E-AA79-D49DAAECF7B2",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2639529"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q235470",
+      "predicate": "http://www.wikidata.org/prop/direct/P1273",
+      "object": "a10131164"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q235470",
+      "predicate": "http://www.wikidata.org/prop/direct/P1296",
+      "object": "0523121"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q235470",
+      "predicate": "http://www.wikidata.org/prop/direct/P1207",
+      "object": "n94000914"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q235470",
+      "predicate": "http://www.wikidata.org/prop/direct/P12935",
+      "object": "10149"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q235470",
+      "predicate": "http://www.wikidata.org/prop/direct/P1263",
+      "object": "324/000116973"
+    }
+  ]
+}

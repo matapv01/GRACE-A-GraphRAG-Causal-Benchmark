@@ -1,0 +1,69 @@
+{
+  "question_id": "6878",
+  "answers": [
+    "http://www.wikidata.org/entity/Q97428",
+    "http://www.wikidata.org/entity/Q68802"
+  ],
+  "gold_path": {
+    "question_id": "6878",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25351",
+        "predicate": "http://www.wikidata.org/prop/P1038",
+        "object": "http://www.wikidata.org/entity/statement/Q25351-4bc05e2b-4df6-4d19-c277-cb76df7df838"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25351-4bc05e2b-4df6-4d19-c277-cb76df7df838",
+        "predicate": "ps:P1038",
+        "object": "http://www.wikidata.org/entity/Q68802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25351-4bc05e2b-4df6-4d19-c277-cb76df7df838",
+        "predicate": "pq:P1039",
+        "object": "http://www.wikidata.org/entity/Q11921506"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25351",
+        "predicate": "http://www.wikidata.org/prop/P1038",
+        "object": "http://www.wikidata.org/entity/statement/Q25351-77fd19bb-47dd-e863-16f7-4bf308ab212f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25351-77fd19bb-47dd-e863-16f7-4bf308ab212f",
+        "predicate": "ps:P1038",
+        "object": "http://www.wikidata.org/entity/Q97428"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25351-77fd19bb-47dd-e863-16f7-4bf308ab212f",
+        "predicate": "pq:P1039",
+        "object": "http://www.wikidata.org/entity/Q11921506"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25351",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q25351-3186f5bd-4ce6-dc92-c686-d3c7af0e6efd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25351",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q25351-341a7ae9-47e5-8d8d-f4a5-c07a99814a52"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25351",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q25351-50d71afe-42e0-cead-bb64-35eff6f3569c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25351",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q25351-9a1aad78-40a2-a309-94f1-0420860a3bc6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25351",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q25351-a0917897-479a-bc33-9247-887996b0fce3"
+    }
+  ]
+}

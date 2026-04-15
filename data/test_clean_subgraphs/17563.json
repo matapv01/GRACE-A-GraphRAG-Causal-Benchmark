@@ -1,0 +1,83 @@
+{
+  "question_id": "17563",
+  "answers": [
+    "http://www.wikidata.org/entity/Q24381678",
+    "http://www.wikidata.org/entity/Q14881271",
+    "http://www.wikidata.org/entity/Q24380241",
+    "http://www.wikidata.org/entity/Q29768373",
+    "http://www.wikidata.org/entity/Q18254010",
+    "http://www.wikidata.org/entity/Q29711301"
+  ],
+  "gold_path": {
+    "question_id": "17563",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q703961",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q14881255"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14881255",
+        "predicate": "http://www.wikidata.org/prop/direct/P684",
+        "object": "http://www.wikidata.org/entity/Q14881271"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14881255",
+        "predicate": "http://www.wikidata.org/prop/direct/P684",
+        "object": "http://www.wikidata.org/entity/Q24381678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q703961",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q18035334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18035334",
+        "predicate": "http://www.wikidata.org/prop/direct/P684",
+        "object": "http://www.wikidata.org/entity/Q18254010"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18035334",
+        "predicate": "http://www.wikidata.org/prop/direct/P684",
+        "object": "http://www.wikidata.org/entity/Q24380241"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18035334",
+        "predicate": "http://www.wikidata.org/prop/direct/P684",
+        "object": "http://www.wikidata.org/entity/Q29711301"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18035334",
+        "predicate": "http://www.wikidata.org/prop/direct/P684",
+        "object": "http://www.wikidata.org/entity/Q29768373"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q703961",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/Transmissible-spongiform-encephalopathy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q703961",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P486",
+      "object": "http://id.nlm.nih.gov/mesh/D017096"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q703961",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P699",
+      "object": "http://purl.obolibrary.org/obo/DOID_DOID:649"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q703961",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5270",
+      "object": "http://purl.obolibrary.org/obo/MONDO_0018926"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q703961",
+      "predicate": "http://schema.org/description",
+      "object": "sairaus"
+    }
+  ]
+}

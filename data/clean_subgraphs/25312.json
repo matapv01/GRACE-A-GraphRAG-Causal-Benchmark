@@ -1,0 +1,53 @@
+{
+  "question_id": "25312",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11409"
+  ],
+  "gold_path": {
+    "question_id": "25312",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11409",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1156854"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11409",
+        "predicate": "http://www.wikidata.org/prop/direct/P1557",
+        "object": "http://www.wikidata.org/entity/Q8461"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11409",
+        "predicate": "rdfs:label",
+        "object": "apartheid"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11409",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8370",
+      "object": "http://metadata.un.org/thesaurus/1000336"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11409",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5437",
+      "object": "http://eurovoc.europa.eu/2086"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11409",
+      "predicate": "http://www.wikidata.org/prop/direct/P8309",
+      "object": "18-218635"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11409",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1149",
+      "object": "http://id.loc.gov/authorities/classification/DT1757"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11409",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6293",
+      "object": "http://www.yso.fi/onto/ysa/Y94671"
+    }
+  ]
+}

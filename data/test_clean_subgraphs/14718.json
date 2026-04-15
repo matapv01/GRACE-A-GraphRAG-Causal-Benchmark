@@ -1,0 +1,43 @@
+{
+  "question_id": "14718",
+  "answers": [
+    "http://www.wikidata.org/entity/Q240647"
+  ],
+  "gold_path": {
+    "question_id": "14718",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5564713",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q5564694"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5564694",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q240647"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5564713",
+      "predicate": "http://www.wikidata.org/prop/direct/P407",
+      "object": "http://www.wikidata.org/entity/Q1860"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5564713",
+      "predicate": "http://www.wikidata.org/prop/direct/P1476",
+      "object": "Girls under Pressure"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5564713",
+      "predicate": "http://www.wikidata.org/prop/direct/P110",
+      "object": "http://www.wikidata.org/entity/Q7027914"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5564713",
+      "predicate": "http://www.wikidata.org/prop/direct/P495",
+      "object": "http://www.wikidata.org/entity/Q145"
+    }
+  ]
+}

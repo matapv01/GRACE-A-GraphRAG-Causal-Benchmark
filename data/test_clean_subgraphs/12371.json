@@ -1,0 +1,70 @@
+{
+  "question_id": "12371",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3831059",
+    "http://www.wikidata.org/entity/Q712889",
+    "http://www.wikidata.org/entity/Q601374"
+  ],
+  "gold_path": {
+    "question_id": "12371",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151173",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q601374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q601374",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151173",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q712889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q712889",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q151173",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q3831059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3831059",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q150"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151173",
+      "predicate": "http://www.wikidata.org/prop/direct/P409",
+      "object": "51934024"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151173",
+      "predicate": "http://www.wikidata.org/prop/direct/P8406",
+      "object": "T060450"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151173",
+      "predicate": "http://www.wikidata.org/prop/direct/P1430",
+      "object": "7331"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151173",
+      "predicate": "http://www.wikidata.org/prop/direct/P1477",
+      "object": "Joachim Murat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151173",
+      "predicate": "http://www.wikidata.org/prop/direct/P7982",
+      "object": "42477"
+    }
+  ]
+}

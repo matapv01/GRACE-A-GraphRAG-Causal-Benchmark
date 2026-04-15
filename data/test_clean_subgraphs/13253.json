@@ -1,0 +1,59 @@
+{
+  "question_id": "13253",
+  "answers": [
+    "http://www.wikidata.org/entity/Q232",
+    "http://www.wikidata.org/entity/Q265"
+  ],
+  "gold_path": {
+    "question_id": "13253",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q874",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q232"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q232",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q7779"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q874",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q265"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q265",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q7779"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q874",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q874"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q874",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ashgabat%20from%20Arch%20of%20Neutrality%20%2841652998734%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q874",
+      "predicate": "http://www.wikidata.org/prop/direct/P36",
+      "object": "http://www.wikidata.org/entity/Q23438"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q874",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q51874548"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q874",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/Q874-83DAA7D1-56E3-4115-B4D3-457D25BC3F6D"
+    }
+  ]
+}

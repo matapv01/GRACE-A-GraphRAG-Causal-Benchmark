@@ -1,0 +1,48 @@
+{
+  "question_id": "12354",
+  "answers": [
+    "http://www.wikidata.org/entity/Q65"
+  ],
+  "gold_path": {
+    "question_id": "12354",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44131",
+        "predicate": "http://www.wikidata.org/prop/direct/P551",
+        "object": "http://www.wikidata.org/entity/Q65"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q655926"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44131",
+      "predicate": "http://www.wikidata.org/prop/direct/P4768",
+      "object": "55900"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44131",
+      "predicate": "http://www.wikidata.org/prop/direct/P6394",
+      "object": "a11264408"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44131",
+      "predicate": "http://www.wikidata.org/prop/direct/P5284",
+      "object": "1054397"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44131",
+      "predicate": "http://www.wikidata.org/prop/direct/P12674",
+      "object": "Q104642"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44131",
+      "predicate": "http://www.wikidata.org/prop/direct/P13797",
+      "object": "werner-herzog"
+    }
+  ]
+}

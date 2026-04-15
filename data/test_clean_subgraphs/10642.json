@@ -1,0 +1,58 @@
+{
+  "question_id": "10642",
+  "answers": [
+    "http://www.wikidata.org/entity/Q385502"
+  ],
+  "gold_path": {
+    "question_id": "10642",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q565911",
+        "predicate": "http://www.wikidata.org/prop/P179",
+        "object": "http://www.wikidata.org/entity/statement/Q565911-7d0983e1-48b9-7a97-bcd3-f03620c7b36b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q565911-7d0983e1-48b9-7a97-bcd3-f03620c7b36b",
+        "predicate": "ps:P179",
+        "object": "http://www.wikidata.org/entity/Q3209782"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q565911-7d0983e1-48b9-7a97-bcd3-f03620c7b36b",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q385502"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q565911-7d0983e1-48b9-7a97-bcd3-f03620c7b36b",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q1331757"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q565911",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "22"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q565911",
+      "predicate": "http://schema.org/version",
+      "object": "2468538813"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q565911",
+      "predicate": "http://schema.org/description",
+      "object": "kirja"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q565911",
+      "predicate": "http://schema.org/description",
+      "object": "վեպ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q565911",
+      "predicate": "http://schema.org/description",
+      "object": "livre de Lucy Maud Montgomery"
+    }
+  ]
+}

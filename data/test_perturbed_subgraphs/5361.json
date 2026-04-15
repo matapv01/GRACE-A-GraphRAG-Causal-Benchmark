@@ -1,0 +1,437 @@
+{
+  "clean": {
+    "question_id": "5361",
+    "answers": [
+      "http://www.wikidata.org/entity/Q787674"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q787674"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0648\u0644\u064a\u0627\u0645 \u0641\u064a\u0643\u0631\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0438"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0435\u0439"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "William Spencer Vickrey"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P2381",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-97483C7D-172C-4402-B3C4-0B67D43A1421"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "5361",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0648\u0644\u064a\u0627\u0645 \u0641\u064a\u0643\u0631\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0438"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0435\u0439"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "William Spencer Vickrey"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P2381",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-97483C7D-172C-4402-B3C4-0B67D43A1421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q787674"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "5361",
+    "answers": [
+      "http://www.wikidata.org/entity/Q787674"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q787674"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0648\u0644\u064a\u0627\u0645 \u0641\u064a\u0643\u0631\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0438"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0435\u0439"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "William Spencer Vickrey"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P2381",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-97483C7D-172C-4402-B3C4-0B67D43A1421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1227255"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q19693354"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q23813351"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q66126198"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q85744766"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "5361",
+    "answers": [
+      "http://www.wikidata.org/entity/Q787674"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q787674"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0648\u0644\u064a\u0627\u0645 \u0641\u064a\u0643\u0631\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0438"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0435\u0439"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "William Spencer Vickrey"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P2381",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-97483C7D-172C-4402-B3C4-0B67D43A1421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "5361",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1227255"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0648\u0644\u064a\u0627\u0645 \u0641\u064a\u0643\u0631\u064a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0438"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0412\u0438\u043a\u0440\u0435\u0439"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "William Spencer Vickrey"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295673",
+        "predicate": "http://www.wikidata.org/prop/P2381",
+        "object": "http://www.wikidata.org/entity/statement/Q295673-97483C7D-172C-4402-B3C4-0B67D43A1421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295673-56159E41-77CF-4207-B119-C5BD2FD9D77A",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q1227255"
+      }
+    ]
+  }
+}

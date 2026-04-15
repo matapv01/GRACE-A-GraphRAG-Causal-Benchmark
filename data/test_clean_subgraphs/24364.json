@@ -1,0 +1,76 @@
+{
+  "question_id": "24364",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2078604",
+    "http://www.wikidata.org/entity/Q987768",
+    "http://www.wikidata.org/entity/Q1760657",
+    "http://www.wikidata.org/entity/Q987774"
+  ],
+  "gold_path": {
+    "question_id": "24364",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1760657",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20011319"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1760657",
+        "predicate": "rdfs:label",
+        "object": "velamen"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2078604",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20011319"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2078604",
+        "predicate": "rdfs:label",
+        "object": "vein"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q987768",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20011319"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q987768",
+        "predicate": "rdfs:label",
+        "object": "vessel element"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q987774",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20011319"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q987774",
+        "predicate": "rdfs:label",
+        "object": "vascular bundle"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1760657",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Velame"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1760657",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Velamen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1760657",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Velamen radicum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1760657",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "velamen"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "23549",
+  "answers": [
+    "http://www.wikidata.org/entity/Q922364"
+  ],
+  "gold_path": {
+    "question_id": "23549",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q922364",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q186161"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q922364",
+        "predicate": "rdfs:label",
+        "object": "neutron radiation"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q922364",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neutronenstrahl"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q922364",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neutronenstrahlen"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q922364",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "termoneutron"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q922364",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neutron beam"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q922364",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "radiacion por neutrones"
+    }
+  ]
+}

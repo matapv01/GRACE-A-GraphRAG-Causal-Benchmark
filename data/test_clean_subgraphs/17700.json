@@ -1,0 +1,43 @@
+{
+  "question_id": "17700",
+  "answers": [
+    "http://www.wikidata.org/entity/Q48235"
+  ],
+  "gold_path": {
+    "question_id": "17700",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q183144",
+        "predicate": "http://www.wikidata.org/prop/direct/P802",
+        "object": "http://www.wikidata.org/entity/Q31845"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31845",
+        "predicate": "http://www.wikidata.org/prop/direct/P135",
+        "object": "http://www.wikidata.org/entity/Q48235"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q183144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Epiteto"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Epictetus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Epictet"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183144",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "إبكتاتوس"
+    }
+  ]
+}

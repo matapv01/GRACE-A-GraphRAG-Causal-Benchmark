@@ -1,0 +1,43 @@
+{
+  "question_id": "2846",
+  "answers": [
+    "http://www.wikidata.org/entity/Q930391"
+  ],
+  "gold_path": {
+    "question_id": "2846",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q930391",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3497167"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q930391",
+        "predicate": "http://www.wikidata.org/prop/direct/P4441",
+        "object": "380"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q930391",
+        "predicate": "http://www.wikidata.org/prop/direct/P706",
+        "object": "http://www.wikidata.org/entity/Q2251"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q930391",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Grand Coulee"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q930391",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Grand Coulee Dam"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q930391",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Гранд Кули Дам"
+    }
+  ]
+}

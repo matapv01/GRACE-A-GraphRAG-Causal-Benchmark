@@ -1,0 +1,53 @@
+{
+  "question_id": "5913",
+  "answers": [
+    "1857-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5913",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q159430",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q159430-b77393be-4caf-1a8f-d0e3-db569f0106e1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q159430-b77393be-4caf-1a8f-d0e3-db569f0106e1",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q753299"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q159430-b77393be-4caf-1a8f-d0e3-db569f0106e1",
+        "predicate": "pq:P580",
+        "object": "1857-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q159430",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q159430-57EB3C42-8AF7-42B1-BC9F-BE8B56FBA98F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159430",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T06:49:43Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159430",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q159430-EDD96230-58C3-403E-AF6A-9309A0377E9A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159430",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "arthur-cayley"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159430",
+      "predicate": "http://www.wikidata.org/prop/P8612",
+      "object": "http://www.wikidata.org/entity/statement/Q159430-403bf429-42c0-fc2d-4ee7-1caee4df6ddd"
+    }
+  ]
+}

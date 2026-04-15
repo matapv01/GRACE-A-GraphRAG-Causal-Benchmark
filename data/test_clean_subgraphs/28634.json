@@ -1,0 +1,55 @@
+{
+  "question_id": "28634",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4031920",
+    "http://www.wikidata.org/entity/Q4030173",
+    "http://www.wikidata.org/entity/Q2995743"
+  ],
+  "gold_path": {
+    "question_id": "28634",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q239260",
+        "predicate": "http://www.wikidata.org/prop/direct/P598",
+        "object": "http://www.wikidata.org/entity/Q2995743"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q239260",
+        "predicate": "http://www.wikidata.org/prop/direct/P598",
+        "object": "http://www.wikidata.org/entity/Q4030173"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q239260",
+        "predicate": "http://www.wikidata.org/prop/direct/P598",
+        "object": "http://www.wikidata.org/entity/Q4031920"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q239260",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q239260-b07d37d0-4a64-73ab-3f5a-613bfb72c5a9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239260",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q145810"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239260",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "bagration-pjotr-iwanowitsch"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239260",
+      "predicate": "http://www.wikidata.org/prop/P5019",
+      "object": "http://www.wikidata.org/entity/statement/Q239260-75D9CB85-135A-4EF5-8A8C-BBFE58309C3C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239260",
+      "predicate": "http://www.wikidata.org/prop/direct/P21",
+      "object": "http://www.wikidata.org/entity/Q6581097"
+    }
+  ]
+}

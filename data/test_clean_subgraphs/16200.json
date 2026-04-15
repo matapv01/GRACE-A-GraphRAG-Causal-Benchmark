@@ -1,0 +1,43 @@
+{
+  "question_id": "16200",
+  "answers": [
+    "2--411"
+  ],
+  "gold_path": {
+    "question_id": "16200",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q49650",
+        "predicate": "http://www.wikidata.org/prop/direct/P205",
+        "object": "http://www.wikidata.org/entity/Q22"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "2--411"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q49650",
+      "predicate": "http://www.wikidata.org/prop/direct/P3120",
+      "object": "4000000074800146"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49650",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Loch_Ness"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49650",
+      "predicate": "http://www.wikidata.org/prop/direct/P4552",
+      "object": "http://www.wikidata.org/entity/Q106652"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49650",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "sh85090955"
+    }
+  ]
+}

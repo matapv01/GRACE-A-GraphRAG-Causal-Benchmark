@@ -1,0 +1,50 @@
+{
+  "question_id": "27454",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41354",
+    "http://www.wikidata.org/entity/Q282",
+    "http://www.wikidata.org/entity/Q7802"
+  ],
+  "gold_path": {
+    "question_id": "27454",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q302",
+        "predicate": "http://www.wikidata.org/prop/direct/P3902",
+        "object": "http://www.wikidata.org/entity/Q282"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q302",
+        "predicate": "http://www.wikidata.org/prop/direct/P3902",
+        "object": "http://www.wikidata.org/entity/Q7802"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q302",
+        "predicate": "http://www.wikidata.org/prop/direct/P3902",
+        "object": "http://www.wikidata.org/entity/Q41354"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q302",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kristus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q302",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ישוע"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q302",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Christ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q302",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Jesús"
+    }
+  ]
+}

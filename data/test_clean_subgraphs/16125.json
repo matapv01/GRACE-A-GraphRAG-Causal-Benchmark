@@ -1,0 +1,54 @@
+{
+  "question_id": "16125",
+  "answers": [
+    "http://www.wikidata.org/entity/Q971480",
+    "http://www.wikidata.org/entity/Q38066"
+  ],
+  "gold_path": {
+    "question_id": "16125",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3566632",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q905"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905",
+        "predicate": "http://www.wikidata.org/prop/direct/P135",
+        "object": "http://www.wikidata.org/entity/Q38066"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905",
+        "predicate": "http://www.wikidata.org/prop/direct/P135",
+        "object": "http://www.wikidata.org/entity/Q971480"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Gregor Samsa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "گرگور زامزا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566632",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "topic/Gregor-Samsa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566632",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/05fmtm"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3566632",
+      "predicate": "http://www.wikidata.org/prop/direct/P5863",
+      "object": "Gregor-Samsa.The-Metamorphosis"
+    }
+  ]
+}

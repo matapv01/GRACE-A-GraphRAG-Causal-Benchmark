@@ -1,0 +1,59 @@
+{
+  "question_id": "22923",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9337",
+    "http://www.wikidata.org/entity/Q240"
+  ],
+  "gold_path": {
+    "question_id": "22923",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q240",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q7411"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q240",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q83057"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9337",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q7411"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9337",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q83057"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bruxellae"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bruselj"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Brussele"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "BXL"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bruxelles-Capitale"
+    }
+  ]
+}

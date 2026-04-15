@@ -1,0 +1,43 @@
+{
+  "question_id": "26431",
+  "answers": [
+    "arts-and-crafts-museum-hangzhou"
+  ],
+  "gold_path": {
+    "question_id": "26431",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4970",
+        "predicate": "http://www.wikidata.org/prop/direct/P4702",
+        "object": "arts-and-crafts-museum-hangzhou"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4970",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "58"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4970",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q4970-BDF6F56F-AB0A-4A82-A68A-7688C6BCADDC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4970",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Huanglong%20%26%20Broken%20Bridge%20-%20Hangzhou%20City%20%26%20West%20Lake%20near%20Broken%20Bridge.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4970",
+      "predicate": "http://schema.org/version",
+      "object": "2478319341"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4970",
+      "predicate": "http://www.wikidata.org/prop/P1830",
+      "object": "http://www.wikidata.org/entity/statement/Q4970-02E26C8D-0E63-407C-869D-FE281FFC7C50"
+    }
+  ]
+}

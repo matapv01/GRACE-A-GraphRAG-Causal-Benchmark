@@ -1,0 +1,48 @@
+{
+  "question_id": "7829",
+  "answers": [
+    "1390-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7829",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6240",
+        "predicate": "http://www.wikidata.org/prop/P570",
+        "object": "http://www.wikidata.org/entity/statement/Q6240-4A5B3226-6CCC-4200-958F-098B6A489B39"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6240-4A5B3226-6CCC-4200-958F-098B6A489B39",
+        "predicate": "pq:P1326",
+        "object": "1390-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6240",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T19:32:37Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6240",
+      "predicate": "http://www.wikidata.org/prop/direct/P9918",
+      "object": "PE00056117"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6240",
+      "predicate": "http://www.wikidata.org/prop/direct/P9964",
+      "object": "118544632"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6240",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q6240-472d7d80-456b-da28-5f05-65a4ab48b660"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6240",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q6240-D758D964-AD54-43F3-A5F4-D1F36B23886F"
+    }
+  ]
+}

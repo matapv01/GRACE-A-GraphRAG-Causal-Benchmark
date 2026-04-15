@@ -1,0 +1,387 @@
+{
+  "clean": {
+    "question_id": "26176",
+    "answers": [
+      "099014"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/n79039956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q13369-2ab446b6-4cd5-52b7-4798-c8cab3e60260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P635",
+        "object": "099014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/08%20b%20piazza%20cavour%20pan%20301.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1936",
+        "object": "https://imperium.ahlfeldt.se/places/10562"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "26176",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/n79039956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q13369-2ab446b6-4cd5-52b7-4798-c8cab3e60260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/08%20b%20piazza%20cavour%20pan%20301.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1936",
+        "object": "https://imperium.ahlfeldt.se/places/10562"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "099014"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "26176",
+    "answers": [
+      "099014"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/n79039956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q13369-2ab446b6-4cd5-52b7-4798-c8cab3e60260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P635",
+        "object": "099014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/08%20b%20piazza%20cavour%20pan%20301.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1936",
+        "object": "https://imperium.ahlfeldt.se/places/10562"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "67219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "129533"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "54737"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "65727"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "120824"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "26176",
+    "answers": [
+      "099014"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/n79039956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q13369-2ab446b6-4cd5-52b7-4798-c8cab3e60260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P635",
+        "object": "099014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/08%20b%20piazza%20cavour%20pan%20301.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1936",
+        "object": "https://imperium.ahlfeldt.se/places/10562"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "26176",
+    "answers": [
+      "146729"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "object": "http://id.loc.gov/authorities/names/n79039956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q13369-2ab446b6-4cd5-52b7-4798-c8cab3e60260"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/08%20b%20piazza%20cavour%20pan%20301.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct-normalized/P1936",
+        "object": "https://imperium.ahlfeldt.se/places/10562"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13369",
+        "predicate": "http://www.wikidata.org/prop/direct/P635",
+        "object": "146729"
+      }
+    ]
+  }
+}

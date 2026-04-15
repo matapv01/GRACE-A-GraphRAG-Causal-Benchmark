@@ -1,0 +1,48 @@
+{
+  "question_id": "15559",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7787"
+  ],
+  "gold_path": {
+    "question_id": "15559",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q46805",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q46",
+        "predicate": "http://www.wikidata.org/prop/direct/P2184",
+        "object": "http://www.wikidata.org/entity/Q7787"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q46805",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4212",
+      "object": "https://ark.frantiq.fr/ark:/26678/pcrtW9bpQtLjsx"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46805",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pante%C3%B3nSanIsidoroLe%C3%B3n.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46805",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8519",
+      "object": "https://data.rkd.nl/thesau/65202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46805",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4050482-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q46805",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P349",
+      "object": "http://id.ndl.go.jp/auth/ndlna/00569670"
+    }
+  ]
+}

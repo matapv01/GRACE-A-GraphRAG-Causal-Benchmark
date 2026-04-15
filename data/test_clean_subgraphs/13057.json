@@ -1,0 +1,48 @@
+{
+  "question_id": "13057",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2610844"
+  ],
+  "gold_path": {
+    "question_id": "13057",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q736191",
+        "predicate": "http://www.wikidata.org/prop/direct/P1322",
+        "object": "http://www.wikidata.org/entity/Q2610844"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2610844",
+        "predicate": "http://www.wikidata.org/prop/direct/P1678",
+        "object": "http://www.wikidata.org/entity/Q188758"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q736191",
+      "predicate": "http://schema.org/description",
+      "object": "four-dimensional analog of the dodecahedron"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q736191",
+      "predicate": "http://schema.org/description",
+      "object": "чотиривимірний відповідник додекаедра"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q736191",
+      "predicate": "http://schema.org/description",
+      "object": "konvexes reguläres vierdimensionales Polytop"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q736191",
+      "predicate": "http://www.wikidata.org/prop/P3228",
+      "object": "http://www.wikidata.org/entity/statement/Q736191-f580bdc3-44c9-0dcb-3463-9402b84031e7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q736191",
+      "predicate": "http://www.wikidata.org/prop/direct/P3228",
+      "object": "{5,3,3}"
+    }
+  ]
+}

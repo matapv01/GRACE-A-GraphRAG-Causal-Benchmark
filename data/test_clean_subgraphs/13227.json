@@ -1,0 +1,28 @@
+{
+  "question_id": "13227",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1995709"
+  ],
+  "gold_path": {
+    "question_id": "13227",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42402",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q1995709"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1995709",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q37073"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42402",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bocelli"
+    }
+  ]
+}

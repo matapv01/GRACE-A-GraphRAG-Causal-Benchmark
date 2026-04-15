@@ -1,0 +1,59 @@
+{
+  "question_id": "6298",
+  "answers": [
+    "London Financial Guide",
+    "Financial Times"
+  ],
+  "gold_path": {
+    "question_id": "6298",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q183399",
+        "predicate": "http://www.wikidata.org/prop/P1476",
+        "object": "http://www.wikidata.org/entity/statement/Q183399-02E603FE-6CC7-4A7C-AD73-56BA024AD9B7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q183399-02E603FE-6CC7-4A7C-AD73-56BA024AD9B7",
+        "predicate": "ps:P1476",
+        "object": "Financial Times"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q183399",
+        "predicate": "http://www.wikidata.org/prop/P1476",
+        "object": "http://www.wikidata.org/entity/statement/Q183399-fe3ed8e6-4715-2d5f-d8e3-5e35a7603caf"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q183399-fe3ed8e6-4715-2d5f-d8e3-5e35a7603caf",
+        "predicate": "ps:P1476",
+        "object": "London Financial Guide"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q183399",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-30T09:16:10Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183399",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q183399-FD0B707B-ACBD-4C69-B6AD-329A80BB7072"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183399",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183399",
+      "predicate": "http://www.wikidata.org/prop/direct/P4354",
+      "object": "https://www.ft.com/search?q=$1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183399",
+      "predicate": "http://www.wikidata.org/prop/P8408",
+      "object": "http://www.wikidata.org/entity/statement/Q183399-6B1563CD-B607-4C45-827E-BA70A530B173"
+    }
+  ]
+}

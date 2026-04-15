@@ -1,0 +1,43 @@
+{
+  "question_id": "24679",
+  "answers": [
+    "http://www.wikidata.org/entity/Q63993747"
+  ],
+  "gold_path": {
+    "question_id": "24679",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q63993747",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q657326"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q63993747",
+        "predicate": "rdfs:label",
+        "object": "peasantry"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q63993747",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q63993747-013a22cb-422c-65af-0cd2-2120c4d2c139"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q63993747",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q63993747-d4bec0a7-481f-d2c6-ed36-8db62a112b45"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q63993747",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q187588"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q63993747",
+      "predicate": "http://www.wikidata.org/prop/P527",
+      "object": "http://www.wikidata.org/entity/statement/Q63993747-123e17e2-4c9f-2b87-5a77-0f6e455ca862"
+    }
+  ]
+}

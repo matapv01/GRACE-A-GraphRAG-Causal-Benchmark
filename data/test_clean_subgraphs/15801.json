@@ -1,0 +1,44 @@
+{
+  "question_id": "15801",
+  "answers": [
+    "http://www.wikidata.org/entity/Q587361",
+    "http://www.wikidata.org/entity/Q962378"
+  ],
+  "gold_path": {
+    "question_id": "15801",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10506666",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q654283"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q654283",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q587361"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q654283",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q962378"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10506666",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q482994"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10506666",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/q10506666-5CE65C8E-A0F8-4C13-A9E8-BEB600B8F25A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10506666",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Godfather Buried Alive"
+    }
+  ]
+}

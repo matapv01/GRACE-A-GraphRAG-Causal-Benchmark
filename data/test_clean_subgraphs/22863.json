@@ -1,0 +1,81 @@
+{
+  "question_id": "22863",
+  "answers": [
+    "http://www.wikidata.org/entity/Q935761",
+    "http://www.wikidata.org/entity/Q47521519",
+    "http://www.wikidata.org/entity/Q47521581",
+    "http://www.wikidata.org/entity/Q47520980"
+  ],
+  "gold_path": {
+    "question_id": "22863",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179452",
+        "predicate": "http://www.wikidata.org/prop/direct/P3780",
+        "object": "http://www.wikidata.org/entity/Q935761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q935761",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28885102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179452",
+        "predicate": "http://www.wikidata.org/prop/direct/P3780",
+        "object": "http://www.wikidata.org/entity/Q47520980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47520980",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28885102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179452",
+        "predicate": "http://www.wikidata.org/prop/direct/P3780",
+        "object": "http://www.wikidata.org/entity/Q47521519"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47521519",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28885102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q179452",
+        "predicate": "http://www.wikidata.org/prop/direct/P3780",
+        "object": "http://www.wikidata.org/entity/Q47521581"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47521581",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28885102"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179452",
+      "predicate": "http://schema.org/description",
+      "object": "kemia kombinaĵo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179452",
+      "predicate": "http://schema.org/description",
+      "object": "chemická zlúčenina"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179452",
+      "predicate": "http://schema.org/description",
+      "object": "kemisk forbindelse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179452",
+      "predicate": "http://schema.org/description",
+      "object": "քիմիական միացություն"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179452",
+      "predicate": "http://schema.org/description",
+      "object": "mélange d'isomères"
+    }
+  ]
+}

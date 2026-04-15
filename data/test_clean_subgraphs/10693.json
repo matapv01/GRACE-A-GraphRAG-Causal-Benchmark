@@ -1,0 +1,58 @@
+{
+  "question_id": "10693",
+  "answers": [
+    "14"
+  ],
+  "gold_path": {
+    "question_id": "10693",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q192131",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/q192131-ACE17967-1FC3-42F0-A5B5-7C83C3F86047"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q192131-ACE17967-1FC3-42F0-A5B5-7C83C3F86047",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q1886"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q192131-ACE17967-1FC3-42F0-A5B5-7C83C3F86047",
+        "predicate": "pq:P1350",
+        "object": "14"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q192131-ACE17967-1FC3-42F0-A5B5-7C83C3F86047",
+        "predicate": "pq:P1351",
+        "object": "2"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q192131",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-01T23:03:08Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192131",
+      "predicate": "http://schema.org/description",
+      "object": "futbolista italianu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192131",
+      "predicate": "http://schema.org/description",
+      "object": "futbolista italiano"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192131",
+      "predicate": "http://schema.org/description",
+      "object": "Bal tãongra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192131",
+      "predicate": "http://schema.org/description",
+      "object": "İtalyan futbolcu ve teknik direktör (1910-1979)"
+    }
+  ]
+}

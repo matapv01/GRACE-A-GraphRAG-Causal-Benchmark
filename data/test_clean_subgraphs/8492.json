@@ -1,0 +1,48 @@
+{
+  "question_id": "8492",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2018484"
+  ],
+  "gold_path": {
+    "question_id": "8492",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43067",
+        "predicate": "http://www.wikidata.org/prop/P735",
+        "object": "http://www.wikidata.org/entity/statement/Q43067-2376355A-6842-4592-9503-E951C7E57230"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q43067-2376355A-6842-4592-9503-E951C7E57230",
+        "predicate": "ps:P735",
+        "object": "http://www.wikidata.org/entity/Q2018484"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43067",
+      "predicate": "http://www.wikidata.org/prop/direct/P3846",
+      "object": "87097919120082"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43067",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43067",
+      "predicate": "http://www.wikidata.org/prop/direct/P5361",
+      "object": "HimmlerHeinrich1900-1945"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43067",
+      "predicate": "http://www.wikidata.org/prop/direct/P6385",
+      "object": "gosudarstvo-i-politika/gimmler-genrih"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43067",
+      "predicate": "http://www.wikidata.org/prop/direct/P2963",
+      "object": "820213"
+    }
+  ]
+}

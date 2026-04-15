@@ -1,0 +1,43 @@
+{
+  "question_id": "5057",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4416090"
+  ],
+  "gold_path": {
+    "question_id": "5057",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11613",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q11613-B00DDFEC-67D7-437E-8C20-7C503C932E86"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q11613-B00DDFEC-67D7-437E-8C20-7C503C932E86",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q4416090"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11613",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Harry_S._Truman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11613",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/q11613-E1C044AE-BB93-4101-BC99-DC0D782BB599"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11613",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q11613-14207E0C-E033-4555-8D3F-FA2C406534AD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11613",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q11613-14E12635-5C8F-43F4-90E9-0309857DCA94"
+    }
+  ]
+}

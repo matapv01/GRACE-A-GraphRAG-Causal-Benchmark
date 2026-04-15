@@ -1,0 +1,53 @@
+{
+  "question_id": "4772",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3161212"
+  ],
+  "gold_path": {
+    "question_id": "4772",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q543115",
+        "predicate": "http://www.wikidata.org/prop/P488",
+        "object": "http://www.wikidata.org/entity/statement/Q543115-6cbf0633-455c-4fbc-cc1a-28831c58becc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q543115-6cbf0633-455c-4fbc-cc1a-28831c58becc",
+        "predicate": "ps:P488",
+        "object": "http://www.wikidata.org/entity/Q3161212"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q543115-6cbf0633-455c-4fbc-cc1a-28831c58becc",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q3057355"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q543115",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q543115",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Union Internacional de Patinaje sobre Hielo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q543115",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "국제빙상경기연맹"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q543115",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "국제빙상연맹"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q543115",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "인터내셔널 스케이팅 유니언"
+    }
+  ]
+}

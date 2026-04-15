@@ -1,0 +1,70 @@
+{
+  "question_id": "16103",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3378593",
+    "http://www.wikidata.org/entity/Q12029",
+    "http://www.wikidata.org/entity/Q182413"
+  ],
+  "gold_path": {
+    "question_id": "16103",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12029",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q2362817"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2362817",
+        "predicate": "http://www.wikidata.org/prop/direct/P2578",
+        "object": "http://www.wikidata.org/entity/Q12029"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2362817",
+        "predicate": "http://www.wikidata.org/prop/direct/P2578",
+        "object": "http://www.wikidata.org/entity/Q182413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2362817",
+        "predicate": "http://www.wikidata.org/prop/direct/P2578",
+        "object": "http://www.wikidata.org/entity/Q3378593"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12029",
+        "predicate": "http://www.wikidata.org/prop/direct/P2579",
+        "object": "http://www.wikidata.org/entity/Q4681112"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4681112",
+        "predicate": "http://www.wikidata.org/prop/direct/P2578",
+        "object": "http://www.wikidata.org/entity/Q12029"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12029",
+      "predicate": "http://www.wikidata.org/prop/P3916",
+      "object": "http://www.wikidata.org/entity/statement/Q12029-BC2D1465-AC35-4E35-97F8-61AA289C5C30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12029",
+      "predicate": "http://www.wikidata.org/prop/P3984",
+      "object": "http://www.wikidata.org/entity/statement/Q12029-09EA0EB5-04F0-41E9-AACA-C7A9CE78FE1A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12029",
+      "predicate": "http://www.wikidata.org/prop/P3984",
+      "object": "http://www.wikidata.org/entity/statement/Q12029-64C1AF03-CF81-48BB-B32A-CC0374E7910D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12029",
+      "predicate": "http://www.wikidata.org/prop/P3984",
+      "object": "http://www.wikidata.org/entity/statement/Q12029-ABD80DCA-9A0B-4D2A-9401-082D1D425D54"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12029",
+      "predicate": "http://www.wikidata.org/prop/P3911",
+      "object": "http://www.wikidata.org/entity/statement/Q12029-517DAB30-960A-457C-BAC8-AECB2ADEE565"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "20080",
+  "answers": [
+    "http://www.wikidata.org/entity/Q159"
+  ],
+  "gold_path": {
+    "question_id": "20080",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q159",
+        "predicate": "http://www.wikidata.org/prop/direct/P38",
+        "object": "http://www.wikidata.org/entity/Q41044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q159",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q159",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ryssland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Russia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "روس"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ਰੂਸ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Rusya"
+    }
+  ]
+}

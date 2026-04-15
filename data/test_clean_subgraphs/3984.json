@@ -1,0 +1,48 @@
+{
+  "question_id": "3984",
+  "answers": [
+    "http://www.wikidata.org/entity/Q906245"
+  ],
+  "gold_path": {
+    "question_id": "3984",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q959",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q959-23011ba3-4ddc-d396-6165-3f15f18ca00c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q959-23011ba3-4ddc-d396-6165-3f15f18ca00c",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q906245"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q959",
+      "predicate": "http://www.wikidata.org/prop/direct/P1417",
+      "object": "place/Vladivostok"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q959",
+      "predicate": "http://www.wikidata.org/prop/direct/P8814",
+      "object": "09033040-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q959",
+      "predicate": "http://www.wikidata.org/prop/direct/P1465",
+      "object": "http://www.wikidata.org/entity/Q9220363"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q959",
+      "predicate": "http://www.wikidata.org/prop/direct/P1464",
+      "object": "http://www.wikidata.org/entity/Q8081983"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q959",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "vladivostok"
+    }
+  ]
+}

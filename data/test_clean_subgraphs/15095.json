@@ -1,0 +1,48 @@
+{
+  "question_id": "15095",
+  "answers": [
+    "http://www.wikidata.org/entity/Q213449"
+  ],
+  "gold_path": {
+    "question_id": "15095",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q474188",
+        "predicate": "http://www.wikidata.org/prop/direct/P618",
+        "object": "http://www.wikidata.org/entity/Q20984829"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20984829",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q213449"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q474188",
+      "predicate": "http://www.wikidata.org/prop/direct/P12596",
+      "object": "53960"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q474188",
+      "predicate": "http://www.wikidata.org/prop/direct/P12596",
+      "object": "26718"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q474188",
+      "predicate": "http://www.wikidata.org/prop/P8514",
+      "object": "http://www.wikidata.org/entity/statement/Q474188-770190FE-4B81-4180-8876-AD9DF4B0B23D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q474188",
+      "predicate": "http://www.wikidata.org/prop/direct/P8514",
+      "object": "cinzel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q474188",
+      "predicate": "http://www.wikidata.org/prop/P12596",
+      "object": "http://www.wikidata.org/entity/statement/Q474188-57973C0D-7D9A-41E4-B6A2-93086AAAD336"
+    }
+  ]
+}

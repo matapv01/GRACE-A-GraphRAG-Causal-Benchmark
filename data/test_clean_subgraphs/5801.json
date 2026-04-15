@@ -1,0 +1,48 @@
+{
+  "question_id": "5801",
+  "answers": [
+    "http://www.wikidata.org/entity/Q37922"
+  ],
+  "gold_path": {
+    "question_id": "5801",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128790",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q128790-775911A5-A49B-4778-AE38-2DC21AE8C5AC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128790-775911A5-A49B-4778-AE38-2DC21AE8C5AC",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q37922"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128790",
+      "predicate": "http://www.wikidata.org/prop/direct/P7026",
+      "object": "51613"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128790",
+      "predicate": "http://www.wikidata.org/prop/direct/P6706",
+      "object": "Simenon,+Georges"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128790",
+      "predicate": "http://www.wikidata.org/prop/direct/P7704",
+      "object": "agent/base/61801"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128790",
+      "predicate": "http://www.wikidata.org/prop/direct/P7700",
+      "object": "vtls005610874"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128790",
+      "predicate": "http://www.wikidata.org/prop/direct/P7902",
+      "object": "118614401"
+    }
+  ]
+}

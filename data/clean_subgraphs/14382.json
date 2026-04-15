@@ -1,0 +1,48 @@
+{
+  "question_id": "14382",
+  "answers": [
+    "In God We Trust"
+  ],
+  "gold_path": {
+    "question_id": "14382",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q231736",
+        "predicate": "http://www.wikidata.org/prop/direct/P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P1451",
+        "object": "In God We Trust"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q231736",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q231736-3B444FDF-7FE3-4DEB-9DD8-8762CBF7453F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q231736",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/q231736-1789D1F2-BF35-4D6D-A667-D7D647EF06C4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q231736",
+      "predicate": "http://www.wikidata.org/prop/P5019",
+      "object": "http://www.wikidata.org/entity/statement/Q231736-D3FAAFA2-276D-4BB7-9330-214914A421E4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q231736",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/q231736-A24735E8-1B6E-4C03-B593-1B575B35D1CC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q231736",
+      "predicate": "http://www.wikidata.org/prop/P3630",
+      "object": "http://www.wikidata.org/entity/statement/Q231736-2B014AE5-10C4-4560-891E-C0F5ECBACD78"
+    }
+  ]
+}

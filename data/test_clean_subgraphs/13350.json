@@ -1,0 +1,38 @@
+{
+  "question_id": "13350",
+  "answers": [
+    "http://www.wikidata.org/entity/Q26234"
+  ],
+  "gold_path": {
+    "question_id": "13350",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42622",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q26234"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26234",
+        "predicate": "http://www.wikidata.org/prop/direct/P1792",
+        "object": "http://www.wikidata.org/entity/Q8733439"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42622",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Suzhou"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42622",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Σουτσόου"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42622",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "સુઝોઉ"
+    }
+  ]
+}

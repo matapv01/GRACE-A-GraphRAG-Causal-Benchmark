@@ -1,0 +1,67 @@
+{
+  "question_id": "15081",
+  "answers": [
+    "http://www.wikidata.org/entity/Q919992",
+    "http://www.wikidata.org/entity/Q4685084",
+    "http://www.wikidata.org/entity/Q247032",
+    "http://www.wikidata.org/entity/Q357402",
+    "http://www.wikidata.org/entity/Q162005"
+  ],
+  "gold_path": {
+    "question_id": "15081",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3646130",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q632511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q632511",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q162005"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q632511",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q357402"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q632511",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q919992"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q632511",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q4685084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3646130",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q646135"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q646135",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q247032"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3646130",
+      "predicate": "http://schema.org/version",
+      "object": "2480167934"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3646130",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "بريان ميريديث"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3646130",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Bryan Meredith"
+    }
+  ]
+}

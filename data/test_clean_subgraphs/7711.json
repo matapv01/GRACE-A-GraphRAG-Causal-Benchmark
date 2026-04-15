@@ -1,0 +1,69 @@
+{
+  "question_id": "7711",
+  "answers": [
+    "1912-01-01T00:00:00Z",
+    "1916-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7711",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188712",
+        "predicate": "http://www.wikidata.org/prop/P47",
+        "object": "http://www.wikidata.org/entity/statement/Q188712-3aa11635-4bbf-995d-6536-dff1056afc71"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q188712-3aa11635-4bbf-995d-6536-dff1056afc71",
+        "predicate": "ps:P47",
+        "object": "http://www.wikidata.org/entity/Q13426199"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q188712-3aa11635-4bbf-995d-6536-dff1056afc71",
+        "predicate": "pq:P580",
+        "object": "1916-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188712",
+        "predicate": "http://www.wikidata.org/prop/P47",
+        "object": "http://www.wikidata.org/entity/statement/Q188712-dd067d46-4d4d-59b2-5975-485c3797bd74"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q188712-dd067d46-4d4d-59b2-5975-485c3797bd74",
+        "predicate": "ps:P47",
+        "object": "http://www.wikidata.org/entity/Q13426199"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q188712-dd067d46-4d4d-59b2-5975-485c3797bd74",
+        "predicate": "pq:P580",
+        "object": "1912-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188712",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-02-24T00:08:04Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188712",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q17"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188712",
+      "predicate": "http://schema.org/version",
+      "object": "2466150550"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188712",
+      "predicate": "http://www.wikidata.org/prop/direct/P1705",
+      "object": "大日本帝国"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188712",
+      "predicate": "http://www.wikidata.org/prop/direct/P194",
+      "object": "http://www.wikidata.org/entity/Q704408"
+    }
+  ]
+}

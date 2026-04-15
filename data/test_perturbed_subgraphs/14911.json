@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "14911",
+    "answers": [
+      "http://www.wikidata.org/entity/Q5756"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P669",
+        "object": "http://www.wikidata.org/entity/Q5988081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q48133142-83860a50-4b75-51c4-8d20-13f2357ba009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinch%C3%B3n%20-%20Convento%20de%20las%20Clarisas%201.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/description",
+        "object": "building in Chinch\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q5756"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q3819823"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/version",
+        "object": "1045050603"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "14911",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P669",
+        "object": "http://www.wikidata.org/entity/Q5988081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q48133142-83860a50-4b75-51c4-8d20-13f2357ba009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinch%C3%B3n%20-%20Convento%20de%20las%20Clarisas%201.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/description",
+        "object": "building in Chinch\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q3819823"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/version",
+        "object": "1045050603"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q5756"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "14911",
+    "answers": [
+      "http://www.wikidata.org/entity/Q5756"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P669",
+        "object": "http://www.wikidata.org/entity/Q5988081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q48133142-83860a50-4b75-51c4-8d20-13f2357ba009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinch%C3%B3n%20-%20Convento%20de%20las%20Clarisas%201.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/description",
+        "object": "building in Chinch\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q5756"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q3819823"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/version",
+        "object": "1045050603"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3908"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3934"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3946"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q3995"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q4018"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "14911",
+    "answers": [
+      "http://www.wikidata.org/entity/Q5756"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P669",
+        "object": "http://www.wikidata.org/entity/Q5988081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q48133142-83860a50-4b75-51c4-8d20-13f2357ba009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinch%C3%B3n%20-%20Convento%20de%20las%20Clarisas%201.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/description",
+        "object": "building in Chinch\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q5756"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q3819823"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/version",
+        "object": "1045050603"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "14911",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3908"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P669",
+        "object": "http://www.wikidata.org/entity/Q5988081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q48133142-83860a50-4b75-51c4-8d20-13f2357ba009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinch%C3%B3n%20-%20Convento%20de%20las%20Clarisas%201.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/description",
+        "object": "building in Chinch\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q3819823"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48133142",
+        "predicate": "http://schema.org/version",
+        "object": "1045050603"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5988081",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q3908"
+      }
+    ]
+  }
+}

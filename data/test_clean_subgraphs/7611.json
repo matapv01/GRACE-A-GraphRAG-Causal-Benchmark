@@ -1,0 +1,117 @@
+{
+  "question_id": "7611",
+  "answers": [
+    "2004-01-01T00:00:00Z",
+    "1982-01-01T00:00:00Z",
+    "1959-01-01T00:00:00Z",
+    "2007-01-01T00:00:00Z",
+    "1994-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7611",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190523",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q190523-2dec74f9-466d-9d48-0e96-28a35188f8e4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-2dec74f9-466d-9d48-0e96-28a35188f8e4",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-2dec74f9-466d-9d48-0e96-28a35188f8e4",
+        "predicate": "pq:P585",
+        "object": "1982-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190523",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q190523-40cdf3a0-4b17-d457-2b5c-870aa0b0f9f7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-40cdf3a0-4b17-d457-2b5c-870aa0b0f9f7",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-40cdf3a0-4b17-d457-2b5c-870aa0b0f9f7",
+        "predicate": "pq:P585",
+        "object": "2004-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190523",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q190523-d2dbb300-4f5d-b761-2dcd-519910529143"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-d2dbb300-4f5d-b761-2dcd-519910529143",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-d2dbb300-4f5d-b761-2dcd-519910529143",
+        "predicate": "pq:P585",
+        "object": "1994-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190523",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q190523-f21b804d-47c6-3fe0-e5ec-62234ec2be2f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-f21b804d-47c6-3fe0-e5ec-62234ec2be2f",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-f21b804d-47c6-3fe0-e5ec-62234ec2be2f",
+        "predicate": "pq:P585",
+        "object": "2007-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190523",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q190523-feb86e0e-4c88-bdca-a721-d832817aa355"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-feb86e0e-4c88-bdca-a721-d832817aa355",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q190523-feb86e0e-4c88-bdca-a721-d832817aa355",
+        "predicate": "pq:P585",
+        "object": "1959-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q190523",
+      "predicate": "http://www.wikidata.org/prop/direct/P910",
+      "object": "http://www.wikidata.org/entity/Q55274233"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190523",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q172"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190523",
+      "predicate": "http://www.wikidata.org/prop/direct/P935",
+      "object": "Christopher Plummer"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190523",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q190523-AF32DC2C-AB18-4CCE-9BDB-29892B0FE468"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190523",
+      "predicate": "http://www.wikidata.org/prop/direct/P345",
+      "object": "nm0001626"
+    }
+  ]
+}

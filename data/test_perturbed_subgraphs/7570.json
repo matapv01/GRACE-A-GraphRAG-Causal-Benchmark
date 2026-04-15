@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "7570",
+    "answers": [
+      "http://www.wikidata.org/entity/Q32000331"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q32000331"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-18145D59-99E0-466B-B640-9F62D80A448A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1938",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-CE6A30D3-BB1F-4B21-964B-B81D849104E1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "christian-friedrich-samuel-hahnemann"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P214",
+        "object": "http://www.wikidata.org/entity/statement/q157056-13435A6A-34BD-41B6-A297-5131D42CE0EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1971",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-de97f67b-45bf-2393-b25d-e3d229abcc66"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "7570",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-18145D59-99E0-466B-B640-9F62D80A448A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1938",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-CE6A30D3-BB1F-4B21-964B-B81D849104E1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "christian-friedrich-samuel-hahnemann"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P214",
+        "object": "http://www.wikidata.org/entity/statement/q157056-13435A6A-34BD-41B6-A297-5131D42CE0EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1971",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-de97f67b-45bf-2393-b25d-e3d229abcc66"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q32000331"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "7570",
+    "answers": [
+      "http://www.wikidata.org/entity/Q32000331"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q32000331"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-18145D59-99E0-466B-B640-9F62D80A448A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1938",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-CE6A30D3-BB1F-4B21-964B-B81D849104E1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "christian-friedrich-samuel-hahnemann"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P214",
+        "object": "http://www.wikidata.org/entity/statement/q157056-13435A6A-34BD-41B6-A297-5131D42CE0EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1971",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-de97f67b-45bf-2393-b25d-e3d229abcc66"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q42"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q76"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q91"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "7570",
+    "answers": [
+      "http://www.wikidata.org/entity/Q32000331"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q32000331"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-18145D59-99E0-466B-B640-9F62D80A448A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1938",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-CE6A30D3-BB1F-4B21-964B-B81D849104E1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "christian-friedrich-samuel-hahnemann"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P214",
+        "object": "http://www.wikidata.org/entity/statement/q157056-13435A6A-34BD-41B6-A297-5131D42CE0EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1971",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-de97f67b-45bf-2393-b25d-e3d229abcc66"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q142-d0efe03e-460e-0603-c864-444448fdbf9c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-0a78333d-4256-b9ff-4ac0-680bcbd5ce91"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-2562fdfb-49b4-db9c-675c-e946811d8eae"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-5119cd99-49cf-6faf-583c-6cf6aa6df4a2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-72e51c60-4125-a47e-fadb-2341929d3878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-8fedf193-460c-25db-a41d-2cd162414eb8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-b53f1550-4044-084a-cb95-f920391acd31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-c018bfd5-498c-82fa-30ca-2f5cc4fe5370"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/Q142-d47f828a-47dd-69e7-1649-fef43859de9d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P35",
+        "object": "http://www.wikidata.org/entity/statement/q142-d8d9fb9a-42e9-634e-92a4-e38c7b1eda4c"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "7570",
+    "answers": [
+      "http://www.wikidata.org/entity/Q23"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-18145D59-99E0-466B-B640-9F62D80A448A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1938",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-CE6A30D3-BB1F-4B21-964B-B81D849104E1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/direct/P3219",
+        "object": "christian-friedrich-samuel-hahnemann"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P214",
+        "object": "http://www.wikidata.org/entity/statement/q157056-13435A6A-34BD-41B6-A297-5131D42CE0EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P1971",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-de97f67b-45bf-2393-b25d-e3d229abcc66"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q23"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "5844",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4059193"
+  ],
+  "gold_path": {
+    "question_id": "5844",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q58720",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q58720-b81e194f-40a1-a100-e848-944e5edee0b2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q58720-b81e194f-40a1-a100-e848-944e5edee0b2",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q4059193"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q58720",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "224"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58720",
+      "predicate": "http://www.wikidata.org/prop/P22",
+      "object": "http://www.wikidata.org/entity/statement/Q58720-e1860642-de12-43e0-b613-4814d8a592b8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58720",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/q58720-0AB4EF2A-AFB8-4B1F-BE0B-A8996F1337DD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58720",
+      "predicate": "http://www.wikidata.org/prop/direct/P22",
+      "object": "http://www.wikidata.org/entity/Q107294419"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58720",
+      "predicate": "http://www.wikidata.org/prop/direct/P2381",
+      "object": "63087"
+    }
+  ]
+}

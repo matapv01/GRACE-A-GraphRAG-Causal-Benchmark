@@ -1,0 +1,48 @@
+{
+  "question_id": "13043",
+  "answers": [
+    "http://www.wikidata.org/entity/Q859"
+  ],
+  "gold_path": {
+    "question_id": "13043",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1187191",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q859"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q859",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q924977"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1187191",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "واقعية أفلاطونية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1187191",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Realismu platónicu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1187191",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Платонов реализъм"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1187191",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "realisme platònic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1187191",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Platonisk realisme"
+    }
+  ]
+}

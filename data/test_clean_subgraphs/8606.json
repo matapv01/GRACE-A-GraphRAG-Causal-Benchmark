@@ -1,0 +1,53 @@
+{
+  "question_id": "8606",
+  "answers": [
+    "2001-12-31T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8606",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173158",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q173158-a723c557-4069-ca2d-67d5-4a6de986c52b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173158-a723c557-4069-ca2d-67d5-4a6de986c52b",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q833163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173158-a723c557-4069-ca2d-67d5-4a6de986c52b",
+        "predicate": "pq:P585",
+        "object": "2001-12-31T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q173158",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Ben-Kingsley-actor"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173158",
+      "predicate": "http://www.wikidata.org/prop/direct/P5233",
+      "object": "a2360"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173158",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q173158-03627550-A9CA-4637-94CB-7B5988907E1F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173158",
+      "predicate": "http://www.wikidata.org/prop/direct/P10052",
+      "object": "ben_kingsley"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173158",
+      "predicate": "http://www.wikidata.org/prop/direct/P5297",
+      "object": "RrdApFRLRAICTZC8XHxI7CM2DdI"
+    }
+  ]
+}

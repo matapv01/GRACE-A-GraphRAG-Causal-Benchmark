@@ -1,0 +1,70 @@
+{
+  "question_id": "19791",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14089670",
+    "http://www.wikidata.org/entity/Q56117770",
+    "http://www.wikidata.org/entity/Q15041977"
+  ],
+  "gold_path": {
+    "question_id": "19791",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14089670",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q5849"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14089670",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28640"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15041977",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q5849"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15041977",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28640"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56117770",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q5849"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56117770",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q28640"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14089670",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14089670",
+      "predicate": "http://www.wikidata.org/prop/direct/P279",
+      "object": "http://www.wikidata.org/entity/Q13415036"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14089670",
+      "predicate": "http://schema.org/description",
+      "object": "играч на рагби"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14089670",
+      "predicate": "http://schema.org/description",
+      "object": "persoon wat ruby speel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14089670",
+      "predicate": "http://schema.org/description",
+      "object": "الرياضي الذي ينافس في مباريات اتحاد الرغبي"
+    }
+  ]
+}

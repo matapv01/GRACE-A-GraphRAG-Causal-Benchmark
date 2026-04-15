@@ -1,0 +1,87 @@
+{
+  "question_id": "24212",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2582364",
+    "http://www.wikidata.org/entity/Q558571",
+    "http://www.wikidata.org/entity/Q1971438",
+    "http://www.wikidata.org/entity/Q472953",
+    "http://www.wikidata.org/entity/Q131121836"
+  ],
+  "gold_path": {
+    "question_id": "24212",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131121836",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q31338769"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q131121836",
+        "predicate": "rdfs:label",
+        "object": "Thomsonianism"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q472953",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q31338769"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q472953",
+        "predicate": "rdfs:label",
+        "object": "trepanning"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q558571",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q31338769"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q558571",
+        "predicate": "rdfs:label",
+        "object": "Transcendental Meditation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1971438",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q31338769"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1971438",
+        "predicate": "rdfs:label",
+        "object": "therapeutic touch"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2582364",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q31338769"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2582364",
+        "predicate": "rdfs:label",
+        "object": "Tomatis method"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131121836",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131121836",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/1834%20Illustration%20from%20Thomsonian%20Botanic%20Watchman.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131121836",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q131121836-4a741ea7-4750-bd48-5203-7a90d9aea9bb"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131121836",
+      "predicate": "http://www.wikidata.org/prop/direct/P361",
+      "object": "http://www.wikidata.org/entity/Q7229701"
+    }
+  ]
+}

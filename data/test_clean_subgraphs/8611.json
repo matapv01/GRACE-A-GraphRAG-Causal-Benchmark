@@ -1,0 +1,38 @@
+{
+  "question_id": "8611",
+  "answers": [
+    "2"
+  ],
+  "gold_path": {
+    "question_id": "8611",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q230299",
+        "predicate": "http://www.wikidata.org/prop/P735",
+        "object": "http://www.wikidata.org/entity/statement/Q230299-3BAAAD61-67D5-4029-9EDF-EFCEB0078AF5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q230299-3BAAAD61-67D5-4029-9EDF-EFCEB0078AF5",
+        "predicate": "ps:P735",
+        "object": "http://www.wikidata.org/entity/Q1682564"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q230299-3BAAAD61-67D5-4029-9EDF-EFCEB0078AF5",
+        "predicate": "pq:P1545",
+        "object": "2"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q230299",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "83"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230299",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Nellie Bly"
+    }
+  ]
+}

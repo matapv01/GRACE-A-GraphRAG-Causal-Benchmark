@@ -1,0 +1,48 @@
+{
+  "question_id": "5897",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7376362"
+  ],
+  "gold_path": {
+    "question_id": "5897",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14294",
+        "predicate": "http://www.wikidata.org/prop/P625",
+        "object": "http://www.wikidata.org/entity/statement/Q14294-32F2FD8F-AA66-4F9A-BF39-BC2FDAF14C5D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q14294-32F2FD8F-AA66-4F9A-BF39-BC2FDAF14C5D",
+        "predicate": "pq:P518",
+        "object": "http://www.wikidata.org/entity/Q7376362"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14294",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "place/74618dfb-0d70-44e8-8e21-ddcc8ce78229"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14294",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q14294-4CD4B6A8-5DEB-429C-8745-D0A59B14811A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14294",
+      "predicate": "http://www.wikidata.org/prop/P13591",
+      "object": "http://www.wikidata.org/entity/statement/Q14294-99968758-B32F-48DA-823B-25791A7FF673"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14294",
+      "predicate": "http://www.wikidata.org/prop/direct/P6706",
+      "object": "Tàgo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14294",
+      "predicate": "http://www.wikidata.org/prop/direct/P691",
+      "object": "ge1088207"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "question_id": "25803",
+  "answers": [
+    "http://www.wikidata.org/entity/Q907311",
+    "http://www.wikidata.org/entity/Q219400"
+  ],
+  "gold_path": {
+    "question_id": "25803",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q214723",
+        "predicate": "http://www.wikidata.org/prop/direct/P750",
+        "object": "http://www.wikidata.org/entity/Q219400"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q214723",
+        "predicate": "http://www.wikidata.org/prop/direct/P750",
+        "object": "http://www.wikidata.org/entity/Q907311"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q214723",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q11424"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214723",
+      "predicate": "http://www.wikidata.org/prop/direct/P437",
+      "object": "http://www.wikidata.org/entity/Q723685"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214723",
+      "predicate": "http://www.wikidata.org/prop/direct/P2529",
+      "object": "1471"
+    }
+  ]
+}

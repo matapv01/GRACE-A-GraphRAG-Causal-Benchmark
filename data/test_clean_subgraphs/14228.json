@@ -1,0 +1,48 @@
+{
+  "question_id": "14228",
+  "answers": [
+    "http://www.wikidata.org/entity/Q495"
+  ],
+  "gold_path": {
+    "question_id": "14228",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8814",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q495"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q495",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q9024"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8814",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-13T12:13:49Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8814",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8814",
+      "predicate": "http://www.wikidata.org/prop/direct/P802",
+      "object": "http://www.wikidata.org/entity/Q12718"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8814",
+      "predicate": "http://www.wikidata.org/prop/direct/P8094",
+      "object": "cauchy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8814",
+      "predicate": "http://www.wikidata.org/prop/direct/P906",
+      "object": "180629"
+    }
+  ]
+}

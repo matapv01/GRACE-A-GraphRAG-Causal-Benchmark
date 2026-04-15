@@ -1,0 +1,48 @@
+{
+  "question_id": "17848",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10861030"
+  ],
+  "gold_path": {
+    "question_id": "17848",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1501882",
+        "predicate": "http://www.wikidata.org/prop/direct/P144",
+        "object": "http://www.wikidata.org/entity/Q3339222"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3339222",
+        "predicate": "http://www.wikidata.org/prop/direct/P1535",
+        "object": "http://www.wikidata.org/entity/Q10861030"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1501882",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/41587187"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1501882",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/GeneralizedLinearModel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1501882",
+      "predicate": "http://schema.org/description",
+      "object": "class of statistical models"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1501882",
+      "predicate": "http://schema.org/description",
+      "object": "és una generalització flexible de la regressió lineal ordinària."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1501882",
+      "predicate": "http://schema.org/description",
+      "object": "classe de modèles statistiques"
+    }
+  ]
+}

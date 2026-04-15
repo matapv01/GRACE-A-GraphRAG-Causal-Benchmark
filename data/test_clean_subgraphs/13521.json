@@ -1,0 +1,43 @@
+{
+  "question_id": "13521",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41819"
+  ],
+  "gold_path": {
+    "question_id": "13521",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q335100",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q41819"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41819",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q22690"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q335100",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Shoemaker-1315"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q335100",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "00857657"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q335100",
+      "predicate": "http://www.wikidata.org/prop/direct/P345",
+      "object": "nm2263734"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q335100",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Sylvia Browne"
+    }
+  ]
+}

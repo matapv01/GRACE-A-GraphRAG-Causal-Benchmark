@@ -1,0 +1,58 @@
+{
+  "question_id": "17404",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2813374"
+  ],
+  "gold_path": {
+    "question_id": "17404",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3221012",
+        "predicate": "http://www.wikidata.org/prop/direct/P658",
+        "object": "http://www.wikidata.org/entity/Q3148794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3148794",
+        "predicate": "http://www.wikidata.org/prop/direct/P676",
+        "object": "http://www.wikidata.org/entity/Q2813374"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3221012",
+        "predicate": "http://www.wikidata.org/prop/direct/P658",
+        "object": "http://www.wikidata.org/entity/Q3213122"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3213122",
+        "predicate": "http://www.wikidata.org/prop/direct/P676",
+        "object": "http://www.wikidata.org/entity/Q2813374"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3221012",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Le chant des sirenes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3221012",
+      "predicate": "http://www.wikidata.org/prop/P407",
+      "object": "http://www.wikidata.org/entity/statement/Q3221012-70ADFF08-8AB5-4881-BBFF-EACEABDF010F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3221012",
+      "predicate": "http://www.wikidata.org/prop/P7937",
+      "object": "http://www.wikidata.org/entity/statement/Q3221012-623020b0-40dd-2c9a-4f1c-0ed9eaec8178"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3221012",
+      "predicate": "http://www.wikidata.org/prop/P676",
+      "object": "http://www.wikidata.org/entity/statement/Q3221012-4C345202-128B-4D3B-B5B5-5BF3D36DCDAF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3221012",
+      "predicate": "http://www.wikidata.org/prop/P1476",
+      "object": "http://www.wikidata.org/entity/statement/Q3221012-42d579cb-49f8-933f-fbba-206bbf317fe3"
+    }
+  ]
+}

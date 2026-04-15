@@ -1,0 +1,48 @@
+{
+  "question_id": "6663",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2855106"
+  ],
+  "gold_path": {
+    "question_id": "6663",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2630",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q2630-a5a961ce-4187-1176-4466-c8e08279d3dd"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2630-a5a961ce-4187-1176-4466-c8e08279d3dd",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q2855106"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2630",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "98"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2630",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "38"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2630",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q2630-F6F59FF6-47B9-43BA-B151-AA1CEABF7A93"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2630",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "ivanovo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2630",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "119"
+    }
+  ]
+}

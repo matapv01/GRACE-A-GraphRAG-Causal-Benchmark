@@ -1,0 +1,48 @@
+{
+  "question_id": "4751",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5727902"
+  ],
+  "gold_path": {
+    "question_id": "4751",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q611584",
+        "predicate": "http://www.wikidata.org/prop/P570",
+        "object": "http://www.wikidata.org/entity/statement/Q611584-0877C2F8-58C8-4313-B538-A150EF90BCCC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q611584-0877C2F8-58C8-4313-B538-A150EF90BCCC",
+        "predicate": "pq:P1480",
+        "object": "http://www.wikidata.org/entity/Q5727902"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q611584",
+      "predicate": "http://www.wikidata.org/prop/direct/P1559",
+      "object": "António de Abreu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q611584",
+      "predicate": "http://www.wikidata.org/prop/direct/P1412",
+      "object": "http://www.wikidata.org/entity/Q5146"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q611584",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q26253"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q611584",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q7141520"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q611584",
+      "predicate": "http://www.wikidata.org/prop/direct/P2600",
+      "object": "6000000086262666835"
+    }
+  ]
+}

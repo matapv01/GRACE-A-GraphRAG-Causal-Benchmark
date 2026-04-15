@@ -1,0 +1,69 @@
+{
+  "question_id": "6302",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2012061",
+    "http://www.wikidata.org/entity/Q1371091"
+  ],
+  "gold_path": {
+    "question_id": "6302",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q312569",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q312569-41D790A4-9BEC-4A5F-8F2A-0052E0CE46DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312569-41D790A4-9BEC-4A5F-8F2A-0052E0CE46DB",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q1371091"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312569-41D790A4-9BEC-4A5F-8F2A-0052E0CE46DB",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q312596"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q312569",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q312569-ECC83310-9647-4BC5-95EB-03A5DCCCC0AD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312569-ECC83310-9647-4BC5-95EB-03A5DCCCC0AD",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q2012061"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q312569-ECC83310-9647-4BC5-95EB-03A5DCCCC0AD",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q312596"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q312569",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q312569-4A7D95D6-3D10-4A78-A14F-632139529363"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312569",
+      "predicate": "http://www.wikidata.org/prop/P214",
+      "object": "http://www.wikidata.org/entity/statement/q312569-CC6BBFB1-6739-4B6D-8F8B-B89B6C58C418"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312569",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/q312569-4B0E7FAD-C92D-46A9-8F51-2058EB973DBE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312569",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q84"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q312569",
+      "predicate": "http://www.wikidata.org/prop/P13166",
+      "object": "http://www.wikidata.org/entity/statement/Q312569-598AB5FA-6013-4FF3-B465-063BE05B45FA"
+    }
+  ]
+}

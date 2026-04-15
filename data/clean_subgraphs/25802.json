@@ -1,0 +1,43 @@
+{
+  "question_id": "25802",
+  "answers": [
+    "arxiv"
+  ],
+  "gold_path": {
+    "question_id": "25802",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q118398",
+        "predicate": "http://www.wikidata.org/prop/direct/P4793",
+        "object": "arxiv"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q118398",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "38"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q118398",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P236",
+      "object": "urn:ISSN:2331-8422"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q118398",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/ArXiv-org%20screenshot%2020140706.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q118398",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P3430"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q118398",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q118398-8a8dddfe-43fa-c349-8a50-19bb95f20db2"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "20214",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3819"
+  ],
+  "gold_path": {
+    "question_id": "20214",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3819",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q914"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3819",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q835714"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3819",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Volgograd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3819",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Staljingradska oblast"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3819",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "província de Volgograd"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3819",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Volgograd Oblast (Russia)"
+    }
+  ]
+}

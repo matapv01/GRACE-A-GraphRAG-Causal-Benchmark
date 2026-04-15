@@ -1,0 +1,53 @@
+{
+  "question_id": "5911",
+  "answers": [
+    "1967-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5911",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q185051",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q185051-5B63DD01-14A4-444C-98C8-63C9F50833EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q185051-5B63DD01-14A4-444C-98C8-63C9F50833EC",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1131356"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q185051-5B63DD01-14A4-444C-98C8-63C9F50833EC",
+        "predicate": "pq:P585",
+        "object": "1967-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q185051",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q121765"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185051",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q185051-89F7E137-4222-4CD2-87BA-4FA9A1FCEB11"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185051",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p74206"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185051",
+      "predicate": "http://www.wikidata.org/prop/direct/P1712",
+      "object": "person/christopher-walken"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185051",
+      "predicate": "http://www.wikidata.org/prop/direct/P1741",
+      "object": "167818"
+    }
+  ]
+}

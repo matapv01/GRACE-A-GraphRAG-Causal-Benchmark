@@ -1,0 +1,85 @@
+{
+  "question_id": "5620",
+  "answers": [
+    "1978-01-01T00:00:00Z",
+    "1986-01-01T00:00:00Z",
+    "1968-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5620",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q234819",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q234819-2CD92D4B-E49A-414C-AB58-076F1AB6C17D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234819-2CD92D4B-E49A-414C-AB58-076F1AB6C17D",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3405805"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234819-2CD92D4B-E49A-414C-AB58-076F1AB6C17D",
+        "predicate": "pq:P585",
+        "object": "1986-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q234819",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q234819-C4990AFC-E13E-4804-B1DF-FFB8A4C7E54B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234819-C4990AFC-E13E-4804-B1DF-FFB8A4C7E54B",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3405805"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234819-C4990AFC-E13E-4804-B1DF-FFB8A4C7E54B",
+        "predicate": "pq:P585",
+        "object": "1968-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q234819",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q234819-DEC8E4A4-4946-426A-AAC1-A019EAFFB62B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234819-DEC8E4A4-4946-426A-AAC1-A019EAFFB62B",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3405805"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q234819-DEC8E4A4-4946-426A-AAC1-A019EAFFB62B",
+        "predicate": "pq:P585",
+        "object": "1978-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q234819",
+      "predicate": "http://www.wikidata.org/prop/direct/P5643",
+      "object": "alice-munro-3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234819",
+      "predicate": "http://www.wikidata.org/prop/direct/P4789",
+      "object": "U269086"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234819",
+      "predicate": "http://www.wikidata.org/prop/direct/P5419",
+      "object": "alice-munro"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234819",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1931-07-10T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q234819",
+      "predicate": "http://www.wikidata.org/prop/direct/P5617",
+      "object": "alice-munro-23673"
+    }
+  ]
+}

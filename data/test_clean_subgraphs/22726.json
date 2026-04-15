@@ -1,0 +1,48 @@
+{
+  "question_id": "22726",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11379"
+  ],
+  "gold_path": {
+    "question_id": "22726",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25269",
+        "predicate": "http://www.wikidata.org/prop/direct/P111",
+        "object": "http://www.wikidata.org/entity/Q11379"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11379",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q107715"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25269",
+      "predicate": "http://schema.org/description",
+      "object": "unanenn a dalvez da vuzuliañ an energiezh"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25269",
+      "predicate": "http://schema.org/description",
+      "object": "SI-Einheit der Energie, Arbeit und Wärmemenge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25269",
+      "predicate": "http://schema.org/description",
+      "object": "יחידת אנרגיה במערכת היחידות הבינלאומית (SI)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25269",
+      "predicate": "http://schema.org/description",
+      "object": "адзінка вымярэння"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25269",
+      "predicate": "http://schema.org/description",
+      "object": "адзінка вымярэньня"
+    }
+  ]
+}

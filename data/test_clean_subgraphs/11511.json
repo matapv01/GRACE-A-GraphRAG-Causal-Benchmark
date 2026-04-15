@@ -1,0 +1,64 @@
+{
+  "question_id": "11511",
+  "answers": [
+    "2015-01-01T00:00:00Z",
+    "2005-09-24T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "11511",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q43044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "pq:P580",
+        "object": "2005-09-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q37628"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "pq:P580",
+        "object": "2015-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q164782",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ashton Kutcher"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q164782",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "أشتون كوتشر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q164782",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ештон Кучер"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q164782",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ešton Kučer"
+    }
+  ]
+}

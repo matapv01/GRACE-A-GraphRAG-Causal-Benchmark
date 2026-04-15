@@ -1,0 +1,1732 @@
+{
+  "clean": {
+    "question_id": "23096",
+    "answers": [
+      "http://www.wikidata.org/entity/Q79872",
+      "http://www.wikidata.org/entity/Q1783642",
+      "http://www.wikidata.org/entity/Q275596",
+      "http://www.wikidata.org/entity/Q1172543",
+      "http://www.wikidata.org/entity/Q1056451",
+      "http://www.wikidata.org/entity/Q223335",
+      "http://www.wikidata.org/entity/Q762268",
+      "http://www.wikidata.org/entity/Q287472",
+      "http://www.wikidata.org/entity/Q1051282",
+      "http://www.wikidata.org/entity/Q1399326",
+      "http://www.wikidata.org/entity/Q531152",
+      "http://www.wikidata.org/entity/Q4056322",
+      "http://www.wikidata.org/entity/Q661075",
+      "http://www.wikidata.org/entity/Q1418502",
+      "http://www.wikidata.org/entity/Q1931693",
+      "http://www.wikidata.org/entity/Q905156",
+      "http://www.wikidata.org/entity/Q1135914",
+      "http://www.wikidata.org/entity/Q30267",
+      "http://www.wikidata.org/entity/Q2496566",
+      "http://www.wikidata.org/entity/Q139008",
+      "http://www.wikidata.org/entity/Q3305965",
+      "http://www.wikidata.org/entity/Q275603",
+      "http://www.wikidata.org/entity/Q3393796",
+      "http://www.wikidata.org/entity/Q180868",
+      "http://www.wikidata.org/entity/Q193076"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051282",
+        "predicate": "rdfs:label",
+        "object": "generic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1399326",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3393796",
+        "predicate": "rdfs:label",
+        "object": "value-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://wikiba.se/ontology#statements",
+        "object": "4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q661075",
+        "predicate": "rdfs:label",
+        "object": "metaprogramming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1783642",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1783642",
+        "predicate": "rdfs:label",
+        "object": "concept programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1418502",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3393796",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051282",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "rdfs:label",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q287472",
+        "predicate": "rdfs:label",
+        "object": "data-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2496566",
+        "predicate": "rdfs:label",
+        "object": "function-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193076",
+        "predicate": "rdfs:label",
+        "object": "functional programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q661075",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1172543",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275596",
+        "predicate": "rdfs:label",
+        "object": "imperative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q531152",
+        "predicate": "rdfs:label",
+        "object": "declarative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223335",
+        "predicate": "rdfs:label",
+        "object": "structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275603",
+        "predicate": "rdfs:label",
+        "object": "logic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q287472",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3305965",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193076",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1931693",
+        "predicate": "rdfs:label",
+        "object": "parallel programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2496566",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762268",
+        "predicate": "rdfs:label",
+        "object": "automatic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135914",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "AOP"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q79872",
+        "predicate": "rdfs:label",
+        "object": "object-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1931693",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3305965",
+        "predicate": "rdfs:label",
+        "object": "tacit programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135914",
+        "predicate": "rdfs:label",
+        "object": "event-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q79872",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1056451",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180868",
+        "predicate": "rdfs:label",
+        "object": "prototype-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1399326",
+        "predicate": "rdfs:label",
+        "object": "feature-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4056322",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275603",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223335",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4056322",
+        "predicate": "rdfs:label",
+        "object": "automata-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762268",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q531152",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1056451",
+        "predicate": "rdfs:label",
+        "object": "reflective programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1172543",
+        "predicate": "rdfs:label",
+        "object": "dataflow programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "POA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "aspect-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180868",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275596",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1418502",
+        "predicate": "rdfs:label",
+        "object": "procedural programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905156",
+        "predicate": "rdfs:label",
+        "object": "non-structured programming"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "23096",
+    "answers": [
+      "http://www.wikidata.org/entity/Q79872",
+      "http://www.wikidata.org/entity/Q1783642",
+      "http://www.wikidata.org/entity/Q275596",
+      "http://www.wikidata.org/entity/Q1172543",
+      "http://www.wikidata.org/entity/Q1056451",
+      "http://www.wikidata.org/entity/Q223335",
+      "http://www.wikidata.org/entity/Q762268",
+      "http://www.wikidata.org/entity/Q287472",
+      "http://www.wikidata.org/entity/Q1051282",
+      "http://www.wikidata.org/entity/Q1399326",
+      "http://www.wikidata.org/entity/Q531152",
+      "http://www.wikidata.org/entity/Q4056322",
+      "http://www.wikidata.org/entity/Q661075",
+      "http://www.wikidata.org/entity/Q1418502",
+      "http://www.wikidata.org/entity/Q1931693",
+      "http://www.wikidata.org/entity/Q905156",
+      "http://www.wikidata.org/entity/Q1135914",
+      "http://www.wikidata.org/entity/Q30267",
+      "http://www.wikidata.org/entity/Q2496566",
+      "http://www.wikidata.org/entity/Q139008",
+      "http://www.wikidata.org/entity/Q3305965",
+      "http://www.wikidata.org/entity/Q275603",
+      "http://www.wikidata.org/entity/Q3393796",
+      "http://www.wikidata.org/entity/Q180868",
+      "http://www.wikidata.org/entity/Q193076"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q287472"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3393796"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q139008"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1418502"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1399326"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "value-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "functional programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "POA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "automatic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1135914"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q275603"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "dataflow programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q223335"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "tacit programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "feature-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "generic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3305965"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "prototype-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "procedural programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1051282"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "AOP"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q180868"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "aspect-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "object-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2496566"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q905156"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "declarative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q275596"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q79872"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1931693"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "reflective programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q762268"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q4056322"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "logic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "imperative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "parallel programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "function-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "automata-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1172543"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q531152"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "non-structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1783642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q30267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "metaprogramming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "event-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q1056451"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "concept programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "data-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q193076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q661075"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "23096",
+    "answers": [
+      "http://www.wikidata.org/entity/Q79872",
+      "http://www.wikidata.org/entity/Q1783642",
+      "http://www.wikidata.org/entity/Q275596",
+      "http://www.wikidata.org/entity/Q1172543",
+      "http://www.wikidata.org/entity/Q1056451",
+      "http://www.wikidata.org/entity/Q223335",
+      "http://www.wikidata.org/entity/Q762268",
+      "http://www.wikidata.org/entity/Q287472",
+      "http://www.wikidata.org/entity/Q1051282",
+      "http://www.wikidata.org/entity/Q1399326",
+      "http://www.wikidata.org/entity/Q531152",
+      "http://www.wikidata.org/entity/Q4056322",
+      "http://www.wikidata.org/entity/Q661075",
+      "http://www.wikidata.org/entity/Q1418502",
+      "http://www.wikidata.org/entity/Q1931693",
+      "http://www.wikidata.org/entity/Q905156",
+      "http://www.wikidata.org/entity/Q1135914",
+      "http://www.wikidata.org/entity/Q30267",
+      "http://www.wikidata.org/entity/Q2496566",
+      "http://www.wikidata.org/entity/Q139008",
+      "http://www.wikidata.org/entity/Q3305965",
+      "http://www.wikidata.org/entity/Q275603",
+      "http://www.wikidata.org/entity/Q3393796",
+      "http://www.wikidata.org/entity/Q180868",
+      "http://www.wikidata.org/entity/Q193076"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051282",
+        "predicate": "rdfs:label",
+        "object": "generic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1399326",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3393796",
+        "predicate": "rdfs:label",
+        "object": "value-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://wikiba.se/ontology#statements",
+        "object": "4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q661075",
+        "predicate": "rdfs:label",
+        "object": "metaprogramming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1783642",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1783642",
+        "predicate": "rdfs:label",
+        "object": "concept programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1418502",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3393796",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051282",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "rdfs:label",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q287472",
+        "predicate": "rdfs:label",
+        "object": "data-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2496566",
+        "predicate": "rdfs:label",
+        "object": "function-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193076",
+        "predicate": "rdfs:label",
+        "object": "functional programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q661075",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1172543",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275596",
+        "predicate": "rdfs:label",
+        "object": "imperative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q531152",
+        "predicate": "rdfs:label",
+        "object": "declarative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223335",
+        "predicate": "rdfs:label",
+        "object": "structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275603",
+        "predicate": "rdfs:label",
+        "object": "logic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q287472",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3305965",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193076",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1931693",
+        "predicate": "rdfs:label",
+        "object": "parallel programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2496566",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762268",
+        "predicate": "rdfs:label",
+        "object": "automatic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135914",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "AOP"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q79872",
+        "predicate": "rdfs:label",
+        "object": "object-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1931693",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3305965",
+        "predicate": "rdfs:label",
+        "object": "tacit programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135914",
+        "predicate": "rdfs:label",
+        "object": "event-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q79872",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1056451",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180868",
+        "predicate": "rdfs:label",
+        "object": "prototype-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1399326",
+        "predicate": "rdfs:label",
+        "object": "feature-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4056322",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275603",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223335",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4056322",
+        "predicate": "rdfs:label",
+        "object": "automata-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762268",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q531152",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1056451",
+        "predicate": "rdfs:label",
+        "object": "reflective programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1172543",
+        "predicate": "rdfs:label",
+        "object": "dataflow programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "POA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "aspect-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180868",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275596",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1418502",
+        "predicate": "rdfs:label",
+        "object": "procedural programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905156",
+        "predicate": "rdfs:label",
+        "object": "non-structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q128392"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q139008"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q180868"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q193076"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "23096",
+    "answers": [
+      "http://www.wikidata.org/entity/Q79872",
+      "http://www.wikidata.org/entity/Q1783642",
+      "http://www.wikidata.org/entity/Q275596",
+      "http://www.wikidata.org/entity/Q1172543",
+      "http://www.wikidata.org/entity/Q1056451",
+      "http://www.wikidata.org/entity/Q223335",
+      "http://www.wikidata.org/entity/Q762268",
+      "http://www.wikidata.org/entity/Q287472",
+      "http://www.wikidata.org/entity/Q1051282",
+      "http://www.wikidata.org/entity/Q1399326",
+      "http://www.wikidata.org/entity/Q531152",
+      "http://www.wikidata.org/entity/Q4056322",
+      "http://www.wikidata.org/entity/Q661075",
+      "http://www.wikidata.org/entity/Q1418502",
+      "http://www.wikidata.org/entity/Q1931693",
+      "http://www.wikidata.org/entity/Q905156",
+      "http://www.wikidata.org/entity/Q1135914",
+      "http://www.wikidata.org/entity/Q30267",
+      "http://www.wikidata.org/entity/Q2496566",
+      "http://www.wikidata.org/entity/Q139008",
+      "http://www.wikidata.org/entity/Q3305965",
+      "http://www.wikidata.org/entity/Q275603",
+      "http://www.wikidata.org/entity/Q3393796",
+      "http://www.wikidata.org/entity/Q180868",
+      "http://www.wikidata.org/entity/Q193076"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051282",
+        "predicate": "rdfs:label",
+        "object": "generic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1399326",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3393796",
+        "predicate": "rdfs:label",
+        "object": "value-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://wikiba.se/ontology#statements",
+        "object": "4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q661075",
+        "predicate": "rdfs:label",
+        "object": "metaprogramming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1783642",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1783642",
+        "predicate": "rdfs:label",
+        "object": "concept programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1418502",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3393796",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051282",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "rdfs:label",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q287472",
+        "predicate": "rdfs:label",
+        "object": "data-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2496566",
+        "predicate": "rdfs:label",
+        "object": "function-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193076",
+        "predicate": "rdfs:label",
+        "object": "functional programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q661075",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1172543",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275596",
+        "predicate": "rdfs:label",
+        "object": "imperative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q531152",
+        "predicate": "rdfs:label",
+        "object": "declarative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223335",
+        "predicate": "rdfs:label",
+        "object": "structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275603",
+        "predicate": "rdfs:label",
+        "object": "logic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q287472",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3305965",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q193076",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1931693",
+        "predicate": "rdfs:label",
+        "object": "parallel programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2496566",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762268",
+        "predicate": "rdfs:label",
+        "object": "automatic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135914",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "AOP"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q79872",
+        "predicate": "rdfs:label",
+        "object": "object-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1931693",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3305965",
+        "predicate": "rdfs:label",
+        "object": "tacit programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1135914",
+        "predicate": "rdfs:label",
+        "object": "event-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905156",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q79872",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1056451",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180868",
+        "predicate": "rdfs:label",
+        "object": "prototype-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1399326",
+        "predicate": "rdfs:label",
+        "object": "feature-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4056322",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275603",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q223335",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4056322",
+        "predicate": "rdfs:label",
+        "object": "automata-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762268",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q531152",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1056451",
+        "predicate": "rdfs:label",
+        "object": "reflective programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1172543",
+        "predicate": "rdfs:label",
+        "object": "dataflow programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q139008",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "POA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "aspect-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180868",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q275596",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1418502",
+        "predicate": "rdfs:label",
+        "object": "procedural programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q905156",
+        "predicate": "rdfs:label",
+        "object": "non-structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "23096",
+    "answers": [
+      "http://www.wikidata.org/entity/Q79872",
+      "http://www.wikidata.org/entity/Q1783642",
+      "http://www.wikidata.org/entity/Q275596",
+      "http://www.wikidata.org/entity/Q1172543",
+      "http://www.wikidata.org/entity/Q1056451",
+      "http://www.wikidata.org/entity/Q223335",
+      "http://www.wikidata.org/entity/Q762268",
+      "http://www.wikidata.org/entity/Q287472",
+      "http://www.wikidata.org/entity/Q1051282",
+      "http://www.wikidata.org/entity/Q1399326",
+      "http://www.wikidata.org/entity/Q531152",
+      "http://www.wikidata.org/entity/Q4056322",
+      "http://www.wikidata.org/entity/Q661075",
+      "http://www.wikidata.org/entity/Q1418502",
+      "http://www.wikidata.org/entity/Q1931693",
+      "http://www.wikidata.org/entity/Q905156",
+      "http://www.wikidata.org/entity/Q1135914",
+      "http://www.wikidata.org/entity/Q30267",
+      "http://www.wikidata.org/entity/Q2496566",
+      "http://www.wikidata.org/entity/Q139008",
+      "http://www.wikidata.org/entity/Q3305965",
+      "http://www.wikidata.org/entity/Q275603",
+      "http://www.wikidata.org/entity/Q3393796",
+      "http://www.wikidata.org/entity/Q180868",
+      "http://www.wikidata.org/entity/Q193076"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "generic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "value-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://wikiba.se/ontology#statements",
+        "object": "4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "metaprogramming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "concept programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "data-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "function-level programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "functional programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "imperative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "declarative programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "structured programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "logic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "agent-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "parallel programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "automatic programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "AOP"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "object-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "tacit programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "event-driven programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "prototype-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "feature-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "automata-based programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "reflective programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "dataflow programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "POA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "aspect-oriented programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q188267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "procedural programming"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30267",
+        "predicate": "rdfs:label",
+        "object": "non-structured programming"
+      }
+    ]
+  }
+}

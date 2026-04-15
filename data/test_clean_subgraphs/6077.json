@@ -1,0 +1,59 @@
+{
+  "question_id": "6077",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1098876",
+    "http://www.wikidata.org/entity/Q23190853"
+  ],
+  "gold_path": {
+    "question_id": "6077",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q131755",
+        "predicate": "http://www.wikidata.org/prop/P2293",
+        "object": "http://www.wikidata.org/entity/statement/Q131755-892A480F-77CD-4993-A053-E5D977EC1266"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131755-892A480F-77CD-4993-A053-E5D977EC1266",
+        "predicate": "ps:P2293",
+        "object": "http://www.wikidata.org/entity/Q18034568"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131755-892A480F-77CD-4993-A053-E5D977EC1266",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q1098876"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q131755-892A480F-77CD-4993-A053-E5D977EC1266",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q23190853"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.wikidata.org/prop/direct/P2924",
+      "object": "2157101"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "bipolar_lidelse"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "psychose-maniaco-depressive"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.wikidata.org/prop/direct/P3201",
+      "object": "10004908"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q131755",
+      "predicate": "http://www.wikidata.org/prop/direct/P4229",
+      "object": "F31"
+    }
+  ]
+}

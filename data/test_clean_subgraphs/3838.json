@@ -1,0 +1,81 @@
+{
+  "question_id": "3838",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34",
+    "http://www.wikidata.org/entity/Q183",
+    "http://www.wikidata.org/entity/Q127856",
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "3838",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q243439",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q243439-8E6B05C2-F4E6-4AAF-B8E5-2B924D56DB40"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q243439-8E6B05C2-F4E6-4AAF-B8E5-2B924D56DB40",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q183"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q243439",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q243439-b420a466-4e3c-ef86-b17f-b7779bc8f7e2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q243439-b420a466-4e3c-ef86-b17f-b7779bc8f7e2",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q34"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q243439",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q243439-EA829E24-9C19-4669-98A8-10E83653BC1C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q243439-EA829E24-9C19-4669-98A8-10E83653BC1C",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q127856"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q243439",
+        "predicate": "http://www.wikidata.org/prop/P577",
+        "object": "http://www.wikidata.org/entity/statement/Q243439-f6cebc7a-4850-6357-ea0f-f461c1033b46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q243439-f6cebc7a-4850-6357-ea0f-f461c1033b46",
+        "predicate": "pq:P291",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-13T16:47:47Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "movies:Full_Metal_Jacket"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "the80smovies:Full_Metal_Jacket"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.wikidata.org/prop/direct/P6262",
+      "object": "warfilm:Full_Metal_Jacket"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q243439",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0333t"
+    }
+  ]
+}

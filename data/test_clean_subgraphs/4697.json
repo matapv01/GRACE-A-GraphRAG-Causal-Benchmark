@@ -1,0 +1,53 @@
+{
+  "question_id": "4697",
+  "answers": [
+    "1882-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4697",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q221903",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q221903-88e0803b-4d21-4f37-5148-d760ac6fe1a1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q221903-88e0803b-4d21-4f37-5148-d760ac6fe1a1",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q987962"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q221903-88e0803b-4d21-4f37-5148-d760ac6fe1a1",
+        "predicate": "pq:P582",
+        "object": "1882-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q221903",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Géza Ziegler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221903",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ziegler Géza"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221903",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "غيزا غاردوني"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221903",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Géza Zigler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221903",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Geza Gardonyi"
+    }
+  ]
+}

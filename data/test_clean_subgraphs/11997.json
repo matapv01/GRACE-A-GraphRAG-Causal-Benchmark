@@ -1,0 +1,48 @@
+{
+  "question_id": "11997",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8814"
+  ],
+  "gold_path": {
+    "question_id": "11997",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13409892",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q8814"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8814",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q169470"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409892",
+      "predicate": "http://schema.org/description",
+      "object": "symmetrische Tensorgröße des Spannungszustandes von Materie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409892",
+      "predicate": "http://schema.org/description",
+      "object": "tensor that describes the state of stress at a point inside a material"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409892",
+      "predicate": "http://schema.org/description",
+      "object": "tenseur d'ordre 2 utilisé en mécanique des milieux continus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409892",
+      "predicate": "http://schema.org/description",
+      "object": "tensor orde dua"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13409892",
+      "predicate": "http://schema.org/description",
+      "object": "тензор второго ранга, компоненты которого - механические напряжения"
+    }
+  ]
+}

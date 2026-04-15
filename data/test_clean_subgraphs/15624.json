@@ -1,0 +1,44 @@
+{
+  "question_id": "15624",
+  "answers": [
+    "http://www.wikidata.org/entity/Q565134",
+    "http://www.wikidata.org/entity/Q484165"
+  ],
+  "gold_path": {
+    "question_id": "15624",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q239693",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q483938"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483938",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q484165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q239693",
+        "predicate": "http://www.wikidata.org/prop/direct/P264",
+        "object": "http://www.wikidata.org/entity/Q1988428"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1988428",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q565134"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q239693",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SJ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q239693",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ซอฮยอน"
+    }
+  ]
+}

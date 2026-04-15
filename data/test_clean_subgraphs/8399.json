@@ -1,0 +1,53 @@
+{
+  "question_id": "8399",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7801406"
+  ],
+  "gold_path": {
+    "question_id": "8399",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q441214",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q441214-5FDFBC23-4DC8-46AF-8077-981CD8BD6EFB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q441214-5FDFBC23-4DC8-46AF-8077-981CD8BD6EFB",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5298343"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q441214-5FDFBC23-4DC8-46AF-8077-981CD8BD6EFB",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q7801406"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q441214",
+      "predicate": "http://www.wikidata.org/prop/direct/P1477",
+      "object": "Judith Sussman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q441214",
+      "predicate": "http://www.wikidata.org/prop/direct/P6394",
+      "object": "a12116117"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q441214",
+      "predicate": "http://www.wikidata.org/prop/direct/P10387",
+      "object": "5808"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q441214",
+      "predicate": "http://www.wikidata.org/prop/direct/P2031",
+      "object": "1969-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q441214",
+      "predicate": "http://www.wikidata.org/prop/direct/P14225",
+      "object": "981005673656309366"
+    }
+  ]
+}

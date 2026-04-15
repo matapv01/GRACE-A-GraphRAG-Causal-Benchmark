@@ -1,0 +1,48 @@
+{
+  "question_id": "13976",
+  "answers": [
+    "http://www.wikidata.org/entity/Q809"
+  ],
+  "gold_path": {
+    "question_id": "13976",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2896338",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q809"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q809",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q52943193"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2896338",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4237403-0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2896338",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb12341338j#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2896338",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chlopi%20-%20powiesc%20wspolczesna.%20Cz.%201%2C%20Jesien%201904%20%2894123732%29%20%28cropped%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2896338",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q2896338-94B28F99-EC83-45DA-AA08-1636B523B4D7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2896338",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P269",
+      "object": "http://www.idref.fr/032370857/id"
+    }
+  ]
+}

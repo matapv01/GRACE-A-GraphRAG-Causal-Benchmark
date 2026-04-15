@@ -1,0 +1,48 @@
+{
+  "question_id": "22441",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8162"
+  ],
+  "gold_path": {
+    "question_id": "22441",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9049",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q8162"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8162",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4671286"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9049",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q9049-835A41E5-8289-4075-A9A3-31F93F0CC69A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9049",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q9049-D4941DCF-4302-4C27-AE7C-263587A04D76"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9049",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q9049-00C9618D-6707-485F-A381-9B672D094BAC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9049",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q9049-2383F0E9-C4BF-4016-8220-370ABD7CC601"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9049",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q9049-4208B8D6-8E0F-4859-9C1F-C0A8CB3AFCE0"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "question_id": "23076",
+  "answers": [
+    "http://www.wikidata.org/entity/Q332399"
+  ],
+  "gold_path": {
+    "question_id": "23076",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q311655",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q332399"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q332399",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q215380"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q311655",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Tom Petty"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311655",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "توم بيتي"
+    }
+  ]
+}

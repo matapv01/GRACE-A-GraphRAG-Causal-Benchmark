@@ -1,0 +1,48 @@
+{
+  "question_id": "7570",
+  "answers": [
+    "http://www.wikidata.org/entity/Q32000331"
+  ],
+  "gold_path": {
+    "question_id": "7570",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q157056",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q157056-c8e1e611-4ee5-aa61-f1c3-910801b97d9b",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q32000331"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q157056",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q157056-18145D59-99E0-466B-B640-9F62D80A448A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157056",
+      "predicate": "http://www.wikidata.org/prop/P1938",
+      "object": "http://www.wikidata.org/entity/statement/Q157056-CE6A30D3-BB1F-4B21-964B-B81D849104E1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157056",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "christian-friedrich-samuel-hahnemann"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157056",
+      "predicate": "http://www.wikidata.org/prop/P1971",
+      "object": "http://www.wikidata.org/entity/statement/Q157056-de97f67b-45bf-2393-b25d-e3d229abcc66"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q157056",
+      "predicate": "http://www.wikidata.org/prop/P214",
+      "object": "http://www.wikidata.org/entity/statement/q157056-13435A6A-34BD-41B6-A297-5131D42CE0EC"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "question_id": "15029",
+  "answers": [
+    "310",
+    "311",
+    "312",
+    "313",
+    "316"
+  ],
+  "gold_path": {
+    "question_id": "15029",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q214456",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P2258",
+        "object": "311"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P2258",
+        "object": "316"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P2258",
+        "object": "310"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P2258",
+        "object": "313"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P2258",
+        "object": "312"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q214456",
+      "predicate": "http://www.wikidata.org/prop/P276",
+      "object": "http://www.wikidata.org/entity/statement/Q214456-1BBD344A-EB7B-4C19-B9B7-438780BFCD23"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214456",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q214456-F7087013-9C46-4087-814F-08E5982EBD16"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214456",
+      "predicate": "http://www.wikidata.org/prop/P5986",
+      "object": "http://www.wikidata.org/entity/statement/Q214456-F9768775-1454-41D1-BAAA-C458845C8F5C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214456",
+      "predicate": "http://www.wikidata.org/prop/P582",
+      "object": "http://www.wikidata.org/entity/statement/Q214456-4d8c93c5-434a-fa13-41f8-484f45182672"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214456",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/q214456-0FE0C4CC-ADB2-4BE2-901B-02EE5C44E637"
+    }
+  ]
+}

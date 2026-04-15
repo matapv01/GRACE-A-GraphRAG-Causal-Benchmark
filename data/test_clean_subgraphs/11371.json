@@ -1,0 +1,69 @@
+{
+  "question_id": "11371",
+  "answers": [
+    "http://www.wikidata.org/entity/Q81212",
+    "http://www.wikidata.org/entity/Q297520"
+  ],
+  "gold_path": {
+    "question_id": "11371",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3044",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q3044-7C4B3DCF-29D0-4C8C-8EB6-DD9E13504015"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3044-7C4B3DCF-29D0-4C8C-8EB6-DD9E13504015",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22997793"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3044-7C4B3DCF-29D0-4C8C-8EB6-DD9E13504015",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q297520"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3044",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q3044-BB45FEC3-9C44-4950-B713-68F6C90B8424"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3044-BB45FEC3-9C44-4950-B713-68F6C90B8424",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3044-BB45FEC3-9C44-4950-B713-68F6C90B8424",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q81212"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/118560034"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "247"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Carolus Magnus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Karl I."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3044",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Charles I"
+    }
+  ]
+}

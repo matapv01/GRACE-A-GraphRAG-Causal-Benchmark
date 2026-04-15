@@ -1,0 +1,59 @@
+{
+  "question_id": "6317",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10683",
+    "http://www.wikidata.org/entity/Q48263"
+  ],
+  "gold_path": {
+    "question_id": "6317",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17452",
+        "predicate": "http://www.wikidata.org/prop/P400",
+        "object": "http://www.wikidata.org/entity/statement/q17452-3e8e3c50-4d98-fb65-2195-2eae12ae669e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17452-3e8e3c50-4d98-fb65-2195-2eae12ae669e",
+        "predicate": "ps:P400",
+        "object": "http://www.wikidata.org/entity/Q48263"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17452",
+        "predicate": "http://www.wikidata.org/prop/P400",
+        "object": "http://www.wikidata.org/entity/statement/q17452-459308ed-4182-4b59-6861-037e080f49e8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q17452-459308ed-4182-4b59-6861-037e080f49e8",
+        "predicate": "ps:P400",
+        "object": "http://www.wikidata.org/entity/Q10683"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17452",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rush"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17452",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "جي تي أي 5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17452",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "غراند ثفت أوتو 5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17452",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Gta: 5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17452",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Grand Theft Auto V: Premium Edition"
+    }
+  ]
+}

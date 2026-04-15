@@ -1,0 +1,48 @@
+{
+  "question_id": "19860",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6477226"
+  ],
+  "gold_path": {
+    "question_id": "19860",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1425594",
+        "predicate": "http://www.wikidata.org/prop/direct/P4661",
+        "object": "http://www.wikidata.org/entity/Q6477226"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6477226",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q131681"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1425594",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/04q5nq"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1425594",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q1425594-9A8F9F2F-4B22-4725-9CC2-48A340734592"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1425594",
+      "predicate": "http://www.wikidata.org/prop/direct/P706",
+      "object": "http://www.wikidata.org/entity/Q1399312"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1425594",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Oroville%20dam%20Fyx%20nEtaMAAHTtF.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1425594",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "25"
+    }
+  ]
+}

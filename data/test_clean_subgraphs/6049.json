@@ -1,0 +1,53 @@
+{
+  "question_id": "6049",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103916"
+  ],
+  "gold_path": {
+    "question_id": "6049",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40572",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q40572-5ECAB21C-C3C1-4F11-817F-7CD323450F9F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q40572-5ECAB21C-C3C1-4F11-817F-7CD323450F9F",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q40572-5ECAB21C-C3C1-4F11-817F-7CD323450F9F",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q160618"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40572",
+      "predicate": "http://www.wikidata.org/prop/P1695",
+      "object": "http://www.wikidata.org/entity/statement/Q40572-a76e078a-15fc-4d75-bb5b-e267558757df"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40572",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q40572-FFBD1419-5486-4C69-B422-E6BDACC9C01D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40572",
+      "predicate": "http://www.wikidata.org/prop/P1368",
+      "object": "http://www.wikidata.org/entity/statement/Q40572-DAA5221E-7C08-4339-8564-D13B9D828FEC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40572",
+      "predicate": "http://www.wikidata.org/prop/P166",
+      "object": "http://www.wikidata.org/entity/statement/Q40572-6003ac75-407f-b519-4322-c56e6f617f48"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40572",
+      "predicate": "http://www.wikidata.org/prop/P166",
+      "object": "http://www.wikidata.org/entity/statement/Q40572-76e01702-4d26-8e3a-a87d-9d9b2fe082ce"
+    }
+  ]
+}

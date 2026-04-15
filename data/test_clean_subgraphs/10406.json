@@ -1,0 +1,58 @@
+{
+  "question_id": "10406",
+  "answers": [
+    "1978-08-24T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10406",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105987",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q105987-B72C36B6-2543-4A9A-96DC-6C8C14189D8D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q105987-B72C36B6-2543-4A9A-96DC-6C8C14189D8D",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q3368580"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q105987-B72C36B6-2543-4A9A-96DC-6C8C14189D8D",
+        "predicate": "pq:P582",
+        "object": "1978-08-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q105987-B72C36B6-2543-4A9A-96DC-6C8C14189D8D",
+        "predicate": "pq:P580",
+        "object": "1934-02-14T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105987",
+      "predicate": "http://www.wikidata.org/prop/P2639",
+      "object": "http://www.wikidata.org/entity/statement/Q105987-C60C6251-BD8F-41AE-99BE-5020A7893511"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105987",
+      "predicate": "http://www.wikidata.org/prop/P3980",
+      "object": "http://www.wikidata.org/entity/statement/Q105987-5c753b2b-427a-f467-7944-aa1fea27a96b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105987",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q105987-477BE1E6-88F5-4821-A85B-4794ACE33A98"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105987",
+      "predicate": "http://www.wikidata.org/prop/P2626",
+      "object": "http://www.wikidata.org/entity/statement/Q105987-8099571b-43de-3a0a-e079-744bbf6e0c21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105987",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/q105987-550690AA-0CB4-43E6-8862-3F714C6E37CB"
+    }
+  ]
+}

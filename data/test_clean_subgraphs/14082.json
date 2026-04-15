@@ -1,0 +1,48 @@
+{
+  "question_id": "14082",
+  "answers": [
+    "http://www.wikidata.org/entity/Q298"
+  ],
+  "gold_path": {
+    "question_id": "14082",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1507",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q298"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q298",
+        "predicate": "http://www.wikidata.org/prop/direct/P208",
+        "object": "http://www.wikidata.org/entity/Q29077203"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1507",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/0%20125%202581%20Puerto%20Ed%C3%A9n%20%28Villa%20Puerto%20Ed%C3%A9n%29%20-%20Chilenische%20Fjorde.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1507",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q1507-40e2ef23-4c71-25a4-a2fc-101d0db36ed5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1507",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "patagonie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1507",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q486972"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1507",
+      "predicate": "http://www.wikidata.org/prop/direct/P8826",
+      "object": "H0008151"
+    }
+  ]
+}

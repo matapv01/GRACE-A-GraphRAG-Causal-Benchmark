@@ -1,0 +1,53 @@
+{
+  "question_id": "5166",
+  "answers": [
+    "1876-07-26T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5166",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q483992",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q483992-20c070a7-4b9d-4eca-464f-4be4bcbef6b5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q483992-20c070a7-4b9d-4eca-464f-4be4bcbef6b5",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q10855195"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q483992-20c070a7-4b9d-4eca-464f-4be4bcbef6b5",
+        "predicate": "pq:P580",
+        "object": "1876-07-26T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q483992",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "138"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483992",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "63"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483992",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-23T20:11:18Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483992",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL1130776A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483992",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/023q21"
+    }
+  ]
+}

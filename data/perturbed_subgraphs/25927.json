@@ -1,0 +1,387 @@
+{
+  "clean": {
+    "question_id": "25927",
+    "answers": [
+      "117"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Hellmuth%202021.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q375966-831086E0-4BF6-40DC-8820-A08C0CEC4D72"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P3564",
+        "object": "117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0641\u064a\u0644 \u0647\u064a\u0644\u0645\u0648\u062a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://schema.org/version",
+        "object": "2455970437"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "25927",
+    "answers": [
+      "117"
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Hellmuth%202021.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q375966-831086E0-4BF6-40DC-8820-A08C0CEC4D72"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0641\u064a\u0644 \u0647\u064a\u0644\u0645\u0648\u062a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://schema.org/version",
+        "object": "2455970437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "117"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "25927",
+    "answers": [
+      "117"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Hellmuth%202021.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q375966-831086E0-4BF6-40DC-8820-A08C0CEC4D72"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P3564",
+        "object": "117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0641\u064a\u0644 \u0647\u064a\u0644\u0645\u0648\u062a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://schema.org/version",
+        "object": "2455970437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "79"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "62"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "121"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "86"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "25927",
+    "answers": [
+      "117"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Hellmuth%202021.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q375966-831086E0-4BF6-40DC-8820-A08C0CEC4D72"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P3564",
+        "object": "117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0641\u064a\u0644 \u0647\u064a\u0644\u0645\u0648\u062a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://schema.org/version",
+        "object": "2455970437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "25927",
+    "answers": [
+      "117"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Hellmuth%202021.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/P18",
+        "object": "http://www.wikidata.org/entity/statement/Q375966-831086E0-4BF6-40DC-8820-A08C0CEC4D72"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0641\u064a\u0644 \u0647\u064a\u0644\u0645\u0648\u062a"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://schema.org/version",
+        "object": "2455970437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q375966",
+        "predicate": "http://www.wikidata.org/prop/direct/P3564",
+        "object": "165"
+      }
+    ]
+  }
+}

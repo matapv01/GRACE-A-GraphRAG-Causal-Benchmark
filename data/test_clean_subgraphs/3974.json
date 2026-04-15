@@ -1,0 +1,48 @@
+{
+  "question_id": "3974",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18207172"
+  ],
+  "gold_path": {
+    "question_id": "3974",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128896",
+        "predicate": "http://www.wikidata.org/prop/P169",
+        "object": "http://www.wikidata.org/entity/statement/Q128896-5c34ab6e-4081-0ecd-f585-5923ba59028d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q128896-5c34ab6e-4081-0ecd-f585-5923ba59028d",
+        "predicate": "ps:P169",
+        "object": "http://www.wikidata.org/entity/Q18207172"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.wikidata.org/prop/direct/P2013",
+      "object": "AMD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.wikidata.org/prop/direct/P3320",
+      "object": "http://www.wikidata.org/entity/Q16057962"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.wikidata.org/prop/direct/P3320",
+      "object": "http://www.wikidata.org/entity/Q16249366"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.wikidata.org/prop/direct/P3320",
+      "object": "http://www.wikidata.org/entity/Q18207172"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.wikidata.org/prop/direct/P3320",
+      "object": "http://www.wikidata.org/entity/Q114837427"
+    }
+  ]
+}

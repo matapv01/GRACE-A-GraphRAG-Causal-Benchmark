@@ -1,0 +1,44 @@
+{
+  "question_id": "29331",
+  "answers": [
+    "http://www.wikidata.org/entity/Q29018235",
+    "http://www.wikidata.org/entity/Q29018237"
+  ],
+  "gold_path": {
+    "question_id": "29331",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188017",
+        "predicate": "http://www.wikidata.org/prop/direct/P702",
+        "object": "http://www.wikidata.org/entity/Q29018235"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188017",
+        "predicate": "http://www.wikidata.org/prop/direct/P702",
+        "object": "http://www.wikidata.org/entity/Q29018237"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188017",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P592",
+      "object": "http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL925"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188017",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "tyrosine"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188017",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Y"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188017",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Tyr"
+    }
+  ]
+}

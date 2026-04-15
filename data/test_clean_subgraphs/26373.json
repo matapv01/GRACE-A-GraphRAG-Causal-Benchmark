@@ -1,0 +1,38 @@
+{
+  "question_id": "26373",
+  "answers": [
+    "US0079031078"
+  ],
+  "gold_path": {
+    "question_id": "26373",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128896",
+        "predicate": "http://www.wikidata.org/prop/direct/P946",
+        "object": "US0079031078"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.wikidata.org/prop/direct/P8060",
+      "object": "15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://www.amd.com/"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "AMD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128896",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "超微"
+    }
+  ]
+}

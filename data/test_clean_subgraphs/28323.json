@@ -1,0 +1,43 @@
+{
+  "question_id": "28323",
+  "answers": [
+    "463"
+  ],
+  "gold_path": {
+    "question_id": "28323",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q180274",
+        "predicate": "http://www.wikidata.org/prop/direct/P5449",
+        "object": "463"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q180274",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "55"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180274",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Katedra w Chartres"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180274",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Katedrála Notre-Dame"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180274",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Notre-Dame székesegyház"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180274",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "cattedrale di Notre-Dame"
+    }
+  ]
+}

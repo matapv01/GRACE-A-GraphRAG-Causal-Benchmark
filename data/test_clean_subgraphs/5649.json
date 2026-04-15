@@ -1,0 +1,69 @@
+{
+  "question_id": "5649",
+  "answers": [
+    "http://www.wikidata.org/entity/Q917143",
+    "http://www.wikidata.org/entity/Q917159"
+  ],
+  "gold_path": {
+    "question_id": "5649",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q52997",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q52997-6BAD0493-ABDF-4332-A61E-43E306BDA7A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52997-6BAD0493-ABDF-4332-A61E-43E306BDA7A6",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52997-6BAD0493-ABDF-4332-A61E-43E306BDA7A6",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q917143"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q52997",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q52997-6F19461E-BF6C-4AD7-9207-D26ECD2424EC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52997-6F19461E-BF6C-4AD7-9207-D26ECD2424EC",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52997-6F19461E-BF6C-4AD7-9207-D26ECD2424EC",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q917159"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q52997",
+      "predicate": "http://www.wikidata.org/prop/direct/P6058",
+      "object": "personnage/wd/139531"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52997",
+      "predicate": "http://www.wikidata.org/prop/direct/P6706",
+      "object": "Preminger,+Otto+Ludwig"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52997",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1905-12-05T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52997",
+      "predicate": "http://www.wikidata.org/prop/direct/P570",
+      "object": "1986-04-23T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52997",
+      "predicate": "http://www.wikidata.org/prop/direct/P69",
+      "object": "http://www.wikidata.org/entity/Q165980"
+    }
+  ]
+}

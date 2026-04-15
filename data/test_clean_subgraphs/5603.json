@@ -1,0 +1,43 @@
+{
+  "question_id": "5603",
+  "answers": [
+    "151-742"
+  ],
+  "gold_path": {
+    "question_id": "5603",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q39913",
+        "predicate": "http://www.wikidata.org/prop/P159",
+        "object": "http://www.wikidata.org/entity/statement/Q39913-A7EFA999-4DE8-48DA-88C2-ACA6DEA032A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39913-A7EFA999-4DE8-48DA-88C2-ACA6DEA032A6",
+        "predicate": "ps:P159",
+        "object": "http://www.wikidata.org/entity/Q8684"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39913-A7EFA999-4DE8-48DA-88C2-ACA6DEA032A6",
+        "predicate": "pq:P281",
+        "object": "151-742"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q39913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SNU"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Seoul University"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39913",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Soulská národní univerzita"
+    }
+  ]
+}

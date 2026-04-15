@@ -1,0 +1,92 @@
+{
+  "question_id": "2798",
+  "answers": [
+    "http://www.wikidata.org/entity/Q51756",
+    "http://www.wikidata.org/entity/Q1100424",
+    "http://www.wikidata.org/entity/Q51747",
+    "http://www.wikidata.org/entity/Q58707",
+    "http://www.wikidata.org/entity/Q740844"
+  ],
+  "gold_path": {
+    "question_id": "2798",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q58707",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q46970"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q58707",
+        "predicate": "http://www.wikidata.org/prop/direct/P2139",
+        "object": "902261000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51756",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q46970"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51756",
+        "predicate": "http://www.wikidata.org/prop/direct/P2139",
+        "object": "138841403000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51747",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q46970"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q51747",
+        "predicate": "http://www.wikidata.org/prop/direct/P2139",
+        "object": "136774400000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q740844",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q46970"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q740844",
+        "predicate": "http://www.wikidata.org/prop/direct/P2139",
+        "object": "117722500000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1100424",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q46970"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1100424",
+        "predicate": "http://www.wikidata.org/prop/direct/P2139",
+        "object": "111822522000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q58707",
+      "predicate": "http://www.wikidata.org/prop/direct/P432",
+      "object": "AEROFLOT"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58707",
+      "predicate": "http://www.wikidata.org/prop/direct/P452",
+      "object": "http://www.wikidata.org/entity/Q1757562"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58707",
+      "predicate": "http://www.wikidata.org/prop/direct/P452",
+      "object": "http://www.wikidata.org/entity/Q3569648"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58707",
+      "predicate": "http://www.wikidata.org/prop/direct/P3225",
+      "object": "1700150004514"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q58707",
+      "predicate": "http://www.wikidata.org/prop/direct/P414",
+      "object": "http://www.wikidata.org/entity/Q2632892"
+    }
+  ]
+}

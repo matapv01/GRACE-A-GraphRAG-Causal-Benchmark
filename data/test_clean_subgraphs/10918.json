@@ -1,0 +1,48 @@
+{
+  "question_id": "10918",
+  "answers": [
+    "2008-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10918",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1392178",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q1392178-584C2E04-510F-4922-B08E-8B814CCCADEE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1392178-584C2E04-510F-4922-B08E-8B814CCCADEE",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q6152552"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1392178-584C2E04-510F-4922-B08E-8B814CCCADEE",
+        "predicate": "pq:P582",
+        "object": "2008-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1392178-584C2E04-510F-4922-B08E-8B814CCCADEE",
+        "predicate": "pq:P580",
+        "object": "1999-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Glenn McGrath"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "غلين ماكغراث"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1392178",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "جلين ماكجراث"
+    }
+  ]
+}

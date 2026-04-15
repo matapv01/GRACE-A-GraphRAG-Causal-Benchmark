@@ -1,0 +1,60 @@
+{
+  "question_id": "17158",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2679937",
+    "http://www.wikidata.org/entity/Q327316",
+    "http://www.wikidata.org/entity/Q131419"
+  ],
+  "gold_path": {
+    "question_id": "17158",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20643978",
+        "predicate": "http://www.wikidata.org/prop/direct/P144",
+        "object": "http://www.wikidata.org/entity/Q20643976"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20643976",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q131419"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20643976",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q327316"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20643976",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q2679937"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643978",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/11bwcxp41b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643978",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q20643978-B286B9DE-870D-4D38-93B6-48BD60C324CD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643978",
+      "predicate": "http://www.wikidata.org/prop/P1056",
+      "object": "http://www.wikidata.org/entity/statement/Q20643978-2a3c0757-49d4-4a0a-57aa-2433f0709318"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643978",
+      "predicate": "http://www.wikidata.org/prop/P1056",
+      "object": "http://www.wikidata.org/entity/statement/Q20643978-3a6cc92d-4572-93f5-b9d3-edfc268a317e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20643978",
+      "predicate": "http://www.wikidata.org/prop/P1056",
+      "object": "http://www.wikidata.org/entity/statement/Q20643978-b78600e7-45ef-0cca-621f-58b500359fee"
+    }
+  ]
+}

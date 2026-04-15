@@ -1,0 +1,56 @@
+{
+  "question_id": "28895",
+  "answers": [
+    "http://www.wikidata.org/entity/Q849697",
+    "http://www.wikidata.org/entity/Q163727",
+    "http://www.wikidata.org/entity/Q308678",
+    "http://www.wikidata.org/entity/Q183816"
+  ],
+  "gold_path": {
+    "question_id": "28895",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q153006",
+        "predicate": "http://www.wikidata.org/prop/direct/P5460",
+        "object": "http://www.wikidata.org/entity/Q163727"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153006",
+        "predicate": "http://www.wikidata.org/prop/direct/P5460",
+        "object": "http://www.wikidata.org/entity/Q183816"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153006",
+        "predicate": "http://www.wikidata.org/prop/direct/P5460",
+        "object": "http://www.wikidata.org/entity/Q308678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153006",
+        "predicate": "http://www.wikidata.org/prop/direct/P5460",
+        "object": "http://www.wikidata.org/entity/Q849697"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Freie Uni Berlin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Freie Universität von Berlin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "FU Berlin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "FUB"
+    }
+  ]
+}

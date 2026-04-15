@@ -1,0 +1,48 @@
+{
+  "question_id": "13150",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2189"
+  ],
+  "gold_path": {
+    "question_id": "13150",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48365",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q2189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2189",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q44832"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Magellan Strait"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ماجلان"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Magalhaesstraat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Magallanesstraat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48365",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Straat Magelhaen"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "5029",
+  "answers": [
+    "1991-07-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5029",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41420",
+        "predicate": "http://www.wikidata.org/prop/P286",
+        "object": "http://www.wikidata.org/entity/statement/Q41420-1f999233-4932-56a5-c08b-99d303a27946"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41420-1f999233-4932-56a5-c08b-99d303a27946",
+        "predicate": "ps:P286",
+        "object": "http://www.wikidata.org/entity/Q44478"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41420-1f999233-4932-56a5-c08b-99d303a27946",
+        "predicate": "pq:P580",
+        "object": "1991-07-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41420",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "99"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41420",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Dortmund"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41420",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "BVB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41420",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Borussiya"
+    }
+  ]
+}

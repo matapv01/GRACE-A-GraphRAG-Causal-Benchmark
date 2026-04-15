@@ -1,0 +1,117 @@
+{
+  "question_id": "16248",
+  "answers": [
+    "http://www.wikidata.org/entity/Q491083",
+    "http://www.wikidata.org/entity/Q1043",
+    "http://www.wikidata.org/entity/Q363545",
+    "http://www.wikidata.org/entity/Q363197",
+    "http://www.wikidata.org/entity/Q362485",
+    "http://www.wikidata.org/entity/Q34969",
+    "http://www.wikidata.org/entity/Q632219",
+    "http://www.wikidata.org/entity/Q6536787",
+    "http://www.wikidata.org/entity/Q888645",
+    "http://www.wikidata.org/entity/Q11806"
+  ],
+  "gold_path": {
+    "question_id": "16248",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q169577",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q191583"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191583",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q1043"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191583",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q362485"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191583",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q363197"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191583",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q363545"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191583",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q491083"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191583",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q632219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q169577",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q463303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q463303",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q11806"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q463303",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q888645"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q169577",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q466089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q466089",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q34969"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q169577",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q2095524"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2095524",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q6536787"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q169577",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "87"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169577",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "161"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169577",
+      "predicate": "http://schema.org/version",
+      "object": "2478609643"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169577",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "93"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q169577",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "ernest-orlando-lawrence"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "3947",
+  "answers": [
+    "http://www.wikidata.org/entity/Q985233"
+  ],
+  "gold_path": {
+    "question_id": "3947",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q191027",
+        "predicate": "http://www.wikidata.org/prop/P20",
+        "object": "http://www.wikidata.org/entity/statement/q191027-4A5E13A3-3AD2-4CD8-9E1E-40827C324DE1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q191027-4A5E13A3-3AD2-4CD8-9E1E-40827C324DE1",
+        "predicate": "ps:P20",
+        "object": "http://www.wikidata.org/entity/Q985233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q191027-4A5E13A3-3AD2-4CD8-9E1E-40827C324DE1",
+        "predicate": "pq:P131",
+        "object": "http://www.wikidata.org/entity/Q771"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q191027",
+      "predicate": "http://www.wikidata.org/prop/direct/P5340",
+      "object": "121098"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191027",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "56827076"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191027",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "patricia-neal"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191027",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1926-01-20T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191027",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q191027-6226b696-4937-4613-76bb-39a1e9d89aaa"
+    }
+  ]
+}

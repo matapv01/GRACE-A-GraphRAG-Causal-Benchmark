@@ -1,0 +1,48 @@
+{
+  "question_id": "16482",
+  "answers": [
+    "http://www.wikidata.org/entity/Q35149"
+  ],
+  "gold_path": {
+    "question_id": "16482",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q92030",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q161976"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q161976",
+        "predicate": "http://www.wikidata.org/prop/direct/P1075",
+        "object": "http://www.wikidata.org/entity/Q35149"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q92030",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Маркузе, Макс"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92030",
+      "predicate": "http://www.wikidata.org/prop/P9964",
+      "object": "http://www.wikidata.org/entity/statement/Q92030-F41B929B-6D1B-4E2E-8C56-80CC04E52A39"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P648",
+      "object": "http://openlibrary.org/works/OL2434693A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92030",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8168",
+      "object": "https://database.factgrid.de/entity/Q226380"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q92030",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q92030-6303C07D-AEE1-47C1-9214-3D0CACF39FA8"
+    }
+  ]
+}

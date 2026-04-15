@@ -1,0 +1,53 @@
+{
+  "question_id": "8937",
+  "answers": [
+    "1323-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8937",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9438",
+        "predicate": "http://www.wikidata.org/prop/P841",
+        "object": "http://www.wikidata.org/entity/statement/Q9438-fe5ef860-45e6-e54f-572b-f532de7f8c8e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9438-fe5ef860-45e6-e54f-572b-f532de7f8c8e",
+        "predicate": "ps:P841",
+        "object": "http://www.wikidata.org/entity/Q2394"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9438-fe5ef860-45e6-e54f-572b-f532de7f8c8e",
+        "predicate": "pq:P580",
+        "object": "1323-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9438",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T17:34:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9438",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q9438-69EEABDC-BC92-4A27-9B83-28805C4F67FE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9438",
+      "predicate": "http://www.wikidata.org/prop/P138",
+      "object": "http://www.wikidata.org/entity/statement/Q9438-47a24158-43f8-74e7-522a-b9f268ca22b2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9438",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q9438-23710f74-47fe-42bc-f9ae-2e418f30f26a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9438",
+      "predicate": "http://www.wikidata.org/prop/P69",
+      "object": "http://www.wikidata.org/entity/statement/Q9438-4D7EAC94-1F36-4B2B-8D06-D5D9C45CF357"
+    }
+  ]
+}

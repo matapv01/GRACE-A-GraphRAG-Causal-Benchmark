@@ -1,0 +1,53 @@
+{
+  "question_id": "4532",
+  "answers": [
+    "http://www.wikidata.org/entity/Q728711"
+  ],
+  "gold_path": {
+    "question_id": "4532",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q229507",
+        "predicate": "http://www.wikidata.org/prop/P106",
+        "object": "http://www.wikidata.org/entity/statement/Q229507-B64529CE-0876-4000-A972-54D8573128C9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q229507-B64529CE-0876-4000-A972-54D8573128C9",
+        "predicate": "ps:P106",
+        "object": "http://www.wikidata.org/entity/Q728711"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q229507-B64529CE-0876-4000-A972-54D8573128C9",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q61898"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q229507",
+      "predicate": "http://www.wikidata.org/prop/direct/P8094",
+      "object": "palmerv"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q229507",
+      "predicate": "http://www.wikidata.org/prop/direct/P8013",
+      "object": "people/jayne-mansfield"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q229507",
+      "predicate": "http://www.wikidata.org/prop/direct/P6464",
+      "object": "1094772"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q229507",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/024y6w"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q229507",
+      "predicate": "http://www.wikidata.org/prop/direct/P264",
+      "object": "http://www.wikidata.org/entity/Q1780995"
+    }
+  ]
+}

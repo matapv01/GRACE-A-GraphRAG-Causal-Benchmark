@@ -1,0 +1,53 @@
+{
+  "question_id": "9466",
+  "answers": [
+    "http://www.wikidata.org/entity/Q106291"
+  ],
+  "gold_path": {
+    "question_id": "9466",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q150943",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q150943-EEFA2413-A7E1-4655-9800-DE670933449A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150943-EEFA2413-A7E1-4655-9800-DE670933449A",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q106291"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150943-EEFA2413-A7E1-4655-9800-DE670933449A",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q937162"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q150943",
+      "predicate": "http://www.wikidata.org/prop/P345",
+      "object": "http://www.wikidata.org/entity/statement/q150943-9FF6DB35-7060-4239-AAA2-681F715A4873"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150943",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Gene-Hackman-actor"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150943",
+      "predicate": "http://www.wikidata.org/prop/direct/P3430",
+      "object": "w6sj1rv5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150943",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q150943-1989e1ee-4eca-ae6b-ae00-beb238869d43"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150943",
+      "predicate": "http://www.wikidata.org/prop/direct/P3348",
+      "object": "209725"
+    }
+  ]
+}

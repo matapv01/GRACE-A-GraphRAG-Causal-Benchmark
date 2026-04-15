@@ -1,0 +1,65 @@
+{
+  "question_id": "15797",
+  "answers": [
+    "http://www.wikidata.org/entity/Q165284",
+    "http://www.wikidata.org/entity/Q2704768",
+    "http://www.wikidata.org/entity/Q19007"
+  ],
+  "gold_path": {
+    "question_id": "15797",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34428",
+        "predicate": "http://www.wikidata.org/prop/direct/P26",
+        "object": "http://www.wikidata.org/entity/Q61876"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61876",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q19007"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61876",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q2704768"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q34428",
+        "predicate": "http://www.wikidata.org/prop/direct/P26",
+        "object": "http://www.wikidata.org/entity/Q230050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q230050",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q165284"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34428",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q34428-5379949C-CE04-4925-BC31-740A82D0C396"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34428",
+      "predicate": "http://www.wikidata.org/prop/direct/P7902",
+      "object": "118593943"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34428",
+      "predicate": "http://www.wikidata.org/prop/direct/P25",
+      "object": "http://www.wikidata.org/entity/Q229407"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34428",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q90"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34428",
+      "predicate": "http://www.wikidata.org/prop/P25",
+      "object": "http://www.wikidata.org/entity/statement/q34428-84580394-A513-4CC4-AD90-71C3EB611599"
+    }
+  ]
+}

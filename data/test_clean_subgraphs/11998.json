@@ -1,0 +1,33 @@
+{
+  "question_id": "11998",
+  "answers": [
+    "http://www.wikidata.org/entity/Q309709"
+  ],
+  "gold_path": {
+    "question_id": "11998",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q215729",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q309709"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q309709",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q2059553"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q215729",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rule Britannia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q215729",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rule"
+    }
+  ]
+}

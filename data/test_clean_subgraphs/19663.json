@@ -1,0 +1,48 @@
+{
+  "question_id": "19663",
+  "answers": [
+    "http://www.wikidata.org/entity/Q153768"
+  ],
+  "gold_path": {
+    "question_id": "19663",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q586",
+        "predicate": "http://www.wikidata.org/prop/direct/P1589",
+        "object": "http://www.wikidata.org/entity/Q153768"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q153768",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q191992"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q586",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bona"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q586",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bonn, Germany"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q586",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q586",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "波昂"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q586",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bonn"
+    }
+  ]
+}

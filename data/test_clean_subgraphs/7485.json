@@ -1,0 +1,101 @@
+{
+  "question_id": "7485",
+  "answers": [
+    "32",
+    "40",
+    "56",
+    "12"
+  ],
+  "gold_path": {
+    "question_id": "7485",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5372",
+        "predicate": "http://www.wikidata.org/prop/P2047",
+        "object": "http://www.wikidata.org/entity/statement/Q5372-1fcbf412-4aa0-905e-0de2-63dc964d488c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-1fcbf412-4aa0-905e-0de2-63dc964d488c",
+        "predicate": "ps:P2047",
+        "object": "12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-1fcbf412-4aa0-905e-0de2-63dc964d488c",
+        "predicate": "pq:P1011",
+        "object": "http://www.wikidata.org/entity/Q784362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5372",
+        "predicate": "http://www.wikidata.org/prop/P2047",
+        "object": "http://www.wikidata.org/entity/statement/Q5372-97e36517-4e3a-b149-6200-4cc63c0a9d6b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-97e36517-4e3a-b149-6200-4cc63c0a9d6b",
+        "predicate": "ps:P2047",
+        "object": "32"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-97e36517-4e3a-b149-6200-4cc63c0a9d6b",
+        "predicate": "pq:P1011",
+        "object": "http://www.wikidata.org/entity/Q784362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5372",
+        "predicate": "http://www.wikidata.org/prop/P2047",
+        "object": "http://www.wikidata.org/entity/statement/Q5372-c8a7e94d-4844-0d8d-84fb-c9943a2d84cb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-c8a7e94d-4844-0d8d-84fb-c9943a2d84cb",
+        "predicate": "ps:P2047",
+        "object": "56"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-c8a7e94d-4844-0d8d-84fb-c9943a2d84cb",
+        "predicate": "pq:P1011",
+        "object": "http://www.wikidata.org/entity/Q784362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5372",
+        "predicate": "http://www.wikidata.org/prop/P2047",
+        "object": "http://www.wikidata.org/entity/statement/Q5372-ff0cef60-4616-1967-2f0f-596fd4a44f12"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-ff0cef60-4616-1967-2f0f-596fd4a44f12",
+        "predicate": "ps:P2047",
+        "object": "40"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5372-ff0cef60-4616-1967-2f0f-596fd4a44f12",
+        "predicate": "pq:P1011",
+        "object": "http://www.wikidata.org/entity/Q784362"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5372",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T12:01:49Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5372",
+      "predicate": "http://www.wikidata.org/prop/direct/P8408",
+      "object": "Basketball-TheGame"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5372",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "basketball"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5372",
+      "predicate": "http://schema.org/description",
+      "object": "sport di squadra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5372",
+      "predicate": "http://schema.org/description",
+      "object": "sport där två lag tävlar om att få bollen i en upphöjd korg"
+    }
+  ]
+}

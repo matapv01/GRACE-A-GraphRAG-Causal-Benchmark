@@ -1,0 +1,120 @@
+{
+  "question_id": "24216",
+  "answers": [
+    "http://www.wikidata.org/entity/Q56393909",
+    "http://www.wikidata.org/entity/Q22925400",
+    "http://www.wikidata.org/entity/Q12573007",
+    "http://www.wikidata.org/entity/Q12845853",
+    "http://www.wikidata.org/entity/Q115200950",
+    "http://www.wikidata.org/entity/Q1051110",
+    "http://www.wikidata.org/entity/Q17310537",
+    "http://www.wikidata.org/entity/Q107301678"
+  ],
+  "gold_path": {
+    "question_id": "24216",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051110",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1051110",
+        "predicate": "rdfs:label",
+        "object": "seal cutting"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12573007",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12573007",
+        "predicate": "rdfs:label",
+        "object": "stone sculpture"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12845853",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12845853",
+        "predicate": "rdfs:label",
+        "object": "Sos-art"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56393909",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56393909",
+        "predicate": "rdfs:label",
+        "object": "Stećaks forms"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17310537",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17310537",
+        "predicate": "rdfs:label",
+        "object": "sculpture"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22925400",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22925400",
+        "predicate": "rdfs:label",
+        "object": "sport art"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q107301678",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q107301678",
+        "predicate": "rdfs:label",
+        "object": "stencil art"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115200950",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56055944"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115200950",
+        "predicate": "rdfs:label",
+        "object": "stained glass design"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Seal Carving"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "seal engraving"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Seal Engraving"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1051110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Zhuanke"
+    }
+  ]
+}

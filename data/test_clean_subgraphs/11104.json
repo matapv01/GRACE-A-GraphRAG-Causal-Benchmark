@@ -1,0 +1,69 @@
+{
+  "question_id": "11104",
+  "answers": [
+    "http://www.wikidata.org/entity/Q24012588",
+    "http://www.wikidata.org/entity/Q1606474"
+  ],
+  "gold_path": {
+    "question_id": "11104",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q122003",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q122003-5770055d-4c35-45ed-f5e4-06491e757714"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q122003-5770055d-4c35-45ed-f5e4-06491e757714",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q33508315"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q122003-5770055d-4c35-45ed-f5e4-06491e757714",
+        "predicate": "pq:P2842",
+        "object": "http://www.wikidata.org/entity/Q24012588"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q122003",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q122003-6EE5D756-A1EE-4D7A-B158-F9BF1451C6F1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q122003-6EE5D756-A1EE-4D7A-B158-F9BF1451C6F1",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q437710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q122003-6EE5D756-A1EE-4D7A-B158-F9BF1451C6F1",
+        "predicate": "pq:P2842",
+        "object": "http://www.wikidata.org/entity/Q1606474"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q122003",
+      "predicate": "http://schema.org/version",
+      "object": "2478217915"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122003",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-04T13:45:39Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122003",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q122003-018EB2ED-CB80-4194-9300-B783F31B6A2A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122003",
+      "predicate": "http://www.wikidata.org/prop/P264",
+      "object": "http://www.wikidata.org/entity/statement/Q122003-175f2514-45c4-5868-251f-91b8670ea0bb"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122003",
+      "predicate": "http://www.wikidata.org/prop/P264",
+      "object": "http://www.wikidata.org/entity/statement/Q122003-605b5f84-45d2-d852-dc85-4ed0ce7b5bca"
+    }
+  ]
+}

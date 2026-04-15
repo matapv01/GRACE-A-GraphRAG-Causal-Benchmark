@@ -1,0 +1,48 @@
+{
+  "question_id": "15040",
+  "answers": [
+    "http://www.wikidata.org/entity/Q30"
+  ],
+  "gold_path": {
+    "question_id": "15040",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40590",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q370046"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q370046",
+        "predicate": "http://www.wikidata.org/prop/direct/P551",
+        "object": "http://www.wikidata.org/entity/Q30"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40590",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "paljude maailmade interpretatsioon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40590",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "unibertso anitzen teoria"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40590",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "تفسیر دنیاهای چندگانه"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40590",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "monimaailmatulkinta"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40590",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "théorie d'Everett"
+    }
+  ]
+}

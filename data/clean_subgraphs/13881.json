@@ -1,0 +1,48 @@
+{
+  "question_id": "13881",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11299"
+  ],
+  "gold_path": {
+    "question_id": "13881",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q304489",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q11299"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11299",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q18424"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q304489",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q304489",
+      "predicate": "http://www.wikidata.org/prop/P535",
+      "object": "http://www.wikidata.org/entity/statement/Q304489-16E16AD5-7304-438E-8263-E5763729A2E9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q304489",
+      "predicate": "http://www.wikidata.org/prop/P7400",
+      "object": "http://www.wikidata.org/entity/statement/Q304489-b7f81cdf-4a28-abcf-4fdd-822a0d2586f1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q304489",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Constantino Paul Castellano"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q304489",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Constantino Paul \"Big Paul\" Castellano"
+    }
+  ]
+}

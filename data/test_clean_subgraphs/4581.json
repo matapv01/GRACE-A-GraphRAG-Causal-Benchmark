@@ -1,0 +1,48 @@
+{
+  "question_id": "4581",
+  "answers": [
+    "2015-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4581",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q29294",
+        "predicate": "http://www.wikidata.org/prop/P127",
+        "object": "http://www.wikidata.org/entity/statement/Q29294-edaefadc-4d98-dde3-9562-c295a6eab140"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q29294-edaefadc-4d98-dde3-9562-c295a6eab140",
+        "predicate": "ps:P127",
+        "object": "http://www.wikidata.org/entity/Q919120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q29294-edaefadc-4d98-dde3-9562-c295a6eab140",
+        "predicate": "pq:P582",
+        "object": "2015-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q29294",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-09-08T06:39:35Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29294",
+      "predicate": "http://schema.org/version",
+      "object": "2402135056"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29294",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Willis-toring"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q29294",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Willis Tower"
+    }
+  ]
+}

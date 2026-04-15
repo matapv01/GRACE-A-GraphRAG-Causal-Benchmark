@@ -1,0 +1,58 @@
+{
+  "question_id": "10781",
+  "answers": [
+    "1962-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10781",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q39212",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/q39212-5EA2F5E2-9EB5-4A2B-B260-2D84B9D98BC4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q39212-5EA2F5E2-9EB5-4A2B-B260-2D84B9D98BC4",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q37922"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q39212-5EA2F5E2-9EB5-4A2B-B260-2D84B9D98BC4",
+        "predicate": "pq:P585",
+        "object": "1962-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q39212-5EA2F5E2-9EB5-4A2B-B260-2D84B9D98BC4",
+        "predicate": "pq:P2121",
+        "object": "257220"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q39212",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Steinbeck-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39212",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "CFIV000628"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39212",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q39212-96778c18-42ec-898e-07b3-d5f8f0ed23c6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39212",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q39212-C1EAAF5F-1CE1-4F5D-95C0-30B278F3872F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39212",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q39212-E6F13C54-7648-4B5D-A1CC-B2307816ADDD"
+    }
+  ]
+}

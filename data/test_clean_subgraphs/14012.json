@@ -1,0 +1,48 @@
+{
+  "question_id": "14012",
+  "answers": [
+    "http://www.wikidata.org/entity/Q259446"
+  ],
+  "gold_path": {
+    "question_id": "14012",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q245208",
+        "predicate": "http://www.wikidata.org/prop/direct/P161",
+        "object": "http://www.wikidata.org/entity/Q259446"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q259446",
+        "predicate": "http://www.wikidata.org/prop/direct/P509",
+        "object": "http://www.wikidata.org/entity/Q476921"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q245208",
+      "predicate": "http://www.wikidata.org/prop/P495",
+      "object": "http://www.wikidata.org/entity/statement/Q245208-D1D2D3AE-F2B0-4531-BD64-0E4DEAC64BC1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245208",
+      "predicate": "http://www.wikidata.org/prop/direct/P5032",
+      "object": "31636"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245208",
+      "predicate": "http://www.wikidata.org/prop/P5032",
+      "object": "http://www.wikidata.org/entity/statement/Q245208-B3DC9B86-EF9C-4CD3-8396-D157BF2047DD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245208",
+      "predicate": "http://www.wikidata.org/prop/P5099",
+      "object": "http://www.wikidata.org/entity/statement/Q245208-43D4776B-4E55-4ED9-9CFB-F32649134632"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q245208",
+      "predicate": "http://www.wikidata.org/prop/direct/P5099",
+      "object": "film/mezzogiornodifuoco"
+    }
+  ]
+}

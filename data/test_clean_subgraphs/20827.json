@@ -1,0 +1,59 @@
+{
+  "question_id": "20827",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18042335",
+    "http://www.wikidata.org/entity/Q18035589"
+  ],
+  "gold_path": {
+    "question_id": "20827",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q147778",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q18035589"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18035589",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q147778",
+        "predicate": "http://www.wikidata.org/prop/direct/P2293",
+        "object": "http://www.wikidata.org/entity/Q18042335"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18042335",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7187"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q147778",
+      "predicate": "http://www.wikidata.org/prop/P2924",
+      "object": "http://www.wikidata.org/entity/statement/Q147778-58042364-414d-b006-216e-9e4e0b61949a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147778",
+      "predicate": "http://www.wikidata.org/prop/direct/P923",
+      "object": "http://www.wikidata.org/entity/Q32566"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147778",
+      "predicate": "http://www.wikidata.org/prop/direct/P923",
+      "object": "http://www.wikidata.org/entity/Q234904"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147778",
+      "predicate": "http://www.wikidata.org/prop/direct/P923",
+      "object": "http://www.wikidata.org/entity/Q360841"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q147778",
+      "predicate": "http://www.wikidata.org/prop/direct/P923",
+      "object": "http://www.wikidata.org/entity/Q886837"
+    }
+  ]
+}

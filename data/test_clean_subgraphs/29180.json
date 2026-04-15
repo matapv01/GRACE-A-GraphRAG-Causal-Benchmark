@@ -1,0 +1,43 @@
+{
+  "question_id": "29180",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13406835"
+  ],
+  "gold_path": {
+    "question_id": "29180",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q316671",
+        "predicate": "http://www.wikidata.org/prop/direct/P579",
+        "object": "http://www.wikidata.org/entity/Q13406835"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q316671",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "22"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q316671",
+      "predicate": "http://schema.org/version",
+      "object": "2475563321"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q316671",
+      "predicate": "http://schema.org/description",
+      "object": "minerale"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q316671",
+      "predicate": "http://schema.org/description",
+      "object": "minéral"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q316671",
+      "predicate": "http://schema.org/description",
+      "object": "pyroxene mineral"
+    }
+  ]
+}

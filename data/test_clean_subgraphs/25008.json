@@ -1,0 +1,53 @@
+{
+  "question_id": "25008",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1186333"
+  ],
+  "gold_path": {
+    "question_id": "25008",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1186333",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1154710"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1186333",
+        "predicate": "http://www.wikidata.org/prop/direct/P84",
+        "object": "http://www.wikidata.org/entity/Q1208016"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1186333",
+        "predicate": "rdfs:label",
+        "object": "Lusail Stadium"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1186333",
+      "predicate": "http://schema.org/description",
+      "object": "staid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1186333",
+      "predicate": "http://schema.org/description",
+      "object": "stadiwm"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1186333",
+      "predicate": "http://schema.org/description",
+      "object": "ورزشگاه فوتبال در قطر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1186333",
+      "predicate": "http://schema.org/description",
+      "object": "jalkapallostadion Qatarissa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1186333",
+      "predicate": "http://schema.org/description",
+      "object": "אצטדיון כדורגל בקטר"
+    }
+  ]
+}

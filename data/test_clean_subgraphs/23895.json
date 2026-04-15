@@ -1,0 +1,48 @@
+{
+  "question_id": "23895",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1576537"
+  ],
+  "gold_path": {
+    "question_id": "23895",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1576537",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1790360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1576537",
+        "predicate": "rdfs:label",
+        "object": "list of possessions of Norway"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1576537",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1576537",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1576537",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Norwegische Kolonien"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1576537",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Imperio noruego"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1576537",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Territori d'Oltremare norvegesi"
+    }
+  ]
+}

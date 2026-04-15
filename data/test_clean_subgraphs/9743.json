@@ -1,0 +1,38 @@
+{
+  "question_id": "9743",
+  "answers": [
+    "http://www.wikidata.org/entity/Q193740"
+  ],
+  "gold_path": {
+    "question_id": "9743",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q819016",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q193740"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q819016",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q873384"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q819016",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Santana"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q819016",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Сантана"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q819016",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "სანტანა"
+    }
+  ]
+}

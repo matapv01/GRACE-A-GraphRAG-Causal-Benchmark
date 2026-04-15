@@ -1,0 +1,43 @@
+{
+  "question_id": "22058",
+  "answers": [
+    "http://www.wikidata.org/entity/Q105329094"
+  ],
+  "gold_path": {
+    "question_id": "22058",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105329094",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q105329094",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q19307174"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105329094",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "アリスNET"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105329094",
+      "predicate": "http://schema.org/version",
+      "object": "2421615225"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105329094",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ALICENET"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105329094",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "アリスネット"
+    }
+  ]
+}

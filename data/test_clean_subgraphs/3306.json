@@ -1,0 +1,117 @@
+{
+  "question_id": "3306",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5877222",
+    "http://www.wikidata.org/entity/Q5700625",
+    "http://www.wikidata.org/entity/Q5822089",
+    "http://www.wikidata.org/entity/Q123582915",
+    "http://www.wikidata.org/entity/Q506978"
+  ],
+  "gold_path": {
+    "question_id": "3306",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q123582915",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1002697"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q123582915",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "0.5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q123582915",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q1321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q506978",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1002697"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q506978",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q506978",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q1321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5700625",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1002697"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5700625",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5700625",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q1321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5822089",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1002697"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5822089",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5822089",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q1321"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5877222",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1002697"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5877222",
+        "predicate": "http://www.wikidata.org/prop/direct/P2896",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5877222",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q1321"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q123582915",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q123582915",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2023-11-30T01:39:28Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q123582915",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "El San Juan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q123582915",
+      "predicate": "http://schema.org/version",
+      "object": "2020636640"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q123582915",
+      "predicate": "http://schema.org/description",
+      "object": "Periódico fundado por Rodolfo Arriaga"
+    }
+  ]
+}

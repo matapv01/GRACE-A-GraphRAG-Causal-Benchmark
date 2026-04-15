@@ -1,0 +1,48 @@
+{
+  "question_id": "20002",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6475"
+  ],
+  "gold_path": {
+    "question_id": "20002",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q191551",
+        "predicate": "http://www.wikidata.org/prop/direct/P121",
+        "object": "http://www.wikidata.org/entity/Q6475"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6475",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15056993"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q191551",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "https://easyjet.com"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191551",
+      "predicate": "http://www.wikidata.org/prop/direct/P8501",
+      "object": "087215FD-1FCB-4C81-9EE8-A49297A9C28D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191551",
+      "predicate": "http://www.wikidata.org/prop/direct/P432",
+      "object": "EASY"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191551",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "easyjet"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191551",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/EasyJet%20G-UZHE%20Airbus%20A320neo%20at%20CDG.jpg"
+    }
+  ]
+}

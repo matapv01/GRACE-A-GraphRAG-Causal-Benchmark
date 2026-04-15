@@ -1,0 +1,48 @@
+{
+  "question_id": "17789",
+  "answers": [
+    "http://www.wikidata.org/entity/Q941594"
+  ],
+  "gold_path": {
+    "question_id": "17789",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6016926",
+        "predicate": "http://www.wikidata.org/prop/direct/P178",
+        "object": "http://www.wikidata.org/entity/Q1129295"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1129295",
+        "predicate": "http://www.wikidata.org/prop/direct/P452",
+        "object": "http://www.wikidata.org/entity/Q941594"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6016926",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MC:BE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6016926",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MC:PE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6016926",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MCBE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6016926",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MCPE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6016926",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Minecraft – Bedrock Edition"
+    }
+  ]
+}

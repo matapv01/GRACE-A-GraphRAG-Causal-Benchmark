@@ -1,0 +1,58 @@
+{
+  "question_id": "10877",
+  "answers": [
+    "1479-11-15T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10877",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q45859",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q45859-AA1122ED-4A1D-42DF-AC10-6426B66385ED"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-AA1122ED-4A1D-42DF-AC10-6426B66385ED",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q171136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-AA1122ED-4A1D-42DF-AC10-6426B66385ED",
+        "predicate": "pq:P569",
+        "object": "1479-11-15T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q45859-AA1122ED-4A1D-42DF-AC10-6426B66385ED",
+        "predicate": "pq:P570",
+        "object": "1555-04-22T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T00:09:27Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "120034786"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://schema.org/version",
+      "object": "2478406799"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "028141334"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q45859",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q12860"
+    }
+  ]
+}

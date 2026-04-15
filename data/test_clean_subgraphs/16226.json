@@ -1,0 +1,66 @@
+{
+  "question_id": "16226",
+  "answers": [
+    "629.4111",
+    "521.1",
+    "539.754",
+    "531.14"
+  ],
+  "gold_path": {
+    "question_id": "16226",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q140028",
+        "predicate": "http://www.wikidata.org/prop/direct/P828",
+        "object": "http://www.wikidata.org/entity/Q11412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11412",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "521.1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11412",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "539.754"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11412",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "531.14"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11412",
+        "predicate": "http://www.wikidata.org/prop/direct/P1036",
+        "object": "629.4111"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q140028",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "fritt_fall"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140028",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140028",
+      "predicate": "http://www.wikidata.org/prop/direct/P5555",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Falling%20ball.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140028",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q140028-0dbfc878-416d-6bc3-adea-46f6fa8e345b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140028",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q140028-5bbffd6c-4c6d-cbb7-02d5-0095aff60c82"
+    }
+  ]
+}

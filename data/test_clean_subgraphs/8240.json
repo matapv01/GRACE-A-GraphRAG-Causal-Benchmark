@@ -1,0 +1,53 @@
+{
+  "question_id": "8240",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18384454"
+  ],
+  "gold_path": {
+    "question_id": "8240",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q174964",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q174964-4fb35797-4fb3-e6be-2be7-b36e8bce7de6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q174964-4fb35797-4fb3-e6be-2be7-b36e8bce7de6",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q18384454"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q174964-4fb35797-4fb3-e6be-2be7-b36e8bce7de6",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q170586"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q174964",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "charles-iv-le-bel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174964",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles4%20mini.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174964",
+      "predicate": "http://www.wikidata.org/prop/direct/P25",
+      "object": "http://www.wikidata.org/entity/Q229189"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174964",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q174964",
+      "predicate": "http://www.wikidata.org/prop/direct/P4145",
+      "object": "307"
+    }
+  ]
+}

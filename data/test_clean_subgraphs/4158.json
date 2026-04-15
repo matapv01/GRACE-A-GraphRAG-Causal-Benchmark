@@ -1,0 +1,117 @@
+{
+  "question_id": "4158",
+  "answers": [
+    "1506-01-01T00:00:00Z",
+    "1564-01-01T00:00:00Z",
+    "1516-01-01T00:00:00Z",
+    "1501-01-01T00:00:00Z",
+    "1533-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4158",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5592",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5592-13D697EB-C15A-446C-AD3C-A80D6362C119"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-13D697EB-C15A-446C-AD3C-A80D6362C119",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-13D697EB-C15A-446C-AD3C-A80D6362C119",
+        "predicate": "pq:P582",
+        "object": "1506-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5592",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5592-161DCC41-3CF2-44D1-A16C-BA53E44BEBE2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-161DCC41-3CF2-44D1-A16C-BA53E44BEBE2",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-161DCC41-3CF2-44D1-A16C-BA53E44BEBE2",
+        "predicate": "pq:P582",
+        "object": "1533-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5592",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5592-460A1A93-9333-4A25-9705-FA07BFB39632"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-460A1A93-9333-4A25-9705-FA07BFB39632",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-460A1A93-9333-4A25-9705-FA07BFB39632",
+        "predicate": "pq:P582",
+        "object": "1516-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5592",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5592-579B8EC0-A979-4BC5-BD3F-909F79827127"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-579B8EC0-A979-4BC5-BD3F-909F79827127",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-579B8EC0-A979-4BC5-BD3F-909F79827127",
+        "predicate": "pq:P582",
+        "object": "1501-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5592",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5592-89718C15-4FFF-48B1-BEF2-8C4B044C8FED"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-89718C15-4FFF-48B1-BEF2-8C4B044C8FED",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q220"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5592-89718C15-4FFF-48B1-BEF2-8C4B044C8FED",
+        "predicate": "pq:P582",
+        "object": "1564-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5592",
+      "predicate": "http://www.wikidata.org/prop/direct/P1003",
+      "object": "000143396"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5592",
+      "predicate": "http://www.wikidata.org/prop/direct/P1005",
+      "object": "23554"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5592",
+      "predicate": "http://www.wikidata.org/prop/P172",
+      "object": "http://www.wikidata.org/entity/statement/Q5592-0d1f1cfb-456e-8d65-a84f-fd61f132ec4b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5592",
+      "predicate": "http://www.wikidata.org/prop/direct/P1006",
+      "object": "069228957"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5592",
+      "predicate": "http://www.wikidata.org/prop/direct/P906",
+      "object": "292503"
+    }
+  ]
+}

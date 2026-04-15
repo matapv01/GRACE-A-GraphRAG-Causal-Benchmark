@@ -1,0 +1,98 @@
+{
+  "question_id": "24416",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13573011",
+    "http://www.wikidata.org/entity/Q3440056",
+    "http://www.wikidata.org/entity/Q1137441",
+    "http://www.wikidata.org/entity/Q8054180",
+    "http://www.wikidata.org/entity/Q13400773",
+    "http://www.wikidata.org/entity/Q3573004"
+  ],
+  "gold_path": {
+    "question_id": "24416",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q13400773",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16103215"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13400773",
+        "predicate": "rdfs:label",
+        "object": "yole"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13573011",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16103215"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13573011",
+        "predicate": "rdfs:label",
+        "object": "yal"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8054180",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16103215"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8054180",
+        "predicate": "rdfs:label",
+        "object": "Yoal"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3440056",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16103215"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3440056",
+        "predicate": "rdfs:label",
+        "object": "yakatabune"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3573004",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16103215"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3573004",
+        "predicate": "rdfs:label",
+        "object": "youyou"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1137441",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16103215"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1137441",
+        "predicate": "rdfs:label",
+        "object": "yawl"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q13400773",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13400773",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb13514070s#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13400773",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85123154"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q13400773",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Iola"
+    }
+  ]
+}

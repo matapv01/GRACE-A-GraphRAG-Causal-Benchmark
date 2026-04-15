@@ -1,0 +1,59 @@
+{
+  "question_id": "17555",
+  "answers": [
+    "http://www.wikidata.org/entity/Q43196",
+    "http://www.wikidata.org/entity/Q1345"
+  ],
+  "gold_path": {
+    "question_id": "17555",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5336310",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q650840"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q650840",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q1345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5336310",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q826751"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q826751",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q43196"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5336310",
+      "predicate": "http://schema.org/version",
+      "object": "2413857193"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5336310",
+      "predicate": "http://schema.org/description",
+      "object": "giocatore di baseball statunitense"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5336310",
+      "predicate": "http://schema.org/description",
+      "object": "لاعب كرة قاعدة من الولايات المتحدة الأمريكية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5336310",
+      "predicate": "http://schema.org/description",
+      "object": "jugador de beisbol estatunidenc"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5336310",
+      "predicate": "http://schema.org/description",
+      "object": "beisbolista estadounidense"
+    }
+  ]
+}

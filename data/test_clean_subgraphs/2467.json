@@ -1,0 +1,92 @@
+{
+  "question_id": "2467",
+  "answers": [
+    "http://www.wikidata.org/entity/Q688541",
+    "http://www.wikidata.org/entity/Q54451",
+    "http://www.wikidata.org/entity/Q224494",
+    "http://www.wikidata.org/entity/Q22815081",
+    "http://www.wikidata.org/entity/Q703916"
+  ],
+  "gold_path": {
+    "question_id": "2467",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q224494",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q55490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q224494",
+        "predicate": "http://www.wikidata.org/prop/direct/P1103",
+        "object": "26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q54451",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q55490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q54451",
+        "predicate": "http://www.wikidata.org/prop/direct/P1103",
+        "object": "21"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q703916",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q55490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q703916",
+        "predicate": "http://www.wikidata.org/prop/direct/P1103",
+        "object": "21"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22815081",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q55490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22815081",
+        "predicate": "http://www.wikidata.org/prop/direct/P1103",
+        "object": "20"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688541",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q55490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q688541",
+        "predicate": "http://www.wikidata.org/prop/direct/P1103",
+        "object": "16"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q224494",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Zürich HB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q224494",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bahnhof Zürich HB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q224494",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bf Zürich HB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q224494",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hauptbahnhof Zürich"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q224494",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Zurich Central Station"
+    }
+  ]
+}

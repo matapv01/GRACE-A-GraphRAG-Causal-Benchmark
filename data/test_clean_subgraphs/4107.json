@@ -1,0 +1,54 @@
+{
+  "question_id": "4107",
+  "answers": [
+    "http://www.wikidata.org/entity/Q209459",
+    "http://www.wikidata.org/entity/Q3241784"
+  ],
+  "gold_path": {
+    "question_id": "4107",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2071",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q2071-47052800-41be-4cb7-127d-4c23f058e062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2071-47052800-41be-4cb7-127d-4c23f058e062",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q209459"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2071",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q2071-de3dd1df-4746-f711-b281-3de96933d2ac"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2071-de3dd1df-4746-f711-b281-3de96933d2ac",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3241784"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2071",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Lynch"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2071",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "David Keith Lynch"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2071",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ديفيد كيث لينش"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2071",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Дэвід Кіт Лінч"
+    }
+  ]
+}

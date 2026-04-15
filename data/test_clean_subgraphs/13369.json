@@ -1,0 +1,48 @@
+{
+  "question_id": "13369",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3224"
+  ],
+  "gold_path": {
+    "question_id": "13369",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q325890",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q3224"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3224",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q1309863"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q325890",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "alec-derwent-hope"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325890",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q325890-8111B32D-2866-4973-80DB-C875B4BB8DDB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325890",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL672315A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325890",
+      "predicate": "http://www.wikidata.org/prop/P648",
+      "object": "http://www.wikidata.org/entity/statement/Q325890-0874BD5B-21D6-40BB-A739-F509E54E53BB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325890",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "a-d-hope"
+    }
+  ]
+}

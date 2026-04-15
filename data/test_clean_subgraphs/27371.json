@@ -1,0 +1,50 @@
+{
+  "question_id": "27371",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4587312",
+    "http://www.wikidata.org/entity/Q5666619",
+    "http://www.wikidata.org/entity/Q1312413"
+  ],
+  "gold_path": {
+    "question_id": "27371",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1312413",
+        "predicate": "http://www.wikidata.org/prop/direct/P1840",
+        "object": "http://www.wikidata.org/entity/Q1134614"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4587312",
+        "predicate": "http://www.wikidata.org/prop/direct/P1840",
+        "object": "http://www.wikidata.org/entity/Q1134614"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5666619",
+        "predicate": "http://www.wikidata.org/prop/direct/P1840",
+        "object": "http://www.wikidata.org/entity/Q1134614"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1312413",
+      "predicate": "http://www.wikidata.org/prop/direct/P2478",
+      "object": "85"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1312413",
+      "predicate": "http://www.wikidata.org/prop/direct/P1840",
+      "object": "http://www.wikidata.org/entity/Q887543"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1312413",
+      "predicate": "http://www.wikidata.org/prop/direct/P1840",
+      "object": "http://www.wikidata.org/entity/Q5437314"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1312413",
+      "predicate": "http://www.wikidata.org/prop/P2478",
+      "object": "http://www.wikidata.org/entity/statement/Q1312413-d443fceb-42be-d377-98c4-bc61529e9ed8"
+    }
+  ]
+}

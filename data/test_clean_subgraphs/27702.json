@@ -1,0 +1,43 @@
+{
+  "question_id": "27702",
+  "answers": [
+    "01810"
+  ],
+  "gold_path": {
+    "question_id": "27702",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q325374",
+        "predicate": "http://www.wikidata.org/prop/direct/P2811",
+        "object": "01810"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q325374",
+      "predicate": "http://www.wikidata.org/prop/P856",
+      "object": "http://www.wikidata.org/entity/statement/Q325374-D99CD06D-FFAA-42E3-8DFF-F14F0F56E40C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325374",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q325374-AC249EF3-848D-4CA6-ADB8-9D84ACF8D604"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325374",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://www.philmickelson.com"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325374",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20Mickelson%2014.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q325374",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q325374-28D84D6A-3F2C-4FCC-82ED-99CD37437A61"
+    }
+  ]
+}

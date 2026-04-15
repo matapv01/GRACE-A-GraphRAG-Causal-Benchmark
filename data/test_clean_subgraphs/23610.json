@@ -1,0 +1,48 @@
+{
+  "question_id": "23610",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10274"
+  ],
+  "gold_path": {
+    "question_id": "23610",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10274",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q132241"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10274",
+        "predicate": "rdfs:label",
+        "object": "Vijayadashami"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10274",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "11"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10274",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-10-06T00:39:31Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10274",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "38"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10274",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dussehra%20celebrations.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10274",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q10274-43233403-4357-5644-47b2-93fea1039bb1"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "2477",
+  "answers": [
+    "http://www.wikidata.org/entity/Q106725767",
+    "http://www.wikidata.org/entity/Q91574962",
+    "http://www.wikidata.org/entity/Q28381982"
+  ],
+  "gold_path": {
+    "question_id": "2477",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28381982",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41298"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28381982",
+        "predicate": "http://www.wikidata.org/prop/direct/P4295",
+        "object": "652500"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106725767",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41298"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q106725767",
+        "predicate": "http://www.wikidata.org/prop/direct/P4295",
+        "object": "100000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q91574962",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q41298"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q91574962",
+        "predicate": "http://www.wikidata.org/prop/direct/P4295",
+        "object": "16800"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28381982",
+      "predicate": "http://www.wikidata.org/prop/P407",
+      "object": "http://www.wikidata.org/entity/statement/Q28381982-7165291F-0AC1-40FB-B675-040989BA029E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28381982",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "National Parks"
+    }
+  ]
+}

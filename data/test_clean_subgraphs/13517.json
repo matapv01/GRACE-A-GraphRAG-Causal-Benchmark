@@ -1,0 +1,48 @@
+{
+  "question_id": "13517",
+  "answers": [
+    "http://www.wikidata.org/entity/Q54913364"
+  ],
+  "gold_path": {
+    "question_id": "13517",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q132705",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q54913364"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q54913364",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q82955"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q132705",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q132705-fb58dc68-4a82-fd28-1595-323ee23a5c09"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132705",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q132705-62968354-4813-b3c3-b356-c4680606709d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132705",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%95%B7%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A%E5%BE%A9%E8%88%88%E7%A5%88%E9%A1%98%E8%8A%B1%E7%81%AB%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132705",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Niigata%20city%20night%20view.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132705",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/q132705-5A76F904-5082-430B-A54F-2FC9CDF1E054"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "question_id": "10800",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1765120"
+  ],
+  "gold_path": {
+    "question_id": "10800",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14540",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q14540-CEF189C6-37B3-4379-8C22-2C40F9CDCDFD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q14540-CEF189C6-37B3-4379-8C22-2C40F9CDCDFD",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q213439"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q14540-CEF189C6-37B3-4379-8C22-2C40F9CDCDFD",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q1765120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q14540-CEF189C6-37B3-4379-8C22-2C40F9CDCDFD",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q21010853"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14540",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q14540-4dd1e138-16dd-4105-a0dc-79c3fd099bbf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14540",
+      "predicate": "http://www.wikidata.org/prop/P8687",
+      "object": "http://www.wikidata.org/entity/statement/Q14540-850badf8-44cf-4a21-989c-8ab928d7ea01"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14540",
+      "predicate": "http://www.wikidata.org/prop/P6886",
+      "object": "http://www.wikidata.org/entity/statement/Q14540-D097DFC7-C6DA-4B7E-BE92-7337A34C63B9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14540",
+      "predicate": "http://www.wikidata.org/prop/P6927",
+      "object": "http://www.wikidata.org/entity/statement/Q14540-2202933B-1C5C-45E2-982B-8008CC6C0EA8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14540",
+      "predicate": "http://www.wikidata.org/prop/P6839",
+      "object": "http://www.wikidata.org/entity/statement/Q14540-386159f7-49e4-2c31-c8c4-650044d15fe8"
+    }
+  ]
+}

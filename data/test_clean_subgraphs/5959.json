@@ -1,0 +1,53 @@
+{
+  "question_id": "5959",
+  "answers": [
+    "1947-08-14T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5959",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q330158",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q330158-e5962c51-46d8-5f52-6d55-793d257ed6da"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q330158-e5962c51-46d8-5f52-6d55-793d257ed6da",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q2006542"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q330158-e5962c51-46d8-5f52-6d55-793d257ed6da",
+        "predicate": "pq:P580",
+        "object": "1947-08-14T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q330158",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T03:20:22Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q330158",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Massive%20soil%20erosion%20is%20affecting%20Bangladesh.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q330158",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q253007"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q330158",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q928836"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q330158",
+      "predicate": "http://www.wikidata.org/prop/direct/P150",
+      "object": "http://www.wikidata.org/entity/Q952184"
+    }
+  ]
+}

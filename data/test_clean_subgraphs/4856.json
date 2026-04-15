@@ -1,0 +1,53 @@
+{
+  "question_id": "4856",
+  "answers": [
+    "2008-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4856",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q168482",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q168482-14d2b189-415c-2ab1-2461-c2dc0c00a2b4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q168482-14d2b189-415c-2ab1-2461-c2dc0c00a2b4",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q42313279"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q168482-14d2b189-415c-2ab1-2461-c2dc0c00a2b4",
+        "predicate": "pq:P585",
+        "object": "2008-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q168482",
+      "predicate": "http://www.wikidata.org/prop/P1695",
+      "object": "http://www.wikidata.org/entity/statement/Q168482-ffd25674-4f61-4499-2937-46b5f6c29e64"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168482",
+      "predicate": "http://www.wikidata.org/prop/direct/P14178",
+      "object": "jx20070518002"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168482",
+      "predicate": "http://www.wikidata.org/prop/P1607",
+      "object": "http://www.wikidata.org/entity/statement/Q168482-7CF50BE5-FC45-4EAB-9212-6E90731003FE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168482",
+      "predicate": "http://www.wikidata.org/prop/P1417",
+      "object": "http://www.wikidata.org/entity/statement/Q168482-8B34D7E3-528C-4F92-991D-9560FD921A29"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q168482",
+      "predicate": "http://www.wikidata.org/prop/direct/P1988",
+      "object": "28423_artiste_CALATRAVA_Santiago"
+    }
+  ]
+}

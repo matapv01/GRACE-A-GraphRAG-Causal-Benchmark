@@ -1,0 +1,43 @@
+{
+  "question_id": "13374",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28003"
+  ],
+  "gold_path": {
+    "question_id": "13374",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9021",
+        "predicate": "http://www.wikidata.org/prop/direct/P166",
+        "object": "http://www.wikidata.org/entity/Q28003"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28003",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q3300195"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9021",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "بلانك"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9021",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "普朗克"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9021",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Планк"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9021",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Max Karl Ernest Ludwig Planck"
+    }
+  ]
+}

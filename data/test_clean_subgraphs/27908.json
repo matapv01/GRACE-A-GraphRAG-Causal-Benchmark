@@ -1,0 +1,43 @@
+{
+  "question_id": "27908",
+  "answers": [
+    "https://en.wikipedia.org/wiki/File:Using_sextant_swing.gif"
+  ],
+  "gold_path": {
+    "question_id": "27908",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q179430",
+        "predicate": "http://www.wikidata.org/prop/direct/P2078",
+        "object": "https://en.wikipedia.org/wiki/File:Using_sextant_swing.gif"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q179430",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "70"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179430",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q179430-FF6FE9E7-F0D0-449F-A926-A102331B6C69"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179430",
+      "predicate": "http://www.wikidata.org/prop/P6404",
+      "object": "http://www.wikidata.org/entity/statement/Q179430-5BD4E8E1-1EC0-4406-AC94-918D79A42EBD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179430",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/07b2x"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q179430",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "секстан"
+    }
+  ]
+}

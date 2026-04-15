@@ -1,0 +1,66 @@
+{
+  "question_id": "16557",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9734",
+    "http://www.wikidata.org/entity/Q1344",
+    "http://www.wikidata.org/entity/Q189201",
+    "http://www.wikidata.org/entity/Q1338153"
+  ],
+  "gold_path": {
+    "question_id": "16557",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1966218",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q7314"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7314",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q1344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7314",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q9734"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7314",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q189201"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7314",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q1338153"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1966218",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Suite no 2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1966218",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Suite n° 2 pour petit orchestre"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1966218",
+      "predicate": "http://schema.org/version",
+      "object": "2457999642"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1966218",
+      "predicate": "http://www.wikidata.org/prop/direct/P5302",
+      "object": "12258"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1966218",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Suite No. 2"
+    }
+  ]
+}

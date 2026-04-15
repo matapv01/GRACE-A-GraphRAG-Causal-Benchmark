@@ -1,0 +1,48 @@
+{
+  "question_id": "22914",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36510"
+  ],
+  "gold_path": {
+    "question_id": "22914",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36510",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q35497"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36510",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q34770"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q36510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "греческий язык"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "neogreco"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "neoellenico"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Modern Greek language"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q36510",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "el"
+    }
+  ]
+}

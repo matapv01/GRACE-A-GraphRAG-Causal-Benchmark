@@ -1,0 +1,53 @@
+{
+  "question_id": "4943",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7527153"
+  ],
+  "gold_path": {
+    "question_id": "4943",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q37388",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q37388-90BD69D8-A971-4085-B2F3-CF7F34AB7BDB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q37388-90BD69D8-A971-4085-B2F3-CF7F34AB7BDB",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q2631987"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q37388-90BD69D8-A971-4085-B2F3-CF7F34AB7BDB",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q7527153"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q37388",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37388",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q103505599"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37388",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "1626-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37388",
+      "predicate": "http://www.wikidata.org/prop/direct/P4343",
+      "object": "Bacon, Francis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37388",
+      "predicate": "http://www.wikidata.org/prop/direct/P4343",
+      "object": "BACON, FRANCIS"
+    }
+  ]
+}

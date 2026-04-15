@@ -1,0 +1,54 @@
+{
+  "question_id": "17363",
+  "answers": [
+    "http://www.wikidata.org/entity/Q299266",
+    "http://www.wikidata.org/entity/Q442202"
+  ],
+  "gold_path": {
+    "question_id": "17363",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q303064",
+        "predicate": "http://www.wikidata.org/prop/direct/P144",
+        "object": "http://www.wikidata.org/entity/Q3567653"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3567653",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q299266"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3567653",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q442202"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q303064",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Колесо фортуны"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303064",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q303064-b9b788de-4f77-2f5f-2e19-a75a63d402b2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303064",
+      "predicate": "http://www.wikidata.org/prop/P910",
+      "object": "http://www.wikidata.org/entity/statement/Q303064-ea89bc32-4942-6ec2-d405-fd252e6b00b3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303064",
+      "predicate": "http://www.wikidata.org/prop/P136",
+      "object": "http://www.wikidata.org/entity/statement/Q303064-17a5888c-4b51-8f39-14f4-c4861f6f0758"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q303064",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q196600"
+    }
+  ]
+}

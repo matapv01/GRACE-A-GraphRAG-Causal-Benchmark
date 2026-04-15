@@ -1,0 +1,53 @@
+{
+  "question_id": "6328",
+  "answers": [
+    "http://www.wikidata.org/entity/Q879"
+  ],
+  "gold_path": {
+    "question_id": "6328",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q876",
+        "predicate": "http://www.wikidata.org/prop/P31",
+        "object": "http://www.wikidata.org/entity/statement/Q876-D6A237FB-0081-4218-92D2-73B0CAE7D4AD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q876-D6A237FB-0081-4218-92D2-73B0CAE7D4AD",
+        "predicate": "ps:P31",
+        "object": "http://www.wikidata.org/entity/Q11344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q876-D6A237FB-0081-4218-92D2-73B0CAE7D4AD",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q879"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q876",
+      "predicate": "http://schema.org/version",
+      "object": "2479897020"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q876",
+      "predicate": "http://schema.org/description",
+      "object": "elementum cum numero atomico 34"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q876",
+      "predicate": "http://schema.org/description",
+      "object": "Se - elemento chimico di numero atomico 34"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q876",
+      "predicate": "http://schema.org/description",
+      "object": "grundämne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q876",
+      "predicate": "http://schema.org/description",
+      "object": "хімічны элемэнт"
+    }
+  ]
+}

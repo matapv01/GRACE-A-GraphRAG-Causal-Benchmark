@@ -1,0 +1,48 @@
+{
+  "question_id": "8143",
+  "answers": [
+    "http://www.wikidata.org/entity/Q208258"
+  ],
+  "gold_path": {
+    "question_id": "8143",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q365985",
+        "predicate": "http://www.wikidata.org/prop/P451",
+        "object": "http://www.wikidata.org/entity/statement/q365985-faee57e5-43d8-3a48-1e23-7d4d3f86053c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q365985-faee57e5-43d8-3a48-1e23-7d4d3f86053c",
+        "predicate": "ps:P451",
+        "object": "http://www.wikidata.org/entity/Q208258"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q365985",
+      "predicate": "http://www.wikidata.org/prop/direct/P856",
+      "object": "http://www.claudefrancois.fr"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q365985",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q3161929"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q365985",
+      "predicate": "http://www.wikidata.org/prop/P856",
+      "object": "http://www.wikidata.org/entity/statement/Q365985-91B1C5DE-BFE5-4629-9051-F69F0B666280"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q365985",
+      "predicate": "http://www.wikidata.org/prop/direct/P6351",
+      "object": "355235"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q365985",
+      "predicate": "http://www.wikidata.org/prop/direct/P691",
+      "object": "jn20020721020"
+    }
+  ]
+}

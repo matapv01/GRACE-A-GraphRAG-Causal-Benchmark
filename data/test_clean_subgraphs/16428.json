@@ -1,0 +1,71 @@
+{
+  "question_id": "16428",
+  "answers": [
+    "http://www.wikidata.org/entity/Q33162",
+    "http://www.wikidata.org/entity/Q107233698",
+    "http://www.wikidata.org/entity/Q3040066",
+    "http://www.wikidata.org/entity/Q21980653"
+  ],
+  "gold_path": {
+    "question_id": "16428",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21903339",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q216160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q216160",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q3040066"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q216160",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q21980653"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q216160",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q107233698"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21903339",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q297265"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q297265",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q33162"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21903339",
+        "predicate": "http://www.wikidata.org/prop/direct/P127",
+        "object": "http://www.wikidata.org/entity/Q314504"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q314504",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q33162"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q314504",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q21980653"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21903339",
+      "predicate": "http://schema.org/description",
+      "object": "independent television production company"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21903339",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "W. Chump & Sons Ltd"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "22184",
+  "answers": [
+    "http://www.wikidata.org/entity/Q378168",
+    "http://www.wikidata.org/entity/Q1093970"
+  ],
+  "gold_path": {
+    "question_id": "22184",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q378168",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q44616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q378168",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56855534"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1093970",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q44616"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1093970",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q56855534"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q378168",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q378168-E08D022E-5EDA-4557-A7DB-11EDA7ADFA94"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q378168",
+      "predicate": "http://www.wikidata.org/prop/P155",
+      "object": "http://www.wikidata.org/entity/statement/Q378168-7035698F-0891-400A-A875-45EE3B54F954"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q378168",
+      "predicate": "http://www.wikidata.org/prop/P156",
+      "object": "http://www.wikidata.org/entity/statement/Q378168-59B95BB0-DC18-43C8-8C7C-E2BC7BDD8F98"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q378168",
+      "predicate": "http://www.wikidata.org/prop/P179",
+      "object": "http://www.wikidata.org/entity/statement/Q378168-451787d2-4bc4-7f4d-4b9f-08f735a696c8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q378168",
+      "predicate": "http://www.wikidata.org/prop/P674",
+      "object": "http://www.wikidata.org/entity/statement/Q378168-06D652F9-3D4B-4493-BE91-3BB7504AC209"
+    }
+  ]
+}

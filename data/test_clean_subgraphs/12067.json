@@ -1,0 +1,48 @@
+{
+  "question_id": "12067",
+  "answers": [
+    "http://www.wikidata.org/entity/Q37100"
+  ],
+  "gold_path": {
+    "question_id": "12067",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q26600",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q37100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37100",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q538"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q26600",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hakata"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26600",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "فوكوأوكا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26600",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Phúc Cương"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26600",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Fukuoka"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26600",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Fukuoka-shi"
+    }
+  ]
+}

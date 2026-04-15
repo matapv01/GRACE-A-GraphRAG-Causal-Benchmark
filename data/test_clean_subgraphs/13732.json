@@ -1,0 +1,43 @@
+{
+  "question_id": "13732",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11378"
+  ],
+  "gold_path": {
+    "question_id": "13732",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q132127",
+        "predicate": "http://www.wikidata.org/prop/direct/P26",
+        "object": "http://www.wikidata.org/entity/Q11378"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11378",
+        "predicate": "http://www.wikidata.org/prop/direct/P520",
+        "object": "http://www.wikidata.org/entity/Q3539698"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q132127",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kali%20by%20Raja%20Ravi%20Varma.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132127",
+      "predicate": "http://www.wikidata.org/prop/direct/P1187",
+      "object": "A024162"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132127",
+      "predicate": "http://www.wikidata.org/prop/direct/P13204",
+      "object": "q4t4a4pz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q132127",
+      "predicate": "http://www.wikidata.org/prop/direct/P3365",
+      "object": "kali"
+    }
+  ]
+}

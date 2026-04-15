@@ -1,0 +1,114 @@
+{
+  "question_id": "7100",
+  "answers": [
+    "http://www.wikidata.org/entity/Q488651",
+    "http://www.wikidata.org/entity/Q107258",
+    "http://www.wikidata.org/entity/Q102427",
+    "http://www.wikidata.org/entity/Q281939",
+    "http://www.wikidata.org/entity/Q103916",
+    "http://www.wikidata.org/entity/Q830079",
+    "http://www.wikidata.org/entity/Q131520"
+  ],
+  "gold_path": {
+    "question_id": "7100",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q172241",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q172241-46876C92-AFBB-47F6-B6DF-2BC5AE033A3C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172241-46876C92-AFBB-47F6-B6DF-2BC5AE033A3C",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172241",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q172241-5B0B9FB6-E9C9-4B5A-98AB-153C8378FDE8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172241-5B0B9FB6-E9C9-4B5A-98AB-153C8378FDE8",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q107258"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172241",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q172241-7BC60FEC-5A87-4986-A42E-0C7300410EE2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172241-7BC60FEC-5A87-4986-A42E-0C7300410EE2",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q830079"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172241",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q172241-8FD35F7C-D127-4EEB-86FA-65E5BEE08946"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172241-8FD35F7C-D127-4EEB-86FA-65E5BEE08946",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q281939"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172241",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q172241-A0C2C555-317C-4CFC-9A63-72CFCAFBFBC8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172241-A0C2C555-317C-4CFC-9A63-72CFCAFBFBC8",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q131520"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172241",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q172241-CB6E10B7-7A74-40A1-985D-B29529DC1FF4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172241-CB6E10B7-7A74-40A1-985D-B29529DC1FF4",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q488651"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172241",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q172241-FC8C55CA-1F3B-474B-A25E-3205E986F7A0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172241-FC8C55CA-1F3B-474B-A25E-3205E986F7A0",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q102427"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q172241",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "The-Shawshank-Redemption-1994-movie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172241",
+      "predicate": "http://www.wikidata.org/prop/direct/P1970",
+      "object": "273"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172241",
+      "predicate": "http://www.wikidata.org/prop/direct/P915",
+      "object": "http://www.wikidata.org/entity/Q642481"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172241",
+      "predicate": "http://www.wikidata.org/prop/direct/P915",
+      "object": "http://www.wikidata.org/entity/Q725573"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172241",
+      "predicate": "http://www.wikidata.org/prop/direct/P915",
+      "object": "http://www.wikidata.org/entity/Q983698"
+    }
+  ]
+}

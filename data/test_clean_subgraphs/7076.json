@@ -1,0 +1,70 @@
+{
+  "question_id": "7076",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1634847",
+    "http://www.wikidata.org/entity/Q739694",
+    "http://www.wikidata.org/entity/Q107258"
+  ],
+  "gold_path": {
+    "question_id": "7076",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q80596",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q80596-5E1C89E3-23CB-4037-AF6F-54A58BC9981E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q80596-5E1C89E3-23CB-4037-AF6F-54A58BC9981E",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q107258"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q80596",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q80596-6115AF65-9342-4A8C-8684-255C2C1C4CA4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q80596-6115AF65-9342-4A8C-8684-255C2C1C4CA4",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q739694"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q80596",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q80596-80BF111E-32AB-45A8-93FA-1B343EE02BE3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q80596-80BF111E-32AB-45A8-93FA-1B343EE02BE3",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1634847"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q80596",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q80596-DA94BBB9-6CB1-43FF-B8A3-8BB6BA8642E1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80596",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p212205"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80596",
+      "predicate": "http://www.wikidata.org/prop/direct/P1977",
+      "object": "36709"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80596",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q60"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80596",
+      "predicate": "http://www.wikidata.org/prop/direct/P2519",
+      "object": "8568"
+    }
+  ]
+}

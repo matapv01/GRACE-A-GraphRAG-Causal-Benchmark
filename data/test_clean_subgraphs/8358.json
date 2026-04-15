@@ -1,0 +1,48 @@
+{
+  "question_id": "8358",
+  "answers": [
+    "http://www.wikidata.org/entity/Q962908"
+  ],
+  "gold_path": {
+    "question_id": "8358",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42745",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q42745-E759FC79-7FD9-4F61-A001-8AFBD5684ECF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q42745-E759FC79-7FD9-4F61-A001-8AFBD5684ECF",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q962908"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42745",
+      "predicate": "http://www.wikidata.org/prop/P25",
+      "object": "http://www.wikidata.org/entity/statement/Q42745-0C28F0AF-DBBF-4D0A-9995-F3C7951600D7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42745",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "hayworth-rita"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42745",
+      "predicate": "http://www.wikidata.org/prop/direct/P5033",
+      "object": "42498"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42745",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q42745-EDCBB3FC-69AE-4BE8-8E84-E5AF1AC3039F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42745",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q42745-45437c28-4767-03c4-4943-d7f0e478498e"
+    }
+  ]
+}

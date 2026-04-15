@@ -1,0 +1,53 @@
+{
+  "question_id": "6968",
+  "answers": [
+    "http://www.wikidata.org/entity/Q7173"
+  ],
+  "gold_path": {
+    "question_id": "6968",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318750",
+        "predicate": "http://www.wikidata.org/prop/P108",
+        "object": "http://www.wikidata.org/entity/statement/Q318750-8d226339-4635-aa47-e82d-f0ff1f63afd9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318750-8d226339-4635-aa47-e82d-f0ff1f63afd9",
+        "predicate": "ps:P108",
+        "object": "http://www.wikidata.org/entity/Q3348664"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318750-8d226339-4635-aa47-e82d-f0ff1f63afd9",
+        "predicate": "pq:P101",
+        "object": "http://www.wikidata.org/entity/Q7173"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318750",
+      "predicate": "http://www.wikidata.org/prop/direct/P8381",
+      "object": "stephen-hillenburg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318750",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Hillenburg%20by%20Carlos%20Cazurro.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318750",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007477218805171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318750",
+      "predicate": "http://www.wikidata.org/prop/direct/P3368",
+      "object": "637694"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318750",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q123694075"
+    }
+  ]
+}

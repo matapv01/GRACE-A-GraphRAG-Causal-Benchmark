@@ -1,0 +1,65 @@
+{
+  "question_id": "6510",
+  "answers": [
+    "2008-01-01T00:00:00Z",
+    "2006-01-01T00:00:00Z",
+    "2009-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6510",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q240726",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q240726-0c03ffc1-4ae3-45b6-e823-6437597f4a24"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q240726-0c03ffc1-4ae3-45b6-e823-6437597f4a24",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1358318"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q240726-0c03ffc1-4ae3-45b6-e823-6437597f4a24",
+        "predicate": "pq:P585",
+        "object": "2006-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q240726-0c03ffc1-4ae3-45b6-e823-6437597f4a24",
+        "predicate": "pq:P585",
+        "object": "2008-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q240726-0c03ffc1-4ae3-45b6-e823-6437597f4a24",
+        "predicate": "pq:P585",
+        "object": "2009-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q240726",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-27T21:23:23Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240726",
+      "predicate": "http://www.wikidata.org/prop/P3588",
+      "object": "http://www.wikidata.org/entity/statement/Q240726-170661D8-5ED3-4ACC-B329-5950A593BB44"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240726",
+      "predicate": "http://www.wikidata.org/prop/P3588",
+      "object": "http://www.wikidata.org/entity/statement/Q240726-65F5AA3D-B7DA-4B96-B689-B0B431A3253C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240726",
+      "predicate": "http://www.wikidata.org/prop/P2013",
+      "object": "http://www.wikidata.org/entity/statement/Q240726-CFE411D6-B7F2-41D2-BA7F-EC0B2B1A61E4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240726",
+      "predicate": "http://www.wikidata.org/prop/P118",
+      "object": "http://www.wikidata.org/entity/statement/Q240726-f9f87e01-442c-f963-3275-11de2c5ad1a5"
+    }
+  ]
+}

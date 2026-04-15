@@ -1,0 +1,490 @@
+{
+  "clean": {
+    "question_id": "11511",
+    "answers": [
+      "2015-01-01T00:00:00Z",
+      "2005-09-24T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q43044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ashton Kutcher"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "pq:P580",
+        "object": "2005-09-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0415\u0448\u0442\u043e\u043d \u041a\u0443\u0447\u0435\u0440"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "pq:P580",
+        "object": "2015-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "E\u0161ton Ku\u010der"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0634\u062a\u0648\u0646 \u0643\u0648\u062a\u0634\u0631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q37628"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "11511",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q43044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ashton Kutcher"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0415\u0448\u0442\u043e\u043d \u041a\u0443\u0447\u0435\u0440"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "E\u0161ton Ku\u010der"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0634\u062a\u0648\u0646 \u0643\u0648\u062a\u0634\u0631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q37628"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "2015-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "2005-09-24T00:00:00Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "11511",
+    "answers": [
+      "2015-01-01T00:00:00Z",
+      "2005-09-24T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q43044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ashton Kutcher"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "pq:P580",
+        "object": "2005-09-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0415\u0448\u0442\u043e\u043d \u041a\u0443\u0447\u0435\u0440"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "pq:P580",
+        "object": "2015-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "E\u0161ton Ku\u010der"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0634\u062a\u0648\u0646 \u0643\u0648\u062a\u0634\u0631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q37628"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "2019-05-25T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "2013-08-31T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "2011-04-29T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "2011-05-17T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "2010-10-24T00:00:00Z"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "11511",
+    "answers": [
+      "2015-01-01T00:00:00Z",
+      "2005-09-24T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q43044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ashton Kutcher"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "pq:P580",
+        "object": "2005-09-24T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0415\u0448\u0442\u043e\u043d \u041a\u0443\u0447\u0435\u0440"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "pq:P580",
+        "object": "2015-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "E\u0161ton Ku\u010der"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0634\u062a\u0648\u0646 \u0643\u0648\u062a\u0634\u0631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q37628"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-8d4cefa3-4a4d-73b6-d4dc-0ba28613bf4e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-90b1b24a-45f9-f86b-f179-e1ec9509b201"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-94fb04a1-4bb6-3801-8ff4-f0f1b45321ce"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-9c52daf8-48af-9297-12f8-2705e9cfbc90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a0622d0c-4bc2-d861-a5c3-58d7df7988f4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a0afb026-4667-f53e-33ae-9e6595ad5db7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-a1944d75-483d-a7fc-591c-52c4bafa9044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a66d331f-4144-2c47-480b-19d991677dcb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-ac6fe0cf-410c-c888-13e0-f566701e5862"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-bb8e0277-4591-815b-e34e-604379259e49"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "11511",
+    "answers": [
+      "2013-04-25T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q43044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ashton Kutcher"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0415\u0448\u0442\u043e\u043d \u041a\u0443\u0447\u0435\u0440"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "E\u0161ton Ku\u010der"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0634\u062a\u0648\u0646 \u0643\u0648\u062a\u0634\u0631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q164782",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q37628"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-5D390F1F-2AC6-48CC-A0FF-775C2647630A",
+        "predicate": "pq:P580",
+        "object": "2013-04-25T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q164782-780027A1-B45E-4A7C-AE93-468EF7133933",
+        "predicate": "pq:P580",
+        "object": "2013-04-25T00:00:00Z"
+      }
+    ]
+  }
+}

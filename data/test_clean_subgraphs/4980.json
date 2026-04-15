@@ -1,0 +1,53 @@
+{
+  "question_id": "4980",
+  "answers": [
+    "http://www.wikidata.org/entity/Q839456"
+  ],
+  "gold_path": {
+    "question_id": "4980",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q294281",
+        "predicate": "http://www.wikidata.org/prop/P20",
+        "object": "http://www.wikidata.org/entity/statement/Q294281-fe9cf58e-44db-2405-b34c-646cec9404eb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q294281-fe9cf58e-44db-2405-b34c-646cec9404eb",
+        "predicate": "ps:P20",
+        "object": "http://www.wikidata.org/entity/Q839456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q294281-fe9cf58e-44db-2405-b34c-646cec9404eb",
+        "predicate": "pq:P131",
+        "object": "http://www.wikidata.org/entity/Q79"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q294281",
+      "predicate": "http://www.wikidata.org/prop/P6886",
+      "object": "http://www.wikidata.org/entity/statement/q294281-a3b300ed-45ab-7da0-a1d7-8d03bd18f3e2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294281",
+      "predicate": "http://www.wikidata.org/prop/P5587",
+      "object": "http://www.wikidata.org/entity/statement/Q294281-85C9075D-8108-4BB0-A5F2-FFAED7215288"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294281",
+      "predicate": "http://www.wikidata.org/prop/P569",
+      "object": "http://www.wikidata.org/entity/statement/Q294281-eb925925-419a-f299-d444-2b6b2418e5d5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294281",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/Q294281-5221A707-3D92-458D-A95E-B17C47E7F18E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q294281",
+      "predicate": "http://www.wikidata.org/prop/P443",
+      "object": "http://www.wikidata.org/entity/statement/Q294281-c6650447-4e52-a73e-406c-b16bb1c16881"
+    }
+  ]
+}

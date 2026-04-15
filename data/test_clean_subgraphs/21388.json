@@ -1,0 +1,70 @@
+{
+  "question_id": "21388",
+  "answers": [
+    "http://www.wikidata.org/entity/Q47508300",
+    "http://www.wikidata.org/entity/Q3132183",
+    "http://www.wikidata.org/entity/Q47508289"
+  ],
+  "gold_path": {
+    "question_id": "21388",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3132183",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q216932"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3132183",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47508289",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q216932"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47508289",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47508300",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q216932"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47508300",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4830453"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3132183",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ikano%20Bank%20Huvudkontor%20Malm%C3%B6.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3132183",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3132183",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q3132183-5CD27EC1-0FB5-4BE0-A97D-3EF708FE7403"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3132183",
+      "predicate": "http://www.wikidata.org/prop/direct/P1454",
+      "object": "http://www.wikidata.org/entity/Q422007"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3132183",
+      "predicate": "http://www.wikidata.org/prop/direct/P1278",
+      "object": "5493004D82XDFVPWQJ91"
+    }
+  ]
+}

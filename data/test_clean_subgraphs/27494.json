@@ -1,0 +1,75 @@
+{
+  "question_id": "27494",
+  "answers": [
+    "http://www.wikidata.org/entity/Q623903",
+    "http://www.wikidata.org/entity/Q115338768",
+    "http://www.wikidata.org/entity/Q115339495",
+    "http://www.wikidata.org/entity/Q59928980",
+    "http://www.wikidata.org/entity/Q762523",
+    "http://www.wikidata.org/entity/Q498406",
+    "http://www.wikidata.org/entity/Q630310",
+    "http://www.wikidata.org/entity/Q115338765"
+  ],
+  "gold_path": {
+    "question_id": "27494",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q498406",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q623903",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q630310",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q762523",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q59928980",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115338765",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115338768",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115339495",
+        "predicate": "http://www.wikidata.org/prop/direct/P522",
+        "object": "http://www.wikidata.org/entity/Q832435"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q498406",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Liberty Bell 7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q498406",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ميركوري-ريدستون ٤"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q498406",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mercury 4"
+    }
+  ]
+}

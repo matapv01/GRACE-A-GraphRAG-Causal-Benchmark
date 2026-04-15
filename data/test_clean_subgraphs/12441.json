@@ -1,0 +1,48 @@
+{
+  "question_id": "12441",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1726"
+  ],
+  "gold_path": {
+    "question_id": "12441",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q76828",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q1726"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1726",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q188"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q76828",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kraepelin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76828",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "أيمل كرايبيلن"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76828",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Emil Wilhelm Magnus Georg Kraepelin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76828",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Έμιλ Βίλχελμ Γκέοργκ Μάγκνους Κραίπελιν"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76828",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Έμιλ Κρέπελιν"
+    }
+  ]
+}

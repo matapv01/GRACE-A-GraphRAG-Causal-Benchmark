@@ -1,0 +1,48 @@
+{
+  "question_id": "4994",
+  "answers": [
+    "1949-05-23T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4994",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1055",
+        "predicate": "http://www.wikidata.org/prop/P131",
+        "object": "http://www.wikidata.org/entity/statement/Q1055-A25F5FD6-0DCF-4918-A7AA-6457DBA5E5AF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1055-A25F5FD6-0DCF-4918-A7AA-6457DBA5E5AF",
+        "predicate": "ps:P131",
+        "object": "http://www.wikidata.org/entity/Q569998"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1055-A25F5FD6-0DCF-4918-A7AA-6457DBA5E5AF",
+        "predicate": "pq:P582",
+        "object": "1949-05-23T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1055",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T13:11:54Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1055",
+      "predicate": "http://schema.org/version",
+      "object": "2479785559"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1055",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "漢堡"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1055",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hamburg"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "12468",
+    "answers": [
+      "http://www.wikidata.org/entity/Q190486"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190486",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q833738"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q190486"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-6BD4ED4E-CC16-4373-8D95-3398803627D3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "radiocarbon-dating"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P4746",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-B4FB547D-03B2-4DE0-8A68-0682E189F36D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-12T13:36:09Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "nauka_i_tehnika/tehnologiya_i_promyshlennost/RADIOUGLERODNOE_DATIROVANIE.html"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "12468",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-6BD4ED4E-CC16-4373-8D95-3398803627D3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "radiocarbon-dating"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P4746",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-B4FB547D-03B2-4DE0-8A68-0682E189F36D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-12T13:36:09Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "nauka_i_tehnika/tehnologiya_i_promyshlennost/RADIOUGLERODNOE_DATIROVANIE.html"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q833738"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q190486"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "12468",
+    "answers": [
+      "http://www.wikidata.org/entity/Q190486"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190486",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q833738"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q190486"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-6BD4ED4E-CC16-4373-8D95-3398803627D3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "radiocarbon-dating"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P4746",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-B4FB547D-03B2-4DE0-8A68-0682E189F36D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-12T13:36:09Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "nauka_i_tehnika/tehnologiya_i_promyshlennost/RADIOUGLERODNOE_DATIROVANIE.html"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "http://www.wikidata.org/entity/Q23"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "http://www.wikidata.org/entity/Q42"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "http://www.wikidata.org/entity/Q76"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "http://www.wikidata.org/entity/Q80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "http://www.wikidata.org/entity/Q91"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "12468",
+    "answers": [
+      "http://www.wikidata.org/entity/Q190486"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190486",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q833738"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q190486"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-6BD4ED4E-CC16-4373-8D95-3398803627D3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "radiocarbon-dating"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P4746",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-B4FB547D-03B2-4DE0-8A68-0682E189F36D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-12T13:36:09Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "nauka_i_tehnika/tehnologiya_i_promyshlennost/RADIOUGLERODNOE_DATIROVANIE.html"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q408"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q419"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q424"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q458"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q574"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q664"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q668"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q678"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q685"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "12468",
+    "answers": [
+      "http://www.wikidata.org/entity/Q1381"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P3827",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-6BD4ED4E-CC16-4373-8D95-3398803627D3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P3827",
+        "object": "radiocarbon-dating"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/P4746",
+        "object": "http://www.wikidata.org/entity/statement/Q173412-B4FB547D-03B2-4DE0-8A68-0682E189F36D"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-12T13:36:09Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P6385",
+        "object": "nauka_i_tehnika/tehnologiya_i_promyshlennost/RADIOUGLERODNOE_DATIROVANIE.html"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1381",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q833738"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173412",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q1381"
+      }
+    ]
+  }
+}

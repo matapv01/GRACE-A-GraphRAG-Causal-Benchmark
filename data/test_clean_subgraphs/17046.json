@@ -1,0 +1,54 @@
+{
+  "question_id": "17046",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17169",
+    "http://www.wikidata.org/entity/Q290407"
+  ],
+  "gold_path": {
+    "question_id": "17046",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28147005",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q47551"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47551",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q17169"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47551",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q290407"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28147005",
+      "predicate": "http://www.wikidata.org/prop/direct/P2671",
+      "object": "/g/11ggr7s1_4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28147005",
+      "predicate": "http://www.wikidata.org/prop/P2671",
+      "object": "http://www.wikidata.org/entity/statement/Q28147005-A9C741DE-95BF-4EEC-9566-C250987B4AF1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28147005",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Resurrected Christ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28147005",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Christ Resurrected"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28147005",
+      "predicate": "http://www.wikidata.org/prop/direct/P1726",
+      "object": "10093"
+    }
+  ]
+}

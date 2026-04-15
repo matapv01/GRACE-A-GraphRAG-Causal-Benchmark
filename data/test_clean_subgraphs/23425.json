@@ -1,0 +1,312 @@
+{
+  "question_id": "23425",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3176558",
+    "http://www.wikidata.org/entity/Q9165172",
+    "http://www.wikidata.org/entity/Q2313686",
+    "http://www.wikidata.org/entity/Q837414",
+    "http://www.wikidata.org/entity/Q145134",
+    "http://www.wikidata.org/entity/Q2111211",
+    "http://www.wikidata.org/entity/Q13896108",
+    "http://www.wikidata.org/entity/Q607728",
+    "http://www.wikidata.org/entity/Q311627",
+    "http://www.wikidata.org/entity/Q11567",
+    "http://www.wikidata.org/entity/Q8424307",
+    "http://www.wikidata.org/entity/Q232431",
+    "http://www.wikidata.org/entity/Q19546578",
+    "http://www.wikidata.org/entity/Q1069891",
+    "http://www.wikidata.org/entity/Q1956296",
+    "http://www.wikidata.org/entity/Q890987",
+    "http://www.wikidata.org/entity/Q875333",
+    "http://www.wikidata.org/entity/Q163875",
+    "http://www.wikidata.org/entity/Q12916",
+    "http://www.wikidata.org/entity/Q5958543",
+    "http://www.wikidata.org/entity/Q902708",
+    "http://www.wikidata.org/entity/Q7624215",
+    "http://www.wikidata.org/entity/Q1823781",
+    "http://www.wikidata.org/entity/Q1130510",
+    "http://www.wikidata.org/entity/Q191780"
+  ],
+  "gold_path": {
+    "question_id": "23425",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11567",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11567",
+        "predicate": "rdfs:label",
+        "object": "complex number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12916",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12916",
+        "predicate": "rdfs:label",
+        "object": "real number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191780",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q191780",
+        "predicate": "rdfs:label",
+        "object": "ordinal number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q232431",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q232431",
+        "predicate": "rdfs:label",
+        "object": "quantum number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q311627",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q311627",
+        "predicate": "rdfs:label",
+        "object": "p-adic number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145134",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145134",
+        "predicate": "rdfs:label",
+        "object": "strictly non-palindromic number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q163875",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q163875",
+        "predicate": "rdfs:label",
+        "object": "cardinal number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q607728",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q607728",
+        "predicate": "rdfs:label",
+        "object": "irrational number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q837414",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q837414",
+        "predicate": "rdfs:label",
+        "object": "hypercomplex number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5958543",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5958543",
+        "predicate": "rdfs:label",
+        "object": "hyperreal number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7624215",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7624215",
+        "predicate": "rdfs:label",
+        "object": "Strobogrammatic number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8424307",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8424307",
+        "predicate": "rdfs:label",
+        "object": "number with finite decimal representation"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9165172",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9165172",
+        "predicate": "rdfs:label",
+        "object": "imaginary number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q875333",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q875333",
+        "predicate": "rdfs:label",
+        "object": "surreal number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q890987",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q890987",
+        "predicate": "rdfs:label",
+        "object": "sublime number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q902708",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q902708",
+        "predicate": "rdfs:label",
+        "object": "normal number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1069891",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1069891",
+        "predicate": "rdfs:label",
+        "object": "transfinite number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1130510",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1130510",
+        "predicate": "rdfs:label",
+        "object": "figurate number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1823781",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1823781",
+        "predicate": "rdfs:label",
+        "object": "random number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1956296",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1956296",
+        "predicate": "rdfs:label",
+        "object": "primitive abundant number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2111211",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2111211",
+        "predicate": "rdfs:label",
+        "object": "superreal number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2313686",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2313686",
+        "predicate": "rdfs:label",
+        "object": "automorphic number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13896108",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13896108",
+        "predicate": "rdfs:label",
+        "object": "non-negative real number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19546578",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19546578",
+        "predicate": "rdfs:label",
+        "object": "nonzero real number"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3176558",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47460393"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3176558",
+        "predicate": "rdfs:label",
+        "object": "positive real number"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11567",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "44"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11567",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "komplekse getal"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11567",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "የአቅጣጫ ቁጥር"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11567",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "numero complexo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11567",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "समिश्र संख्या"
+    }
+  ]
+}

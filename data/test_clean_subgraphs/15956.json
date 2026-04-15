@@ -1,0 +1,39 @@
+{
+  "question_id": "15956",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2618713",
+    "http://www.wikidata.org/entity/Q3841551"
+  ],
+  "gold_path": {
+    "question_id": "15956",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17042341",
+        "predicate": "http://www.wikidata.org/prop/direct/P58",
+        "object": "http://www.wikidata.org/entity/Q14907982"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14907982",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q2618713"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14907982",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q3841551"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17042341",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hiveswap"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17042341",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hiveswap: Act 1"
+    }
+  ]
+}

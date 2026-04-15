@@ -1,0 +1,48 @@
+{
+  "question_id": "3435",
+  "answers": [
+    "http://www.wikidata.org/entity/Q102145"
+  ],
+  "gold_path": {
+    "question_id": "3435",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q102145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q317623"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q102145",
+        "predicate": "http://www.wikidata.org/prop/direct/P2077",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q102145",
+        "predicate": "http://www.wikidata.org/prop/direct/P2077",
+        "object": "100000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q102145",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/180633782"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q102145",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/Standard-TemperatureAndPressure"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q102145",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q23008367"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q102145",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q102145-7df08c57-4f40-4ccb-ccd7-21db188384f3"
+    }
+  ]
+}

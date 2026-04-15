@@ -1,0 +1,48 @@
+{
+  "question_id": "25296",
+  "answers": [
+    "http://www.wikidata.org/entity/Q62939"
+  ],
+  "gold_path": {
+    "question_id": "25296",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q62939",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q18142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q62939",
+        "predicate": "http://www.wikidata.org/prop/direct/P631",
+        "object": "http://www.wikidata.org/entity/Q1510450"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q62939",
+        "predicate": "rdfs:label",
+        "object": "Burj al-Arab"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q62939",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "28"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62939",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "帆船酒店"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62939",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "阿拉伯塔"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q62939",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "برج العرب"
+    }
+  ]
+}

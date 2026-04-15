@@ -1,0 +1,58 @@
+{
+  "question_id": "10819",
+  "answers": [
+    "http://www.wikidata.org/entity/Q543609"
+  ],
+  "gold_path": {
+    "question_id": "10819",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q192556",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q192556-FB4A9C55-D47A-4F3B-91B6-8EC8108347AA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q192556-FB4A9C55-D47A-4F3B-91B6-8EC8108347AA",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582627"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q192556-FB4A9C55-D47A-4F3B-91B6-8EC8108347AA",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q543609"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q192556-FB4A9C55-D47A-4F3B-91B6-8EC8108347AA",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q741182"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q192556",
+      "predicate": "http://www.wikidata.org/prop/direct/P4527",
+      "object": "304068"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192556",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "david-trimble"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192556",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q35921591"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192556",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q37303721"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192556",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q37303731"
+    }
+  ]
+}

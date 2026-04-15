@@ -1,0 +1,43 @@
+{
+  "question_id": "24860",
+  "answers": [
+    "http://www.wikidata.org/entity/Q48816363"
+  ],
+  "gold_path": {
+    "question_id": "24860",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48816363",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2672914"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q48816363",
+        "predicate": "rdfs:label",
+        "object": "Vector de Lamb"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48816363",
+      "predicate": "http://schema.org/description",
+      "object": "producto cruzado del vector de vorticidad y el vector de velocidad del campo de flujo,"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48816363",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/11gfk4nf0d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48816363",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "兰姆矢量"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48816363",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Vector de Lamb"
+    }
+  ]
+}

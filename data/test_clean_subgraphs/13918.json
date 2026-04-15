@@ -1,0 +1,48 @@
+{
+  "question_id": "13918",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12100"
+  ],
+  "gold_path": {
+    "question_id": "13918",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q840419",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q12100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12100",
+        "predicate": "http://www.wikidata.org/prop/direct/P3095",
+        "object": "http://www.wikidata.org/entity/Q13381863"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q840419",
+      "predicate": "http://www.wikidata.org/prop/P8514",
+      "object": "http://www.wikidata.org/entity/statement/Q840419-886FED7B-55F6-4C0F-9096-4EE4DFEAE0B4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q840419",
+      "predicate": "http://www.wikidata.org/prop/direct/P8514",
+      "object": "espada de esgrima"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q840419",
+      "predicate": "http://schema.org/description",
+      "object": "武器"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q840419",
+      "predicate": "http://schema.org/description",
+      "object": "arma di punta della scherma"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q840419",
+      "predicate": "http://schema.org/description",
+      "object": "כלי נשק קר"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "11467",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1765120"
+  ],
+  "gold_path": {
+    "question_id": "11467",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318518",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q318518-824B72E4-9BBA-420D-8ABC-2619298B2DA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-824B72E4-9BBA-420D-8ABC-2619298B2DA8",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49210"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-824B72E4-9BBA-420D-8ABC-2619298B2DA8",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q1765120"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "LO1V130452"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "UM1V048962"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/direct/P409",
+      "object": "35869099"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "babbitt-milton-byron"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/P396",
+      "object": "http://www.wikidata.org/entity/statement/Q318518-93A14E12-3BEF-4EE3-BEBB-FF940DBD4F0C"
+    }
+  ]
+}

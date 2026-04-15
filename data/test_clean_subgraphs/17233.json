@@ -1,0 +1,39 @@
+{
+  "question_id": "17233",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49111",
+    "http://www.wikidata.org/entity/Q49220"
+  ],
+  "gold_path": {
+    "question_id": "17233",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8777",
+        "predicate": "http://www.wikidata.org/prop/direct/P1462",
+        "object": "http://www.wikidata.org/entity/Q37033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37033",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q49111"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8777",
+        "predicate": "http://www.wikidata.org/prop/direct/P1462",
+        "object": "http://www.wikidata.org/entity/Q217082"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q217082",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q49220"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8777",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "HTTP"
+    }
+  ]
+}

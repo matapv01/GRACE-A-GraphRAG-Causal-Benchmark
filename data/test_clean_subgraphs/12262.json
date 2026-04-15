@@ -1,0 +1,48 @@
+{
+  "question_id": "12262",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9095"
+  ],
+  "gold_path": {
+    "question_id": "12262",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q51501",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q9095"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9095",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q1622272"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q51501",
+      "predicate": "http://schema.org/description",
+      "object": "set of partial differential equations that describe how electric and magnetic fields are generated and altered by each other and by charges and currents"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51501",
+      "predicate": "http://schema.org/description",
+      "object": "parta diferenciala ekvacio pri elektromagneta kampo"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51501",
+      "predicate": "http://schema.org/description",
+      "object": "ecuaciones que describen el campo electromagnético"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51501",
+      "predicate": "http://schema.org/description",
+      "object": "Az elektromágneses kölcsönhatásokat leíró egyenletek"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51501",
+      "predicate": "http://schema.org/description",
+      "object": "sistema di equazioni differenziali alle derivate parziali che descrivono i fenomeni elettromagnetici"
+    }
+  ]
+}

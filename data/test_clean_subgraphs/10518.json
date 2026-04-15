@@ -1,0 +1,76 @@
+{
+  "question_id": "10518",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2761",
+    "http://www.wikidata.org/entity/Q2150",
+    "http://www.wikidata.org/entity/Q2745",
+    "http://www.wikidata.org/entity/Q2705"
+  ],
+  "gold_path": {
+    "question_id": "10518",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6373",
+        "predicate": "http://www.wikidata.org/prop/P3025",
+        "object": "http://www.wikidata.org/entity/statement/Q6373-71304b2a-4cda-3bd3-3f67-54031c958ffc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6373-71304b2a-4cda-3bd3-3f67-54031c958ffc",
+        "predicate": "ps:P3025",
+        "object": "http://www.wikidata.org/entity/Q26214163"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6373-71304b2a-4cda-3bd3-3f67-54031c958ffc",
+        "predicate": "pq:P3026",
+        "object": "http://www.wikidata.org/entity/Q2150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6373-71304b2a-4cda-3bd3-3f67-54031c958ffc",
+        "predicate": "pq:P3028",
+        "object": "http://www.wikidata.org/entity/Q2912"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6373-71304b2a-4cda-3bd3-3f67-54031c958ffc",
+        "predicate": "pq:P3026",
+        "object": "http://www.wikidata.org/entity/Q2705"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6373-71304b2a-4cda-3bd3-3f67-54031c958ffc",
+        "predicate": "pq:P3026",
+        "object": "http://www.wikidata.org/entity/Q2745"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6373-71304b2a-4cda-3bd3-3f67-54031c958ffc",
+        "predicate": "pq:P3026",
+        "object": "http://www.wikidata.org/entity/Q2761"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6373",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-07T12:21:46Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6373",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "106"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6373",
+      "predicate": "http://www.wikidata.org/prop/direct/P3280",
+      "object": "0000011091"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6373",
+      "predicate": "http://www.wikidata.org/prop/direct/P2013",
+      "object": "britishmuseum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6373",
+      "predicate": "http://www.wikidata.org/prop/direct/P4146",
+      "object": "7"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "question_id": "16984",
+  "answers": [
+    "http://www.wikidata.org/entity/Q331656",
+    "http://www.wikidata.org/entity/Q157360",
+    "http://www.wikidata.org/entity/Q485093",
+    "http://www.wikidata.org/entity/Q483412",
+    "http://www.wikidata.org/entity/Q1211909",
+    "http://www.wikidata.org/entity/Q331669",
+    "http://www.wikidata.org/entity/Q462013",
+    "http://www.wikidata.org/entity/Q2078932",
+    "http://www.wikidata.org/entity/Q474082",
+    "http://www.wikidata.org/entity/Q218950",
+    "http://www.wikidata.org/entity/Q477831"
+  ],
+  "gold_path": {
+    "question_id": "16984",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2345548",
+        "predicate": "http://www.wikidata.org/prop/direct/P1080",
+        "object": "http://www.wikidata.org/entity/Q501121"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q157360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q218950"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q331656"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q331669"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q462013"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q474082"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q477831"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q483412"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q485093"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q1211909"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q501121",
+        "predicate": "http://www.wikidata.org/prop/direct/P1445",
+        "object": "http://www.wikidata.org/entity/Q2078932"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2345548",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Stone Table"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2345548",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "石桌"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2345548",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mesa de piedra"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2345548",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Stenen Tafel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2345548",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mesa de Pedra"
+    }
+  ]
+}

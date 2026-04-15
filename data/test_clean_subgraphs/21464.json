@@ -1,0 +1,38 @@
+{
+  "question_id": "21464",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3968168"
+  ],
+  "gold_path": {
+    "question_id": "21464",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41506",
+        "predicate": "http://www.wikidata.org/prop/direct/P1830",
+        "object": "http://www.wikidata.org/entity/Q3968168"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3968168",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1281153"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41506",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "stanford.edu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41506",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Stanford"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41506",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Farm"
+    }
+  ]
+}

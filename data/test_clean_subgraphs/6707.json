@@ -1,0 +1,48 @@
+{
+  "question_id": "6707",
+  "answers": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6707",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q229503",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q229503-0fe51955-454e-8ad4-efe4-d2aec85f2051"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q229503-0fe51955-454e-8ad4-efe4-d2aec85f2051",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q16550275"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q229503-0fe51955-454e-8ad4-efe4-d2aec85f2051",
+        "predicate": "pq:P585",
+        "object": "2016-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q229503",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-23T21:57:39Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q229503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Čáslavská"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q229503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bera Chasurafusuka"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q229503",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Věra Čáslavská-Odložilová"
+    }
+  ]
+}

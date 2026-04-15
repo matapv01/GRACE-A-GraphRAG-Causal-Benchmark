@@ -1,0 +1,48 @@
+{
+  "question_id": "13510",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15041895"
+  ],
+  "gold_path": {
+    "question_id": "13510",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q191310",
+        "predicate": "http://www.wikidata.org/prop/direct/P690",
+        "object": "http://www.wikidata.org/entity/Q15041895"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15041895",
+        "predicate": "http://www.wikidata.org/prop/direct/P589",
+        "object": "http://www.wikidata.org/entity/Q13359931"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q191310",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "لعل"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191310",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "шпинели"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191310",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Spinell"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191310",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "1302-67-6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191310",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Akerite"
+    }
+  ]
+}

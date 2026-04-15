@@ -1,0 +1,53 @@
+{
+  "question_id": "4688",
+  "answers": [
+    "2001-07-12T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4688",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1462",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q1462-EAB02536-53A2-48C1-B7B4-6AD4920EE0C4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1462-EAB02536-53A2-48C1-B7B4-6AD4920EE0C4",
+        "predicate": "ps:P150",
+        "object": "http://www.wikidata.org/entity/Q16223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1462-EAB02536-53A2-48C1-B7B4-6AD4920EE0C4",
+        "predicate": "pq:P580",
+        "object": "2001-07-12T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1462",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sardiinia maakond"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1462",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ساردینیا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1462",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sardinian alue"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1462",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Région autonome de la Sardaigne"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1462",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Σαρδών"
+    }
+  ]
+}

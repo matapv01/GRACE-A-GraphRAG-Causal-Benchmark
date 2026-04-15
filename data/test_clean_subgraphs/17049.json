@@ -1,0 +1,48 @@
+{
+  "question_id": "17049",
+  "answers": [
+    "1821-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "17049",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1666824",
+        "predicate": "http://www.wikidata.org/prop/direct/P740",
+        "object": "http://www.wikidata.org/entity/Q59670"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q59670",
+        "predicate": "http://www.wikidata.org/prop/direct/P571",
+        "object": "1821-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1666824",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q11422536"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1666824",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/IPSC%20target.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1666824",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "ipscworld"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1666824",
+      "predicate": "http://www.wikidata.org/prop/direct/P159",
+      "object": "http://www.wikidata.org/entity/Q727"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1666824",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/1292647816"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "28690",
+  "answers": [
+    "1993-03-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "28690",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6481",
+        "predicate": "http://www.wikidata.org/prop/direct/P729",
+        "object": "1993-03-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6481",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "10"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6481",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Airbus-A340"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6481",
+      "predicate": "http://www.wikidata.org/prop/P3417",
+      "object": "http://www.wikidata.org/entity/statement/Q6481-BAB4B5F8-1397-4037-89D9-65A566D076F7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6481",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh2005003901"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6481",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "sh2005003901"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "10898",
+  "answers": [
+    "2009-12-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10898",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q458",
+        "predicate": "http://www.wikidata.org/prop/P155",
+        "object": "http://www.wikidata.org/entity/statement/q458-02fd98cf-4255-e05d-0f67-9d407f4edde3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-02fd98cf-4255-e05d-0f67-9d407f4edde3",
+        "predicate": "ps:P155",
+        "object": "http://www.wikidata.org/entity/Q260487"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-02fd98cf-4255-e05d-0f67-9d407f4edde3",
+        "predicate": "pq:P576",
+        "object": "2009-12-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q458-02fd98cf-4255-e05d-0f67-9d407f4edde3",
+        "predicate": "pq:P571",
+        "object": "1993-11-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Europa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q458",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Европа"
+    }
+  ]
+}

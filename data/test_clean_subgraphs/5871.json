@@ -1,0 +1,48 @@
+{
+  "question_id": "5871",
+  "answers": [
+    "http://www.wikidata.org/entity/Q727"
+  ],
+  "gold_path": {
+    "question_id": "5871",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5598",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q5598-0C4EC190-DC06-4B10-8B4B-67FB4C18DA63"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5598-0C4EC190-DC06-4B10-8B4B-67FB4C18DA63",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q727"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5598",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-14T01:29:05Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5598",
+      "predicate": "http://schema.org/version",
+      "object": "2481214216"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5598",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rembrandt Harmenszoon van Rijn"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5598",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rembrandt Van Rijn"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5598",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Rembrandt van Rijn"
+    }
+  ]
+}

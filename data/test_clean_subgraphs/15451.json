@@ -1,0 +1,43 @@
+{
+  "question_id": "15451",
+  "answers": [
+    "http://www.wikidata.org/entity/Q593165"
+  ],
+  "gold_path": {
+    "question_id": "15451",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16236602",
+        "predicate": "http://www.wikidata.org/prop/direct/P54",
+        "object": "http://www.wikidata.org/entity/Q533094"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q533094",
+        "predicate": "http://www.wikidata.org/prop/direct/P286",
+        "object": "http://www.wikidata.org/entity/Q593165"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16236602",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bogdan Ionuț Țîru"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16236602",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bogdan Tiru"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16236602",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bogdan Țâru"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16236602",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bogdan%20Tiru%20-%20August%202017.jpg"
+    }
+  ]
+}

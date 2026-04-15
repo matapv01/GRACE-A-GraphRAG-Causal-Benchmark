@@ -1,0 +1,48 @@
+{
+  "question_id": "20561",
+  "answers": [
+    "http://www.wikidata.org/entity/Q349448"
+  ],
+  "gold_path": {
+    "question_id": "20561",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q949416",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q349448"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q349448",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q949416",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "主題曲"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q949416",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Unchained Melody"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q949416",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Melodia Desencadenada"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q949416",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Melodía Desencadenada"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q949416",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "アンチェインド・メロディー"
+    }
+  ]
+}

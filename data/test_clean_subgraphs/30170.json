@@ -1,0 +1,48 @@
+{
+  "question_id": "30170",
+  "answers": [
+    "http://www.wikidata.org/entity/Q635642"
+  ],
+  "gold_path": {
+    "question_id": "30170",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7085",
+        "predicate": "http://www.wikidata.org/prop/direct/P1416",
+        "object": "http://www.wikidata.org/entity/Q635642"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q635642",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q31855"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7085",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Bohr.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7085",
+      "predicate": "http://www.wikidata.org/prop/direct/P184",
+      "object": "http://www.wikidata.org/entity/Q47285"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7085",
+      "predicate": "http://www.wikidata.org/prop/direct/P184",
+      "object": "http://www.wikidata.org/entity/Q326390"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7085",
+      "predicate": "http://www.wikidata.org/prop/direct/P185",
+      "object": "http://www.wikidata.org/entity/Q103854"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7085",
+      "predicate": "http://www.wikidata.org/prop/direct/P185",
+      "object": "http://www.wikidata.org/entity/Q7342453"
+    }
+  ]
+}

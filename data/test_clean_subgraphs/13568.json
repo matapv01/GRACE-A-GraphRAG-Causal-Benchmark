@@ -1,0 +1,33 @@
+{
+  "question_id": "13568",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1860"
+  ],
+  "gold_path": {
+    "question_id": "13568",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3058959",
+        "predicate": "http://www.wikidata.org/prop/direct/P1412",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q1775415"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3058959",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q3058959-c7cc218f-4d73-f43e-660f-3d080c0d758d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3058959",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Esther Bubley"
+    }
+  ]
+}

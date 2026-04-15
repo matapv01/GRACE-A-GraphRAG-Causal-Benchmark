@@ -1,0 +1,53 @@
+{
+  "question_id": "5066",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15180"
+  ],
+  "gold_path": {
+    "question_id": "5066",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q221575",
+        "predicate": "http://www.wikidata.org/prop/P19",
+        "object": "http://www.wikidata.org/entity/statement/Q221575-49671D80-EB26-48AF-AD17-5559C70CE731"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q221575-49671D80-EB26-48AF-AD17-5559C70CE731",
+        "predicate": "ps:P19",
+        "object": "http://www.wikidata.org/entity/Q181376"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q221575-49671D80-EB26-48AF-AD17-5559C70CE731",
+        "predicate": "pq:P17",
+        "object": "http://www.wikidata.org/entity/Q15180"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q221575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Korbut"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Olga Valentínovna Kórbut"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ольга Корбут, Корбут Ольга, О. В. Корбут, Корбут О. В., О.Корбут, Корбут О., Ольга Валентиновна Корбут"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Вольга Корбут"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q221575",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Olga Korbut"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "23764",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3083725"
+  ],
+  "gold_path": {
+    "question_id": "23764",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3083725",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q416796"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3083725",
+        "predicate": "rdfs:label",
+        "object": "zymosan"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3083725",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "10"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3083725",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Zimosano"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3083725",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q3083725-C9A5046D-50C0-49DA-A99D-B640E076C26C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3083725",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q3083725-F1B113CA-6754-477B-9521-51ABE21984D3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3083725",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "11"
+    }
+  ]
+}

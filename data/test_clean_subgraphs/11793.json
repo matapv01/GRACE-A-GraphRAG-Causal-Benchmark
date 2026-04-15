@@ -1,0 +1,33 @@
+{
+  "question_id": "11793",
+  "answers": [
+    "http://www.wikidata.org/entity/Q188"
+  ],
+  "gold_path": {
+    "question_id": "11793",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q207332",
+        "predicate": "http://www.wikidata.org/prop/direct/P407",
+        "object": "http://www.wikidata.org/entity/Q188"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q207332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "На Заходнім фронце без змен"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "На Заходнім фронце нічога новага"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q207332",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Im Westen nichts Neues"
+    }
+  ]
+}

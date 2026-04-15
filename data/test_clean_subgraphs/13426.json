@@ -1,0 +1,38 @@
+{
+  "question_id": "13426",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4671338"
+  ],
+  "gold_path": {
+    "question_id": "13426",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q55004",
+        "predicate": "http://www.wikidata.org/prop/direct/P1411",
+        "object": "http://www.wikidata.org/entity/Q4671338"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4671338",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q713301"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q55004",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ワイル"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55004",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Weill"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q55004",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kurt Julian Weill"
+    }
+  ]
+}

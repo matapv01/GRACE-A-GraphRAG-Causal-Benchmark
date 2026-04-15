@@ -1,0 +1,28 @@
+{
+  "question_id": "8528",
+  "answers": [
+    "http://www.wikidata.org/entity/Q124210"
+  ],
+  "gold_path": {
+    "question_id": "8528",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41532",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q41532-f18b768a-4726-e33c-ca2c-e2bfb1d263de"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41532-f18b768a-4726-e33c-ca2c-e2bfb1d263de",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q124210"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41532",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Carl Gustav Jung"
+    }
+  ]
+}

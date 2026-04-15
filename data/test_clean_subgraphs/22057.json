@@ -1,0 +1,48 @@
+{
+  "question_id": "22057",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14579"
+  ],
+  "gold_path": {
+    "question_id": "22057",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q388",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q14579"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14579",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q9662"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q388",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Линукс"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q388",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Linuks"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q388",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "لينوكس"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q388",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Linux işletim sistemi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q388",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Linux操作系统"
+    }
+  ]
+}

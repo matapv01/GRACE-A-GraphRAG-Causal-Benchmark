@@ -1,0 +1,43 @@
+{
+  "question_id": "5951",
+  "answers": [
+    "http://www.wikidata.org/entity/Q565030"
+  ],
+  "gold_path": {
+    "question_id": "5951",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44086",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q44086-AA13ADBA-46E7-489C-9208-493CD631A797"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q44086-AA13ADBA-46E7-489C-9208-493CD631A797",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q565030"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44086",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "177"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44086",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Carl Orff"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44086",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "كارل أورف"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44086",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "كارل اورف"
+    }
+  ]
+}

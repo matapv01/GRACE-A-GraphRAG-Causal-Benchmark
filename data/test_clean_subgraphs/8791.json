@@ -1,0 +1,43 @@
+{
+  "question_id": "8791",
+  "answers": [
+    "http://www.wikidata.org/entity/Q102427"
+  ],
+  "gold_path": {
+    "question_id": "8791",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8877",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q8877-987FEFFF-48F5-4C53-BEF1-E8AFF331DD84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q8877-987FEFFF-48F5-4C53-BEF1-E8AFF331DD84",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q102427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q8877-987FEFFF-48F5-4C53-BEF1-E8AFF331DD84",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q18067135"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8877",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "シュピールベルク"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8877",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Спилберг, Стивен"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8877",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Spielberg"
+    }
+  ]
+}

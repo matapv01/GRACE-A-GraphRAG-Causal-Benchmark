@@ -1,0 +1,69 @@
+{
+  "question_id": "9400",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36870",
+    "http://www.wikidata.org/entity/Q125421"
+  ],
+  "gold_path": {
+    "question_id": "9400",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q778",
+        "predicate": "http://www.wikidata.org/prop/P2936",
+        "object": "http://www.wikidata.org/entity/statement/Q778-cc161ba2-46fd-1371-c0af-225bfe24d99e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q778-cc161ba2-46fd-1371-c0af-225bfe24d99e",
+        "predicate": "ps:P2936",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q778-cc161ba2-46fd-1371-c0af-225bfe24d99e",
+        "predicate": "pq:P1552",
+        "object": "http://www.wikidata.org/entity/Q125421"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q778",
+        "predicate": "http://www.wikidata.org/prop/P2936",
+        "object": "http://www.wikidata.org/entity/statement/Q778-F780F56F-5732-4D58-8EDA-D6CD3AA39DF4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q778-F780F56F-5732-4D58-8EDA-D6CD3AA39DF4",
+        "predicate": "ps:P2936",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q778-F780F56F-5732-4D58-8EDA-D6CD3AA39DF4",
+        "predicate": "pq:P1552",
+        "object": "http://www.wikidata.org/entity/Q36870"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q778",
+      "predicate": "http://www.wikidata.org/prop/direct/P36",
+      "object": "http://www.wikidata.org/entity/Q2467"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q778",
+      "predicate": "http://www.wikidata.org/prop/P36",
+      "object": "http://www.wikidata.org/entity/statement/q778-52E8E3FE-40BE-4408-855F-8C1284E702B0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q778",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bahamas%20regions%20map-es.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q778",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q778-c921771f-48f8-6cd0-4fbb-3eac6234a4ba"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q778",
+      "predicate": "http://www.wikidata.org/prop/P150",
+      "object": "http://www.wikidata.org/entity/statement/q778-0607322e-46cc-be9d-0ffd-f7532e06cb2c"
+    }
+  ]
+}

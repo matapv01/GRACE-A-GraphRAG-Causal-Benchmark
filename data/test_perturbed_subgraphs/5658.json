@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "5658",
+    "answers": [
+      "http://www.wikidata.org/entity/Q36669"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q36669"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-05T23:37:32Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivanofrankovsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivska oblast"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "UA-26"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "5658",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-05T23:37:32Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivanofrankovsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivska oblast"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "UA-26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q36669"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "5658",
+    "answers": [
+      "http://www.wikidata.org/entity/Q36669"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q36669"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-05T23:37:32Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivanofrankovsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivska oblast"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "UA-26"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "5658",
+    "answers": [
+      "http://www.wikidata.org/entity/Q36669"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q36669"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-05T23:37:32Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivanofrankovsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivska oblast"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "UA-26"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "5658",
+    "answers": [
+      "http://www.wikidata.org/entity/Q36669"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q36669"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6760"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-02-05T23:37:32Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q178269-A0361AF7-0E1B-4CD4-AE18-A877D32178D6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivanofrankovsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivsk\u00e1 oblas\u0165"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Ivano-Frankivska oblast"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q178269",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "UA-26"
+      }
+    ]
+  }
+}

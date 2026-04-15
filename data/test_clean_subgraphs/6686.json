@@ -1,0 +1,43 @@
+{
+  "question_id": "6686",
+  "answers": [
+    "http://www.wikidata.org/entity/Q178975"
+  ],
+  "gold_path": {
+    "question_id": "6686",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q162389",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q162389-A8265AA5-1DC4-4C25-AC56-6D4E0A43BC0B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q162389-A8265AA5-1DC4-4C25-AC56-6D4E0A43BC0B",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q162389-A8265AA5-1DC4-4C25-AC56-6D4E0A43BC0B",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q178975"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q162389",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anthony Curtis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162389",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Curtis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q162389",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Bernard Schwartz"
+    }
+  ]
+}

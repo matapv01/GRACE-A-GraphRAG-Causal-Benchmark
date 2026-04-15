@@ -1,0 +1,66 @@
+{
+  "question_id": "14354",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2855609",
+    "http://www.wikidata.org/entity/Q213051",
+    "http://www.wikidata.org/entity/Q4489420",
+    "http://www.wikidata.org/entity/Q132580"
+  ],
+  "gold_path": {
+    "question_id": "14354",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1662745",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q294880"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q294880",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q132580"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q294880",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q213051"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q294880",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q2855609"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q294880",
+        "predicate": "http://www.wikidata.org/prop/direct/P136",
+        "object": "http://www.wikidata.org/entity/Q4489420"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1662745",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q1490"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1662745",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q1662745-280408D8-2D38-4AEB-AFF2-8341A2F97586"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1662745",
+      "predicate": "http://www.wikidata.org/prop/P2397",
+      "object": "http://www.wikidata.org/entity/statement/Q1662745-EA50B7B2-EF0B-47B7-9763-CC34F2D92B07"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1662745",
+      "predicate": "http://www.wikidata.org/prop/P396",
+      "object": "http://www.wikidata.org/entity/statement/Q1662745-147489AB-DD25-4FA9-8509-FD3EACF3F0CF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1662745",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "RAVV366224"
+    }
+  ]
+}

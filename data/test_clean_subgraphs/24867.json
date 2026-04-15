@@ -1,0 +1,71 @@
+{
+  "question_id": "24867",
+  "answers": [
+    "http://www.wikidata.org/entity/Q185959",
+    "http://www.wikidata.org/entity/Q1747837",
+    "http://www.wikidata.org/entity/Q184740",
+    "http://www.wikidata.org/entity/Q101856615"
+  ],
+  "gold_path": {
+    "question_id": "24867",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q184740",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15961987"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q184740",
+        "predicate": "rdfs:label",
+        "object": "Zeichengeschichte"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185959",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15961987"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q185959",
+        "predicate": "rdfs:label",
+        "object": "Zeitfunk"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q101856615",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15961987"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q101856615",
+        "predicate": "rdfs:label",
+        "object": "zombie television program"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1747837",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15961987"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1747837",
+        "predicate": "rdfs:label",
+        "object": "zombie comedy"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q184740",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184740",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zeichengeschichte"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q184740",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "0"
+    }
+  ]
+}

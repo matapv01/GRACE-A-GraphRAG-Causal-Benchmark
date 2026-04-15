@@ -1,0 +1,84 @@
+{
+  "question_id": "16016",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1722084",
+    "http://www.wikidata.org/entity/Q64065384",
+    "http://www.wikidata.org/entity/Q326900",
+    "http://www.wikidata.org/entity/Q10498626",
+    "http://www.wikidata.org/entity/Q957434",
+    "http://www.wikidata.org/entity/Q49951",
+    "http://www.wikidata.org/entity/Q1542282"
+  ],
+  "gold_path": {
+    "question_id": "16016",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1542282",
+        "predicate": "http://www.wikidata.org/prop/direct/P1582",
+        "object": "http://www.wikidata.org/entity/Q2935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2935",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q49951"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2935",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q326900"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2935",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q957434"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2935",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q1542282"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2935",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q1722084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2935",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q10498626"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2935",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q64065384"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1542282",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "testina"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1542282",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Kalbskopf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1542282",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "مخ العجل"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1542282",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "head of vealt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1542282",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "bovidkapaĵo"
+    }
+  ]
+}

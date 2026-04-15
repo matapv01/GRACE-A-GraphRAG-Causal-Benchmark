@@ -1,0 +1,38 @@
+{
+  "question_id": "28252",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3370723"
+  ],
+  "gold_path": {
+    "question_id": "28252",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q693552",
+        "predicate": "http://www.wikidata.org/prop/direct/P1202",
+        "object": "http://www.wikidata.org/entity/Q3370723"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q693552",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "WISE-teleskoop"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q693552",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "مستكشف الأشعة تحت الحمراء عريض المجال"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q693552",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "WISE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q693552",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Wide-field Infrared Survey Explorer"
+    }
+  ]
+}

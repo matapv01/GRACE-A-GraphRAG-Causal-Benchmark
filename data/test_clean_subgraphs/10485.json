@@ -1,0 +1,58 @@
+{
+  "question_id": "10485",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5283295"
+  ],
+  "gold_path": {
+    "question_id": "10485",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q191999",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q191999-DDC7EFA1-EC07-4A8F-9503-99E4A0775D4B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q191999-DDC7EFA1-EC07-4A8F-9503-99E4A0775D4B",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49126"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q191999-DDC7EFA1-EC07-4A8F-9503-99E4A0775D4B",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q5283295"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q191999-DDC7EFA1-EC07-4A8F-9503-99E4A0775D4B",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q191701"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q191999",
+      "predicate": "http://www.wikidata.org/prop/P2963",
+      "object": "http://www.wikidata.org/entity/statement/Q191999-83f68a82-449e-13db-9c1b-f1250c5fb88d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191999",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q191999-D03FEF9C-5593-4188-955E-4F6B24E0B03F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191999",
+      "predicate": "http://www.wikidata.org/prop/P5361",
+      "object": "http://www.wikidata.org/entity/statement/Q191999-4FCEEC36-BF9A-4022-9EBC-5AB6F6FCAC71"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191999",
+      "predicate": "http://www.wikidata.org/prop/P4985",
+      "object": "http://www.wikidata.org/entity/statement/Q191999-1CEF9DF9-4D3F-4074-A938-357BCA1347F0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q191999",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "McNamara-4485"
+    }
+  ]
+}

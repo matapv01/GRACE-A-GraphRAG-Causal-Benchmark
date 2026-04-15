@@ -1,0 +1,48 @@
+{
+  "question_id": "14445",
+  "answers": [
+    "http://www.wikidata.org/entity/Q487334"
+  ],
+  "gold_path": {
+    "question_id": "14445",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q159762",
+        "predicate": "http://www.wikidata.org/prop/direct/P3815",
+        "object": "http://www.wikidata.org/entity/Q1424454"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1424454",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q487334"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q159762",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Mauna_Loa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159762",
+      "predicate": "http://www.wikidata.org/prop/P8313",
+      "object": "http://www.wikidata.org/entity/statement/Q159762-C1162A73-9424-4686-9F8F-69FA587F323B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159762",
+      "predicate": "http://www.wikidata.org/prop/P3109",
+      "object": "http://www.wikidata.org/entity/statement/Q159762-A556D6D4-A8F0-4A78-BD5C-ED1465C0B572"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159762",
+      "predicate": "http://www.wikidata.org/prop/direct/P2888",
+      "object": "https://www.newworldencyclopedia.org/entry/Mauna_Loa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159762",
+      "predicate": "http://www.wikidata.org/prop/direct/P4708",
+      "object": "1923"
+    }
+  ]
+}

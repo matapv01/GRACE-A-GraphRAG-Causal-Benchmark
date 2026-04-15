@@ -1,0 +1,48 @@
+{
+  "question_id": "8033",
+  "answers": [
+    "326820"
+  ],
+  "gold_path": {
+    "question_id": "8033",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q31070",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q31070-87d7e5d7-4bef-839a-4fdd-33d99affe316"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q31070-87d7e5d7-4bef-839a-4fdd-33d99affe316",
+        "predicate": "ps:P1082",
+        "object": "326820"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q31070",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Iss016e019375.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31070",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Suez%20Governorate.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31070",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q31070-d7b20269-476d-6d6c-6bcd-6997570d037d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31070",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/Q31070-c7b91e32-41ff-d92a-4fa2-93b98cc70b92"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31070",
+      "predicate": "http://www.wikidata.org/prop/P8519",
+      "object": "http://www.wikidata.org/entity/statement/Q31070-d36d15e9-c09d-4d96-a392-c75f2ec4d18b"
+    }
+  ]
+}

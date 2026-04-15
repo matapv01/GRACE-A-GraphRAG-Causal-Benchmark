@@ -1,0 +1,48 @@
+{
+  "question_id": "22994",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5205117"
+  ],
+  "gold_path": {
+    "question_id": "22994",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q499451",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q5205117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5205117",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q31855"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q499451",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20Queens%2C%20New%20Brunswick%2C%20NJ%20-%20looking%20north%2C%202014.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q499451",
+      "predicate": "http://www.wikidata.org/prop/direct/P1870",
+      "object": "15230"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q499451",
+      "predicate": "http://www.wikidata.org/prop/P1870",
+      "object": "http://www.wikidata.org/entity/statement/Q499451-64DA0F13-ED84-4BF8-9D7D-A86DD18CDA87"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q499451",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q499451-92461558-15FD-4A07-A790-C125A4ECBF21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q499451",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q30"
+    }
+  ]
+}

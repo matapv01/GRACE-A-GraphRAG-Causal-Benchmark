@@ -1,0 +1,48 @@
+{
+  "question_id": "14071",
+  "answers": [
+    "http://www.wikidata.org/entity/Q332"
+  ],
+  "gold_path": {
+    "question_id": "14071",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16076",
+        "predicate": "http://www.wikidata.org/prop/direct/P397",
+        "object": "http://www.wikidata.org/entity/Q332"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q332",
+        "predicate": "http://www.wikidata.org/prop/direct/P398",
+        "object": "http://www.wikidata.org/entity/Q3218345"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16076",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptun II"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16076",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ποσειδώνας ΙΙ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16076",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptune II"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16076",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Neptunus II"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16076",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Néiriad"
+    }
+  ]
+}

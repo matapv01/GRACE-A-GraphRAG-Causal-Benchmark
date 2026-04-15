@@ -1,0 +1,82 @@
+{
+  "question_id": "24144",
+  "answers": [
+    "http://www.wikidata.org/entity/Q130925765",
+    "http://www.wikidata.org/entity/Q12525439",
+    "http://www.wikidata.org/entity/Q130575581",
+    "http://www.wikidata.org/entity/Q8067116",
+    "http://www.wikidata.org/entity/Q4024575"
+  ],
+  "gold_path": {
+    "question_id": "24144",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4024575",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4024575",
+        "predicate": "rdfs:label",
+        "object": "Zirè"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12525439",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12525439",
+        "predicate": "rdfs:label",
+        "object": "Zawo-zawo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8067116",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8067116",
+        "predicate": "rdfs:label",
+        "object": "Zatch Bell! The Card Battle"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q130575581",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q130575581",
+        "predicate": "rdfs:label",
+        "object": "Zin Never Dies"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q130925765",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11410"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q130925765",
+        "predicate": "rdfs:label",
+        "object": "ZUBABS CAR WASH & GAME CENTRE"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4024575",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4024575",
+      "predicate": "http://schema.org/version",
+      "object": "1377105046"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4024575",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zirè"
+    }
+  ]
+}

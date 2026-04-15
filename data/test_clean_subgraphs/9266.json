@@ -1,0 +1,53 @@
+{
+  "question_id": "9266",
+  "answers": [
+    "1918-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9266",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q159646",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q159646-2F576A46-7F03-4F10-BD05-043E1258421F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q159646-2F576A46-7F03-4F10-BD05-043E1258421F",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1411550"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q159646-2F576A46-7F03-4F10-BD05-043E1258421F",
+        "predicate": "pq:P585",
+        "object": "1918-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q159646",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Albert I"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159646",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Albert. 1. af Monaco"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159646",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Prince Albert of Monaco"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159646",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Alberto I de Monaco"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q159646",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Albert 1er"
+    }
+  ]
+}

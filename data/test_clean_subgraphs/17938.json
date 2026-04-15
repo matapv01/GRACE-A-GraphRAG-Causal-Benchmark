@@ -1,0 +1,102 @@
+{
+  "question_id": "17938",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1349821",
+    "http://www.wikidata.org/entity/Q1799146",
+    "http://www.wikidata.org/entity/Q1077823",
+    "http://www.wikidata.org/entity/Q1054718",
+    "http://www.wikidata.org/entity/Q5062120",
+    "http://www.wikidata.org/entity/Q186889",
+    "http://www.wikidata.org/entity/Q10916362",
+    "http://www.wikidata.org/entity/Q127076",
+    "http://www.wikidata.org/entity/Q11820606",
+    "http://www.wikidata.org/entity/Q213373"
+  ],
+  "gold_path": {
+    "question_id": "17938",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q225045",
+        "predicate": "http://www.wikidata.org/prop/direct/P1542",
+        "object": "http://www.wikidata.org/entity/Q21173541"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q127076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q186889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q213373"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q1054718"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q1077823"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q1349821"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q1799146"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q5062120"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q10916362"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21173541",
+        "predicate": "http://www.wikidata.org/prop/direct/P780",
+        "object": "http://www.wikidata.org/entity/Q11820606"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q225045",
+      "predicate": "http://www.wikidata.org/prop/P2924",
+      "object": "http://www.wikidata.org/entity/statement/Q225045-4956FC4B-A73C-4DC0-BFC8-F53F70A2F4B1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q225045",
+      "predicate": "http://www.wikidata.org/prop/P232",
+      "object": "http://www.wikidata.org/entity/statement/Q225045-962608AC-67FB-41F6-B457-4BDD2BC878BE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q225045",
+      "predicate": "http://www.wikidata.org/prop/P2993",
+      "object": "http://www.wikidata.org/entity/statement/Q225045-26fb7e55-4446-1f73-a955-cc7e65aec41a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q225045",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "carbon tetrachloride"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q225045",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Tetrachloormetaan"
+    }
+  ]
+}

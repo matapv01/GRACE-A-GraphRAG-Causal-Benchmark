@@ -1,0 +1,53 @@
+{
+  "question_id": "5442",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103618"
+  ],
+  "gold_path": {
+    "question_id": "5442",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q173585",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q173585-FD6C8B8D-9C1E-475D-9A5B-EF5F29837B78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173585-FD6C8B8D-9C1E-475D-9A5B-EF5F29837B78",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103618"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q173585-FD6C8B8D-9C1E-475D-9A5B-EF5F29837B78",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q1754454"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q173585",
+      "predicate": "http://www.wikidata.org/prop/direct/P5254",
+      "object": "1634"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173585",
+      "predicate": "http://www.wikidata.org/prop/direct/P5284",
+      "object": "1000091"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173585",
+      "predicate": "http://www.wikidata.org/prop/direct/P2688",
+      "object": "jessicalange"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173585",
+      "predicate": "http://www.wikidata.org/prop/direct/P4782",
+      "object": "3573"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q173585",
+      "predicate": "http://www.wikidata.org/prop/direct/P10527",
+      "object": "http://www.wikidata.org/entity/Q50920401"
+    }
+  ]
+}

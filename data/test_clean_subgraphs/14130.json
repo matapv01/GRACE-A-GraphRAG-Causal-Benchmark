@@ -1,0 +1,48 @@
+{
+  "question_id": "14130",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1754403"
+  ],
+  "gold_path": {
+    "question_id": "14130",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q40780",
+        "predicate": "http://www.wikidata.org/prop/direct/P150",
+        "object": "http://www.wikidata.org/entity/Q1754403"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1754403",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q9012140"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q40780",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "169"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40780",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "44"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40780",
+      "predicate": "http://www.wikidata.org/prop/direct/P3896",
+      "object": "http://commons.wikimedia.org/data/main/Data:Brazil/Acre.map"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40780",
+      "predicate": "http://www.wikidata.org/prop/direct/P5698",
+      "object": "108626"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q40780",
+      "predicate": "http://schema.org/version",
+      "object": "2453626175"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "19824",
+  "answers": [
+    "http://www.wikidata.org/entity/Q37151"
+  ],
+  "gold_path": {
+    "question_id": "19824",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q37151",
+        "predicate": "http://www.wikidata.org/prop/direct/P800",
+        "object": "http://www.wikidata.org/entity/Q8251"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37151",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q37151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "孫子"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "孙子"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "兵圣"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sunzu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37151",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sun Tzu"
+    }
+  ]
+}

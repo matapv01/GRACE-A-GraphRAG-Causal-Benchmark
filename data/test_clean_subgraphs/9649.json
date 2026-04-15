@@ -1,0 +1,43 @@
+{
+  "question_id": "9649",
+  "answers": [
+    "http://www.wikidata.org/entity/Q563098"
+  ],
+  "gold_path": {
+    "question_id": "9649",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44696",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q563098"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q44696",
+        "predicate": "http://www.wikidata.org/prop/direct/P826",
+        "object": "http://www.wikidata.org/entity/Q795134"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44696",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SSB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44696",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hymn Stanów Zjednoczonych"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44696",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Star-Spangled Banner"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44696",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Star-Spangled Banner"
+    }
+  ]
+}

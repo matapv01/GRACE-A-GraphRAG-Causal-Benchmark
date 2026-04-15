@@ -1,0 +1,43 @@
+{
+  "question_id": "14162",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3772"
+  ],
+  "gold_path": {
+    "question_id": "14162",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q72962",
+        "predicate": "http://www.wikidata.org/prop/direct/P58",
+        "object": "http://www.wikidata.org/entity/Q3772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3772",
+        "predicate": "http://www.wikidata.org/prop/direct/P1283",
+        "object": "http://www.wikidata.org/entity/Q6794012"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q72962",
+      "predicate": "http://www.wikidata.org/prop/direct/P4529",
+      "object": "1299603"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72962",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "16710019t"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72962",
+      "predicate": "http://www.wikidata.org/prop/direct/P2637",
+      "object": "http://www.wikidata.org/entity/Q23308564"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72962",
+      "predicate": "http://www.wikidata.org/prop/direct/P57",
+      "object": "http://www.wikidata.org/entity/Q3772"
+    }
+  ]
+}

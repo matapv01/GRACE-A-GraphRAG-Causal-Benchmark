@@ -1,0 +1,81 @@
+{
+  "question_id": "23873",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13407970",
+    "http://www.wikidata.org/entity/Q18395653",
+    "http://www.wikidata.org/entity/Q753127",
+    "http://www.wikidata.org/entity/Q2303697"
+  ],
+  "gold_path": {
+    "question_id": "23873",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q753127",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3435924"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q753127",
+        "predicate": "rdfs:label",
+        "object": "topological sorting"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2303697",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3435924"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2303697",
+        "predicate": "rdfs:label",
+        "object": "sorting"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13407970",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3435924"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13407970",
+        "predicate": "rdfs:label",
+        "object": "Integer sorting"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18395653",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3435924"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18395653",
+        "predicate": "rdfs:label",
+        "object": "X + Y sorting"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q753127",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "14"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q753127",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q753127",
+      "predicate": "http://schema.org/description",
+      "object": "Reihenfolge in der Mathematik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q753127",
+      "predicate": "http://schema.org/description",
+      "object": "μία διάταξη των κόμβων ενός κατευθυνόμενου άκυκλου γράφου, ώστε κάθε ακμή πηγαίνει από νωρίτερο σε αργότερο κόμβο"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q753127",
+      "predicate": "http://schema.org/description",
+      "object": "an ordering of the vertices of the directed graph for which each edge is directed from earlier to later in the ordering"
+    }
+  ]
+}

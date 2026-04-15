@@ -1,0 +1,69 @@
+{
+  "question_id": "4403",
+  "answers": [
+    "http://www.wikidata.org/entity/Q716941",
+    "http://www.wikidata.org/entity/Q192179"
+  ],
+  "gold_path": {
+    "question_id": "4403",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q712548",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q712548-3b70c57e-4cff-4240-33a0-de6b59f7ad9f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q712548-3b70c57e-4cff-4240-33a0-de6b59f7ad9f",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q2473303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q712548-3b70c57e-4cff-4240-33a0-de6b59f7ad9f",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q192179"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q712548",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q712548-e9f62c2b-4a32-d5e0-f6c5-dafe1aeab521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q712548-e9f62c2b-4a32-d5e0-f6c5-dafe1aeab521",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q2473303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q712548-e9f62c2b-4a32-d5e0-f6c5-dafe1aeab521",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q716941"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q712548",
+      "predicate": "http://www.wikidata.org/prop/direct/P8419",
+      "object": "Albus Dumbledore"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q712548",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007586055205171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q712548",
+      "predicate": "http://www.wikidata.org/prop/direct/P8345",
+      "object": "http://www.wikidata.org/entity/Q30739117"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q712548",
+      "predicate": "http://www.wikidata.org/prop/P8189",
+      "object": "http://www.wikidata.org/entity/statement/Q712548-69769E2A-75AE-4E99-9AB7-998D5F7BA510"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q712548",
+      "predicate": "http://www.wikidata.org/prop/direct/P4584",
+      "object": "http://www.wikidata.org/entity/Q43361"
+    }
+  ]
+}

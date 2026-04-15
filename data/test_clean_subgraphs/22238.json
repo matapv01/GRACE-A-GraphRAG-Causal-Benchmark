@@ -1,0 +1,48 @@
+{
+  "question_id": "22238",
+  "answers": [
+    "http://www.wikidata.org/entity/Q950380"
+  ],
+  "gold_path": {
+    "question_id": "22238",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q43380",
+        "predicate": "http://www.wikidata.org/prop/direct/P137",
+        "object": "http://www.wikidata.org/entity/Q950380"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q950380",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q43380",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q1061197"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43380",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q1254874"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43380",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n80126230"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43380",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q43380",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q121437821"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "22868",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3295867"
+  ],
+  "gold_path": {
+    "question_id": "22868",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2813",
+        "predicate": "http://www.wikidata.org/prop/direct/P176",
+        "object": "http://www.wikidata.org/entity/Q3295867"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3295867",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1252971"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2813",
+      "predicate": "http://www.wikidata.org/prop/direct/P2919",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coca-cola%20spreadthesign.ogv"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2813",
+      "predicate": "http://www.wikidata.org/prop/P2919",
+      "object": "http://www.wikidata.org/entity/statement/Q2813-b24cfc3a-4829-4b6b-17a3-894ebbd85510"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2813",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q30"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2813",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2813",
+      "predicate": "http://www.wikidata.org/prop/direct/P4543",
+      "object": "http://www.wikidata.org/entity/Q60235"
+    }
+  ]
+}

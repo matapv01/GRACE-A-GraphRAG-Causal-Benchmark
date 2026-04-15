@@ -1,0 +1,77 @@
+{
+  "question_id": "2704",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1116374",
+    "http://www.wikidata.org/entity/Q149851",
+    "http://www.wikidata.org/entity/Q148950",
+    "http://www.wikidata.org/entity/Q847304",
+    "http://www.wikidata.org/entity/Q1768629"
+  ],
+  "gold_path": {
+    "question_id": "2704",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1116374",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1116374",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "4854"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q847304",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q847304",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "3622"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q149851",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q149851",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "3266"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1768629",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1768629",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "2675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q148950",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q148950",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "2624"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1116374",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Pinus longaeva"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1116374",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "صنوبر معمر"
+    }
+  ]
+}

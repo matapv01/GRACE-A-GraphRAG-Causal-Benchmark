@@ -1,0 +1,78 @@
+{
+  "question_id": "14847",
+  "answers": [
+    "http://www.wikidata.org/entity/Q189598",
+    "http://www.wikidata.org/entity/Q11358",
+    "http://www.wikidata.org/entity/Q127980",
+    "http://www.wikidata.org/entity/Q34956",
+    "http://www.wikidata.org/entity/Q21296145",
+    "http://www.wikidata.org/entity/Q215210"
+  ],
+  "gold_path": {
+    "question_id": "14847",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q210021",
+        "predicate": "http://www.wikidata.org/prop/direct/P703",
+        "object": "http://www.wikidata.org/entity/Q15978631"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15978631",
+        "predicate": "http://www.wikidata.org/prop/direct/P618",
+        "object": "http://www.wikidata.org/entity/Q11358"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15978631",
+        "predicate": "http://www.wikidata.org/prop/direct/P618",
+        "object": "http://www.wikidata.org/entity/Q34956"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15978631",
+        "predicate": "http://www.wikidata.org/prop/direct/P618",
+        "object": "http://www.wikidata.org/entity/Q127980"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15978631",
+        "predicate": "http://www.wikidata.org/prop/direct/P618",
+        "object": "http://www.wikidata.org/entity/Q189598"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15978631",
+        "predicate": "http://www.wikidata.org/prop/direct/P618",
+        "object": "http://www.wikidata.org/entity/Q215210"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15978631",
+        "predicate": "http://www.wikidata.org/prop/direct/P618",
+        "object": "http://www.wikidata.org/entity/Q21296145"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q210021",
+      "predicate": "http://www.wikidata.org/prop/direct/P2924",
+      "object": "2343252"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q210021",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q210021-9FA4BF28-6FCD-4BA1-94B9-43A09B62C74E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q210021",
+      "predicate": "http://www.wikidata.org/prop/direct/P592",
+      "object": "CHEMBL96"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q210021",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "gamma-Aminobutyric acid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q210021",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "4-aminobutyric acid"
+    }
+  ]
+}

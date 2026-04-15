@@ -1,0 +1,43 @@
+{
+  "question_id": "27002",
+  "answers": [
+    "846"
+  ],
+  "gold_path": {
+    "question_id": "27002",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q208230",
+        "predicate": "http://www.wikidata.org/prop/direct/P5415",
+        "object": "846"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q208230",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208230",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "claude-bernard"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208230",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "claude-bernard-oeuvres-reperes-chronologiques"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208230",
+      "predicate": "http://www.wikidata.org/prop/direct/P3280",
+      "object": "0000096477"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q208230",
+      "predicate": "http://www.wikidata.org/prop/direct/P3241",
+      "object": "02497a"
+    }
+  ]
+}

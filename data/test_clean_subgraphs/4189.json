@@ -1,0 +1,53 @@
+{
+  "question_id": "4189",
+  "answers": [
+    "1938-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4189",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q160149",
+        "predicate": "http://www.wikidata.org/prop/P27",
+        "object": "http://www.wikidata.org/entity/statement/Q160149-27349ADF-1363-43DF-951A-D40C48588962"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160149-27349ADF-1363-43DF-951A-D40C48588962",
+        "predicate": "ps:P27",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160149-27349ADF-1363-43DF-951A-D40C48588962",
+        "predicate": "pq:P580",
+        "object": "1938-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q160149",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q160149-A19DA735-090E-47FD-8319-83A8F2723645"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160149",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q160149-A89D19E5-32BD-4BE5-AA1B-6992045E00A9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160149",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q160149-7A484FC3-EAA1-46A6-8ECA-5F1D41AAD25D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160149",
+      "predicate": "http://www.wikidata.org/prop/direct/P1741",
+      "object": "229523"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160149",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/q160149-2FD38C62-64BF-4752-8517-5E3321EB385E"
+    }
+  ]
+}

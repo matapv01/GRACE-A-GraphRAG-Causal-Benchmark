@@ -1,0 +1,53 @@
+{
+  "question_id": "11534",
+  "answers": [
+    "5.79"
+  ],
+  "gold_path": {
+    "question_id": "11534",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q47512",
+        "predicate": "http://www.wikidata.org/prop/P873",
+        "object": "http://www.wikidata.org/entity/statement/Q47512-73dd4063-477a-983d-a8aa-228795d6cf3d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47512-73dd4063-477a-983d-a8aa-228795d6cf3d",
+        "predicate": "ps:P873",
+        "object": "http://www.wikidata.org/entity/Q111059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q47512-73dd4063-477a-983d-a8aa-228795d6cf3d",
+        "predicate": "pq:P2077",
+        "object": "5.79"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://www.wikidata.org/prop/direct/P592",
+      "object": "CHEMBL539"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-18T12:57:55Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://www.wikidata.org/prop/direct/P595",
+      "object": "1058"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://www.wikidata.org/prop/direct/P508",
+      "object": "22510"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q47512",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85000460"
+    }
+  ]
+}

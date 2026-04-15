@@ -1,0 +1,48 @@
+{
+  "question_id": "17594",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1004435"
+  ],
+  "gold_path": {
+    "question_id": "17594",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2867501",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q542"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q542",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q1004435"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2867501",
+      "predicate": "http://schema.org/description",
+      "object": "britischer Dachverband der Leichtathletik"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2867501",
+      "predicate": "http://schema.org/description",
+      "object": "Athletic Association in England"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2867501",
+      "predicate": "http://schema.org/description",
+      "object": "federazione inglese di atletica leggera"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2867501",
+      "predicate": "http://schema.org/version",
+      "object": "2379094938"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2867501",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Amateur Athletic Association"
+    }
+  ]
+}

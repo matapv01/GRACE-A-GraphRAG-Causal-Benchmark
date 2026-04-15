@@ -1,0 +1,53 @@
+{
+  "question_id": "4074",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12614683"
+  ],
+  "gold_path": {
+    "question_id": "4074",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21001",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q21001-fb0d4ea6-4f46-9fd7-a6cc-c538a18a7857"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q21001-fb0d4ea6-4f46-9fd7-a6cc-c538a18a7857",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q14850694"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q21001-fb0d4ea6-4f46-9fd7-a6cc-c538a18a7857",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q12614683"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "President Moon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Moon Jae-in"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mun Chae-In"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mun Jaein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Moon jae-in"
+    }
+  ]
+}

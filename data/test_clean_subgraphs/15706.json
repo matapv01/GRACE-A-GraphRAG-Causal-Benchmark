@@ -1,0 +1,97 @@
+{
+  "question_id": "15706",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3791",
+    "http://www.wikidata.org/entity/Q4094",
+    "http://www.wikidata.org/entity/Q6968",
+    "http://www.wikidata.org/entity/Q4048",
+    "http://www.wikidata.org/entity/Q6257",
+    "http://www.wikidata.org/entity/Q2100",
+    "http://www.wikidata.org/entity/Q6253",
+    "http://www.wikidata.org/entity/Q2948",
+    "http://www.wikidata.org/entity/Q4105",
+    "http://www.wikidata.org/entity/Q14878"
+  ],
+  "gold_path": {
+    "question_id": "15706",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44892",
+        "predicate": "http://www.wikidata.org/prop/direct/P740",
+        "object": "http://www.wikidata.org/entity/Q1718"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q2100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q2948"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q3791"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q4048"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q4094"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q4105"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q6253"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q6257"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q6968"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1718",
+        "predicate": "http://www.wikidata.org/prop/direct/P47",
+        "object": "http://www.wikidata.org/entity/Q14878"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44892",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kraftwerk"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44892",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Κράφτβερκ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44892",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "کرفت وِرک"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44892",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "קראפטוורק"
+    }
+  ]
+}

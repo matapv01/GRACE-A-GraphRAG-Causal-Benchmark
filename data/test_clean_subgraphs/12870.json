@@ -1,0 +1,48 @@
+{
+  "question_id": "12870",
+  "answers": [
+    "http://www.wikidata.org/entity/Q399"
+  ],
+  "gold_path": {
+    "question_id": "12870",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q73112",
+        "predicate": "http://www.wikidata.org/prop/direct/P840",
+        "object": "http://www.wikidata.org/entity/Q399"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q399",
+        "predicate": "http://www.wikidata.org/prop/direct/P530",
+        "object": "http://www.wikidata.org/entity/Q45"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q73112",
+      "predicate": "http://schema.org/description",
+      "object": "Xenophon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q73112",
+      "predicate": "http://schema.org/description",
+      "object": "obra de Xenofont"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q73112",
+      "predicate": "http://schema.org/description",
+      "object": "verko de Ksenofono"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q73112",
+      "predicate": "http://schema.org/description",
+      "object": "œuvre de Xénophon"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q73112",
+      "predicate": "http://schema.org/description",
+      "object": "ספר מאת קסנופון"
+    }
+  ]
+}

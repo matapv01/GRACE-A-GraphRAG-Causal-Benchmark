@@ -1,0 +1,45 @@
+{
+  "question_id": "26376",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2406313",
+    "http://www.wikidata.org/entity/Q16482619",
+    "http://www.wikidata.org/entity/Q152528"
+  ],
+  "gold_path": {
+    "question_id": "26376",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q152528",
+        "predicate": "http://www.wikidata.org/prop/direct/P4446",
+        "object": "http://www.wikidata.org/entity/Q181912"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2406313",
+        "predicate": "http://www.wikidata.org/prop/direct/P4446",
+        "object": "http://www.wikidata.org/entity/Q181912"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16482619",
+        "predicate": "http://www.wikidata.org/prop/direct/P4446",
+        "object": "http://www.wikidata.org/entity/Q181912"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q152528",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Baboo Airways"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152528",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "BB0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152528",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Flybaboo"
+    }
+  ]
+}

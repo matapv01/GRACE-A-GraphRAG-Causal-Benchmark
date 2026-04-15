@@ -1,0 +1,72 @@
+{
+  "question_id": "24119",
+  "answers": [
+    "http://www.wikidata.org/entity/Q124313314",
+    "http://www.wikidata.org/entity/Q21291501",
+    "http://www.wikidata.org/entity/Q122689371",
+    "http://www.wikidata.org/entity/Q18061181",
+    "http://www.wikidata.org/entity/Q632686"
+  ],
+  "gold_path": {
+    "question_id": "24119",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21291501",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q713623"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21291501",
+        "predicate": "rdfs:label",
+        "object": "Xenopodinomorpha"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q122689371",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q713623"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q122689371",
+        "predicate": "rdfs:label",
+        "object": "Xenonomia"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124313314",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q713623"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q124313314",
+        "predicate": "rdfs:label",
+        "object": "Xandarellida"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q632686",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q713623"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q632686",
+        "predicate": "rdfs:label",
+        "object": "Xenophyophorea"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18061181",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q713623"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18061181",
+        "predicate": "rdfs:label",
+        "object": "Xenopsaria"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21291501",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Xenopodinomorpha"
+    }
+  ]
+}

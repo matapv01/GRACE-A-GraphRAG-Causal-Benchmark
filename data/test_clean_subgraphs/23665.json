@@ -1,0 +1,66 @@
+{
+  "question_id": "23665",
+  "answers": [
+    "http://www.wikidata.org/entity/Q293594",
+    "http://www.wikidata.org/entity/Q293628",
+    "http://www.wikidata.org/entity/Q293597",
+    "http://www.wikidata.org/entity/Q293598"
+  ],
+  "gold_path": {
+    "question_id": "23665",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q293594",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1555508"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293594",
+        "predicate": "rdfs:label",
+        "object": "Ö3-Freundeskreis"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293597",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1555508"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293597",
+        "predicate": "rdfs:label",
+        "object": "Ö3-Mikromann"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293598",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1555508"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293598",
+        "predicate": "rdfs:label",
+        "object": "Ö3-Wecker"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293628",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1555508"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q293628",
+        "predicate": "rdfs:label",
+        "object": "Ö3 Austria Top 40"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q293594",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q293594",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Ö3-Freundeskreis"
+    }
+  ]
+}

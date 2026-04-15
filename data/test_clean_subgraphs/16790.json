@@ -1,0 +1,48 @@
+{
+  "question_id": "16790",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1560091"
+  ],
+  "gold_path": {
+    "question_id": "16790",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151075",
+        "predicate": "http://www.wikidata.org/prop/direct/P937",
+        "object": "http://www.wikidata.org/entity/Q1741"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1741",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1560091"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151075",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20van%20Meytens%20006.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151075",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "francois-ier-de-habsbourg-lorraine"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151075",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q151075-35100B21-AEB3-4AE5-AEB0-BEA4CD475F3E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151075",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q151075-BB31E4E7-3933-4AC3-8B93-A848050CC0D0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151075",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "1765-01-01T00:00:00Z"
+    }
+  ]
+}

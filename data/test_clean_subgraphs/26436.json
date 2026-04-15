@@ -1,0 +1,43 @@
+{
+  "question_id": "26436",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2108217"
+  ],
+  "gold_path": {
+    "question_id": "26436",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220331",
+        "predicate": "http://www.wikidata.org/prop/direct/P123",
+        "object": "http://www.wikidata.org/entity/Q2108217"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220331",
+      "predicate": "http://schema.org/version",
+      "object": "2479893084"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220331",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/07s8w"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220331",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q220331-11B041EA-C612-4A57-B180-9212408C42B0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220331",
+      "predicate": "http://www.wikidata.org/prop/direct/P435",
+      "object": "aa074bf5-3638-4e05-86c4-05cd16ffb6bc"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220331",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "60"
+    }
+  ]
+}

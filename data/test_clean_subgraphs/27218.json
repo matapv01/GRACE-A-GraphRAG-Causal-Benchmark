@@ -1,0 +1,43 @@
+{
+  "question_id": "27218",
+  "answers": [
+    "3o210-01279"
+  ],
+  "gold_path": {
+    "question_id": "27218",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128910",
+        "predicate": "http://www.wikidata.org/prop/direct/P3855",
+        "object": "3o210-01279"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128910",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "22"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128910",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q128910-4224946F-A95A-4F42-ACCE-7D4B57033BE5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128910",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "The Last Supper"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128910",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "العشاء الأخير"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128910",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Poslední večeře"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "6903",
+  "answers": [
+    "http://www.wikidata.org/entity/Q361523"
+  ],
+  "gold_path": {
+    "question_id": "6903",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q182486",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q182486-9B67EF95-4B8C-4331-8EF2-ACFFA114DD56"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182486-9B67EF95-4B8C-4331-8EF2-ACFFA114DD56",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q361523"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q182486",
+      "predicate": "http://www.wikidata.org/prop/P22",
+      "object": "http://www.wikidata.org/entity/statement/Q182486-fd6ac7f2-40b1-c726-3cb8-76414da77326"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182486",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "greer-garson"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182486",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q182486-228B1BDA-3F72-4579-AFA2-BAE7A59D8859"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182486",
+      "predicate": "http://www.wikidata.org/prop/direct/P22",
+      "object": "http://www.wikidata.org/entity/Q130405487"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182486",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q182486-24976826-07C5-42A8-BA06-622046EA5D7B"
+    }
+  ]
+}

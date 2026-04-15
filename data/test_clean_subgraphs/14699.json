@@ -1,0 +1,28 @@
+{
+  "question_id": "14699",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23444"
+  ],
+  "gold_path": {
+    "question_id": "14699",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q208491",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q2914560"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2914560",
+        "predicate": "http://www.wikidata.org/prop/direct/P462",
+        "object": "http://www.wikidata.org/entity/Q23444"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q208491",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "BBC News"
+    }
+  ]
+}

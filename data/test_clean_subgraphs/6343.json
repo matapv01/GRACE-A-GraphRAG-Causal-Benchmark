@@ -1,0 +1,33 @@
+{
+  "question_id": "6343",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1723064"
+  ],
+  "gold_path": {
+    "question_id": "6343",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q316641",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q316641-453801FF-DE03-4145-8397-C2D8C0D6014E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q316641-453801FF-DE03-4145-8397-C2D8C0D6014E",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1723064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q316641-453801FF-DE03-4145-8397-C2D8C0D6014E",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4635303"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q316641",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Joel Kaye"
+    }
+  ]
+}

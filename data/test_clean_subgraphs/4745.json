@@ -1,0 +1,38 @@
+{
+  "question_id": "4745",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1306380"
+  ],
+  "gold_path": {
+    "question_id": "4745",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q51488",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q51488-784A1236-139A-457B-9183-9863ABA859CE"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q51488-784A1236-139A-457B-9183-9863ABA859CE",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q51488-784A1236-139A-457B-9183-9863ABA859CE",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q1306380"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q51488",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "John Nicholas Cassavetes"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51488",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ג'ון קסבטס"
+    }
+  ]
+}

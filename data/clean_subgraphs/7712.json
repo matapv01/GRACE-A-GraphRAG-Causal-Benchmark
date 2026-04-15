@@ -1,0 +1,48 @@
+{
+  "question_id": "7712",
+  "answers": [
+    "http://www.wikidata.org/entity/Q38104"
+  ],
+  "gold_path": {
+    "question_id": "7712",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q172840",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q172840-313db24a-421c-58fa-1624-78738ebf30f4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172840-313db24a-421c-58fa-1624-78738ebf30f4",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q38104"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q172840",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "gell-mann-murray"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172840",
+      "predicate": "http://www.wikidata.org/prop/direct/P5063",
+      "object": "i95228"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172840",
+      "predicate": "http://www.wikidata.org/prop/direct/P2930",
+      "object": "M.Gell.Mann.1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172840",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q172840-78eb7805-466d-a8a4-67fe-a252f9182753"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172840",
+      "predicate": "http://www.wikidata.org/prop/direct/P4081",
+      "object": "151209"
+    }
+  ]
+}

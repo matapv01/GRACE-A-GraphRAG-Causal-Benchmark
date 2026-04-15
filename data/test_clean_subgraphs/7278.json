@@ -1,0 +1,53 @@
+{
+  "question_id": "7278",
+  "answers": [
+    "2003-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7278",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q172140",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q172140-FE5FD684-27E8-4BDE-BC39-17AF2A31FEE1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172140-FE5FD684-27E8-4BDE-BC39-17AF2A31FEE1",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q564851"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q172140-FE5FD684-27E8-4BDE-BC39-17AF2A31FEE1",
+        "predicate": "pq:P582",
+        "object": "2003-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q172140",
+      "predicate": "http://www.wikidata.org/prop/direct/P8885",
+      "object": "마이클 크라이튼"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172140",
+      "predicate": "http://www.wikidata.org/prop/direct/P8849",
+      "object": "2914917"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172140",
+      "predicate": "http://www.wikidata.org/prop/direct/P5340",
+      "object": "190585"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172140",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "31148971"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172140",
+      "predicate": "http://www.wikidata.org/prop/direct/P5357",
+      "object": "crichton_michael"
+    }
+  ]
+}

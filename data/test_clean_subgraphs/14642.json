@@ -1,0 +1,43 @@
+{
+  "question_id": "14642",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4917"
+  ],
+  "gold_path": {
+    "question_id": "14642",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q181943",
+        "predicate": "http://www.wikidata.org/prop/direct/P495",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P38",
+        "object": "http://www.wikidata.org/entity/Q4917"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q181943",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "I Love Lucy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181943",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "اني احب لوسي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181943",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "أنا أحب لوسي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q181943",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Я кахаю Люсі"
+    }
+  ]
+}

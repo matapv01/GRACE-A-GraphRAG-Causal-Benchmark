@@ -1,0 +1,48 @@
+{
+  "question_id": "5219",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28729082"
+  ],
+  "gold_path": {
+    "question_id": "5219",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q57173",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q57173-98fb2480-4a6d-a45c-440a-13f7e9a4d09e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q57173-98fb2480-4a6d-a45c-440a-13f7e9a4d09e",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q28729082"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q57173",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Михаил Дмитриевич Скобелев"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57173",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Michail Skobelev"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57173",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mikhail Dmitrijevitj Skobelev"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57173",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Michail Skobelew"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q57173",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "General Skobeleff"
+    }
+  ]
+}

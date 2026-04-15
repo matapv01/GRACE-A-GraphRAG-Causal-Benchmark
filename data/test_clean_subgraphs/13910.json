@@ -1,0 +1,43 @@
+{
+  "question_id": "13910",
+  "answers": [
+    "http://www.wikidata.org/entity/Q25235"
+  ],
+  "gold_path": {
+    "question_id": "13910",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q182098",
+        "predicate": "http://www.wikidata.org/prop/direct/P138",
+        "object": "http://www.wikidata.org/entity/Q25235"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q182098",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P5063",
+      "object": "http://globalwordnet.org/ili/i108997"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182098",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8769",
+      "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/kilowattHour"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182098",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2968",
+      "object": "http://qudt.org/vocab/unit/KiloW-HR"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182098",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P3328",
+      "object": "http://www.wurvoc.org/vocabularies/om-1.8/kilowatt_hour"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182098",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "20"
+    }
+  ]
+}

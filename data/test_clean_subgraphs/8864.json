@@ -1,0 +1,69 @@
+{
+  "question_id": "8864",
+  "answers": [
+    "http://www.wikidata.org/entity/Q108839994",
+    "http://www.wikidata.org/entity/Q21935651"
+  ],
+  "gold_path": {
+    "question_id": "8864",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25191",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q25191-0338726C-849A-463E-ABCA-ECE24EF27EF8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25191-0338726C-849A-463E-ABCA-ECE24EF27EF8",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25191-0338726C-849A-463E-ABCA-ECE24EF27EF8",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q21935651"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25191",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q25191-533376fd-4db6-377f-2927-77f82ae1ad78"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25191-533376fd-4db6-377f-2927-77f82ae1ad78",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103360"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q25191-533376fd-4db6-377f-2927-77f82ae1ad78",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q108839994"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25191",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "诺兰"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25191",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "諾蘭"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25191",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nolan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25191",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Christopher Edward Nolan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25191",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Christopher Jonathan James Nolan"
+    }
+  ]
+}

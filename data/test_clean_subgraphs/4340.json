@@ -1,0 +1,43 @@
+{
+  "question_id": "4340",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4638104"
+  ],
+  "gold_path": {
+    "question_id": "4340",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q255651",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q255651-d4e119d9-4c40-c8c6-f047-f879a9754929"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q255651-d4e119d9-4c40-c8c6-f047-f879a9754929",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q1537996"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q255651-d4e119d9-4c40-c8c6-f047-f879a9754929",
+        "predicate": "pq:P805",
+        "object": "http://www.wikidata.org/entity/Q4638104"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q255651",
+      "predicate": "http://www.wikidata.org/prop/P2909",
+      "object": "http://www.wikidata.org/entity/statement/Q255651-f7782221-4fe0-7122-8d5a-c7b6cad922e9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255651",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Tyne Daly"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255651",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "تاين دالي"
+    }
+  ]
+}

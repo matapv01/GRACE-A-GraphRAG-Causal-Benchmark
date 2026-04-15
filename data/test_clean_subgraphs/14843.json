@@ -1,0 +1,38 @@
+{
+  "question_id": "14843",
+  "answers": [
+    "http://www.wikidata.org/entity/Q313244"
+  ],
+  "gold_path": {
+    "question_id": "14843",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16205446",
+        "predicate": "http://www.wikidata.org/prop/direct/P50",
+        "object": "http://www.wikidata.org/entity/Q3188047"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3188047",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q313244"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16205446",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "The Meaning of Matthew"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16205446",
+      "predicate": "http://schema.org/description",
+      "object": "книга"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16205446",
+      "predicate": "http://schema.org/description",
+      "object": "كتاب من تأليف جودي شيبرد"
+    }
+  ]
+}

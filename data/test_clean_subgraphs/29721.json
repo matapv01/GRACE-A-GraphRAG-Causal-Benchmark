@@ -1,0 +1,43 @@
+{
+  "question_id": "29721",
+  "answers": [
+    "Organic_Farming"
+  ],
+  "gold_path": {
+    "question_id": "29721",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q165647",
+        "predicate": "http://www.wikidata.org/prop/direct/P4255",
+        "object": "Organic_Farming"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q165647",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "49"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165647",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "mahepõllumajandus"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165647",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ജൈവകൃഷി"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165647",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Organiese landbou"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q165647",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "زراعة عضوية"
+    }
+  ]
+}

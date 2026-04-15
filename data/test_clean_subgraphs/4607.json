@@ -1,0 +1,53 @@
+{
+  "question_id": "4607",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4243514"
+  ],
+  "gold_path": {
+    "question_id": "4607",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4419809",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q4419809-E7DCC25B-3A66-4519-9F16-42E8E58290B8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4419809-E7DCC25B-3A66-4519-9F16-42E8E58290B8",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q4243514"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4419809-E7DCC25B-3A66-4519-9F16-42E8E58290B8",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q11030"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4419809",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q4419809-1ea5e5ae-436c-5a71-8427-184dff0fffad"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4419809",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q1142513"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4419809",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/Q4419809-F53EC4D1-C3D5-4491-BD7F-8380C2A4A046"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4419809",
+      "predicate": "http://www.wikidata.org/prop/P2604",
+      "object": "http://www.wikidata.org/entity/statement/Q4419809-75be4bef-4060-45b8-6625-f1618cb43d4f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4419809",
+      "predicate": "http://www.wikidata.org/prop/direct/P227",
+      "object": "1232594385"
+    }
+  ]
+}

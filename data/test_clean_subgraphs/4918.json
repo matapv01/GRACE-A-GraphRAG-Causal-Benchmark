@@ -1,0 +1,53 @@
+{
+  "question_id": "4918",
+  "answers": [
+    "2009-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4918",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189534",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q189534-4617f44c-4137-dde9-01d5-41de569ffe8f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189534-4617f44c-4137-dde9-01d5-41de569ffe8f",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q23700921"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189534-4617f44c-4137-dde9-01d5-41de569ffe8f",
+        "predicate": "pq:P585",
+        "object": "2009-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "帕特"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ペルト"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Arvo Pært"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Άρβο Παρτ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Άρβο Πέρτ"
+    }
+  ]
+}

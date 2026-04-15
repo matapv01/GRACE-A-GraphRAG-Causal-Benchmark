@@ -1,0 +1,77 @@
+{
+  "question_id": "3458",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1770017",
+    "http://www.wikidata.org/entity/Q4562382",
+    "http://www.wikidata.org/entity/Q3689115",
+    "http://www.wikidata.org/entity/Q28318785",
+    "http://www.wikidata.org/entity/Q214633"
+  ],
+  "gold_path": {
+    "question_id": "3458",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4562382",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4562382",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "0.19"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3689115",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3689115",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "0.5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28318785",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q28318785",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "0.5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q214633",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q214633",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1770017",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q16521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1770017",
+        "predicate": "http://www.wikidata.org/prop/direct/P4214",
+        "object": "2"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4562382",
+      "predicate": "http://www.wikidata.org/prop/P838",
+      "object": "http://www.wikidata.org/entity/statement/Q4562382-A582D349-EEBD-46DE-9DC9-7A03AF6C8702"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4562382",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Daphnia pulicaria"
+    }
+  ]
+}

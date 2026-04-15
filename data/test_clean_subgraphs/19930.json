@@ -1,0 +1,49 @@
+{
+  "question_id": "19930",
+  "answers": [
+    "http://www.wikidata.org/entity/Q100156033",
+    "http://www.wikidata.org/entity/Q2958504"
+  ],
+  "gold_path": {
+    "question_id": "19930",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2958504",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q41532"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2958504",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100156033",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q41532"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q100156033",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2958504",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Charles Baudoin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2958504",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Louis Charles Baudouin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2958504",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Louis Charles-Baudouin"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "19728",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3123267"
+  ],
+  "gold_path": {
+    "question_id": "19728",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3838",
+        "predicate": "http://www.wikidata.org/prop/direct/P2633",
+        "object": "http://www.wikidata.org/entity/Q3123267"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3123267",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q46865913"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3838",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Léopoldville"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3838",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Leopoldville"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3838",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Леопольдвиль"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3838",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "كينشاسا"
+    }
+  ]
+}

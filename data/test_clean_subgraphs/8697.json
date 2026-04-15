@@ -1,0 +1,53 @@
+{
+  "question_id": "8697",
+  "answers": [
+    "http://www.wikidata.org/entity/Q15243387"
+  ],
+  "gold_path": {
+    "question_id": "8697",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151284",
+        "predicate": "http://www.wikidata.org/prop/P1344",
+        "object": "http://www.wikidata.org/entity/statement/Q151284-5B87EA1B-6B00-4051-AC0E-DCF79975D9ED"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q151284-5B87EA1B-6B00-4051-AC0E-DCF79975D9ED",
+        "predicate": "ps:P1344",
+        "object": "http://www.wikidata.org/entity/Q8138"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q151284-5B87EA1B-6B00-4051-AC0E-DCF79975D9ED",
+        "predicate": "pq:P166",
+        "object": "http://www.wikidata.org/entity/Q15243387"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151284",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q151284-cbfbc2f5-4c93-9085-b9e5-e604c82f172b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151284",
+      "predicate": "http://www.wikidata.org/prop/P2031",
+      "object": "http://www.wikidata.org/entity/statement/Q151284-cee48fd4-45da-daac-2ee3-f3c9dd57b44a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151284",
+      "predicate": "http://www.wikidata.org/prop/P40",
+      "object": "http://www.wikidata.org/entity/statement/Q151284-4726dd9b-4189-9987-4ce5-681c3cefe7c6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151284",
+      "predicate": "http://www.wikidata.org/prop/P2032",
+      "object": "http://www.wikidata.org/entity/statement/Q151284-55DAAB43-2502-495A-96EC-00F225CE2191"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151284",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q151284-B1632A41-6ADD-4216-B64F-8AB866FDE7CB"
+    }
+  ]
+}

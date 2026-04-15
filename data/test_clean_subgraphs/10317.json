@@ -1,0 +1,58 @@
+{
+  "question_id": "10317",
+  "answers": [
+    "1765-07-14T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10317",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11806",
+        "predicate": "http://www.wikidata.org/prop/P40",
+        "object": "http://www.wikidata.org/entity/statement/q11806-441F4645-8BE1-4DD7-971C-56B3C818A97F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q11806-441F4645-8BE1-4DD7-971C-56B3C818A97F",
+        "predicate": "ps:P40",
+        "object": "http://www.wikidata.org/entity/Q4667661"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q11806-441F4645-8BE1-4DD7-971C-56B3C818A97F",
+        "predicate": "pq:P569",
+        "object": "1765-07-14T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q11806-441F4645-8BE1-4DD7-971C-56B3C818A97F",
+        "predicate": "pq:P25",
+        "object": "http://www.wikidata.org/entity/Q206191"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "John-Adams"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P349",
+      "object": "01133474"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q11806-CB661000-75B6-46C0-BA9F-BDFD6DA07A74"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P345",
+      "object": "nm1547016"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11806",
+      "predicate": "http://www.wikidata.org/prop/direct/P3429",
+      "object": "adamsjohn0000035"
+    }
+  ]
+}

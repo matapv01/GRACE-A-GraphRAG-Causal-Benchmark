@@ -1,0 +1,105 @@
+{
+  "question_id": "11493",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3586671",
+    "http://www.wikidata.org/entity/Q45578",
+    "http://www.wikidata.org/entity/Q4226"
+  ],
+  "gold_path": {
+    "question_id": "11493",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q76",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q76-332A67A7-449C-41D5-B716-FE99DFE63FD0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76-332A67A7-449C-41D5-B716-FE99DFE63FD0",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q4416090"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76-332A67A7-449C-41D5-B716-FE99DFE63FD0",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q3586671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q76",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q76-6CA80C5F-19D1-4910-98C5-7755722A2225"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76-6CA80C5F-19D1-4910-98C5-7755722A2225",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q4416090"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76-6CA80C5F-19D1-4910-98C5-7755722A2225",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q3586671"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q76",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q76-910e0594-4133-2286-03d1-879f68193e24"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76-910e0594-4133-2286-03d1-879f68193e24",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q1467287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q76-910e0594-4133-2286-03d1-879f68193e24",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q45578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q76",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q76-D4FDE516-F20C-4154-ADCE-7C5B609DFDFF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q76-D4FDE516-F20C-4154-ADCE-7C5B609DFDFF",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q11696"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q76-D4FDE516-F20C-4154-ADCE-7C5B609DFDFF",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q4226"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q76-D4FDE516-F20C-4154-ADCE-7C5B609DFDFF",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q45578"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q76",
+      "predicate": "http://www.wikidata.org/prop/direct/P227",
+      "object": "132522136"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q11696"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q1467287"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q4416090"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q20058778"
+    }
+  ]
+}

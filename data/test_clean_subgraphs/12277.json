@@ -1,0 +1,48 @@
+{
+  "question_id": "12277",
+  "answers": [
+    "http://www.wikidata.org/entity/Q132404"
+  ],
+  "gold_path": {
+    "question_id": "12277",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q105320",
+        "predicate": "http://www.wikidata.org/prop/direct/P19",
+        "object": "http://www.wikidata.org/entity/Q132404"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q132404",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q62868"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q105320",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-28T19:07:30Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105320",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "12532737p"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105320",
+      "predicate": "http://www.wikidata.org/prop/direct/P7578",
+      "object": "berthe-morisot"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105320",
+      "predicate": "http://www.wikidata.org/prop/direct/P3965",
+      "object": "652"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q105320",
+      "predicate": "http://www.wikidata.org/prop/direct/P3365",
+      "object": "berthe-morisot"
+    }
+  ]
+}

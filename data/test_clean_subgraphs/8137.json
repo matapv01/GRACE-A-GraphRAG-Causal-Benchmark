@@ -1,0 +1,59 @@
+{
+  "question_id": "8137",
+  "answers": [
+    "http://www.wikidata.org/entity/Q38",
+    "http://www.wikidata.org/entity/Q90"
+  ],
+  "gold_path": {
+    "question_id": "8137",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q216873",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q216873-252A1481-E241-4869-BFAD-0EDDAEF5A53A"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216873-252A1481-E241-4869-BFAD-0EDDAEF5A53A",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q38"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q216873",
+        "predicate": "http://www.wikidata.org/prop/P937",
+        "object": "http://www.wikidata.org/entity/statement/Q216873-CF559410-5100-4F2C-AED6-6DA4E6D0EF7F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216873-CF559410-5100-4F2C-AED6-6DA4E6D0EF7F",
+        "predicate": "ps:P937",
+        "object": "http://www.wikidata.org/entity/Q90"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q216873",
+      "predicate": "http://www.wikidata.org/prop/direct/P20",
+      "object": "http://www.wikidata.org/entity/Q90"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216873",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q216873-58F9AB44-B396-473E-B407-FD4689DD652A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216873",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "puvis-de-chavannes-pierre"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216873",
+      "predicate": "http://www.wikidata.org/prop/direct/P2041",
+      "object": "891"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216873",
+      "predicate": "http://www.wikidata.org/prop/direct/P4025",
+      "object": "7yxYmDqxYm"
+    }
+  ]
+}

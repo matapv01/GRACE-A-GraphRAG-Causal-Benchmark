@@ -1,0 +1,101 @@
+{
+  "question_id": "3126",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1860",
+    "http://www.wikidata.org/entity/Q13955",
+    "http://www.wikidata.org/entity/Q1321",
+    "http://www.wikidata.org/entity/Q11051"
+  ],
+  "gold_path": {
+    "question_id": "3126",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q33742"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P1098",
+        "object": "753359540"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11051",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q33742"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11051",
+        "predicate": "http://www.wikidata.org/prop/direct/P1098",
+        "object": "490100000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11051",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q33742"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P1098",
+        "object": "485000000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1321",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13955",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q33742"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13955",
+        "predicate": "http://www.wikidata.org/prop/direct/P1098",
+        "object": "315421300"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13955",
+        "predicate": "http://www.wikidata.org/prop/direct/P5109",
+        "object": "http://www.wikidata.org/entity/Q499327"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13955",
+        "predicate": "http://www.wikidata.org/prop/direct/P1098",
+        "object": "295000000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P1018"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "English"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "inglés"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1860",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "английский язык"
+    }
+  ]
+}

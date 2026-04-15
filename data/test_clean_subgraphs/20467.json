@@ -1,0 +1,81 @@
+{
+  "question_id": "20467",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1690702",
+    "http://www.wikidata.org/entity/Q215574",
+    "http://www.wikidata.org/entity/Q2077123",
+    "http://www.wikidata.org/entity/Q295659"
+  ],
+  "gold_path": {
+    "question_id": "20467",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q83333",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q215574"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q215574",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83333",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q295659"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q295659",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83333",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q1690702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1690702",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q83333",
+        "predicate": "http://www.wikidata.org/prop/direct/P185",
+        "object": "http://www.wikidata.org/entity/Q2077123"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2077123",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q83333",
+      "predicate": "http://schema.org/version",
+      "object": "2478456298"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83333",
+      "predicate": "http://schema.org/description",
+      "object": "američki molekularni biolog, genetičar, i zoolog"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83333",
+      "predicate": "http://schema.org/description",
+      "object": "biólogo estadounidense (1928-2025)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83333",
+      "predicate": "http://schema.org/description",
+      "object": "American molecular biologist, geneticist, zoologist and Nobel Laureate (1928–2025)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q83333",
+      "predicate": "http://schema.org/description",
+      "object": "američki molekularni biolog, genetičar i zoolog"
+    }
+  ]
+}

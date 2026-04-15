@@ -1,0 +1,48 @@
+{
+  "question_id": "5306",
+  "answers": [
+    "http://www.wikidata.org/entity/Q165803"
+  ],
+  "gold_path": {
+    "question_id": "5306",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16556",
+        "predicate": "http://www.wikidata.org/prop/P6",
+        "object": "http://www.wikidata.org/entity/statement/Q16556-f469cc9b-4c7e-14ec-9927-de9cc7cf5c80"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q16556-f469cc9b-4c7e-14ec-9927-de9cc7cf5c80",
+        "predicate": "ps:P6",
+        "object": "http://www.wikidata.org/entity/Q165803"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16556",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "cityofphoenixaz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16556",
+      "predicate": "http://www.wikidata.org/prop/direct/P3553",
+      "object": "20314914"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16556",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "cityofphoenixaz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16556",
+      "predicate": "http://www.wikidata.org/prop/direct/P1830",
+      "object": "http://www.wikidata.org/entity/Q912916"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16556",
+      "predicate": "http://www.wikidata.org/prop/direct/P1830",
+      "object": "http://www.wikidata.org/entity/Q1538690"
+    }
+  ]
+}

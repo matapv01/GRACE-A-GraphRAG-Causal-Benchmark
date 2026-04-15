@@ -1,0 +1,43 @@
+{
+  "question_id": "21311",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21511883"
+  ],
+  "gold_path": {
+    "question_id": "21311",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21511883",
+        "predicate": "http://www.wikidata.org/prop/direct/P802",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21511883",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21511883",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q41604"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21511883",
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "object": "http://www.wikidata.org/entity/Q142"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21511883",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q18175370"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21511883",
+      "predicate": "http://www.wikidata.org/prop/direct/P1712",
+      "object": "person/brigitte-macron"
+    }
+  ]
+}

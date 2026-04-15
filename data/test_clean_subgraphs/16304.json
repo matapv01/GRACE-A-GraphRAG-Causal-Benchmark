@@ -1,0 +1,48 @@
+{
+  "question_id": "16304",
+  "answers": [
+    "http://www.wikidata.org/entity/Q23633"
+  ],
+  "gold_path": {
+    "question_id": "16304",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3247886",
+        "predicate": "http://www.wikidata.org/prop/direct/P179",
+        "object": "http://www.wikidata.org/entity/Q209878"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q209878",
+        "predicate": "http://www.wikidata.org/prop/direct/P272",
+        "object": "http://www.wikidata.org/entity/Q23633"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3247886",
+      "predicate": "http://schema.org/version",
+      "object": "2463240972"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3247886",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3247886",
+      "predicate": "http://www.wikidata.org/prop/direct/P8013",
+      "object": "shows/rome/seasons/1/episodes/1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3247886",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "The Stolen Eagle"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3247886",
+      "predicate": "http://www.wikidata.org/prop/direct/P58",
+      "object": "http://www.wikidata.org/entity/Q965484"
+    }
+  ]
+}

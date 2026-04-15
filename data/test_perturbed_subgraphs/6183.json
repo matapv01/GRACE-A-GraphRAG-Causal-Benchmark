@@ -1,0 +1,412 @@
+{
+  "clean": {
+    "question_id": "6183",
+    "answers": [
+      "1805-03-16T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q723118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0628\u0631\u062c\u0627\u0645\u0648"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "pq:P582",
+        "object": "1805-03-16T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Bergamo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T17:39:39Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q628-7E44868B-1701-4569-B114-99A68D75F83C"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "6183",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q723118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0628\u0631\u062c\u0627\u0645\u0648"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Bergamo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T17:39:39Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q628-7E44868B-1701-4569-B114-99A68D75F83C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1805-03-16T00:00:00Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "6183",
+    "answers": [
+      "1805-03-16T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q723118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0628\u0631\u062c\u0627\u0645\u0648"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "pq:P582",
+        "object": "1805-03-16T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Bergamo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T17:39:39Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q628-7E44868B-1701-4569-B114-99A68D75F83C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "1802-04-09T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "1802-02-26T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "1803-04-23T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "1803-07-29T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "1806-09-24T00:00:00Z"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "6183",
+    "answers": [
+      "1805-03-16T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q723118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0628\u0631\u062c\u0627\u0645\u0648"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "pq:P582",
+        "object": "1805-03-16T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Bergamo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T17:39:39Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q628-7E44868B-1701-4569-B114-99A68D75F83C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "6183",
+    "answers": [
+      "1806-06-20T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P17",
+        "object": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "ps:P17",
+        "object": "http://www.wikidata.org/entity/Q723118"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "\u0628\u0631\u062c\u0627\u0645\u0648"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "object": "Bergamo"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://schema.org/dateModified",
+        "object": "2026-04-04T17:39:39Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q628",
+        "predicate": "http://www.wikidata.org/prop/P3219",
+        "object": "http://www.wikidata.org/entity/statement/Q628-7E44868B-1701-4569-B114-99A68D75F83C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q628-192eb621-4e3e-ca5a-4493-3d9e43f8b8ba",
+        "predicate": "pq:P582",
+        "object": "1806-06-20T00:00:00Z"
+      }
+    ]
+  }
+}

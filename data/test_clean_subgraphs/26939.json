@@ -1,0 +1,43 @@
+{
+  "question_id": "26939",
+  "answers": [
+    "http://www.wikidata.org/entity/Q856797"
+  ],
+  "gold_path": {
+    "question_id": "26939",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5830",
+        "predicate": "http://www.wikidata.org/prop/direct/P1956",
+        "object": "http://www.wikidata.org/entity/Q856797"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5830",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "airbus-a380"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5830",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q5830-86F4AAEC-A6D7-43A6-B38E-424185D176CE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5830",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "airbus-a380"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5830",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "premier-vol-de-l-airbus-a380"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5830",
+      "predicate": "http://schema.org/description",
+      "object": "avión de pasaxeiros"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "question_id": "26232",
+  "answers": [
+    "snapchatjapan",
+    "Snapchat"
+  ],
+  "gold_path": {
+    "question_id": "26232",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q333618",
+        "predicate": "http://www.wikidata.org/prop/direct/P2002",
+        "object": "Snapchat"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q333618",
+        "predicate": "http://www.wikidata.org/prop/direct/P2002",
+        "object": "snapchatjapan"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q333618",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "45"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q333618",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "스냅챗"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q333618",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Snapchat"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q333618",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سناب شات"
+    }
+  ]
+}

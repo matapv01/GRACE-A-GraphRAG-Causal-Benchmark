@@ -1,0 +1,59 @@
+{
+  "question_id": "14897",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1035954",
+    "http://www.wikidata.org/entity/Q43200"
+  ],
+  "gold_path": {
+    "question_id": "14897",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1064978",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q5383"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5383",
+        "predicate": "http://www.wikidata.org/prop/direct/P91",
+        "object": "http://www.wikidata.org/entity/Q43200"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1064978",
+        "predicate": "http://www.wikidata.org/prop/direct/P1346",
+        "object": "http://www.wikidata.org/entity/Q14045"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14045",
+        "predicate": "http://www.wikidata.org/prop/direct/P91",
+        "object": "http://www.wikidata.org/entity/Q1035954"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1064978",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "MTV Video Müzik Ödülleri En İyi Erkek Videosu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1064978",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "جائزة إم تي في الأغاني المصورة لأفضل فيديو لذكر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1064978",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "MTV Video Music Award al millor vídeo masculí"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1064978",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Nejlepší mužský videoklip"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1064978",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "MTV Video Music Award for Best Male Video"
+    }
+  ]
+}

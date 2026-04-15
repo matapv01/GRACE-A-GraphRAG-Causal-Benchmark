@@ -1,0 +1,53 @@
+{
+  "question_id": "5554",
+  "answers": [
+    "http://www.wikidata.org/entity/Q186256"
+  ],
+  "gold_path": {
+    "question_id": "5554",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7726",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q7726-f0efb84a-4f10-3eb3-08f0-7f52b060768b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7726-f0efb84a-4f10-3eb3-08f0-7f52b060768b",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q3847454"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7726-f0efb84a-4f10-3eb3-08f0-7f52b060768b",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q186256"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7726",
+      "predicate": "http://www.wikidata.org/prop/P396",
+      "object": "http://www.wikidata.org/entity/statement/q7726-1a3cdd3c-4a81-cefd-352d-03ca4f670fa6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7726",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/q7726-763A951C-642F-497D-B529-25A69CC10AD8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7726",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "LO1V134693"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7726",
+      "predicate": "http://www.wikidata.org/prop/direct/P2977",
+      "object": "JoBonap"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7726",
+      "predicate": "http://www.wikidata.org/prop/direct/P5587",
+      "object": "gdsvztm00whb429"
+    }
+  ]
+}

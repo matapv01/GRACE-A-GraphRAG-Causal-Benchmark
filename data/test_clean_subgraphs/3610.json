@@ -1,0 +1,59 @@
+{
+  "question_id": "3610",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1098876",
+    "http://www.wikidata.org/entity/Q23190853"
+  ],
+  "gold_path": {
+    "question_id": "3610",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4340209",
+        "predicate": "http://www.wikidata.org/prop/P2293",
+        "object": "http://www.wikidata.org/entity/statement/Q4340209-1F2C2572-A6ED-4702-BFC7-4D3CC6FADAEA"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4340209-1F2C2572-A6ED-4702-BFC7-4D3CC6FADAEA",
+        "predicate": "ps:P2293",
+        "object": "http://www.wikidata.org/entity/Q18032734"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4340209-1F2C2572-A6ED-4702-BFC7-4D3CC6FADAEA",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q1098876"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q4340209-1F2C2572-A6ED-4702-BFC7-4D3CC6FADAEA",
+        "predicate": "pq:P459",
+        "object": "http://www.wikidata.org/entity/Q23190853"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4340209",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8408",
+      "object": "http://kbpedia.org/kko/rc/Unhappiness"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4340209",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/07552873-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4340209",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/14412645-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4340209",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8814",
+      "object": "http://wordnet-rdf.princeton.edu/rdf/id/14427564-n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4340209",
+      "predicate": "http://www.wikidata.org/prop/direct/P8885",
+      "object": "우울장애"
+    }
+  ]
+}

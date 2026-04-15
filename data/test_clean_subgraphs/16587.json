@@ -1,0 +1,38 @@
+{
+  "question_id": "16587",
+  "answers": [
+    "http://www.wikidata.org/entity/Q180704"
+  ],
+  "gold_path": {
+    "question_id": "16587",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q24068213",
+        "predicate": "http://www.wikidata.org/prop/direct/P1441",
+        "object": "http://www.wikidata.org/entity/Q205028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q205028",
+        "predicate": "http://www.wikidata.org/prop/direct/P144",
+        "object": "http://www.wikidata.org/entity/Q180704"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q24068213",
+      "predicate": "http://schema.org/description",
+      "object": "fictional character from 2010 film 'Iron Man 2'"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24068213",
+      "predicate": "http://schema.org/description",
+      "object": "персонаж фильма \"Железный человек-2\""
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q24068213",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Detective Lemieux"
+    }
+  ]
+}

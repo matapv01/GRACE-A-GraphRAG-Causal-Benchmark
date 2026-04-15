@@ -1,0 +1,59 @@
+{
+  "question_id": "21277",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1026939",
+    "http://www.wikidata.org/entity/Q1033692"
+  ],
+  "gold_path": {
+    "question_id": "21277",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q366834",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q1026939"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1026939",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23002039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q366834",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q1033692"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1033692",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q23002039"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q366834",
+      "predicate": "http://www.wikidata.org/prop/direct/P570",
+      "object": "1998-05-28T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366834",
+      "predicate": "http://www.wikidata.org/prop/direct/P8179",
+      "object": "ncf10719724"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366834",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Phil%20as%20Chick-1-1.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366834",
+      "predicate": "http://www.wikidata.org/prop/direct/P5007",
+      "object": "Phil-Hartman"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366834",
+      "predicate": "http://www.wikidata.org/prop/direct/P5534",
+      "object": "14104"
+    }
+  ]
+}

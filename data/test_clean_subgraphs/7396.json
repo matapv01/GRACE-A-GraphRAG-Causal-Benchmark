@@ -1,0 +1,33 @@
+{
+  "question_id": "7396",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10495329"
+  ],
+  "gold_path": {
+    "question_id": "7396",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30875",
+        "predicate": "http://www.wikidata.org/prop/P735",
+        "object": "http://www.wikidata.org/entity/statement/Q30875-22234741-4988-2e9e-9747-aed911981574"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q30875-22234741-4988-2e9e-9747-aed911981574",
+        "predicate": "ps:P735",
+        "object": "http://www.wikidata.org/entity/Q10495329"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q30875",
+      "predicate": "http://schema.org/version",
+      "object": "2480703618"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30875",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Oscar Wilde"
+    }
+  ]
+}

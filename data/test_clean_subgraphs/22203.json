@@ -1,0 +1,38 @@
+{
+  "question_id": "22203",
+  "answers": [
+    "http://www.wikidata.org/entity/Q54870847"
+  ],
+  "gold_path": {
+    "question_id": "22203",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q54870847",
+        "predicate": "http://www.wikidata.org/prop/direct/P710",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q54870847",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q60589804"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q54870847",
+      "predicate": "http://www.wikidata.org/prop/direct/P7153",
+      "object": "http://www.wikidata.org/entity/Q323767"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54870847",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q54870847-feed584c-49f6-2483-0140-b28f24b1902b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54870847",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Macron%202017%20stencil%2C%20Paris%20%2835283347375%29%20%28cropped1%29.jpg"
+    }
+  ]
+}

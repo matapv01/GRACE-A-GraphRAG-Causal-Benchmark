@@ -1,0 +1,38 @@
+{
+  "question_id": "9090",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2877167"
+  ],
+  "gold_path": {
+    "question_id": "9090",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q633",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q633-19359324-7A8B-405C-81C9-3C5C8E5E009C"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q633-19359324-7A8B-405C-81C9-3C5C8E5E009C",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5593754"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q633-19359324-7A8B-405C-81C9-3C5C8E5E009C",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q2877167"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q633",
+      "predicate": "http://schema.org/version",
+      "object": "2480540541"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q633",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Neil Young"
+    }
+  ]
+}

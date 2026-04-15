@@ -1,0 +1,53 @@
+{
+  "question_id": "8808",
+  "answers": [
+    "http://www.wikidata.org/entity/Q24137"
+  ],
+  "gold_path": {
+    "question_id": "8808",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q51552",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q51552-19b87843-419e-b951-0c80-f980ecdf2137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q51552-19b87843-419e-b951-0c80-f980ecdf2137",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q24137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q51552-19b87843-419e-b951-0c80-f980ecdf2137",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q84199"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q51552",
+      "predicate": "http://www.wikidata.org/prop/direct/P8885",
+      "object": "로만 폴란스키"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51552",
+      "predicate": "http://www.wikidata.org/prop/direct/P8796",
+      "object": "108"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51552",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007266640205171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51552",
+      "predicate": "http://www.wikidata.org/prop/direct/P8974",
+      "object": "a/992be71a-3eca-4c12-a222-fc2d9cabc141"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q51552",
+      "predicate": "http://www.wikidata.org/prop/direct/P8971",
+      "object": "23382"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "question_id": "30208",
+  "answers": [
+    "http://www.wikidata.org/entity/Q296782"
+  ],
+  "gold_path": {
+    "question_id": "30208",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16980",
+        "predicate": "http://www.wikidata.org/prop/direct/P178",
+        "object": "http://www.wikidata.org/entity/Q296782"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q296782",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5225895"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16980",
+      "predicate": "http://schema.org/version",
+      "object": "2462926078"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16980",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ARM"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16980",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Advanced RISC Machine"
+    }
+  ]
+}

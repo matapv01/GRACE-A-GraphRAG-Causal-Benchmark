@@ -1,0 +1,50 @@
+{
+  "question_id": "27739",
+  "answers": [
+    "http://www.wikidata.org/entity/Q104413623",
+    "http://www.wikidata.org/entity/Q27657775",
+    "http://www.wikidata.org/entity/Q441113"
+  ],
+  "gold_path": {
+    "question_id": "27739",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q156625",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q441113"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156625",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q27657775"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156625",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q104413623"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q156625",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ሱፍ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q156625",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Carthamus tinctorius"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q156625",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "عصفر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q156625",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "العصفر"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "question_id": "29875",
+  "answers": [
+    "http://www.wikidata.org/entity/Q17",
+    "http://www.wikidata.org/entity/Q408",
+    "http://www.wikidata.org/entity/Q33"
+  ],
+  "gold_path": {
+    "question_id": "29875",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q408",
+        "predicate": "http://www.wikidata.org/prop/direct/P2936",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q408",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Shapaan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "יפאן"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Zemlja Izlazećeg Sunca"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Negara Jepang"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Negeri Matahari Terbit"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "29438",
+  "answers": [
+    "http://www.wikidata.org/entity/Q278141"
+  ],
+  "gold_path": {
+    "question_id": "29438",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14384",
+        "predicate": "http://www.wikidata.org/prop/direct/P524",
+        "object": "http://www.wikidata.org/entity/Q278141"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14384",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q14384-9C9D1621-F8E0-42F8-835D-C97632E93FD6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14384",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "triceratops"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14384",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-12-26T16:43:38Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14384",
+      "predicate": "http://www.wikidata.org/prop/P189",
+      "object": "http://www.wikidata.org/entity/statement/Q14384-156e6666-4064-5778-3cce-c746d5b9dd9c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14384",
+      "predicate": "http://www.wikidata.org/prop/P189",
+      "object": "http://www.wikidata.org/entity/statement/Q14384-63ac92d0-4256-1e20-68f1-8e0bb111a7de"
+    }
+  ]
+}

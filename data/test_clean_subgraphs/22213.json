@@ -1,0 +1,70 @@
+{
+  "question_id": "22213",
+  "answers": [
+    "http://www.wikidata.org/entity/Q274488",
+    "http://www.wikidata.org/entity/Q320925",
+    "http://www.wikidata.org/entity/Q320930"
+  ],
+  "gold_path": {
+    "question_id": "22213",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q274488",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q185043"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q274488",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50068795"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q320925",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q185043"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q320925",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50068795"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q320930",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q185043"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q320930",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q50068795"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q274488",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-12T22:48:20Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274488",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Wu"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274488",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "吳"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274488",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "오"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q274488",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "孫吳"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "question_id": "27177",
+  "answers": [
+    "bouwkunde/gulden-snede",
+    "kunst-tot-de-renaissance/gulden-snede",
+    "wiskunde/gulden-snede"
+  ],
+  "gold_path": {
+    "question_id": "27177",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41690",
+        "predicate": "http://www.wikidata.org/prop/direct/P3569",
+        "object": "bouwkunde/gulden-snede"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41690",
+        "predicate": "http://www.wikidata.org/prop/direct/P3569",
+        "object": "kunst-tot-de-renaissance/gulden-snede"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41690",
+        "predicate": "http://www.wikidata.org/prop/direct/P3569",
+        "object": "wiskunde/gulden-snede"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41690",
+      "predicate": "http://schema.org/description",
+      "object": "ثابت رياضي يحقق عندما يكون مجموع عددين مقسوم على أكبرهما يساوي خارج قسمة أكبر العددين على أصغرهما."
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41690",
+      "predicate": "http://schema.org/description",
+      "object": "গাণিতিক অনুপাত"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41690",
+      "predicate": "http://schema.org/description",
+      "object": "raó entre dos segments a i b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41690",
+      "predicate": "http://schema.org/description",
+      "object": "Verhältnis zwischen zwei Größen, deren Summe im gleichen Verhältnis zur größeren steht"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41690",
+      "predicate": "http://schema.org/description",
+      "object": "μαθηματική σταθερά ίση με (1+√5)/2 ≈ 1.618..."
+    }
+  ]
+}

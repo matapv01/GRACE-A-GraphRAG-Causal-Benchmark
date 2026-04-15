@@ -1,0 +1,48 @@
+{
+  "question_id": "8007",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1264867"
+  ],
+  "gold_path": {
+    "question_id": "8007",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q295386",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q295386-1CA51993-C4CE-4CEE-B75A-8D82B19077BF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295386-1CA51993-C4CE-4CEE-B75A-8D82B19077BF",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1264867"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q295386",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T09:07:57Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295386",
+      "predicate": "http://www.wikidata.org/prop/direct/P5441",
+      "object": "Moore,_George_Edward"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295386",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "12034164j"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295386",
+      "predicate": "http://www.wikidata.org/prop/direct/P1280",
+      "object": "25624675"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295386",
+      "predicate": "http://www.wikidata.org/prop/direct/P863",
+      "object": "thinker/4186"
+    }
+  ]
+}

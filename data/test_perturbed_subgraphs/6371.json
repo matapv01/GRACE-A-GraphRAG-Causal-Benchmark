@@ -1,0 +1,437 @@
+{
+  "clean": {
+    "question_id": "6371",
+    "answers": [
+      "2007-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc564\ub4dc\ub8e8 \uc874\uc2a4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "pq:P582",
+        "object": "2007-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Andrew Johns"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u042d\u043d\u0434\u0440\u044e \u0414\u0436\u043e\u043d\u0441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://schema.org/version",
+        "object": "2476823606"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0646\u062f\u0631\u0648 \u062c\u0648\u0646\u0632"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q3339101"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "6371",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc564\ub4dc\ub8e8 \uc874\uc2a4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Andrew Johns"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u042d\u043d\u0434\u0440\u044e \u0414\u0436\u043e\u043d\u0441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://schema.org/version",
+        "object": "2476823606"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0646\u062f\u0631\u0648 \u062c\u0648\u0646\u0632"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q3339101"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "2007-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "6371",
+    "answers": [
+      "2007-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc564\ub4dc\ub8e8 \uc874\uc2a4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "pq:P582",
+        "object": "2007-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Andrew Johns"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u042d\u043d\u0434\u0440\u044e \u0414\u0436\u043e\u043d\u0441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://schema.org/version",
+        "object": "2476823606"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0646\u062f\u0631\u0648 \u062c\u0648\u0646\u0632"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q3339101"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "2010-12-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "2005-03-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "2008-06-18T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "2010-07-26T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "2004-10-25T00:00:00Z"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "6371",
+    "answers": [
+      "2007-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc564\ub4dc\ub8e8 \uc874\uc2a4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "pq:P582",
+        "object": "2007-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Andrew Johns"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u042d\u043d\u0434\u0440\u044e \u0414\u0436\u043e\u043d\u0441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://schema.org/version",
+        "object": "2476823606"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0646\u062f\u0631\u0648 \u062c\u0648\u0646\u0632"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q3339101"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q1705028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Japan%20in%20May%202003.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q48"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q217096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q1490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q5287"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "6371",
+    "answers": [
+      "2005-12-21T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc564\ub4dc\ub8e8 \uc874\uc2a4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Andrew Johns"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u042d\u043d\u0434\u0440\u044e \u0414\u0436\u043e\u043d\u0441"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://schema.org/version",
+        "object": "2476823606"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2846645",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0646\u062f\u0631\u0648 \u062c\u0648\u0646\u0632"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q3339101"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2846645-45CF4261-6C30-43A0-9615-98FFD767D8A6",
+        "predicate": "pq:P582",
+        "object": "2005-12-21T00:00:00Z"
+      }
+    ]
+  }
+}

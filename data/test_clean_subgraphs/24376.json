@@ -1,0 +1,54 @@
+{
+  "question_id": "24376",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6450426",
+    "http://www.wikidata.org/entity/Q3291258"
+  ],
+  "gold_path": {
+    "question_id": "24376",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3291258",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5470256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3291258",
+        "predicate": "rdfs:label",
+        "object": "kilikiti"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6450426",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5470256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6450426",
+        "predicate": "rdfs:label",
+        "object": "Kwik cricket"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3291258",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3291258",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q3291258-052af21b-4371-5b7a-e304-0de0e97e3b5f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3291258",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3291258",
+      "predicate": "http://www.wikidata.org/prop/P641",
+      "object": "http://www.wikidata.org/entity/statement/Q3291258-512F12FF-BC58-4CA5-A939-DF211DB4643D"
+    }
+  ]
+}

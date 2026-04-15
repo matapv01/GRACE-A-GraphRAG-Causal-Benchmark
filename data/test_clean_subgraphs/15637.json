@@ -1,0 +1,48 @@
+{
+  "question_id": "15637",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1125300"
+  ],
+  "gold_path": {
+    "question_id": "15637",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q28541853",
+        "predicate": "http://www.wikidata.org/prop/direct/P195",
+        "object": "http://www.wikidata.org/entity/Q180788"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180788",
+        "predicate": "http://www.wikidata.org/prop/direct/P149",
+        "object": "http://www.wikidata.org/entity/Q1125300"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q28541853",
+      "predicate": "http://schema.org/description",
+      "object": "måleri av James Whistler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28541853",
+      "predicate": "http://schema.org/description",
+      "object": "pintura de James Abbott McNeill Whistler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28541853",
+      "predicate": "http://schema.org/description",
+      "object": "quadre de James McNeill Whistler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28541853",
+      "predicate": "http://schema.org/description",
+      "object": "maleri af James McNeill Whistler"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q28541853",
+      "predicate": "http://schema.org/description",
+      "object": "Gemälde von James McNeill Whistler"
+    }
+  ]
+}

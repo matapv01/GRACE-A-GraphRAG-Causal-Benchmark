@@ -1,0 +1,53 @@
+{
+  "question_id": "6572",
+  "answers": [
+    "1877-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6572",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q559640",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/q559640-8e1327b6-4511-7358-18ce-8ec05afb0164"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q559640-8e1327b6-4511-7358-18ce-8ec05afb0164",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q30185"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q559640-8e1327b6-4511-7358-18ce-8ec05afb0164",
+        "predicate": "pq:P580",
+        "object": "1877-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q559640",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/q559640-FB8B3933-F9E6-48F2-890B-EC353F45E202"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559640",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q5332285"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559640",
+      "predicate": "http://www.wikidata.org/prop/direct/P109",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Seddon%20Signature-01.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559640",
+      "predicate": "http://www.wikidata.org/prop/P109",
+      "object": "http://www.wikidata.org/entity/statement/Q559640-3679CB03-CC15-427E-B6D3-BC6747764C0C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q559640",
+      "predicate": "http://www.wikidata.org/prop/direct/P106",
+      "object": "http://www.wikidata.org/entity/Q82955"
+    }
+  ]
+}

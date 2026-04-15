@@ -1,0 +1,59 @@
+{
+  "question_id": "20883",
+  "answers": [
+    "http://www.wikidata.org/entity/Q863122",
+    "http://www.wikidata.org/entity/Q2002038"
+  ],
+  "gold_path": {
+    "question_id": "20883",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q863122",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q863122",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5398426"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2002038",
+        "predicate": "http://www.wikidata.org/prop/direct/P371",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2002038",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5398426"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q863122",
+      "predicate": "http://www.wikidata.org/prop/P5327",
+      "object": "http://www.wikidata.org/entity/statement/Q863122-A5321059-3DEF-48E7-9CB0-946DF85BF601"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863122",
+      "predicate": "http://www.wikidata.org/prop/direct/P5327",
+      "object": "the-apprentice-us"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863122",
+      "predicate": "http://www.wikidata.org/prop/direct/P580",
+      "object": "2004-01-08T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863122",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "The-Apprentice-US-TV-series"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q863122",
+      "predicate": "http://www.wikidata.org/prop/direct/P910",
+      "object": "http://www.wikidata.org/entity/Q8846291"
+    }
+  ]
+}

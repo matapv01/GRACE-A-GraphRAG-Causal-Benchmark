@@ -1,0 +1,43 @@
+{
+  "question_id": "8208",
+  "answers": [
+    "http://www.wikidata.org/entity/Q693628"
+  ],
+  "gold_path": {
+    "question_id": "8208",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q107194",
+        "predicate": "http://www.wikidata.org/prop/P551",
+        "object": "http://www.wikidata.org/entity/statement/Q107194-25c00268-4f95-1253-4dc3-2b64cb9008fc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q107194-25c00268-4f95-1253-4dc3-2b64cb9008fc",
+        "predicate": "ps:P551",
+        "object": "http://www.wikidata.org/entity/Q693628"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q107194",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Georg Grosz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q107194",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Georg E. Grosz"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q107194",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Georg Ehrenfried Groß"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q107194",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "George Gross"
+    }
+  ]
+}

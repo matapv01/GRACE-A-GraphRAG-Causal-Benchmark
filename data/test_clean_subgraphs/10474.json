@@ -1,0 +1,53 @@
+{
+  "question_id": "10474",
+  "answers": [
+    "1987-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "10474",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q515632",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q515632-C05B1166-B5DB-4A11-B38E-FCEBDEF7D74B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q515632-C05B1166-B5DB-4A11-B38E-FCEBDEF7D74B",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q6952076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q515632-C05B1166-B5DB-4A11-B38E-FCEBDEF7D74B",
+        "predicate": "pq:P585",
+        "object": "1987-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q515632-C05B1166-B5DB-4A11-B38E-FCEBDEF7D74B",
+        "predicate": "pq:P1346",
+        "object": "http://www.wikidata.org/entity/Q297816"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q515632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ossie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q515632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Davis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q515632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Raiford Chatman Davis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q515632",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Raiford Chatmon Davis"
+    }
+  ]
+}

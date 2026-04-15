@@ -1,0 +1,59 @@
+{
+  "question_id": "21111",
+  "answers": [
+    "http://www.wikidata.org/entity/Q309818",
+    "http://www.wikidata.org/entity/Q76510"
+  ],
+  "gold_path": {
+    "question_id": "21111",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q76510",
+        "predicate": "http://www.wikidata.org/prop/direct/P184",
+        "object": "http://www.wikidata.org/entity/Q9047"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q76510",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q309818",
+        "predicate": "http://www.wikidata.org/prop/direct/P184",
+        "object": "http://www.wikidata.org/entity/Q9047"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q309818",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q76510",
+      "predicate": "http://www.wikidata.org/prop/direct/P3847",
+      "object": "person:christian_wolff_freiherr_von_(1679-1754)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76510",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "wolff-wolf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76510",
+      "predicate": "http://www.wikidata.org/prop/direct/P5370",
+      "object": "16187"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76510",
+      "predicate": "http://www.wikidata.org/prop/direct/P5370",
+      "object": "49088"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q76510",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "222"
+    }
+  ]
+}

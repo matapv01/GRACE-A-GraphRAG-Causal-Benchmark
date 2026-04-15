@@ -1,0 +1,53 @@
+{
+  "question_id": "6169",
+  "answers": [
+    "http://www.wikidata.org/entity/Q500581"
+  ],
+  "gold_path": {
+    "question_id": "6169",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151929",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q151929-2CDB932F-DD9E-4ECE-A069-EF7D71FD76E0"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q151929-2CDB932F-DD9E-4ECE-A069-EF7D71FD76E0",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q1645889"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q151929-2CDB932F-DD9E-4ECE-A069-EF7D71FD76E0",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q500581"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151929",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "eduard-amvrosjevic-sevardnadze"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151929",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "132442212"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151929",
+      "predicate": "http://www.wikidata.org/prop/direct/P1412",
+      "object": "http://www.wikidata.org/entity/Q7737"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151929",
+      "predicate": "http://www.wikidata.org/prop/direct/P1412",
+      "object": "http://www.wikidata.org/entity/Q8108"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151929",
+      "predicate": "http://www.wikidata.org/prop/direct/P6640",
+      "object": "691"
+    }
+  ]
+}

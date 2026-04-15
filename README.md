@@ -1,55 +1,69 @@
-# GraphRAG-Benchmark
+# GRACE: A GraphRAG Causal Benchmark
 
-A Universal Diagnostic Subgraph Framework for evaluating Knowledge Graph Reasoning and Faithfulness of Large Language Models (LLMs).
+Welcome to the **GRACE** benchmark repository. This project aims to evaluate the robustness and causal reasoning capabilities of various GraphRAG (Retrieval-Augmented Generation over Knowledge Graphs) frameworks when faced with different graph perturbations.
 
-## 🚀 Hướng dẫn chạy Pipeline cào dữ liệu (Background / Ngầm)
+## Installation & Setup
 
-Dự án sử dụng cơ chế chạy ngầm (`nohup`) để xử lý toàn bộ >24,000 dữ liệu của LC-QuAD 2.0 từ Wikidata mà không bị gián đoạn khi tắt terminal.
-Code đã được tích hợp cơ chế tự động resume (chạy bù các file chưa có) và **retry vô hạn** cho lỗi rate-limit `429 Too Many Requests`.
-
-### 1. Khởi động trích xuất đồ thị sạch (Extract Clean Subgraphs)
-Lệnh này sẽ cào dữ liệu từ Wikidata, đối chiếu câu hỏi để tìm `Gold Path` thật, sau đó dùng `SemanticRetriever` lấy thêm dữ liệu nhiễu xung quanh thông qua Vector Embeddings GPU.
+This project uses modern Python dependency management via `uv`.
 
 ```bash
-nohup uv run python scripts/extract_clean_subgraphs.py > logs_extract.txt 2>&1 &
+# Cài đặt toàn bộ dependencies trong file pyproject.toml
+uv sync
 ```
-* Tiến độ được ghi vào: `logs_extract.txt`
-* Dữ liệu JSON sinh ra tại: `data/clean_subgraphs/`
 
-### 2. Khởi động sinh đồ thị nhiễu (Generate Perturbations)
-Lệnh này có thể chạy song song với lệnh 1. Nó liên tục quét thư mục clean ở trên, nếu thấy file mới sẽ tiến hành sinh ra bản JSON lồng 5 trạng thái Causal: `Clean`, `Broken`, `Type Matching`, `Topological`, `Swapping`.
+## Running Benchmarks
+
+We are integrating multiple GraphRAG frameworks into our causal benchmark pipeline. Currently, we provide a starting benchmark script for **LightRAG**.
+
+### 1. Configuration (Environment variables)
+
+Before running the benchmark, you must configure the LLM endpoints via Environment Variables. We use a `.env` file for easy management.
 
 ```bash
-nohup uv run python scripts/generate_perturbations.py > logs_perturb.txt 2>&1 &
+# Copy the provided template
+cp .env.template .env
 ```
-* Tiến độ được ghi vào: `logs_perturb.txt`
-* Dữ liệu JSON sinh ra tại: `data/perturbed_subgraphs/`
 
-### 3. Theo dõi tiến độ & Thống kê lỗi (Statistics)
-Công cụ này quét toàn bộ thư mục data và báo cáo chi tiết: tiến độ %, số lượng câu đã tải thành công, và tổng hợp nhóm các thể loại lỗi ở bước tạo Perturb (ví dụ: không có cạnh answer, mảng rỗng,...).
+Open the `.env` file and insert your API Key.
+*   **OPENAI_API_KEY**: Required by LightRAG for LLM initialization.
+*   **OPENAI_BASE_URL** *(Optional)*: Set this if you are using an OpenAI-compatible proxy (e.g. DeepSeek APIs, or local offline LLMs deployed through vLLM or Ollama).
+
+### 2. Prepare Data (Wikidata Labels)
+
+Before running the benchmark, you must fetch the English labels for all Wikidata entities and properties present in the subgraphs. This step ensures that the LLM understands the knowledge triples.
 
 ```bash
-uv run python scripts/statistics.py
+PYTHONPATH=src env PYTHONPATH=src uv run python scripts/data_generation/fetch_wikidata_labels.py
 ```
+*This script will scan the data folders, query the Wikidata API, and cache the labels in `data/wikidata_labels.json`.*
 
-### 4. Xem trước mẫu dữ liệu (Preview Samples)
-Lệnh này hiển thị chi tiết thông tin của các mẫu báo cáo/đồ thị đã được trích xuất (thực thể, quan hệ, nhãn từ Wikidata) giúp bạn kiểm tra nhanh dữ liệu đầu ra và tính chính xác của tiến trình.
+### 3. Generate Dataset Statistics
+
+It is highly recommended to run the statistical analyzer before benchmarking to verify the exact number of valid causal graphs and visualize query type distributions:
 
 ```bash
-uv run python scripts/preview_samples.py
+PYTHONPATH=src env PYTHONPATH=src uv run python scripts/analysis/dataset_statistics.py
 ```
+*This will generate a detailed markdown report at `data/dataset_statistics.md` summarizing the distribution of query types (e.g., SELECT, ASK, COUNT) and perturbation variants.*
 
-### 5. Trực quan hóa cấu trúc đồ thị (Visualize Mermaid)
-Sử dụng script này để in ra cấu trúc dạng Markdown Mermaid phục vụ dán lên các trình duyệt vẽ sơ đồ, giúp biểu diễn trực quan đồ thị Knowledge Graph cho các trạng thái Causal khác nhau đã sinh ra phục vụ mục đích Debug.
+### 4. LightRAG Benchmark
+
+After preparing the data, verifying statistics, and configuring the `.env` file, run the benchmark evaluation script for LightRAG:
 
 ```bash
-uv run python scripts/visualize_mermaid.py
+PYTHONPATH=src env PYTHONPATH=src uv run python scripts/benchmark/benchmark_lightrag.py
 ```
 
-### 6. Cách dừng hệ thống khẩn cấp (Kill Process)
-Nếu bạn lỡ chạy nhầm hoặc muốn sửa code dở dang, hãy copy lệnh này để kết liễu mọi tiến trình cào dữ liệu ngầm đang chạy:
+*Note: The script will load a subgraph scenario from `data/test_perturbed_subgraphs/`, construct Knowledge Graphs dynamically using LightRAG for both the original (clean) and a perturbed variant, and then contrast the responses from the LLM.*
 
-```bash
-pkill -f extract_clean_subgraphs.py
-pkill -f generate_perturbations.py
-```
+---
+
+## Data Preparation & Analysis
+
+The data pipeline scripts have been logically classified within the `scripts/` folder:
+- **`scripts/data_generation/`**: Utilities extracting and perturbing source data.
+- **`scripts/analysis/`**: Diagnostic utilities to verify metadata, logs, and diagram visualization.
+
+If you want to learn how the datasets are exactly extracted from Wikidata, how causal perturbations are applied, and how they are statistically analyzed or visualized, please read our detailed methodology guide in:
+
+👉 **[README_DATASET.md](README_DATASET.md)**

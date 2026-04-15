@@ -1,0 +1,53 @@
+{
+  "question_id": "8348",
+  "answers": [
+    "1987-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8348",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q743209",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q743209-AEDA6650-98BA-4A45-ADAA-EBB234E891DB"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q743209-AEDA6650-98BA-4A45-ADAA-EBB234E891DB",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q585149"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q743209-AEDA6650-98BA-4A45-ADAA-EBB234E891DB",
+        "predicate": "pq:P580",
+        "object": "1987-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q743209",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-31T22:40:48Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q743209",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q743209-5C1F11D9-D0FC-4095-8E31-E292A51170C2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q743209",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q743209",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/Q743209-5d13843d-ae21-4e21-b282-b56b5c17667b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q743209",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "34"
+    }
+  ]
+}

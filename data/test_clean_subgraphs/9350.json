@@ -1,0 +1,53 @@
+{
+  "question_id": "9350",
+  "answers": [
+    "1992-02-23T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9350",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q311440",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q311440-3f9e2424-4e6b-ef04-5444-4cc1a32b1414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q311440-3f9e2424-4e6b-ef04-5444-4cc1a32b1414",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q27134289"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q311440-3f9e2424-4e6b-ef04-5444-4cc1a32b1414",
+        "predicate": "pq:P580",
+        "object": "1992-02-23T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q311440",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "antonioguterres"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311440",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q6173448"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311440",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q87748614"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311440",
+      "predicate": "http://www.wikidata.org/prop/direct/P2003",
+      "object": "antonioguterres"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311440",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20Guterres%20United%20Nations%20Secretary-General%20in%202024%20%28cropped%29.jpg"
+    }
+  ]
+}

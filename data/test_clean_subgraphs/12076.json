@@ -1,0 +1,48 @@
+{
+  "question_id": "12076",
+  "answers": [
+    "http://www.wikidata.org/entity/Q641697"
+  ],
+  "gold_path": {
+    "question_id": "12076",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q548203",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q641697"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q641697",
+        "predicate": "http://www.wikidata.org/prop/direct/P400",
+        "object": "http://www.wikidata.org/entity/Q10680"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q548203",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q94"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q548203",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q1406"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q548203",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q10683"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q548203",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q48263"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q548203",
+      "predicate": "http://www.wikidata.org/prop/direct/P400",
+      "object": "http://www.wikidata.org/entity/Q48493"
+    }
+  ]
+}

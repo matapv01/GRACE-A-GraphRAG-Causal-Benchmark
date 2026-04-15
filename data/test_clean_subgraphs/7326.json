@@ -1,0 +1,53 @@
+{
+  "question_id": "7326",
+  "answers": [
+    "1995-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7326",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q209956",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q209956-9527A61D-DF1A-4081-B5C3-D6C43E5ECC36"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209956-9527A61D-DF1A-4081-B5C3-D6C43E5ECC36",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q38430"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q209956-9527A61D-DF1A-4081-B5C3-D6C43E5ECC36",
+        "predicate": "pq:P585",
+        "object": "1995-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q209956",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "威瑟"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209956",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Weezer"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209956",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "וויזר"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209956",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "WEEZER"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q209956",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "위져"
+    }
+  ]
+}

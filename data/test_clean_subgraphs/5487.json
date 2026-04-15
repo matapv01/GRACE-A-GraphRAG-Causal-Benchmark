@@ -1,0 +1,53 @@
+{
+  "question_id": "5487",
+  "answers": [
+    "18.0.0.0/8"
+  ],
+  "gold_path": {
+    "question_id": "5487",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q49108",
+        "predicate": "http://www.wikidata.org/prop/P3761",
+        "object": "http://www.wikidata.org/entity/statement/Q49108-890bddde-43c4-e7f5-18b4-ea6a3293d4e9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q49108-890bddde-43c4-e7f5-18b4-ea6a3293d4e9",
+        "predicate": "ps:P3761",
+        "object": "18.0.0.0/8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q49108-890bddde-43c4-e7f5-18b4-ea6a3293d4e9",
+        "predicate": "pq:P1552",
+        "object": "http://www.wikidata.org/entity/Q28919811"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q49108",
+      "predicate": "http://www.wikidata.org/prop/direct/P454",
+      "object": "10060243"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49108",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P214",
+      "object": "http://viaf.org/viaf/150025207"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49108",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n79006591"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49108",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4104",
+      "object": "https://data.carnegiehall.org/names/110549/about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q49108",
+      "predicate": "http://www.wikidata.org/prop/direct/P452",
+      "object": "http://www.wikidata.org/entity/Q136822"
+    }
+  ]
+}

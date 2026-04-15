@@ -1,0 +1,38 @@
+{
+  "question_id": "17149",
+  "answers": [
+    "http://www.wikidata.org/entity/Q27500963"
+  ],
+  "gold_path": {
+    "question_id": "17149",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6176188",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q877536"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q877536",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q27500963"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6176188",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q16335785"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q16335785",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q27500963"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6176188",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Jeffrey Nick"
+    }
+  ]
+}

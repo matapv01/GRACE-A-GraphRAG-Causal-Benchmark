@@ -1,0 +1,43 @@
+{
+  "question_id": "22284",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2375533"
+  ],
+  "gold_path": {
+    "question_id": "22284",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q367825",
+        "predicate": "http://www.wikidata.org/prop/direct/P511",
+        "object": "http://www.wikidata.org/entity/Q2375533"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2375533",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5737899"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q367825",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "38"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q367825",
+      "predicate": "http://www.wikidata.org/prop/direct/P551",
+      "object": "http://www.wikidata.org/entity/Q12187556"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q367825",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "King-Salman-1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q367825",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "King-Salman-of-Saudi-Arabia"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "22399",
+  "answers": [
+    "http://www.wikidata.org/entity/Q312",
+    "http://www.wikidata.org/entity/Q80978"
+  ],
+  "gold_path": {
+    "question_id": "22399",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q483382",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q312"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q312",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q483382",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q80978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q80978",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6881511"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q483382",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q483382-2499139c-4ab9-480e-fd1d-ff7f0e465bf6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483382",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q483382-d06cc641-46f8-e4d6-6f33-a67ef86912f3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483382",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q483382-05ec2174-461d-29bf-9196-c8c2970b8932"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483382",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q483382-180953cc-47a6-d41c-f7f0-9d02300ee9e1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q483382",
+      "predicate": "http://www.wikidata.org/prop/P800",
+      "object": "http://www.wikidata.org/entity/statement/Q483382-2c4ee893-46c5-20d2-fd07-7ea3efba3580"
+    }
+  ]
+}

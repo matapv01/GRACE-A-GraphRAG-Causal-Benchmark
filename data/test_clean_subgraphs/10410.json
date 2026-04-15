@@ -1,0 +1,58 @@
+{
+  "question_id": "10410",
+  "answers": [
+    "125"
+  ],
+  "gold_path": {
+    "question_id": "10410",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q189892",
+        "predicate": "http://www.wikidata.org/prop/P54",
+        "object": "http://www.wikidata.org/entity/statement/Q189892-82DA3147-7D11-4D8B-9348-7DBFE02724B8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189892-82DA3147-7D11-4D8B-9348-7DBFE02724B8",
+        "predicate": "ps:P54",
+        "object": "http://www.wikidata.org/entity/Q168397"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189892-82DA3147-7D11-4D8B-9348-7DBFE02724B8",
+        "predicate": "pq:P1350",
+        "object": "125"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q189892-82DA3147-7D11-4D8B-9348-7DBFE02724B8",
+        "predicate": "pq:P1351",
+        "object": "35"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q189892",
+      "predicate": "http://www.wikidata.org/prop/P413",
+      "object": "http://www.wikidata.org/entity/statement/Q189892-74BBD582-0DEB-4D43-8948-15EFC70C1430"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189892",
+      "predicate": "http://www.wikidata.org/prop/direct/P413",
+      "object": "http://www.wikidata.org/entity/Q193592"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189892",
+      "predicate": "http://www.wikidata.org/prop/P1741",
+      "object": "http://www.wikidata.org/entity/statement/Q189892-7255E61B-BE8B-4F78-AA50-D8F2EF9C952D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189892",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1741",
+      "object": "http://data.beeldengeluid.nl/gtaa/106089"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q189892",
+      "predicate": "http://www.wikidata.org/prop/direct/P1741",
+      "object": "106089"
+    }
+  ]
+}

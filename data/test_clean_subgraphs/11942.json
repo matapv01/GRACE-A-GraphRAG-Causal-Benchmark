@@ -1,0 +1,43 @@
+{
+  "question_id": "11942",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6581072"
+  ],
+  "gold_path": {
+    "question_id": "11942",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q151480",
+        "predicate": "http://www.wikidata.org/prop/direct/P21",
+        "object": "http://www.wikidata.org/entity/Q6581072"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q151480",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "44"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151480",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q151480-DF381DF5-3574-4965-A34F-14C9C0D1BB15"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151480",
+      "predicate": "http://www.wikidata.org/prop/P1900",
+      "object": "http://www.wikidata.org/entity/statement/Q151480-C12966F7-B7C4-4AD5-BF89-5A9BB8626DB2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151480",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q151480-21DD864A-BC96-40A4-9DB7-77D84B7A972C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q151480",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q151480-8612A6AD-2D21-409D-BB37-C124AE04A12A"
+    }
+  ]
+}

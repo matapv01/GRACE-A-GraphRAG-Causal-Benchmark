@@ -1,0 +1,43 @@
+{
+  "question_id": "10155",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8458102"
+  ],
+  "gold_path": {
+    "question_id": "10155",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4093",
+        "predicate": "http://www.wikidata.org/prop/direct/P1740",
+        "object": "http://www.wikidata.org/entity/Q8458102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4093",
+        "predicate": "http://www.wikidata.org/prop/direct/P1792",
+        "object": "http://www.wikidata.org/entity/Q6791290"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4093",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Glascum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4093",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Glasgow"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4093",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "গ্লাসগ্রো"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4093",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Glesca"
+    }
+  ]
+}

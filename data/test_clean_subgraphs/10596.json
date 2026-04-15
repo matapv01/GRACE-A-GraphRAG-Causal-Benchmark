@@ -1,0 +1,58 @@
+{
+  "question_id": "10596",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36442"
+  ],
+  "gold_path": {
+    "question_id": "10596",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19661",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q19661-75b93013-48da-092e-9168-3ee9c2ac3456"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q19661-75b93013-48da-092e-9168-3ee9c2ac3456",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1026939"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q19661-75b93013-48da-092e-9168-3ee9c2ac3456",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q36442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q19661-75b93013-48da-092e-9168-3ee9c2ac3456",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q2091008"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P1884",
+      "object": "http://www.wikidata.org/entity/Q2367101"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P2984",
+      "object": "anakasparian"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P8687",
+      "object": "24000"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P8687",
+      "object": "90400"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19661",
+      "predicate": "http://www.wikidata.org/prop/direct/P8687",
+      "object": "712405"
+    }
+  ]
+}

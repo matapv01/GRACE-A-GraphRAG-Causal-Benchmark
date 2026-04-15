@@ -1,0 +1,43 @@
+{
+  "question_id": "13612",
+  "answers": [
+    "http://www.wikidata.org/entity/Q158487"
+  ],
+  "gold_path": {
+    "question_id": "13612",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25356",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q158487"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25356",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25356",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "سپیدار"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25356",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "poppel"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25356",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "צפצפה"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25356",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Pappeln"
+    }
+  ]
+}

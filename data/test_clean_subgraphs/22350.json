@@ -1,0 +1,59 @@
+{
+  "question_id": "22350",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12592423",
+    "http://www.wikidata.org/entity/Q6296418"
+  ],
+  "gold_path": {
+    "question_id": "22350",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q21001",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q6296418"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6296418",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21001",
+        "predicate": "http://www.wikidata.org/prop/direct/P39",
+        "object": "http://www.wikidata.org/entity/Q12592423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12592423",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q294414"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.wikidata.org/prop/P2013",
+      "object": "http://www.wikidata.org/entity/statement/Q21001-4F0509A8-47A4-4A55-9064-D7BCE4D2E970"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.wikidata.org/prop/direct/P2013",
+      "object": "moonbyun1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.wikidata.org/prop/direct/P13591",
+      "object": "person/0a681e02-8278-45c6-a79a-d9b80cc9282b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.wikidata.org/prop/direct/P2604",
+      "object": "5038680"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q21001",
+      "predicate": "http://www.wikidata.org/prop/direct/P269",
+      "object": "240861671"
+    }
+  ]
+}

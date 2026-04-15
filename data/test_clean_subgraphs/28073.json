@@ -1,0 +1,43 @@
+{
+  "question_id": "28073",
+  "answers": [
+    "george-blanda"
+  ],
+  "gold_path": {
+    "question_id": "28073",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q980691",
+        "predicate": "http://www.wikidata.org/prop/direct/P3539",
+        "object": "george-blanda"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q980691",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "21"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q980691",
+      "predicate": "http://schema.org/version",
+      "object": "2432787857"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q980691",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q980691-E33FA9B7-C043-4E03-9211-BE25E1ACD166"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q980691",
+      "predicate": "http://schema.org/description",
+      "object": "jugador estadounidense de fútbol americano"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q980691",
+      "predicate": "http://schema.org/description",
+      "object": "giocatore di football americano statunitense"
+    }
+  ]
+}

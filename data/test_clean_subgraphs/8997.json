@@ -1,0 +1,43 @@
+{
+  "question_id": "8997",
+  "answers": [
+    "http://www.wikidata.org/entity/Q51139288"
+  ],
+  "gold_path": {
+    "question_id": "8997",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q193521",
+        "predicate": "http://www.wikidata.org/prop/P4952",
+        "object": "http://www.wikidata.org/entity/statement/Q193521-35FC3945-70B5-457B-8156-9163C2F6BA71"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q193521-35FC3945-70B5-457B-8156-9163C2F6BA71",
+        "predicate": "ps:P4952",
+        "object": "http://www.wikidata.org/entity/Q51139288"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q193521",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/sh85135627"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193521",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "titanium dioxide"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193521",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "titandioksid"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q193521",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "titaandioksiid"
+    }
+  ]
+}

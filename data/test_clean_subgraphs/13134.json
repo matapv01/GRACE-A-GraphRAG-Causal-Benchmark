@@ -1,0 +1,48 @@
+{
+  "question_id": "13134",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5582862"
+  ],
+  "gold_path": {
+    "question_id": "13134",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q213758",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q5582862"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5582862",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q31487"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q213758",
+      "predicate": "http://www.wikidata.org/prop/P53",
+      "object": "http://www.wikidata.org/entity/statement/Q213758-a5b60dc1-4d0f-5634-e2b5-49b6e87cdddf"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213758",
+      "predicate": "http://www.wikidata.org/prop/P53",
+      "object": "http://www.wikidata.org/entity/statement/Q213758-5b196378-41a6-c998-935e-03597d5a0e86"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213758",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q213758-74267eab-44f6-581d-e050-5a9d1b2ccdd6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213758",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-10-30T12:13:17Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q213758",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q165948"
+    }
+  ]
+}

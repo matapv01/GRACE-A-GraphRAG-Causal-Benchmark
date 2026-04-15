@@ -1,0 +1,53 @@
+{
+  "question_id": "8413",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1765120"
+  ],
+  "gold_path": {
+    "question_id": "8413",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q295803",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q295803-E08544DD-63CB-4CB3-AC57-99D9C3CF71BD"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295803-E08544DD-63CB-4CB3-AC57-99D9C3CF71BD",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q35794"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q295803-E08544DD-63CB-4CB3-AC57-99D9C3CF71BD",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q1765120"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q295803",
+      "predicate": "http://www.wikidata.org/prop/direct/P2909",
+      "object": "95327"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295803",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Hiddleston-7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295803",
+      "predicate": "http://www.wikidata.org/prop/P2909",
+      "object": "http://www.wikidata.org/entity/statement/Q295803-2C8A1A5C-BE53-4D06-B1AF-F9BE3D7DDE98"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295803",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q295803-7D9EB913-C041-4776-AF48-71F9AE89A66B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q295803",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q189960"
+    }
+  ]
+}

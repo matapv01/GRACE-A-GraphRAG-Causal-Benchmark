@@ -1,0 +1,53 @@
+{
+  "question_id": "6312",
+  "answers": [
+    "1902-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6312",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2677",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q2677-DE348991-516E-4477-A3B4-4BBF80678935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2677-DE348991-516E-4477-A3B4-4BBF80678935",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2171187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q2677-DE348991-516E-4477-A3B4-4BBF80678935",
+        "predicate": "pq:P585",
+        "object": "1902-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2677",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "guillaume-ii"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2677",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-06T23:08:03Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2677",
+      "predicate": "http://www.wikidata.org/prop/direct/P1543",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Monogram%20of%20Kaiser%20Wilhelm%20II.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2677",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q501503"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2677",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q3240735"
+    }
+  ]
+}

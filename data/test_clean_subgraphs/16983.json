@@ -1,0 +1,48 @@
+{
+  "question_id": "16983",
+  "answers": [
+    "http://www.wikidata.org/entity/Q190129"
+  ],
+  "gold_path": {
+    "question_id": "16983",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q568",
+        "predicate": "http://www.wikidata.org/prop/direct/P189",
+        "object": "http://www.wikidata.org/entity/Q34"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q34",
+        "predicate": "http://www.wikidata.org/prop/direct/P237",
+        "object": "http://www.wikidata.org/entity/Q190129"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q568",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "鋰"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "سخفن"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "elementu 3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "litijum"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q568",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "element 3"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "5118",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1777301"
+  ],
+  "gold_path": {
+    "question_id": "5118",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42810",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q42810-3A36E1AA-1140-4878-B0C9-D155378DD22E"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42810-3A36E1AA-1140-4878-B0C9-D155378DD22E",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6655"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q42810-3A36E1AA-1140-4878-B0C9-D155378DD22E",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q1777301"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42810",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-07T18:49:20Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42810",
+      "predicate": "http://schema.org/version",
+      "object": "2479232534"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42810",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Le Havre"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42810",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ルアーヴル"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "3959",
+  "answers": [
+    "1993-10-26T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "3959",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34020",
+        "predicate": "http://www.wikidata.org/prop/P463",
+        "object": "http://www.wikidata.org/entity/statement/Q34020-0a64debe-4499-58c3-6b76-2d79de620b15"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q34020-0a64debe-4499-58c3-6b76-2d79de620b15",
+        "predicate": "ps:P463",
+        "object": "http://www.wikidata.org/entity/Q7809"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q34020-0a64debe-4499-58c3-6b76-2d79de620b15",
+        "predicate": "pq:P580",
+        "object": "1993-10-26T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34020",
+      "predicate": "http://www.wikidata.org/prop/direct/P1889",
+      "object": "http://www.wikidata.org/entity/Q1249868"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34020",
+      "predicate": "http://www.wikidata.org/prop/direct/P194",
+      "object": "http://www.wikidata.org/entity/Q1643140"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34020",
+      "predicate": "http://www.wikidata.org/prop/direct/P1248",
+      "object": "7e60509f-b691-4cab-9e54-87b3b133d6a7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34020",
+      "predicate": "http://www.wikidata.org/prop/direct/P1943",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Niue%20location%20map.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34020",
+      "predicate": "http://www.wikidata.org/prop/direct/P1906",
+      "object": "http://www.wikidata.org/entity/Q14931517"
+    }
+  ]
+}

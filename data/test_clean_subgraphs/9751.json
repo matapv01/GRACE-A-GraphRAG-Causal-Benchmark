@@ -1,0 +1,79 @@
+{
+  "question_id": "9751",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4778219",
+    "http://www.wikidata.org/entity/Q6312978",
+    "http://www.wikidata.org/entity/Q55500",
+    "http://www.wikidata.org/entity/Q12608949",
+    "http://www.wikidata.org/entity/Q623786",
+    "http://www.wikidata.org/entity/Q495437",
+    "http://www.wikidata.org/entity/Q625041"
+  ],
+  "gold_path": {
+    "question_id": "9751",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q55500"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P421",
+        "object": "http://www.wikidata.org/entity/Q7041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q495437"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q623786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q625041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q4778219"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q6312978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8684",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q12608949"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8684",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Soul"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8684",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ソウル"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8684",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "서울"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8684",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hanyang"
+    }
+  ]
+}

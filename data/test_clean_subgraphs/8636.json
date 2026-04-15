@@ -1,0 +1,53 @@
+{
+  "question_id": "8636",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11862158"
+  ],
+  "gold_path": {
+    "question_id": "8636",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q704225",
+        "predicate": "http://www.wikidata.org/prop/P1399",
+        "object": "http://www.wikidata.org/entity/statement/Q704225-4d1a7f9f-4b70-ab6c-be69-3b5c3b49fae6"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q704225-4d1a7f9f-4b70-ab6c-be69-3b5c3b49fae6",
+        "predicate": "ps:P1399",
+        "object": "http://www.wikidata.org/entity/Q250062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q704225-4d1a7f9f-4b70-ab6c-be69-3b5c3b49fae6",
+        "predicate": "pq:P4884",
+        "object": "http://www.wikidata.org/entity/Q11862158"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q704225",
+      "predicate": "http://www.wikidata.org/prop/P8309",
+      "object": "http://www.wikidata.org/entity/statement/Q704225-116f9885-4dac-fdc6-1385-7f753c8187b8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q704225",
+      "predicate": "http://www.wikidata.org/prop/P3368",
+      "object": "http://www.wikidata.org/entity/statement/Q704225-B2BEA532-0123-43EB-A911-B4F3898954C9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q704225",
+      "predicate": "http://www.wikidata.org/prop/P227",
+      "object": "http://www.wikidata.org/entity/statement/Q704225-9b690614-4f88-bc71-3100-5411cd29325c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q704225",
+      "predicate": "http://www.wikidata.org/prop/P3478",
+      "object": "http://www.wikidata.org/entity/statement/Q704225-AD7BA7CE-8D26-41B6-BA3A-740B228AC763"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q704225",
+      "predicate": "http://www.wikidata.org/prop/P1553",
+      "object": "http://www.wikidata.org/entity/statement/Q704225-8768fbfb-8ce9-41bf-bdb0-5f31a6e4ac78"
+    }
+  ]
+}

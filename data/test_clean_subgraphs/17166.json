@@ -1,0 +1,74 @@
+{
+  "question_id": "17166",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4026990",
+    "http://www.wikidata.org/entity/Q26529",
+    "http://www.wikidata.org/entity/Q148578",
+    "http://www.wikidata.org/entity/Q854845",
+    "http://www.wikidata.org/entity/Q201953",
+    "http://www.wikidata.org/entity/Q183160",
+    "http://www.wikidata.org/entity/Q165585"
+  ],
+  "gold_path": {
+    "question_id": "17166",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q23548",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q189325"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189325",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q26529"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189325",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q148578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189325",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q165585"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189325",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q183160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189325",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q201953"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189325",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q854845"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189325",
+        "predicate": "http://www.wikidata.org/prop/direct/P1056",
+        "object": "http://www.wikidata.org/entity/Q4026990"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q23548",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Nasa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23548",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "NASA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q23548",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ナサ"
+    }
+  ]
+}

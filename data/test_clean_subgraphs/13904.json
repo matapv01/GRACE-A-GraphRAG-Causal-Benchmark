@@ -1,0 +1,48 @@
+{
+  "question_id": "13904",
+  "answers": [
+    "http://www.wikidata.org/entity/Q188572"
+  ],
+  "gold_path": {
+    "question_id": "13904",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3962655",
+        "predicate": "http://www.wikidata.org/prop/direct/P461",
+        "object": "http://www.wikidata.org/entity/Q188572"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q188572",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q2684591"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3962655",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "28"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3962655",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Opinion"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3962655",
+      "predicate": "http://www.wikidata.org/prop/direct/P1687",
+      "object": "http://www.wikidata.org/entity/P1310"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3962655",
+      "predicate": "http://www.wikidata.org/prop/direct/P1687",
+      "object": "http://www.wikidata.org/entity/P3680"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3962655",
+      "predicate": "http://www.wikidata.org/prop/direct/P1617",
+      "object": "654e1609-7a9f-470a-bd87-fb8e8144c374"
+    }
+  ]
+}

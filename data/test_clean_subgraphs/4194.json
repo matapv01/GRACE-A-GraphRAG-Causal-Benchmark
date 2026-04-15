@@ -1,0 +1,48 @@
+{
+  "question_id": "4194",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3404523"
+  ],
+  "gold_path": {
+    "question_id": "4194",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q48410",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q48410-D9BF4D29-9F11-41C8-B359-495CF7FA0FE2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q48410-D9BF4D29-9F11-41C8-B359-495CF7FA0FE2",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3404523"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q48410",
+      "predicate": "http://www.wikidata.org/prop/direct/P906",
+      "object": "315951"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48410",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P906",
+      "object": "http://libris.kb.se/resource/auth/315951"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48410",
+      "predicate": "http://www.wikidata.org/prop/direct/P9965",
+      "object": "128328"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48410",
+      "predicate": "http://www.wikidata.org/prop/direct/P4104",
+      "object": "104520"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q48410",
+      "predicate": "http://www.wikidata.org/prop/direct/P9984",
+      "object": "981058514346306706"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "3976",
+  "answers": [
+    "1987-02-11T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "3976",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q118116",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q118116-979621C3-40DC-471A-A61C-1729C593D4C1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q118116-979621C3-40DC-471A-A61C-1729C593D4C1",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q118116-979621C3-40DC-471A-A61C-1729C593D4C1",
+        "predicate": "pq:P585",
+        "object": "1987-02-11T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q118116",
+      "predicate": "http://www.wikidata.org/prop/P5008",
+      "object": "http://www.wikidata.org/entity/statement/Q118116-F356759B-3BBA-4562-B7E5-16AE033617FE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q118116",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q15304953"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q118116",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Dexter Keith Gordon"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "question_id": "24103",
+  "answers": [
+    "http://www.wikidata.org/entity/Q20828954",
+    "http://www.wikidata.org/entity/Q2512791"
+  ],
+  "gold_path": {
+    "question_id": "24103",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2512791",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q403523"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2512791",
+        "predicate": "rdfs:label",
+        "object": "Vendian"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20828954",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q403523"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20828954",
+        "predicate": "rdfs:label",
+        "object": "Vaalbaran"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2512791",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/4228263-9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2512791",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/1226lvjv"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2512791",
+      "predicate": "http://schema.org/description",
+      "object": "regionale stratigraphische Einheit des jüngsten Neoproterozoikums in Russland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2512791",
+      "predicate": "http://schema.org/description",
+      "object": "former period of the Neoproterozoic era"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2512791",
+      "predicate": "http://schema.org/description",
+      "object": "były okres ery neoproterozoicznej"
+    }
+  ]
+}

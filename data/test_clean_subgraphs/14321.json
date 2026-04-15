@@ -1,0 +1,65 @@
+{
+  "question_id": "14321",
+  "answers": [
+    "http://www.wikidata.org/entity/Q53706",
+    "http://www.wikidata.org/entity/Q38695",
+    "http://www.wikidata.org/entity/Q1778821"
+  ],
+  "gold_path": {
+    "question_id": "14321",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q30060514",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q156839"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156839",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q38695"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q156839",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q1778821"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30060514",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q10659189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10659189",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q53706"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q30060514",
+      "predicate": "http://www.wikidata.org/prop/P21",
+      "object": "http://www.wikidata.org/entity/statement/Q30060514-62a74c1d-469a-4e06-8e2b-9f5e582c376b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30060514",
+      "predicate": "http://www.wikidata.org/prop/direct/P21",
+      "object": "http://www.wikidata.org/entity/Q6581072"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30060514",
+      "predicate": "http://www.wikidata.org/prop/direct/P26",
+      "object": "http://www.wikidata.org/entity/Q30060738"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30060514",
+      "predicate": "http://www.wikidata.org/prop/direct/P1884",
+      "object": "http://www.wikidata.org/entity/Q2367101"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q30060514",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q30060514-b5bded24-41d2-2013-80c4-857bd5e90282"
+    }
+  ]
+}

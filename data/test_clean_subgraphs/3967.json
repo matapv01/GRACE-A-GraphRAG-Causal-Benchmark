@@ -1,0 +1,53 @@
+{
+  "question_id": "3967",
+  "answers": [
+    "http://www.wikidata.org/entity/Q106301"
+  ],
+  "gold_path": {
+    "question_id": "3967",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q230184",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q230184-E15E1765-CCE5-466D-A06C-74A6D1F916D8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q230184-E15E1765-CCE5-466D-A06C-74A6D1F916D8",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q106301"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q230184-E15E1765-CCE5-466D-A06C-74A6D1F916D8",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q605867"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q230184",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1925-10-31T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230184",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "30123"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230184",
+      "predicate": "http://www.wikidata.org/prop/direct/P9463",
+      "object": "30123"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230184",
+      "predicate": "http://www.wikidata.org/prop/direct/P5617",
+      "object": "lee-grant-172075"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230184",
+      "predicate": "http://www.wikidata.org/prop/direct/P4456",
+      "object": "15613"
+    }
+  ]
+}

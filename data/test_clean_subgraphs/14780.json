@@ -1,0 +1,69 @@
+{
+  "question_id": "14780",
+  "answers": [
+    "http://www.wikidata.org/entity/Q158767",
+    "http://www.wikidata.org/entity/Q161098"
+  ],
+  "gold_path": {
+    "question_id": "14780",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q158767",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q142116"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142116",
+        "predicate": "http://www.wikidata.org/prop/direct/P1582",
+        "object": "http://www.wikidata.org/entity/Q158767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q158767",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q3066924"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3066924",
+        "predicate": "http://www.wikidata.org/prop/direct/P1582",
+        "object": "http://www.wikidata.org/entity/Q158767"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q158767",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q15645384"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q15645384",
+        "predicate": "http://www.wikidata.org/prop/direct/P1582",
+        "object": "http://www.wikidata.org/entity/Q161098"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q158767",
+      "predicate": "http://www.wikidata.org/prop/direct/P838",
+      "object": "479558"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q158767",
+      "predicate": "http://www.wikidata.org/prop/direct/P5263",
+      "object": "40354"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q158767",
+      "predicate": "http://www.wikidata.org/prop/P5263",
+      "object": "http://www.wikidata.org/entity/statement/Q158767-D974F63C-0684-4E40-8777-41D799400BBF"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q158767",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q158767-465A776C-ED3F-4F9E-8B21-61B6BBC70417"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q158767",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q158767-70675794-17FB-46DF-AE36-851C8101143F"
+    }
+  ]
+}

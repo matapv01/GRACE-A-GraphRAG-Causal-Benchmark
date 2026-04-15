@@ -1,0 +1,53 @@
+{
+  "question_id": "8179",
+  "answers": [
+    "1983-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8179",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5354",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q5349948"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q5354-C388DD11-7102-4E31-B34E-793B62BA3375",
+        "predicate": "pq:P585",
+        "object": "1983-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5354",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q5354-CC1202D5-2DF5-4AF2-B1C9-F9836398E1D6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5354",
+      "predicate": "http://www.wikidata.org/prop/P349",
+      "object": "http://www.wikidata.org/entity/statement/q5354-6BE154C2-35CB-4073-AC2C-F6D888C0B6F0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5354",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "ernst-mayr"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5354",
+      "predicate": "http://www.wikidata.org/prop/direct/P3417",
+      "object": "Ernst-Mayr-1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5354",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "mayr-ernst"
+    }
+  ]
+}

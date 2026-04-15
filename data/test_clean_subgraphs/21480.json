@@ -1,0 +1,48 @@
+{
+  "question_id": "21480",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18130932"
+  ],
+  "gold_path": {
+    "question_id": "21480",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q178528",
+        "predicate": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "http://www.wikidata.org/entity/Q18130932"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18130932",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q8192"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q178528",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "정체자"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178528",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Tradisionele Sjinese karakters"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178528",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "حروف صينية تقليدية"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178528",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "لغه صينى تقليدى"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q178528",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Chinu tradicional"
+    }
+  ]
+}

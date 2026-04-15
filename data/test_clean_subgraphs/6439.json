@@ -1,0 +1,48 @@
+{
+  "question_id": "6439",
+  "answers": [
+    "583776"
+  ],
+  "gold_path": {
+    "question_id": "6439",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q6106",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q6106-D4E1355E-9892-4EA9-8209-D456A548E02B"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q6106-D4E1355E-9892-4EA9-8209-D456A548E02B",
+        "predicate": "ps:P1082",
+        "object": "583776"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q6106",
+      "predicate": "http://www.wikidata.org/prop/direct/P4640",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Portland%20landing%20pad%20%E2%80%93Panorama%20%28Philip%20Modin%20via%20Poly%20Haven%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6106",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/q6106-67F8E45F-CF14-4F65-94DF-85158B5E4525"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6106",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portland%2C%20Oregon.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6106",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Portland_-_by_i_Oregon,_USA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q6106",
+      "predicate": "http://www.wikidata.org/prop/direct/P2002",
+      "object": "PortlandGov"
+    }
+  ]
+}

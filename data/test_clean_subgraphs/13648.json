@@ -1,0 +1,48 @@
+{
+  "question_id": "13648",
+  "answers": [
+    "http://www.wikidata.org/entity/Q37064"
+  ],
+  "gold_path": {
+    "question_id": "13648",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12190",
+        "predicate": "http://www.wikidata.org/prop/direct/P61",
+        "object": "http://www.wikidata.org/entity/Q37064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q37064",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q101929"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12190",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "penicilliner"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12190",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "sh85099402"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12190",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q12190-6513DC3E-CFDD-4C99-BB9E-D0C7D48C616B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12190",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/Q12190-59E0A83E-E3FF-4AF6-B7F4-34BEA1DFA99B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12190",
+      "predicate": "http://www.wikidata.org/prop/direct/P361",
+      "object": "http://www.wikidata.org/entity/Q21199060"
+    }
+  ]
+}

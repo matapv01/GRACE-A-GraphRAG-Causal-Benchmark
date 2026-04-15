@@ -1,0 +1,48 @@
+{
+  "question_id": "15110",
+  "answers": [
+    "http://www.wikidata.org/entity/Q37394"
+  ],
+  "gold_path": {
+    "question_id": "15110",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q31865255",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q685"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q685",
+        "predicate": "http://www.wikidata.org/prop/direct/P706",
+        "object": "http://www.wikidata.org/entity/Q37394"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q31865255",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31865255",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31865255",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "'aio"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31865255",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "'Aio (Isla}"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31865255",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Isla 'Aio"
+    }
+  ]
+}

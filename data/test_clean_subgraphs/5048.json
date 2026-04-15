@@ -1,0 +1,53 @@
+{
+  "question_id": "5048",
+  "answers": [
+    "0180-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "5048",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q192931",
+        "predicate": "http://www.wikidata.org/prop/P570",
+        "object": "http://www.wikidata.org/entity/statement/Q192931-75eee1be-45bd-e770-db0d-db749007c0d7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q192931-75eee1be-45bd-e770-db0d-db749007c0d7",
+        "predicate": "ps:P570",
+        "object": "0180-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q192931-75eee1be-45bd-e770-db0d-db749007c0d7",
+        "predicate": "pq:P1480",
+        "object": "http://www.wikidata.org/entity/Q5727902"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q192931",
+      "predicate": "http://www.wikidata.org/prop/direct/P4223",
+      "object": "pausania"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192931",
+      "predicate": "http://www.wikidata.org/prop/direct/P3987",
+      "object": "163943"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192931",
+      "predicate": "http://www.wikidata.org/prop/direct/P3987",
+      "object": "474008"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192931",
+      "predicate": "http://www.wikidata.org/prop/P1938",
+      "object": "http://www.wikidata.org/entity/statement/Q192931-18D7037D-3596-4036-BDF9-54DE44127348"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192931",
+      "predicate": "http://www.wikidata.org/prop/direct/P1938",
+      "object": "54057"
+    }
+  ]
+}

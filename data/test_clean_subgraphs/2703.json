@@ -1,0 +1,92 @@
+{
+  "question_id": "2703",
+  "answers": [
+    "http://www.wikidata.org/entity/Q335891",
+    "http://www.wikidata.org/entity/Q1063602",
+    "http://www.wikidata.org/entity/Q390691",
+    "http://www.wikidata.org/entity/Q1132605",
+    "http://www.wikidata.org/entity/Q390392"
+  ],
+  "gold_path": {
+    "question_id": "2703",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q390691",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q928830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q390691",
+        "predicate": "http://www.wikidata.org/prop/direct/P1373",
+        "object": "349331"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1132605",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q928830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1132605",
+        "predicate": "http://www.wikidata.org/prop/direct/P1373",
+        "object": "333861"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1063602",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q928830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1063602",
+        "predicate": "http://www.wikidata.org/prop/direct/P1373",
+        "object": "265100"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q390392",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q928830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q390392",
+        "predicate": "http://www.wikidata.org/prop/direct/P1373",
+        "object": "256898"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q335891",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q928830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q335891",
+        "predicate": "http://www.wikidata.org/prop/direct/P1373",
+        "object": "255000"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q390691",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "gare d'Ayase"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q390691",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "C19"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q390691",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "JL19"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q390691",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "綾瀨車站"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q390691",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "綾瀬站"
+    }
+  ]
+}

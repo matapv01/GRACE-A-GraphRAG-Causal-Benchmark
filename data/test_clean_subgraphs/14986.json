@@ -1,0 +1,72 @@
+{
+  "question_id": "14986",
+  "answers": [
+    "http://www.wikidata.org/entity/Q483959",
+    "http://www.wikidata.org/entity/Q133871768",
+    "http://www.wikidata.org/entity/Q34234153",
+    "http://www.wikidata.org/entity/Q1973097",
+    "http://www.wikidata.org/entity/Q25379664"
+  ],
+  "gold_path": {
+    "question_id": "14986",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q54500336",
+        "predicate": "http://www.wikidata.org/prop/direct/P58",
+        "object": "http://www.wikidata.org/entity/Q20036576"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20036576",
+        "predicate": "http://www.wikidata.org/prop/direct/P553",
+        "object": "http://www.wikidata.org/entity/Q483959"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20036576",
+        "predicate": "http://www.wikidata.org/prop/direct/P553",
+        "object": "http://www.wikidata.org/entity/Q1973097"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20036576",
+        "predicate": "http://www.wikidata.org/prop/direct/P553",
+        "object": "http://www.wikidata.org/entity/Q25379664"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20036576",
+        "predicate": "http://www.wikidata.org/prop/direct/P553",
+        "object": "http://www.wikidata.org/entity/Q34234153"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20036576",
+        "predicate": "http://www.wikidata.org/prop/direct/P553",
+        "object": "http://www.wikidata.org/entity/Q133871768"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q54500336",
+      "predicate": "http://www.wikidata.org/prop/direct/P577",
+      "object": "2017-05-30T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54500336",
+      "predicate": "http://www.wikidata.org/prop/P577",
+      "object": "http://www.wikidata.org/entity/statement/Q54500336-81931854-7530-49C2-BDD5-5CBB2FA75C4E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54500336",
+      "predicate": "http://www.wikidata.org/prop/direct/P953",
+      "object": "https://www.peppercarrot.com/article412/episode-22-the-voting-system"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54500336",
+      "predicate": "http://www.wikidata.org/prop/direct/P179",
+      "object": "http://www.wikidata.org/entity/Q24289654"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q54500336",
+      "predicate": "http://www.wikidata.org/prop/P953",
+      "object": "http://www.wikidata.org/entity/statement/Q54500336-085226C8-8309-44B2-80E2-8464B1F3B711"
+    }
+  ]
+}

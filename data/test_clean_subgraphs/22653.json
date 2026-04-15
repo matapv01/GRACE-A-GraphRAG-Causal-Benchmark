@@ -1,0 +1,43 @@
+{
+  "question_id": "22653",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1054923"
+  ],
+  "gold_path": {
+    "question_id": "22653",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q8646",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q1054923"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1054923",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15379753"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q8646",
+      "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "object": "http://www.wikidata.org/prop/novalue/P281"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8646",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hong Kong"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8646",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Hongkong"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q8646",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Χονγκ Κονγκ"
+    }
+  ]
+}

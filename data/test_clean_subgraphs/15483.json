@@ -1,0 +1,48 @@
+{
+  "question_id": "15483",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6109517"
+  ],
+  "gold_path": {
+    "question_id": "15483",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42323",
+        "predicate": "http://www.wikidata.org/prop/direct/P20",
+        "object": "http://www.wikidata.org/entity/Q237"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q237",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q6109517"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42323",
+      "predicate": "http://www.wikidata.org/prop/direct/P5002",
+      "object": "2580584"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42323",
+      "predicate": "http://www.wikidata.org/prop/direct/P5008",
+      "object": "http://www.wikidata.org/entity/Q100137722"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42323",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "7840303"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42323",
+      "predicate": "http://www.wikidata.org/prop/direct/P3280",
+      "object": "0000003641"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42323",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pius%20XI%2C%20by%20Nicola%20Perscheid%20%28retouched%29.jpg"
+    }
+  ]
+}

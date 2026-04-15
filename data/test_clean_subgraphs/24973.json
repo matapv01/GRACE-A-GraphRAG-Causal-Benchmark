@@ -1,0 +1,53 @@
+{
+  "question_id": "24973",
+  "answers": [
+    "http://www.wikidata.org/entity/Q200855"
+  ],
+  "gold_path": {
+    "question_id": "24973",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q200855",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q178561"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q200855",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q697119"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q200855",
+        "predicate": "rdfs:label",
+        "object": "Battle of Vienna"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q200855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Bitwa pod Wiedniem"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Battle of Vienna"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "bitva u Vídně"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Vyana döyüşü"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q200855",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Slag van Wene"
+    }
+  ]
+}

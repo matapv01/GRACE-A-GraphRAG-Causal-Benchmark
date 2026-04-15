@@ -1,0 +1,48 @@
+{
+  "question_id": "13094",
+  "answers": [
+    "http://www.wikidata.org/entity/Q212499"
+  ],
+  "gold_path": {
+    "question_id": "13094",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q214905",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q212499"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q212499",
+        "predicate": "http://www.wikidata.org/prop/direct/P802",
+        "object": "http://www.wikidata.org/entity/Q17621651"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q214905",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "247"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214905",
+      "predicate": "http://www.wikidata.org/prop/direct/P3603",
+      "object": "334"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214905",
+      "predicate": "http://www.wikidata.org/prop/direct/P5019",
+      "object": "eakins-thomas"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214905",
+      "predicate": "http://www.wikidata.org/prop/direct/P12385",
+      "object": "thomas-eakins"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q214905",
+      "predicate": "http://www.wikidata.org/prop/direct/P5271",
+      "object": "1008"
+    }
+  ]
+}

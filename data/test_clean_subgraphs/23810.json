@@ -1,0 +1,38 @@
+{
+  "question_id": "23810",
+  "answers": [
+    "http://www.wikidata.org/entity/Q190263"
+  ],
+  "gold_path": {
+    "question_id": "23810",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190263",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q21114848"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190263",
+        "predicate": "rdfs:label",
+        "object": "Zentralblatt"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q190263",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Zentralblatt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190263",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190263",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/121vxd6d"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "9424",
+  "answers": [
+    "1975-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "9424",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q216563",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q216563-4F1D9FF5-A9B1-40D6-BB03-32008FF73AD3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216563-4F1D9FF5-A9B1-40D6-BB03-32008FF73AD3",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q6314105"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q216563-4F1D9FF5-A9B1-40D6-BB03-32008FF73AD3",
+        "predicate": "pq:P585",
+        "object": "1975-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q216563",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Anka"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216563",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "باول أنكا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216563",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "بول أنكا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q216563",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Paul Anka"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "4150",
+  "answers": [
+    "http://www.wikidata.org/entity/Q34436"
+  ],
+  "gold_path": {
+    "question_id": "4150",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q192682",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q192682-82E8EB43-A0C1-4F84-BADE-8021D20DFDCC"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q192682-82E8EB43-A0C1-4F84-BADE-8021D20DFDCC",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q34436"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q192682",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "Reynolds-6655"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192682",
+      "predicate": "http://www.wikidata.org/prop/P2949",
+      "object": "http://www.wikidata.org/entity/statement/Q192682-C65019C5-7C67-4351-A759-3F3A5642FD9B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192682",
+      "predicate": "http://www.wikidata.org/prop/direct/P5233",
+      "object": "a112363"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192682",
+      "predicate": "http://www.wikidata.org/prop/direct/P5247",
+      "object": "3040-123045"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q192682",
+      "predicate": "http://www.wikidata.org/prop/direct/P5247",
+      "object": "3040-99996"
+    }
+  ]
+}

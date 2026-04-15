@@ -1,0 +1,53 @@
+{
+  "question_id": "8044",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8877"
+  ],
+  "gold_path": {
+    "question_id": "8044",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q230448",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q230448-f0e8ba2e-41c2-ad70-b641-777dff8328a8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q230448-f0e8ba2e-41c2-ad70-b641-777dff8328a8",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q23958341"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q230448-f0e8ba2e-41c2-ad70-b641-777dff8328a8",
+        "predicate": "pq:P1365",
+        "object": "http://www.wikidata.org/entity/Q8877"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q230448",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q230448-3c779ddd-49e6-096b-6310-1c202d2d7784"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230448",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p83988"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230448",
+      "predicate": "http://www.wikidata.org/prop/P2519",
+      "object": "http://www.wikidata.org/entity/statement/Q230448-3d40e2d6-4a2d-26a7-3402-0d28a79fd93d"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230448",
+      "predicate": "http://www.wikidata.org/prop/direct/P2519",
+      "object": "3537"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q230448",
+      "predicate": "http://www.wikidata.org/prop/direct/P2604",
+      "object": "21707"
+    }
+  ]
+}

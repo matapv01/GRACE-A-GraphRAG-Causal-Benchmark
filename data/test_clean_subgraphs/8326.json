@@ -1,0 +1,53 @@
+{
+  "question_id": "8326",
+  "answers": [
+    "http://www.wikidata.org/entity/Q248289"
+  ],
+  "gold_path": {
+    "question_id": "8326",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q280098",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q280098-A8790B33-234C-4326-A7B3-91464BA67675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q280098-A8790B33-234C-4326-A7B3-91464BA67675",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q106301"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q280098-A8790B33-234C-4326-A7B3-91464BA67675",
+        "predicate": "pq:P1686",
+        "object": "http://www.wikidata.org/entity/Q248289"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q280098",
+      "predicate": "http://www.wikidata.org/prop/P11683",
+      "object": "http://www.wikidata.org/entity/statement/Q280098-7BDD6B65-2146-437A-8920-FB232C4D5C33"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q280098",
+      "predicate": "http://www.wikidata.org/prop/P12098",
+      "object": "http://www.wikidata.org/entity/statement/Q280098-A7C9BC7F-D66A-474A-8395-E1A58D24BD93"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q280098",
+      "predicate": "http://www.wikidata.org/prop/P11819",
+      "object": "http://www.wikidata.org/entity/statement/Q280098-b4035b7d-4266-ab8f-3e32-ea92c1df1249"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q280098",
+      "predicate": "http://www.wikidata.org/prop/P11194",
+      "object": "http://www.wikidata.org/entity/statement/Q280098-486B7381-E670-4997-B37E-C93461DD30FD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q280098",
+      "predicate": "http://www.wikidata.org/prop/P6886",
+      "object": "http://www.wikidata.org/entity/statement/Q280098-4C83487F-54BB-4F53-8A1B-B7EF07FE11EE"
+    }
+  ]
+}

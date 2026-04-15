@@ -1,0 +1,80 @@
+{
+  "question_id": "25425",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4775146",
+    "http://www.wikidata.org/entity/Q4809891",
+    "http://www.wikidata.org/entity/Q56227710"
+  ],
+  "gold_path": {
+    "question_id": "25425",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q4775146",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2178147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4775146",
+        "predicate": "http://www.wikidata.org/prop/direct/P1454",
+        "object": "http://www.wikidata.org/entity/Q48204"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4775146",
+        "predicate": "rdfs:label",
+        "object": "Antiquarian Booksellers Association"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4809891",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2178147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4809891",
+        "predicate": "http://www.wikidata.org/prop/direct/P1454",
+        "object": "http://www.wikidata.org/entity/Q48204"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4809891",
+        "predicate": "rdfs:label",
+        "object": "Association of Learned and Professional Society Publishers"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56227710",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2178147"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56227710",
+        "predicate": "http://www.wikidata.org/prop/direct/P1454",
+        "object": "http://www.wikidata.org/entity/Q48204"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q56227710",
+        "predicate": "rdfs:label",
+        "object": "Art Dealers Association of America"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q4775146",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Antiquarian Booksellers Association"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4775146",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4775146",
+      "predicate": "http://schema.org/description",
+      "object": "senior trade body in the British Isles for dealers in antiquarian and rare books, manuscripts and allied materials"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q4775146",
+      "predicate": "http://schema.org/version",
+      "object": "2478682931"
+    }
+  ]
+}

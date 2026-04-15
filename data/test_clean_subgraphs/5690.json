@@ -1,0 +1,48 @@
+{
+  "question_id": "5690",
+  "answers": [
+    "1"
+  ],
+  "gold_path": {
+    "question_id": "5690",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242388",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q369877"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q242388-28a099f8-4db0-814e-da3f-da9bf491d556",
+        "predicate": "pq:P1545",
+        "object": "1"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q242388",
+      "predicate": "http://www.wikidata.org/prop/direct/P39",
+      "object": "http://www.wikidata.org/entity/Q369877"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242388",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "UBOV386482"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242388",
+      "predicate": "http://www.wikidata.org/prop/direct/P4619",
+      "object": "000430053"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242388",
+      "predicate": "http://www.wikidata.org/prop/direct/P3365",
+      "object": "john-flamsteed"
+    }
+  ]
+}

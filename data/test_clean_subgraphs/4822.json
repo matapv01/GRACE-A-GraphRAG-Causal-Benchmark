@@ -1,0 +1,53 @@
+{
+  "question_id": "4822",
+  "answers": [
+    "2014-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4822",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q380787",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q380787-e4aac196-4715-12ca-6dfc-2f73f3acc8f5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q380787-e4aac196-4715-12ca-6dfc-2f73f3acc8f5",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q17550770"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q380787-e4aac196-4715-12ca-6dfc-2f73f3acc8f5",
+        "predicate": "pq:P585",
+        "object": "2014-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q380787",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "المفكر أدونيس"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q380787",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "سعيد، علي أحمد،"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q380787",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "علي أحمد سعيد"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q380787",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "علي أحمد سعيد إسبر"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q380787",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "‘Alī Aḥmad Sa‘id"
+    }
+  ]
+}

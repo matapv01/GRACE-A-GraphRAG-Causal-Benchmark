@@ -1,0 +1,48 @@
+{
+  "question_id": "10127",
+  "answers": [
+    "http://www.wikidata.org/entity/Q460057"
+  ],
+  "gold_path": {
+    "question_id": "10127",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7785",
+        "predicate": "http://www.wikidata.org/prop/direct/P2388",
+        "object": "http://www.wikidata.org/entity/Q460057"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7785",
+        "predicate": "http://www.wikidata.org/prop/direct/P159",
+        "object": "http://www.wikidata.org/entity/Q565532"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7785",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Marlborough%20House.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7785",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "commonwealth"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7785",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q7785-1965375d-43d3-0ec9-2176-365f851635af"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7785",
+      "predicate": "http://www.wikidata.org/prop/direct/P3612",
+      "object": "sujet/commonwealth"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7785",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q16"
+    }
+  ]
+}

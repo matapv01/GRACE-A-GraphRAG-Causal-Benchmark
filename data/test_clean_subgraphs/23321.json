@@ -1,0 +1,48 @@
+{
+  "question_id": "23321",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3309953"
+  ],
+  "gold_path": {
+    "question_id": "23321",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3309953",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1039303"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3309953",
+        "predicate": "rdfs:label",
+        "object": "steeping"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3309953",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "brewing"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3309953",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "direndam"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3309953",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "diseduh"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3309953",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "menyeduh"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3309953",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "merendam"
+    }
+  ]
+}

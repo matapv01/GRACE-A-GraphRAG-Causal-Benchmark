@@ -1,0 +1,92 @@
+{
+  "question_id": "17094",
+  "answers": [
+    "0855-08-06T00:00:00Z",
+    "0853-01-01T00:00:00Z",
+    "0870-08-31T00:00:00Z",
+    "0869-01-01T00:00:00Z",
+    "0884-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "17094",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q140124",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q194442"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q194442",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0855-08-06T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q140124",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q241026"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q241026",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0870-08-31T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q140124",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q439344"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q439344",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0853-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q140124",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q2004370"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2004370",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0884-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q140124",
+        "predicate": "http://www.wikidata.org/prop/direct/P1066",
+        "object": "http://www.wikidata.org/entity/Q3012690"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3012690",
+        "predicate": "http://www.wikidata.org/prop/direct/P570",
+        "object": "0869-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q140124",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-05T06:25:05Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140124",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "68"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140124",
+      "predicate": "http://schema.org/version",
+      "object": "2478472437"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140124",
+      "predicate": "http://www.wikidata.org/prop/P1417",
+      "object": "http://www.wikidata.org/entity/statement/Q140124-4EC440C9-6A0D-4C76-84B6-16DBD6FBD461"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q140124",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q140124-93AF5668-4738-4A7E-9399-75F568781FB8"
+    }
+  ]
+}

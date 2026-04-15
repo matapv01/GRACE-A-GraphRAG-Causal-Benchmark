@@ -1,0 +1,53 @@
+{
+  "question_id": "10973",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3076583"
+  ],
+  "gold_path": {
+    "question_id": "10973",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q166714",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q166714-2EA0192D-668B-40C2-A60E-F6F25E1C9DF5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q166714-2EA0192D-668B-40C2-A60E-F6F25E1C9DF5",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q41582581"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q166714-2EA0192D-668B-40C2-A60E-F6F25E1C9DF5",
+        "predicate": "pq:P2715",
+        "object": "http://www.wikidata.org/entity/Q3076583"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q166714-2EA0192D-668B-40C2-A60E-F6F25E1C9DF5",
+        "predicate": "pq:P1534",
+        "object": "http://www.wikidata.org/entity/Q741182"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q166714",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q166714-1D6A3C26-9C4A-4195-A6B1-1045294EF443"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q166714",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q166714-1EEB68DB-2953-494E-837D-D61257E417FC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q166714",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q166714-21215D63-03A3-41CC-B874-7CCFF62F6C3F"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q166714",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q166714-27421CCE-BDC4-450E-A9F2-56A94A0047C4"
+    }
+  ]
+}

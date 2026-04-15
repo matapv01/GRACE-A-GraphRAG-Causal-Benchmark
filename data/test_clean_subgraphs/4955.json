@@ -1,0 +1,48 @@
+{
+  "question_id": "4955",
+  "answers": [
+    "20"
+  ],
+  "gold_path": {
+    "question_id": "4955",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14982",
+        "predicate": "http://www.wikidata.org/prop/P2054",
+        "object": "http://www.wikidata.org/entity/statement/Q14982-66c7a868-4e8f-8c08-9b87-e4888d39835d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q14982-66c7a868-4e8f-8c08-9b87-e4888d39835d",
+        "predicate": "pq:P2076",
+        "object": "20"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14982",
+      "predicate": "http://schema.org/version",
+      "object": "2480091289"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14982",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2115",
+      "object": "http://purl.bioontology.org/ontology/NDFRT/N0000022622"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14982",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P1014",
+      "object": "http://vocab.getty.edu/aat/300015238"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14982",
+      "predicate": "http://www.wikidata.org/prop/direct/P592",
+      "object": "CHEMBL14688"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14982",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P4527",
+      "object": "http://data.parliament.uk/terms/11631"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "12192",
+  "answers": [
+    "http://www.wikidata.org/entity/Q33999"
+  ],
+  "gold_path": {
+    "question_id": "12192",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q220693",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q33999"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33999",
+        "predicate": "http://www.wikidata.org/prop/direct/P425",
+        "object": "http://www.wikidata.org/entity/Q222749"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q220693",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-30T21:53:30Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220693",
+      "predicate": "http://www.wikidata.org/prop/direct/P5540",
+      "object": "marilyn+chambers"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220693",
+      "predicate": "http://www.wikidata.org/prop/direct/P2032",
+      "object": "2009-01-01T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220693",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P268",
+      "object": "http://data.bnf.fr/ark:/12148/cb14163212d#about"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q220693",
+      "predicate": "http://www.wikidata.org/prop/direct/P2604",
+      "object": "135440"
+    }
+  ]
+}

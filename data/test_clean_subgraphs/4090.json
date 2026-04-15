@@ -1,0 +1,48 @@
+{
+  "question_id": "4090",
+  "answers": [
+    "http://www.wikidata.org/entity/Q317920"
+  ],
+  "gold_path": {
+    "question_id": "4090",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q271676",
+        "predicate": "http://www.wikidata.org/prop/P1066",
+        "object": "http://www.wikidata.org/entity/statement/Q271676-cbb01e95-4f90-f1da-ac49-bf3ecec830c3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q271676-cbb01e95-4f90-f1da-ac49-bf3ecec830c3",
+        "predicate": "ps:P1066",
+        "object": "http://www.wikidata.org/entity/Q317920"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q271676",
+      "predicate": "http://www.wikidata.org/prop/direct/P2538",
+      "object": "10568"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q271676",
+      "predicate": "http://www.wikidata.org/prop/direct/P2432",
+      "object": "360"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q271676",
+      "predicate": "http://www.wikidata.org/prop/P39",
+      "object": "http://www.wikidata.org/entity/statement/Q271676-7f96cc48-430c-b531-30aa-6b8bf1f46215"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q271676",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "charles-le-brun"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q271676",
+      "predicate": "http://www.wikidata.org/prop/P244",
+      "object": "http://www.wikidata.org/entity/statement/q271676-604E19E8-53AD-43C1-9F07-294BE2558827"
+    }
+  ]
+}

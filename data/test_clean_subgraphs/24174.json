@@ -1,0 +1,59 @@
+{
+  "question_id": "24174",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1872619",
+    "http://www.wikidata.org/entity/Q12011178"
+  ],
+  "gold_path": {
+    "question_id": "24174",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q12011178",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1790144"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12011178",
+        "predicate": "rdfs:label",
+        "object": "zettasecond"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1872619",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1790144"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1872619",
+        "predicate": "rdfs:label",
+        "object": "zeptosecond"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q12011178",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-08-26T12:26:25Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12011178",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P8769",
+      "object": "http://www.ontology-of-units-of-measure.org/resource/om-2/zettasecond-Time"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12011178",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12011178",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P3328",
+      "object": "http://www.wurvoc.org/vocabularies/om-1.8/zettasecond-time"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q12011178",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q12011178-76282735-4932-102d-4de7-4b53f9575853"
+    }
+  ]
+}

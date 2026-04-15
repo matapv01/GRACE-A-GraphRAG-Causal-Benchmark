@@ -1,0 +1,43 @@
+{
+  "question_id": "25669",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5013572"
+  ],
+  "gold_path": {
+    "question_id": "25669",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q5013572",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q9135"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5013572",
+        "predicate": "http://www.wikidata.org/prop/direct/P277",
+        "object": "http://www.wikidata.org/entity/Q165436"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5013572",
+        "predicate": "rdfs:label",
+        "object": "VM"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q5013572",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "CP-370"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5013572",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "VM/370"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q5013572",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "VM/CMS"
+    }
+  ]
+}

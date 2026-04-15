@@ -1,0 +1,48 @@
+{
+  "question_id": "16503",
+  "answers": [
+    "http://www.wikidata.org/entity/Q131"
+  ],
+  "gold_path": {
+    "question_id": "16503",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14914693",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q14914938"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14914938",
+        "predicate": "http://www.wikidata.org/prop/direct/P2894",
+        "object": "http://www.wikidata.org/entity/Q131"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14914693",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-31T09:42:10Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14914693",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q14914693-2b4cfe3a-465b-04c8-efb6-087243d0a2b5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14914693",
+      "predicate": "http://www.wikidata.org/prop/P156",
+      "object": "http://www.wikidata.org/entity/statement/Q14914693-299719bb-4b2c-baa6-6b71-60dcace4afd3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14914693",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14914693",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q14795564"
+    }
+  ]
+}

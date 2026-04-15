@@ -1,0 +1,53 @@
+{
+  "question_id": "11374",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1327411"
+  ],
+  "gold_path": {
+    "question_id": "11374",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q183565",
+        "predicate": "http://www.wikidata.org/prop/P179",
+        "object": "http://www.wikidata.org/entity/statement/q183565-C5BD773E-26E7-48BC-AC93-902286B5E1F9"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q183565-C5BD773E-26E7-48BC-AC93-902286B5E1F9",
+        "predicate": "ps:P179",
+        "object": "http://www.wikidata.org/entity/Q3048935"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q183565-C5BD773E-26E7-48BC-AC93-902286B5E1F9",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q1327411"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q183565",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/no2013128368"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183565",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2034",
+      "object": "http://www.gutenberg.org/ebooks/54873"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183565",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "no2013128368"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183565",
+      "predicate": "http://www.wikidata.org/prop/direct/P2034",
+      "object": "54873"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q183565",
+      "predicate": "http://www.wikidata.org/prop/direct/P155",
+      "object": "http://www.wikidata.org/entity/Q1213902"
+    }
+  ]
+}

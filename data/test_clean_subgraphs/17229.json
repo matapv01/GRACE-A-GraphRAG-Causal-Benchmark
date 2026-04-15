@@ -1,0 +1,60 @@
+{
+  "question_id": "17229",
+  "answers": [
+    "http://www.wikidata.org/entity/Q971446",
+    "http://www.wikidata.org/entity/Q4834978",
+    "http://www.wikidata.org/entity/Q24039192"
+  ],
+  "gold_path": {
+    "question_id": "17229",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q212731",
+        "predicate": "http://www.wikidata.org/prop/direct/P272",
+        "object": "http://www.wikidata.org/entity/Q9531"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9531",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q971446"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9531",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q4834978"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9531",
+        "predicate": "http://www.wikidata.org/prop/direct/P355",
+        "object": "http://www.wikidata.org/entity/Q24039192"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q212731",
+      "predicate": "http://www.wikidata.org/prop/direct/P4312",
+      "object": "http://www.wikidata.org/entity/Q2918907"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212731",
+      "predicate": "http://www.wikidata.org/prop/direct/P437",
+      "object": "http://www.wikidata.org/entity/Q723685"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212731",
+      "predicate": "http://www.wikidata.org/prop/direct/P244",
+      "object": "n81074908"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212731",
+      "predicate": "http://www.wikidata.org/prop/direct/P8013",
+      "object": "shows/fawlty-towers"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q212731",
+      "predicate": "http://www.wikidata.org/prop/direct/P910",
+      "object": "http://www.wikidata.org/entity/Q8444454"
+    }
+  ]
+}

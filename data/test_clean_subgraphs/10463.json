@@ -1,0 +1,68 @@
+{
+  "question_id": "10463",
+  "answers": [
+    "http://www.wikidata.org/entity/Q43974"
+  ],
+  "gold_path": {
+    "question_id": "10463",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q150735",
+        "predicate": "http://www.wikidata.org/prop/P97",
+        "object": "http://www.wikidata.org/entity/statement/Q150735-18CC0A77-3C3B-4F1B-BE33-2168CD48DA08"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150735-18CC0A77-3C3B-4F1B-BE33-2168CD48DA08",
+        "predicate": "ps:P97",
+        "object": "http://www.wikidata.org/entity/Q22923081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150735-18CC0A77-3C3B-4F1B-BE33-2168CD48DA08",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q43974"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150735-18CC0A77-3C3B-4F1B-BE33-2168CD48DA08",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q215204"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150735-18CC0A77-3C3B-4F1B-BE33-2168CD48DA08",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q298945"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q150735-18CC0A77-3C3B-4F1B-BE33-2168CD48DA08",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q333802"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q150735",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "lothaire-ier"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150735",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "67"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150735",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "76"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150735",
+      "predicate": "http://www.wikidata.org/prop/direct/P8080",
+      "object": "L/Lothar.html"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q150735",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "lothar-i"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "question_id": "9010",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2576795",
+    "http://www.wikidata.org/entity/Q3405409",
+    "http://www.wikidata.org/entity/Q255032",
+    "http://www.wikidata.org/entity/Q266012"
+  ],
+  "gold_path": {
+    "question_id": "9010",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q217110",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q217110-1a2db6ae-42b4-adf6-f120-2df6217fe33d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q217110-1a2db6ae-42b4-adf6-f120-2df6217fe33d",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q266012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q217110",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q217110-4a599ddc-4c8f-6158-5b99-c4c305a53028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q217110-4a599ddc-4c8f-6158-5b99-c4c305a53028",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q255032"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q217110",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q217110-9a5dccc3-4d59-ea82-0d69-3160e0fedfd3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q217110-9a5dccc3-4d59-ea82-0d69-3160e0fedfd3",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q2576795"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q217110",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q217110-FBDFB318-FA93-41F8-98A1-2EC428141AD5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q217110-FBDFB318-FA93-41F8-98A1-2EC428141AD5",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q3405409"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q217110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "カード"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Brian Green"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Scott Richards"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Frederick Bliss"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q217110",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Орсън Скот Кард"
+    }
+  ]
+}

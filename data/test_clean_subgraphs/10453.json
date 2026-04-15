@@ -1,0 +1,58 @@
+{
+  "question_id": "10453",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12271"
+  ],
+  "gold_path": {
+    "question_id": "10453",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q180374",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q180374-44DAFBD1-0E96-4A9F-80DB-38A8008AAC34"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q180374-44DAFBD1-0E96-4A9F-80DB-38A8008AAC34",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q7866351"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q180374-44DAFBD1-0E96-4A9F-80DB-38A8008AAC34",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q12271"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q180374-44DAFBD1-0E96-4A9F-80DB-38A8008AAC34",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q4838776"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q180374",
+      "predicate": "http://www.wikidata.org/prop/direct/P3888",
+      "object": "7112"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180374",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL4392344A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180374",
+      "predicate": "http://www.wikidata.org/prop/direct/P6578",
+      "object": "48083CF61EBA0185"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180374",
+      "predicate": "http://www.wikidata.org/prop/direct/P4789",
+      "object": "U42290"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q180374",
+      "predicate": "http://www.wikidata.org/prop/direct/P1988",
+      "object": "32104_artiste_GEHRY_Frank"
+    }
+  ]
+}

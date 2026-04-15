@@ -1,0 +1,48 @@
+{
+  "question_id": "24832",
+  "answers": [
+    "http://www.wikidata.org/entity/Q281876"
+  ],
+  "gold_path": {
+    "question_id": "24832",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q281876",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q24451526"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q281876",
+        "predicate": "rdfs:label",
+        "object": "YAML"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q281876",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P6366",
+      "object": "https://makg.org/entity/2778734103"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281876",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q281876-2AE5B92B-ECB6-45C0-AD8B-343B1C987B1D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281876",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01w6k2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281876",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2025-10-10T11:29:32Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q281876",
+      "predicate": "http://schema.org/version",
+      "object": "2414670961"
+    }
+  ]
+}

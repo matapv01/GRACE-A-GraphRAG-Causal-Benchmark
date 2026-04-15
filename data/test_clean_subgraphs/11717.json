@@ -1,0 +1,59 @@
+{
+  "question_id": "11717",
+  "answers": [
+    "http://www.wikidata.org/entity/Q521",
+    "http://www.wikidata.org/entity/Q161733"
+  ],
+  "gold_path": {
+    "question_id": "11717",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10738",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q10738-058CE835-8374-4AE3-A23E-E4A41B0E05EF"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q10738-058CE835-8374-4AE3-A23E-E4A41B0E05EF",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q738258"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q10738-058CE835-8374-4AE3-A23E-E4A41B0E05EF",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q10738-058CE835-8374-4AE3-A23E-E4A41B0E05EF",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q161733"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10738",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "154931"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10738",
+      "predicate": "http://www.wikidata.org/prop/direct/P2626",
+      "object": "146975"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10738",
+      "predicate": "http://www.wikidata.org/prop/direct/P2561",
+      "object": "ꠖꠣ ꠞꠇ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10738",
+      "predicate": "http://www.wikidata.org/prop/direct/P2688",
+      "object": "rock"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10738",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "14454876v"
+    }
+  ]
+}

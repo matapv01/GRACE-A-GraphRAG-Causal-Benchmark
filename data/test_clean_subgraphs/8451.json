@@ -1,0 +1,48 @@
+{
+  "question_id": "8451",
+  "answers": [
+    "http://www.wikidata.org/entity/Q775617"
+  ],
+  "gold_path": {
+    "question_id": "8451",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q41076",
+        "predicate": "http://www.wikidata.org/prop/P1898",
+        "object": "http://www.wikidata.org/entity/statement/Q41076-e9381051-4d05-9daf-a87c-2021e206366c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q41076-e9381051-4d05-9daf-a87c-2021e206366c",
+        "predicate": "ps:P1898",
+        "object": "http://www.wikidata.org/entity/Q775617"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q41076",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P244",
+      "object": "http://id.loc.gov/authorities/names/n91112415"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41076",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P227",
+      "object": "https://d-nb.info/gnd/119293161"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41076",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/q41076-7C058B6D-EC7E-4CAC-9B18-9C77D7377FF7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41076",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "MC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q41076",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Mirage"
+    }
+  ]
+}

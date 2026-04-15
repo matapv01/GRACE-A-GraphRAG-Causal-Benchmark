@@ -1,0 +1,92 @@
+{
+  "question_id": "3039",
+  "answers": [
+    "http://www.wikidata.org/entity/Q19840462",
+    "http://www.wikidata.org/entity/Q119812519",
+    "http://www.wikidata.org/entity/Q132021733",
+    "http://www.wikidata.org/entity/Q4855911",
+    "http://www.wikidata.org/entity/Q134280359"
+  ],
+  "gold_path": {
+    "question_id": "3039",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q134280359",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1210334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q134280359",
+        "predicate": "http://www.wikidata.org/prop/direct/P2793",
+        "object": "3000"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q119812519",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1210334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q119812519",
+        "predicate": "http://www.wikidata.org/prop/direct/P2793",
+        "object": "475"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q132021733",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1210334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q132021733",
+        "predicate": "http://www.wikidata.org/prop/direct/P2793",
+        "object": "380"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4855911",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1210334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q4855911",
+        "predicate": "http://www.wikidata.org/prop/direct/P2793",
+        "object": "359"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19840462",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1210334"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q19840462",
+        "predicate": "http://www.wikidata.org/prop/direct/P2793",
+        "object": "310"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q134280359",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Vallée-Jonction Railway Bridge"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134280359",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "pont ferroviaire de Vallée-Jonction"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134280359",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134280359",
+      "predicate": "http://schema.org/version",
+      "object": "2475365381"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q134280359",
+      "predicate": "http://schema.org/description",
+      "object": "railway bridge in Vallée-Jonction over the  Chaudière river"
+    }
+  ]
+}

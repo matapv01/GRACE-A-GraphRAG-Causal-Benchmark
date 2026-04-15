@@ -1,0 +1,48 @@
+{
+  "question_id": "13289",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1715"
+  ],
+  "gold_path": {
+    "question_id": "13289",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q678982",
+        "predicate": "http://www.wikidata.org/prop/direct/P131",
+        "object": "http://www.wikidata.org/entity/Q1715"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1715",
+        "predicate": "http://www.wikidata.org/prop/direct/P206",
+        "object": "http://www.wikidata.org/entity/Q161051"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q678982",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Hannover%20Welfenschloss%20%28um%201895%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q678982",
+      "predicate": "http://www.wikidata.org/prop/direct/P625",
+      "object": "Point(9.717777777 52.382222222)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q678982",
+      "predicate": "http://www.wikidata.org/prop/direct/P3847",
+      "object": "leibniz_universität_hannover"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q678982",
+      "predicate": "http://www.wikidata.org/prop/direct/P4839",
+      "object": "Entity[\"University\", \"LeibnizUniversitatHannover::zbqb9\"]"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q678982",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/02mpg6"
+    }
+  ]
+}

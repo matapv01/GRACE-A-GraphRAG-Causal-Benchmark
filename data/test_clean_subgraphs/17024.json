@@ -1,0 +1,114 @@
+{
+  "question_id": "17024",
+  "answers": [
+    "1992-01-01T00:00:00Z",
+    "2012-01-01T00:00:00Z",
+    "2004-08-21T00:00:00Z",
+    "2008-08-15T00:00:00Z",
+    "2000-01-01T00:00:00Z",
+    "1996-01-01T00:00:00Z",
+    "1988-09-23T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "17024",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q8544"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8544",
+        "predicate": "http://www.wikidata.org/prop/direct/P585",
+        "object": "2000-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q8577"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8577",
+        "predicate": "http://www.wikidata.org/prop/direct/P585",
+        "object": "2012-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q1005423"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1005423",
+        "predicate": "http://www.wikidata.org/prop/direct/P585",
+        "object": "2008-08-15T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q7500739"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7500739",
+        "predicate": "http://www.wikidata.org/prop/direct/P585",
+        "object": "1988-09-23T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q7500764"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7500764",
+        "predicate": "http://www.wikidata.org/prop/direct/P585",
+        "object": "1992-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q7500786"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7500786",
+        "predicate": "http://www.wikidata.org/prop/direct/P585",
+        "object": "1996-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q553279",
+        "predicate": "http://www.wikidata.org/prop/direct/P1344",
+        "object": "http://www.wikidata.org/entity/Q7500830"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q7500830",
+        "predicate": "http://www.wikidata.org/prop/direct/P585",
+        "object": "2004-08-21T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q553279-562CFC5C-F00C-4A4F-BEDE-4F14150089BD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ralf Schumann"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Шуман, Ральф"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "object": "http://www.wikidata.org/entity/Q8738"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q553279",
+      "predicate": "http://www.wikidata.org/prop/P27",
+      "object": "http://www.wikidata.org/entity/statement/Q553279-63BE2546-91B3-4C1A-A38A-69620B8083D6"
+    }
+  ]
+}

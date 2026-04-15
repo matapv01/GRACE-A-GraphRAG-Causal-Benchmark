@@ -1,0 +1,60 @@
+{
+  "question_id": "17487",
+  "answers": [
+    "http://www.wikidata.org/entity/Q281460",
+    "http://www.wikidata.org/entity/Q8355",
+    "http://www.wikidata.org/entity/Q8377"
+  ],
+  "gold_path": {
+    "question_id": "17487",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14534",
+        "predicate": "http://www.wikidata.org/prop/direct/P121",
+        "object": "http://www.wikidata.org/entity/Q14277"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14277",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q8355"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14277",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q8377"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14277",
+        "predicate": "http://www.wikidata.org/prop/direct/P1303",
+        "object": "http://www.wikidata.org/entity/Q281460"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "NGC"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "এনজিসি"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "New General Catalogue of Nebulae and Clusters of Stars"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "NGC-Katalog"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14534",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "NGC/IC-Katalog"
+    }
+  ]
+}

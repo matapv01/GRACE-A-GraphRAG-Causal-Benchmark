@@ -1,0 +1,48 @@
+{
+  "question_id": "15480",
+  "answers": [
+    "http://www.wikidata.org/entity/Q492467"
+  ],
+  "gold_path": {
+    "question_id": "15480",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q27883241",
+        "predicate": "http://www.wikidata.org/prop/direct/P170",
+        "object": "http://www.wikidata.org/entity/Q5145349"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q5145349",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q492467"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q27883241",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2024-10-30T16:10:45Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27883241",
+      "predicate": "http://www.wikidata.org/prop/P1476",
+      "object": "http://www.wikidata.org/entity/statement/Q27883241-dce80665-5292-4be9-bc76-0c8bc769289f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27883241",
+      "predicate": "http://www.wikidata.org/prop/P186",
+      "object": "http://www.wikidata.org/entity/statement/Q27883241-A9ABDCC1-359C-45BE-AC75-E2F2DFDF0ADD"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27883241",
+      "predicate": "http://www.wikidata.org/prop/P186",
+      "object": "http://www.wikidata.org/entity/statement/Q27883241-AEA88E99-59CF-4244-A036-639881DCF9A0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q27883241",
+      "predicate": "http://www.wikidata.org/prop/direct/P1476",
+      "object": "Takaka: night and day"
+    }
+  ]
+}

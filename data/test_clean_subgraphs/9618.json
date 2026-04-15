@@ -1,0 +1,64 @@
+{
+  "question_id": "9618",
+  "answers": [
+    "http://www.wikidata.org/entity/Q303660",
+    "http://www.wikidata.org/entity/Q3499122"
+  ],
+  "gold_path": {
+    "question_id": "9618",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11998",
+        "predicate": "http://www.wikidata.org/prop/direct/P1283",
+        "object": "http://www.wikidata.org/entity/Q303660"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11998",
+        "predicate": "http://www.wikidata.org/prop/direct/P358",
+        "object": "http://www.wikidata.org/entity/Q53102"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11998",
+        "predicate": "http://www.wikidata.org/prop/direct/P1283",
+        "object": "http://www.wikidata.org/entity/Q3499122"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11998",
+        "predicate": "http://www.wikidata.org/prop/direct/P358",
+        "object": "http://www.wikidata.org/entity/Q53104"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11998",
+        "predicate": "http://www.wikidata.org/prop/direct/P358",
+        "object": "http://www.wikidata.org/entity/Q59240385"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11998",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q11998-5366408f-4625-abe8-ea4c-6a8a0953fea9"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11998",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q11998-3C62B8DF-9018-4DCC-965C-34B5496C87F6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11998",
+      "predicate": "http://www.wikidata.org/prop/direct/P1884",
+      "object": "http://www.wikidata.org/entity/Q202466"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11998",
+      "predicate": "http://www.wikidata.org/prop/P106",
+      "object": "http://www.wikidata.org/entity/statement/Q11998-c59869bc-44b8-0583-5ef0-403b703457d8"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11998",
+      "predicate": "http://www.wikidata.org/prop/P106",
+      "object": "http://www.wikidata.org/entity/statement/Q11998-fd33c581-4c7f-ded1-0b36-061982413fb4"
+    }
+  ]
+}

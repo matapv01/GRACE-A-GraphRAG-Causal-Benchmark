@@ -1,0 +1,48 @@
+{
+  "question_id": "7580",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103916"
+  ],
+  "gold_path": {
+    "question_id": "7580",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q188955",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q188955-9398B4BC-56BF-4049-B27F-02DFB355AC19"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q188955-9398B4BC-56BF-4049-B27F-02DFB355AC19",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q103916"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q188955",
+      "predicate": "http://www.wikidata.org/prop/direct/P2013",
+      "object": "MatthewMcConaughey"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188955",
+      "predicate": "http://www.wikidata.org/prop/direct/P2688",
+      "object": "matthewmcconaughey"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188955",
+      "predicate": "http://www.wikidata.org/prop/direct/P2949",
+      "object": "McConaughey-3"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188955",
+      "predicate": "http://www.wikidata.org/prop/direct/P4985",
+      "object": "10297"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q188955",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "14003860h"
+    }
+  ]
+}

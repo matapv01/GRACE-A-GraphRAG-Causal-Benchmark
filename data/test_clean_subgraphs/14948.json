@@ -1,0 +1,66 @@
+{
+  "question_id": "14948",
+  "answers": [
+    "http://www.wikidata.org/entity/Q112416756",
+    "http://www.wikidata.org/entity/Q238941",
+    "http://www.wikidata.org/entity/Q3247179",
+    "http://www.wikidata.org/entity/Q2120636"
+  ],
+  "gold_path": {
+    "question_id": "14948",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q16614634",
+        "predicate": "http://www.wikidata.org/prop/direct/P175",
+        "object": "http://www.wikidata.org/entity/Q38257"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q38257",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q238941"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q38257",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q2120636"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q38257",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q3247179"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q38257",
+        "predicate": "http://www.wikidata.org/prop/direct/P3373",
+        "object": "http://www.wikidata.org/entity/Q112416756"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q16614634",
+      "predicate": "http://www.wikidata.org/prop/direct/P264",
+      "object": "http://www.wikidata.org/entity/Q645889"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16614634",
+      "predicate": "http://www.wikidata.org/prop/P264",
+      "object": "http://www.wikidata.org/entity/statement/Q16614634-5C95C34A-314F-422F-BC6B-1E74BF0ABA36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16614634",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q16614634-904E9055-1A9C-4744-9F66-DB8DFF28240B"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16614634",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0zl911b"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q16614634",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Oíche Chiún (Silent Night)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "20230",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9303115"
+  ],
+  "gold_path": {
+    "question_id": "20230",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q270",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q9303115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9303115",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q270",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Warsaw.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Castle%20Square%20%2822346p%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270",
+      "predicate": "http://www.wikidata.org/prop/direct/P190",
+      "object": "http://www.wikidata.org/entity/Q1899"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q270",
+      "predicate": "http://www.wikidata.org/prop/direct/P190",
+      "object": "http://www.wikidata.org/entity/Q64"
+    }
+  ]
+}

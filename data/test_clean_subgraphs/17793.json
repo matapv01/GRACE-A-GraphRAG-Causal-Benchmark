@@ -1,0 +1,48 @@
+{
+  "question_id": "17793",
+  "answers": [
+    "http://commons.wikimedia.org/data/main/Data:Uganda.map"
+  ],
+  "gold_path": {
+    "question_id": "17793",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3894",
+        "predicate": "http://www.wikidata.org/prop/direct/P1376",
+        "object": "http://www.wikidata.org/entity/Q1036"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1036",
+        "predicate": "http://www.wikidata.org/prop/direct/P3896",
+        "object": "http://commons.wikimedia.org/data/main/Data:Uganda.map"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3894",
+      "predicate": "http://www.wikidata.org/prop/direct/P473",
+      "object": "41"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3894",
+      "predicate": "http://www.wikidata.org/prop/direct/P47",
+      "object": "http://www.wikidata.org/entity/Q429685"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3894",
+      "predicate": "http://www.wikidata.org/prop/direct/P6200",
+      "object": "cgv64v9q2xyt"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3894",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q5385927"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3894",
+      "predicate": "http://www.wikidata.org/prop/direct/P7666",
+      "object": "kampala"
+    }
+  ]
+}

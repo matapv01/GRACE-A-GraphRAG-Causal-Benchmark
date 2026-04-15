@@ -1,0 +1,48 @@
+{
+  "question_id": "7584",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11435"
+  ],
+  "gold_path": {
+    "question_id": "7584",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q283",
+        "predicate": "http://www.wikidata.org/prop/P2054",
+        "object": "http://www.wikidata.org/entity/statement/Q283-0f4437ea-4937-2295-1c80-19fd45bb9caf"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q283-0f4437ea-4937-2295-1c80-19fd45bb9caf",
+        "predicate": "pq:P515",
+        "object": "http://www.wikidata.org/entity/Q11435"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "molecola costituita da due atomi di idrogeno e uno di ossigeno"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "ജീവന്റെ നിലനില്പിന് അത്യന്താപേക്ഷിതമായ ദ്രാവകമാണ് ജലം"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "chemische verbinding van twee waterstofatomen en een zuurstofatoom"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "agua"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q283",
+      "predicate": "http://schema.org/description",
+      "object": "compositum chemicum"
+    }
+  ]
+}

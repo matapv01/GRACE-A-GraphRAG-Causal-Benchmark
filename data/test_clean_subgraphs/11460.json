@@ -1,0 +1,53 @@
+{
+  "question_id": "11460",
+  "answers": [
+    "http://www.wikidata.org/entity/Q199"
+  ],
+  "gold_path": {
+    "question_id": "11460",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q199",
+        "predicate": "http://www.wikidata.org/prop/P179",
+        "object": "http://www.wikidata.org/entity/statement/Q199-e7232cb7-49bf-e511-de29-b45ff4c1becf"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199-e7232cb7-49bf-e511-de29-b45ff4c1becf",
+        "predicate": "ps:P179",
+        "object": "http://www.wikidata.org/entity/Q23835349"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q199-e7232cb7-49bf-e511-de29-b45ff4c1becf",
+        "predicate": "pq:P155",
+        "object": "http://www.wikidata.org/entity/Q199"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://www.wikidata.org/prop/P111",
+      "object": "http://www.wikidata.org/entity/statement/Q199-bbaa00cb-46a0-6d39-0298-e44120f6a087"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://www.wikidata.org/prop/direct/P2561",
+      "object": "one"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://www.wikidata.org/prop/direct/P2561",
+      "object": "як"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://www.wikidata.org/prop/direct/P2561",
+      "object": "ഒന്ന്"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q199",
+      "predicate": "http://www.wikidata.org/prop/direct/P2561",
+      "object": "один"
+    }
+  ]
+}

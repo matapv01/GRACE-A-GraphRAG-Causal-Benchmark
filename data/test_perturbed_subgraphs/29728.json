@@ -1,0 +1,420 @@
+{
+  "clean": {
+    "question_id": "29728",
+    "answers": [
+      "http://www.wikidata.org/entity/Q9574531",
+      "http://www.wikidata.org/entity/Q11457583"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/P2348",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-705d73b6-492f-d2f9-ae10-f04d3a80db6b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q13426199"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11457583",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/P242",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-687d2284-4092-32a2-70df-bdda9514a059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P242",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20China%20edcp%20location%20map%20%28disputed%20territories%29%20Shansi.svg"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "29728",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20China%20edcp%20location%20map%20%28disputed%20territories%29%20Shansi.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q11457583"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q9574531"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-705d73b6-492f-d2f9-ae10-f04d3a80db6b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-687d2284-4092-32a2-70df-bdda9514a059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q13426199"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "29728",
+    "answers": [
+      "http://www.wikidata.org/entity/Q9574531",
+      "http://www.wikidata.org/entity/Q11457583"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/P2348",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-705d73b6-492f-d2f9-ae10-f04d3a80db6b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q13426199"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11457583",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/P242",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-687d2284-4092-32a2-70df-bdda9514a059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P242",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20China%20edcp%20location%20map%20%28disputed%20territories%29%20Shansi.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q32081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q63698"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q516223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1058919"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q1148671"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "29728",
+    "answers": [
+      "http://www.wikidata.org/entity/Q9574531",
+      "http://www.wikidata.org/entity/Q11457583"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/P2348",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-705d73b6-492f-d2f9-ae10-f04d3a80db6b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q13426199"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11457583",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/P242",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-687d2284-4092-32a2-70df-bdda9514a059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9574531",
+        "predicate": "http://www.wikidata.org/prop/direct/P242",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20China%20edcp%20location%20map%20%28disputed%20territories%29%20Shansi.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q20089181"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20from%20the%20Arc%20de%20Triomphe%2C%2017%20October%202019.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q7270"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q3052772"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/direct/P37",
+        "object": "http://www.wikidata.org/entity/Q150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_DUMMY",
+        "predicate": "http://www.wikidata.org/prop/direct/P_DUMMY",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "29728",
+    "answers": [
+      "http://www.wikidata.org/entity/Q32081"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q32081",
+        "predicate": "http://www.wikidata.org/prop/P2348",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-705d73b6-492f-d2f9-ae10-f04d3a80db6b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32081",
+        "predicate": "http://www.wikidata.org/prop/direct/P2348",
+        "object": "http://www.wikidata.org/entity/Q13426199"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32081",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32081",
+        "predicate": "http://www.wikidata.org/prop/direct/P1366",
+        "object": "http://www.wikidata.org/entity/Q46913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32081",
+        "predicate": "http://www.wikidata.org/prop/P242",
+        "object": "http://www.wikidata.org/entity/statement/Q9574531-687d2284-4092-32a2-70df-bdda9514a059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32081",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q32081",
+        "predicate": "http://www.wikidata.org/prop/direct/P242",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20China%20edcp%20location%20map%20%28disputed%20territories%29%20Shansi.svg"
+      }
+    ]
+  }
+}

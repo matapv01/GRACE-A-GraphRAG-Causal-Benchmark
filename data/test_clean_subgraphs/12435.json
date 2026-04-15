@@ -1,0 +1,48 @@
+{
+  "question_id": "12435",
+  "answers": [
+    "http://www.wikidata.org/entity/Q41050"
+  ],
+  "gold_path": {
+    "question_id": "12435",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q599672",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q41050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q41050",
+        "predicate": "http://www.wikidata.org/prop/direct/P105",
+        "object": "http://www.wikidata.org/entity/Q34740"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q599672",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "40"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q599672",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "72"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q599672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "борнейски орангутан"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q599672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Orang utan kalimantan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q599672",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "বোর্নিওবাসী বনমানুষ"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "question_id": "7576",
+  "answers": [
+    "1960-01-01T00:00:00Z",
+    "1976-01-01T00:00:00Z",
+    "1974-01-01T00:00:00Z",
+    "1996-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "7576",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q182450",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q182450-0d81183b-4e78-cd78-452b-de97da8193a8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-0d81183b-4e78-cd78-452b-de97da8193a8",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-0d81183b-4e78-cd78-452b-de97da8193a8",
+        "predicate": "pq:P585",
+        "object": "1960-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182450",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q182450-8d8d3765-4636-9cff-806e-034b767488b8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-8d8d3765-4636-9cff-806e-034b767488b8",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-8d8d3765-4636-9cff-806e-034b767488b8",
+        "predicate": "pq:P585",
+        "object": "1974-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182450",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q182450-a49ce1b5-49d3-fc81-ac4b-f7c55dac83ed"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-a49ce1b5-49d3-fc81-ac4b-f7c55dac83ed",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-a49ce1b5-49d3-fc81-ac4b-f7c55dac83ed",
+        "predicate": "pq:P585",
+        "object": "1976-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q182450",
+        "predicate": "http://www.wikidata.org/prop/P1411",
+        "object": "http://www.wikidata.org/entity/statement/Q182450-cf42f59f-4ca2-408c-c893-a457f3441e6f"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-cf42f59f-4ca2-408c-c893-a457f3441e6f",
+        "predicate": "ps:P1411",
+        "object": "http://www.wikidata.org/entity/Q1445521"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q182450-cf42f59f-4ca2-408c-c893-a457f3441e6f",
+        "predicate": "pq:P585",
+        "object": "1996-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q182450",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "George Scott"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q182450",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "George Campbell Scott"
+    }
+  ]
+}

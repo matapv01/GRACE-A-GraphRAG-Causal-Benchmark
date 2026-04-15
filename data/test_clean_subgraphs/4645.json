@@ -1,0 +1,59 @@
+{
+  "question_id": "4645",
+  "answers": [
+    "1981-01-01T00:00:00Z",
+    "1978-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4645",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q467960",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q467960-36A32364-2EB9-4EE3-BD2E-A37E68B89C64"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q467960-36A32364-2EB9-4EE3-BD2E-A37E68B89C64",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q489713"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q467960-36A32364-2EB9-4EE3-BD2E-A37E68B89C64",
+        "predicate": "pq:P585",
+        "object": "1978-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q467960-36A32364-2EB9-4EE3-BD2E-A37E68B89C64",
+        "predicate": "pq:P585",
+        "object": "1981-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q467960",
+      "predicate": "http://www.wikidata.org/prop/P2019",
+      "object": "http://www.wikidata.org/entity/statement/Q467960-de1584d3-49b4-6f67-c9de-73da6ed8f13e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q467960",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q467960-7D0F81EC-EE3C-4789-8BFF-E9026C4C80FB"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q467960",
+      "predicate": "http://www.wikidata.org/prop/P4985",
+      "object": "http://www.wikidata.org/entity/statement/Q467960-C07EEFAD-D175-46E4-90DD-FE0834F920E0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q467960",
+      "predicate": "http://www.wikidata.org/prop/P5882",
+      "object": "http://www.wikidata.org/entity/statement/Q467960-C264FA5C-4FF1-42CA-9700-FBAD7EB09866"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q467960",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q467960-6e1ce3a5-46b5-8b05-921d-fea1427d14b6"
+    }
+  ]
+}

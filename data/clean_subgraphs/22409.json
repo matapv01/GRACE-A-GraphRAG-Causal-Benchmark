@@ -1,0 +1,48 @@
+{
+  "question_id": "22409",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1959612"
+  ],
+  "gold_path": {
+    "question_id": "22409",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1959612",
+        "predicate": "http://www.wikidata.org/prop/direct/P609",
+        "object": "http://www.wikidata.org/entity/Q8717"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1959612",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q15212722"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1959612",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "N-IV"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1959612",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Carretera de Andalucia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1959612",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Carretera de Andalucía"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1959612",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Carretera Nacional N IV"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1959612",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Carretera Nacional N-IV"
+    }
+  ]
+}

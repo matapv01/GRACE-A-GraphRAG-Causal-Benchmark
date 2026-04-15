@@ -1,0 +1,48 @@
+{
+  "question_id": "15443",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12190"
+  ],
+  "gold_path": {
+    "question_id": "15443",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20720677",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q843136"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q843136",
+        "predicate": "http://www.wikidata.org/prop/direct/P1672",
+        "object": "http://www.wikidata.org/entity/Q12190"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20720677",
+      "predicate": "http://www.wikidata.org/prop/P2752",
+      "object": "http://www.wikidata.org/entity/statement/Q20720677-597971D5-F6E6-4956-B494-CBDA68C96BE5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20720677",
+      "predicate": "http://www.wikidata.org/prop/P31",
+      "object": "http://www.wikidata.org/entity/statement/Q20720677-2c115595-b79a-4e2f-8c42-14d1ae01c30f"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20720677",
+      "predicate": "http://schema.org/version",
+      "object": "2469449040"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20720677",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-03-04T21:54:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20720677",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q20720677-FAA429B4-56AB-43A7-8A02-C6833D556CD4"
+    }
+  ]
+}

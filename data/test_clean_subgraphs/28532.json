@@ -1,0 +1,43 @@
+{
+  "question_id": "28532",
+  "answers": [
+    "http://www.wikidata.org/entity/Q5036514"
+  ],
+  "gold_path": {
+    "question_id": "28532",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q205485",
+        "predicate": "http://www.wikidata.org/prop/direct/P410",
+        "object": "http://www.wikidata.org/entity/Q5036514"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q205485",
+      "predicate": "http://www.wikidata.org/prop/P20",
+      "object": "http://www.wikidata.org/entity/statement/q205485-DD9740EB-2A19-40CE-A9B2-9F1C7C8D7763"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205485",
+      "predicate": "http://www.wikidata.org/prop/P6404",
+      "object": "http://www.wikidata.org/entity/statement/Q205485-276E1A03-291C-4BA5-881D-FD767845ADA7"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205485",
+      "predicate": "http://www.wikidata.org/prop/P410",
+      "object": "http://www.wikidata.org/entity/statement/Q205485-7D73260C-4181-4A01-892B-D2894156CA2E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205485",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Vancouver"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q205485",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ジョージ・ヴァンクーヴァー"
+    }
+  ]
+}

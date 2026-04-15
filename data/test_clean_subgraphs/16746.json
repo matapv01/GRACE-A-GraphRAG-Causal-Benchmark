@@ -1,0 +1,59 @@
+{
+  "question_id": "16746",
+  "answers": [
+    "Traditio et Innovatio",
+    "Aus Tradition Grenzen überschreiten"
+  ],
+  "gold_path": {
+    "question_id": "16746",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q61627",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q154804"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q154804",
+        "predicate": "http://www.wikidata.org/prop/direct/P1451",
+        "object": "Aus Tradition Grenzen überschreiten"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61627",
+        "predicate": "http://www.wikidata.org/prop/direct/P69",
+        "object": "http://www.wikidata.org/entity/Q159895"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q159895",
+        "predicate": "http://www.wikidata.org/prop/direct/P1451",
+        "object": "Traditio et Innovatio"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q61627",
+      "predicate": "http://www.wikidata.org/prop/P1953",
+      "object": "http://www.wikidata.org/entity/statement/Q61627-0797B204-9920-4F39-AB18-5B0583226FE4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61627",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q61627-C9C7B69E-3C75-44C4-A49E-9A7FC42DCDFE"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61627",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "143"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61627",
+      "predicate": "http://www.wikidata.org/prop/P6706",
+      "object": "http://www.wikidata.org/entity/statement/Q61627-7C4A2663-5862-4506-94DB-01EBD1D6D1D0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q61627",
+      "predicate": "http://www.wikidata.org/prop/P6394",
+      "object": "http://www.wikidata.org/entity/statement/q61627-aced8599-40e3-f963-e542-4dd0ebba4de9"
+    }
+  ]
+}

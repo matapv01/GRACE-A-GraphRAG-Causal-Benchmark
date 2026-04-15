@@ -1,0 +1,48 @@
+{
+  "question_id": "10147",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1358070"
+  ],
+  "gold_path": {
+    "question_id": "10147",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q190050",
+        "predicate": "http://www.wikidata.org/prop/direct/P344",
+        "object": "http://www.wikidata.org/entity/Q1358070"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q190050",
+        "predicate": "http://www.wikidata.org/prop/direct/P57",
+        "object": "http://www.wikidata.org/entity/Q184903"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q190050",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Fight Club"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190050",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "نادي القتال"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190050",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "النادي دلمدابزة"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190050",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "نادى القتال"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q190050",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Döyüş klubu"
+    }
+  ]
+}

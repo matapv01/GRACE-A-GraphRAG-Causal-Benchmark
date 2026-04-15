@@ -1,0 +1,54 @@
+{
+  "question_id": "30105",
+  "answers": [
+    "http://www.wikidata.org/entity/Q22260959",
+    "http://www.wikidata.org/entity/Q22261163"
+  ],
+  "gold_path": {
+    "question_id": "30105",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q22260959",
+        "predicate": "http://www.wikidata.org/prop/direct/P110",
+        "object": "http://www.wikidata.org/entity/Q214565"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22260959",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3331189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22261163",
+        "predicate": "http://www.wikidata.org/prop/direct/P110",
+        "object": "http://www.wikidata.org/entity/Q214565"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q22261163",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3331189"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q22260959",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22260959",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "The Tale of Pigling Bland"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22260959",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "16"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q22260959",
+      "predicate": "http://schema.org/description",
+      "object": "uitgave van Beatrix Potter"
+    }
+  ]
+}

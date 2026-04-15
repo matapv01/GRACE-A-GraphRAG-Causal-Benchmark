@@ -1,0 +1,48 @@
+{
+  "question_id": "5562",
+  "answers": [
+    "http://www.wikidata.org/entity/Q28337456"
+  ],
+  "gold_path": {
+    "question_id": "5562",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q44071",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q44071-94cd81ab-4d74-df08-97a9-f08bc614c70e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q44071-94cd81ab-4d74-df08-97a9-f08bc614c70e",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q28337456"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q44071",
+      "predicate": "http://www.wikidata.org/prop/direct/P8189",
+      "object": "987007300197805171"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44071",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL4781453A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44071",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL5583763A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44071",
+      "predicate": "http://www.wikidata.org/prop/direct/P8179",
+      "object": "ncf11206041"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q44071",
+      "predicate": "http://www.wikidata.org/prop/direct/P535",
+      "object": "8142"
+    }
+  ]
+}

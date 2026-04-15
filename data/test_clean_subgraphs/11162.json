@@ -1,0 +1,53 @@
+{
+  "question_id": "11162",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1899"
+  ],
+  "gold_path": {
+    "question_id": "11162",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q80440",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/q80440-b1791685-4f7e-8351-7dac-794311c544e4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q80440-b1791685-4f7e-8351-7dac-794311c544e4",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q311033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q80440-b1791685-4f7e-8351-7dac-794311c544e4",
+        "predicate": "pq:P2842",
+        "object": "http://www.wikidata.org/entity/Q1899"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q80440",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q80440-5f9fed09-4efd-6176-9620-4eb195f144dc"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80440",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q80440-62017564-5F6D-4B21-876C-D3BC6B3CD0D1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80440",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1889-06-23T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80440",
+      "predicate": "http://www.wikidata.org/prop/direct/P268",
+      "object": "118882553"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q80440",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Akhmatova.jpg"
+    }
+  ]
+}

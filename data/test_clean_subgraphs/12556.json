@@ -1,0 +1,48 @@
+{
+  "question_id": "12556",
+  "answers": [
+    "http://www.wikidata.org/entity/Q183"
+  ],
+  "gold_path": {
+    "question_id": "12556",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q122131",
+        "predicate": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "http://www.wikidata.org/entity/Q183"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q183",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q19771"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q122131",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "German history"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122131",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "حكام ألمانيا"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122131",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Almanya tarixi"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122131",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "нямецкая гісторыя"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q122131",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "জার্মানীর ইতিহাস"
+    }
+  ]
+}

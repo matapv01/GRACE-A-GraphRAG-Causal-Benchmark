@@ -1,0 +1,53 @@
+{
+  "question_id": "6131",
+  "answers": [
+    "http://www.wikidata.org/entity/Q125421"
+  ],
+  "gold_path": {
+    "question_id": "6131",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1061",
+        "predicate": "http://www.wikidata.org/prop/P2936",
+        "object": "http://www.wikidata.org/entity/statement/Q1061-04a4d4c6-4d22-ad67-2b19-bd91b1bce222"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1061-04a4d4c6-4d22-ad67-2b19-bd91b1bce222",
+        "predicate": "ps:P2936",
+        "object": "http://www.wikidata.org/entity/Q1568"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1061-04a4d4c6-4d22-ad67-2b19-bd91b1bce222",
+        "predicate": "pq:P1552",
+        "object": "http://www.wikidata.org/entity/Q125421"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1061",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gujarat%20Satellite%20Imagery%202012.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1061",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q12443800"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1061",
+      "predicate": "http://www.wikidata.org/prop/direct/P36",
+      "object": "http://www.wikidata.org/entity/Q11910"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1061",
+      "predicate": "http://www.wikidata.org/prop/direct/P6",
+      "object": "http://www.wikidata.org/entity/Q48732972"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1061",
+      "predicate": "http://www.wikidata.org/prop/direct/P8313",
+      "object": "Gujarat"
+    }
+  ]
+}

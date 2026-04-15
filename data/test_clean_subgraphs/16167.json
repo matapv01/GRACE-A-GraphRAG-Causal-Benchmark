@@ -1,0 +1,72 @@
+{
+  "question_id": "16167",
+  "answers": [
+    "http://www.wikidata.org/entity/Q4116897",
+    "http://www.wikidata.org/entity/Q82664",
+    "http://www.wikidata.org/entity/Q545449",
+    "http://www.wikidata.org/entity/Q37643",
+    "http://www.wikidata.org/entity/Q760002"
+  ],
+  "gold_path": {
+    "question_id": "16167",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q311916",
+        "predicate": "http://www.wikidata.org/prop/direct/P22",
+        "object": "http://www.wikidata.org/entity/Q1316"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1316",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q37643"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1316",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q82664"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1316",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q545449"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1316",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q760002"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1316",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q4116897"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q311916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "أبو حاتم"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Hussein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ウダイ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Odai Saddam Hussein"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q311916",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Udaj Saddam Hussajn al-Tikriti"
+    }
+  ]
+}

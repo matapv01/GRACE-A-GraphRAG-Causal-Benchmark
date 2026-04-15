@@ -1,0 +1,53 @@
+{
+  "question_id": "11584",
+  "answers": [
+    "http://www.wikidata.org/entity/Q922734"
+  ],
+  "gold_path": {
+    "question_id": "11584",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q3013195",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q3013195-e031e704-49b0-95d6-fbc1-b9c8e43bc9b3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3013195-e031e704-49b0-95d6-fbc1-b9c8e43bc9b3",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q17985761"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q3013195-e031e704-49b0-95d6-fbc1-b9c8e43bc9b3",
+        "predicate": "pq:P1706",
+        "object": "http://www.wikidata.org/entity/Q922734"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q3013195",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1922-07-22T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3013195",
+      "predicate": "http://www.wikidata.org/prop/direct/P2019",
+      "object": "p61852"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3013195",
+      "predicate": "http://www.wikidata.org/prop/direct/P4666",
+      "object": "197611"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3013195",
+      "predicate": "http://www.wikidata.org/prop/direct/P570",
+      "object": "1987-09-22T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q3013195",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/037ydm"
+    }
+  ]
+}

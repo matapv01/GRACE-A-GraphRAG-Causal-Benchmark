@@ -1,0 +1,59 @@
+{
+  "question_id": "2431",
+  "answers": [
+    "http://www.wikidata.org/entity/Q255371",
+    "http://www.wikidata.org/entity/Q697906"
+  ],
+  "gold_path": {
+    "question_id": "2431",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q255371",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2302080"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q255371",
+        "predicate": "http://www.wikidata.org/prop/direct/P3738",
+        "object": "43"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q697906",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2302080"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q697906",
+        "predicate": "http://www.wikidata.org/prop/direct/P3738",
+        "object": "43"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q255371",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "LIGO"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255371",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ليجو"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255371",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Laser Interferometer Gravitational Wave Observatory"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255371",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Laser Interferometer Gravitational-Wave Observatory"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q255371",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ライゴ"
+    }
+  ]
+}

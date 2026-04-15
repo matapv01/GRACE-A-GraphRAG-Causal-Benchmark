@@ -1,0 +1,53 @@
+{
+  "question_id": "25056",
+  "answers": [
+    "http://www.wikidata.org/entity/Q18756"
+  ],
+  "gold_path": {
+    "question_id": "25056",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q18756",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q34542757"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18756",
+        "predicate": "http://www.wikidata.org/prop/direct/P85",
+        "object": "http://www.wikidata.org/entity/Q1453101"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q18756",
+        "predicate": "rdfs:label",
+        "object": "UEFA Champions League"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q18756",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Champions"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18756",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "UCL"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18756",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Europapokal der Landesmeister"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18756",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Liga de campeones"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q18756",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Champions League"
+    }
+  ]
+}

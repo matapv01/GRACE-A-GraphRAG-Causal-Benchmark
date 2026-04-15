@@ -2,18 +2,19 @@ import math
 from typing import Dict, List
 import numpy as np
 from graphrag_benchmark.domain.models import (
-    PerturbationType, 
-    ShortcutType, 
-    CausalDiagnosisReport, 
-    LLMResponseInfo
+    PerturbationType,
+    ShortcutType,
+    CausalDiagnosisReport,
+    LLMResponseInfo,
 )
+
 
 class EvaluationModule:
     """
     Evaluate LLM faithfully against causal shortcuts.
     Từ tổng quan (Accuracy) đến bóc tách chi tiết (Token Logprobs -> P_norm -> CES).
     """
-    
+
     def calculate_p_norm(self, logprobs: List[float]) -> float:
         """
         Tính xác suất kết hợp (Joint Probability) của cả câu trả lời Y.
@@ -39,9 +40,7 @@ class EvaluationModule:
         return p_clean - p_perturbed
 
     def diagnose(
-        self, 
-        question_id: str,
-        responses: Dict[PerturbationType, LLMResponseInfo]
+        self, question_id: str, responses: Dict[PerturbationType, LLMResponseInfo]
     ) -> CausalDiagnosisReport:
         """
         Chẩn đoán chi tiết sự phụ thuộc (Faithfulness vs Shortcuts) của mô hình.
@@ -50,11 +49,11 @@ class EvaluationModule:
             raise ValueError("Must provide CLEAN response as a baseline.")
 
         clean_res = responses[PerturbationType.CLEAN]
-        
+
         # 1. Tổng quan: Baseline Accuracy trên Clean Context
         clean_acc = clean_res.exact_match
         p_clean = clean_res.p_norm
-        
+
         # 2. Chi tiết: Tính CES cho mọi biến thể so với Clean
         ces_scores = {}
         for p_type, res in responses.items():
@@ -64,13 +63,16 @@ class EvaluationModule:
         # 3. Phân loại lỗi (Taxonomy Diagnosis)
         detected_shortcut = ShortcutType.UNKNOWN
         details = ""
-        ces_threshold = 0.1 # Biến thiên 10% xác suất
-        
+        ces_threshold = 0.1  # Biến thiên 10% xác suất
+
         if not clean_acc:
             details = "Baseline Failed: Mô hình trả lời sai ngay cả trên Clean Graph."
             return CausalDiagnosisReport(
-                question_id=question_id, clean_accuracy=clean_acc, 
-                causal_effect_scores=ces_scores, detected_shortcut=ShortcutType.UNKNOWN, details=details
+                question_id=question_id,
+                clean_accuracy=clean_acc,
+                causal_effect_scores=ces_scores,
+                detected_shortcut=ShortcutType.UNKNOWN,
+                details=details,
             )
 
         # Lấy dữ liệu phản hồi của từng bẫy (fallback nếu thiếu)
@@ -82,11 +84,17 @@ class EvaluationModule:
         if res_broken and res_broken.exact_match and abs(ces_broken) < ces_threshold:
             detected_shortcut = ShortcutType.MEMORIZATION
             details = f"Parametric Memorization: Trả lời đúng dù thiếu Graph Evidence (CES_broken={ces_broken:.3f} quá thấp)."
-            return CausalDiagnosisReport(question_id, clean_acc, ces_scores, detected_shortcut, details)
+            return CausalDiagnosisReport(
+                question_id, clean_acc, ces_scores, detected_shortcut, details
+            )
 
         # Kiểm tra 2: Bị dẫn dụ bởi các bẫy (Distractor Analysis)
         # Tính xem bẫy nào làm mô hình trả lời sai và làm sụt giảm xác suất P_norm lớn nhất
-        distractor_types = [PerturbationType.TOPOLOGICAL, PerturbationType.TYPE_MATCHING, PerturbationType.SWAPPING]
+        distractor_types = [
+            PerturbationType.TOPOLOGICAL,
+            PerturbationType.TYPE_MATCHING,
+            PerturbationType.SWAPPING,
+        ]
         max_distractor_ces = -1.0
         worst_trap = None
 
@@ -106,18 +114,22 @@ class EvaluationModule:
             elif worst_trap == PerturbationType.SWAPPING:
                 detected_shortcut = ShortcutType.PRIOR_OVER_CONTEXT
                 details = f"Prior-over-Context: Không chú ý sự thay đổi logic hiển nhiên trên Graph (CES_swap={max_distractor_ces:.3f})."
-            
-            return CausalDiagnosisReport(question_id, clean_acc, ces_scores, detected_shortcut, details)
+
+            return CausalDiagnosisReport(
+                question_id, clean_acc, ces_scores, detected_shortcut, details
+            )
 
         # Kiểm tra 3: Faithful Reasoning (Causal Reasoning thực thụ)
         # Mô hình sập khi bị gãy (Broken), và VƯỢT QUA (exact_match=True) các bẫy nhiễu
         detected_shortcut = ShortcutType.FAITHFUL
-        details = "Faithful Reasoning: Vượt qua mọi bẫy, LLM dựa sát vào Graph để suy luận."
-        
+        details = (
+            "Faithful Reasoning: Vượt qua mọi bẫy, LLM dựa sát vào Graph để suy luận."
+        )
+
         return CausalDiagnosisReport(
             question_id=question_id,
             clean_accuracy=clean_acc,
             causal_effect_scores=ces_scores,
             detected_shortcut=detected_shortcut,
-            details=details
+            details=details,
         )

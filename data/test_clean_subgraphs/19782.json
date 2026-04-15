@@ -1,0 +1,59 @@
+{
+  "question_id": "19782",
+  "answers": [
+    "http://www.wikidata.org/entity/Q12701632",
+    "http://www.wikidata.org/entity/Q264516"
+  ],
+  "gold_path": {
+    "question_id": "19782",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q264516",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q57675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q264516",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12701632",
+        "predicate": "http://www.wikidata.org/prop/direct/P40",
+        "object": "http://www.wikidata.org/entity/Q57675"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q12701632",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q264516",
+      "predicate": "http://www.wikidata.org/prop/P3373",
+      "object": "http://www.wikidata.org/entity/statement/Q264516-da4e2807-4682-50e3-4027-59ed7ec0e398"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264516",
+      "predicate": "http://www.wikidata.org/prop/P269",
+      "object": "http://www.wikidata.org/entity/statement/q264516-E3B22ACD-4098-457B-B81F-B3331FCC6776"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264516",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q264516-6ed91650-4566-c1aa-1dca-29ecbf44d77e"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264516",
+      "predicate": "http://www.wikidata.org/prop/P26",
+      "object": "http://www.wikidata.org/entity/statement/Q264516-a6fadb12-47d4-2740-877b-1ca9a34a692c"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q264516",
+      "predicate": "http://www.wikidata.org/prop/P7305",
+      "object": "http://www.wikidata.org/entity/statement/Q264516-2242A9B7-D3E3-4157-A70B-FF8DADD53386"
+    }
+  ]
+}

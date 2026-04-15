@@ -1,0 +1,48 @@
+{
+  "question_id": "23969",
+  "answers": [
+    "http://www.wikidata.org/entity/Q10396556"
+  ],
+  "gold_path": {
+    "question_id": "23969",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q10396556",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q4026292"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q10396556",
+        "predicate": "rdfs:label",
+        "object": "Ôxê"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q10396556",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10396556",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2671",
+      "object": "http://g.co/kg/g/121x7447"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10396556",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10396556",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q10396556-599d9430-4933-918c-b7ac-d516d74c5c50"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q10396556",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Odu%20%C3%94x%C3%AA%2C%20Merindilogun..JPG"
+    }
+  ]
+}

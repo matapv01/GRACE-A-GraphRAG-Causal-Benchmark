@@ -1,0 +1,38 @@
+{
+  "question_id": "22466",
+  "answers": [
+    "http://www.wikidata.org/entity/Q535896"
+  ],
+  "gold_path": {
+    "question_id": "22466",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q535896",
+        "predicate": "http://www.wikidata.org/prop/direct/P110",
+        "object": "http://www.wikidata.org/entity/Q892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q535896",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q47461344"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q535896",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0319_x"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q535896",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Mr. Bliss"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q535896",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Herr Glück"
+    }
+  ]
+}

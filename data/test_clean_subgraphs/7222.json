@@ -1,0 +1,48 @@
+{
+  "question_id": "7222",
+  "answers": [
+    "http://www.wikidata.org/entity/Q6723"
+  ],
+  "gold_path": {
+    "question_id": "7222",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q160506",
+        "predicate": "http://www.wikidata.org/prop/P421",
+        "object": "http://www.wikidata.org/entity/statement/Q160506-B663AEAF-5601-4A58-94DF-AFE3EC03CAE3"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160506-B663AEAF-5601-4A58-94DF-AFE3EC03CAE3",
+        "predicate": "ps:P421",
+        "object": "http://www.wikidata.org/entity/Q6723"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q160506-B663AEAF-5601-4A58-94DF-AFE3EC03CAE3",
+        "predicate": "pq:P1264",
+        "object": "http://www.wikidata.org/entity/Q36669"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q160506",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Saint Denis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160506",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Saint-Denis (Seine-Saint-Denis)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160506",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Franciade"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q160506",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "St. Denis"
+    }
+  ]
+}

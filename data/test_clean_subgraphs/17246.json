@@ -1,0 +1,48 @@
+{
+  "question_id": "17246",
+  "answers": [
+    "http://www.wikidata.org/entity/Q616158"
+  ],
+  "gold_path": {
+    "question_id": "17246",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1332947",
+        "predicate": "http://www.wikidata.org/prop/direct/P749",
+        "object": "http://www.wikidata.org/entity/Q58707"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q58707",
+        "predicate": "http://www.wikidata.org/prop/direct/P121",
+        "object": "http://www.wikidata.org/entity/Q616158"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332947",
+      "predicate": "http://www.wikidata.org/prop/direct/P432",
+      "object": "SATAIR"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332947",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RA-73003%20B737-200%20SAT%20%287561394496%29.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332947",
+      "predicate": "http://www.wikidata.org/prop/P432",
+      "object": "http://www.wikidata.org/entity/statement/Q1332947-9B90262B-ED77-49CE-9DFC-78F8FA156140"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332947",
+      "predicate": "http://www.wikidata.org/prop/direct/P229",
+      "object": "HZ"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1332947",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q46970"
+    }
+  ]
+}

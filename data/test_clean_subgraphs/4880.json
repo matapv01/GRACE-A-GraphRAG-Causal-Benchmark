@@ -1,0 +1,48 @@
+{
+  "question_id": "4880",
+  "answers": [
+    "2016-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "4880",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q72259",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q72259-d900b10b-4471-93e2-8792-c0e1131654b1"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q72259-d900b10b-4471-93e2-8792-c0e1131654b1",
+        "predicate": "pq:P585",
+        "object": "2016-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q72259",
+      "predicate": "http://www.wikidata.org/prop/P3219",
+      "object": "http://www.wikidata.org/entity/statement/Q72259-2549E5B6-4190-4673-80F9-F184677DB52E"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72259",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/q72259-83F27215-0AF6-47CC-BEFC-18020D5123E0"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72259",
+      "predicate": "http://www.wikidata.org/prop/direct/P3219",
+      "object": "portsmouth"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72259",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/City%20Flag%20of%20Portsmouth.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q72259",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q72259-383B5544-A238-4977-9016-5A8A7506314A"
+    }
+  ]
+}

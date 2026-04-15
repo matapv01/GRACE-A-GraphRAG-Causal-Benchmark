@@ -1,0 +1,48 @@
+{
+  "question_id": "24656",
+  "answers": [
+    "http://www.wikidata.org/entity/Q14468623"
+  ],
+  "gold_path": {
+    "question_id": "24656",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q14468623",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6472"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q14468623",
+        "predicate": "rdfs:label",
+        "object": "kilonova"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q14468623",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Macronova"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14468623",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "knova"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14468623",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "macronova"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14468623",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "r-process supernova"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q14468623",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "makronova"
+    }
+  ]
+}

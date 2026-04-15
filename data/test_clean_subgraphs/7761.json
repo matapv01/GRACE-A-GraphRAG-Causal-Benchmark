@@ -1,0 +1,48 @@
+{
+  "question_id": "7761",
+  "answers": [
+    "182267"
+  ],
+  "gold_path": {
+    "question_id": "7761",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9085",
+        "predicate": "http://www.wikidata.org/prop/P1082",
+        "object": "http://www.wikidata.org/entity/statement/Q9085-E7E7AE30-79F5-43DA-B9B0-C90C871F49C5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9085-E7E7AE30-79F5-43DA-B9B0-C90C871F49C5",
+        "predicate": "ps:P1082",
+        "object": "182267"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9085",
+      "predicate": "http://www.wikidata.org/prop/P41",
+      "object": "http://www.wikidata.org/entity/statement/Q9085-2B518F4D-4599-48EC-8549-7F84818C2E11"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9085",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-14T07:40:08Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9085",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mandaluyong.png"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9085",
+      "predicate": "http://www.wikidata.org/prop/P421",
+      "object": "http://www.wikidata.org/entity/statement/Q9085-00befdaf-468b-24c2-620f-bd93cbc38354"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9085",
+      "predicate": "http://www.wikidata.org/prop/P5573",
+      "object": "http://www.wikidata.org/entity/statement/Q9085-009F37E5-E388-4443-80DC-C5364709C94A"
+    }
+  ]
+}

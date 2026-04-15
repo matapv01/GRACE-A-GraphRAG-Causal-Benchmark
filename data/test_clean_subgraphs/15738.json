@@ -1,0 +1,59 @@
+{
+  "question_id": "15738",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1484037",
+    "http://www.wikidata.org/entity/Q1856022"
+  ],
+  "gold_path": {
+    "question_id": "15738",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q17711307",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q173012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q173012",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q1856022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q17711307",
+        "predicate": "http://www.wikidata.org/prop/direct/P108",
+        "object": "http://www.wikidata.org/entity/Q1748150"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1748150",
+        "predicate": "http://www.wikidata.org/prop/direct/P112",
+        "object": "http://www.wikidata.org/entity/Q1484037"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q17711307",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17711307",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Louis Thomas Stanley"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17711307",
+      "predicate": "http://schema.org/version",
+      "object": "2453952762"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17711307",
+      "predicate": "http://www.wikidata.org/prop/direct/P20",
+      "object": "http://www.wikidata.org/entity/Q7847828"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q17711307",
+      "predicate": "http://www.wikidata.org/prop/direct/P509",
+      "object": "http://www.wikidata.org/entity/Q12202"
+    }
+  ]
+}

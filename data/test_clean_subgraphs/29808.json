@@ -1,0 +1,70 @@
+{
+  "question_id": "29808",
+  "answers": [
+    "http://www.wikidata.org/entity/Q962987",
+    "http://www.wikidata.org/entity/Q9635687",
+    "http://www.wikidata.org/entity/Q42047"
+  ],
+  "gold_path": {
+    "question_id": "29808",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42047",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q26933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42047",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11424"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q962987",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q26933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q962987",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11424"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9635687",
+        "predicate": "http://www.wikidata.org/prop/direct/P86",
+        "object": "http://www.wikidata.org/entity/Q26933"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9635687",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q11424"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42047",
+      "predicate": "http://www.wikidata.org/prop/direct/P57",
+      "object": "http://www.wikidata.org/entity/Q41148"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42047",
+      "predicate": "http://www.wikidata.org/prop/direct/P6058",
+      "object": "film/wd/294"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42047",
+      "predicate": "http://www.wikidata.org/prop/direct/P1970",
+      "object": "292"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42047",
+      "predicate": "http://www.wikidata.org/prop/direct/P577",
+      "object": "1990-09-08T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42047",
+      "predicate": "http://www.wikidata.org/prop/direct/P577",
+      "object": "1990-09-12T00:00:00Z"
+    }
+  ]
+}

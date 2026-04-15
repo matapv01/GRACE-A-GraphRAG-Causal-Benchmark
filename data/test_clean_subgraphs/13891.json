@@ -1,0 +1,48 @@
+{
+  "question_id": "13891",
+  "answers": [
+    "http://www.wikidata.org/entity/Q847"
+  ],
+  "gold_path": {
+    "question_id": "13891",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q240502",
+        "predicate": "http://www.wikidata.org/prop/direct/P641",
+        "object": "http://www.wikidata.org/entity/Q847"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q847",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q246514"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q240502",
+      "predicate": "http://www.wikidata.org/prop/P3222",
+      "object": "http://www.wikidata.org/entity/statement/Q240502-0baaf679-44fa-3171-79f4-f1bede74aeca"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240502",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "rackets"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240502",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Racket"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240502",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "racquets"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q240502",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "racquet"
+    }
+  ]
+}

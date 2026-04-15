@@ -1,0 +1,54 @@
+{
+  "question_id": "15610",
+  "answers": [
+    "http://www.wikidata.org/entity/Q203605",
+    "http://www.wikidata.org/entity/Q1729207"
+  ],
+  "gold_path": {
+    "question_id": "15610",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q19353457",
+        "predicate": "http://www.wikidata.org/prop/direct/P180",
+        "object": "http://www.wikidata.org/entity/Q302"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q302",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q203605"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q302",
+        "predicate": "http://www.wikidata.org/prop/direct/P101",
+        "object": "http://www.wikidata.org/entity/Q1729207"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q19353457",
+      "predicate": "http://www.wikidata.org/prop/P276",
+      "object": "http://www.wikidata.org/entity/statement/Q19353457-7cc92a8d-40fd-c7bd-cbd9-c843e7ebd3ad"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19353457",
+      "predicate": "http://www.wikidata.org/prop/P625",
+      "object": "http://www.wikidata.org/entity/statement/Q19353457-BCC6DD89-BCA6-4352-93E6-7F37DE85778A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19353457",
+      "predicate": "http://schema.org/description",
+      "object": "منحوتة"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19353457",
+      "predicate": "http://schema.org/description",
+      "object": "statue in Valkenburg, Netherlands"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q19353457",
+      "predicate": "http://schema.org/description",
+      "object": "beeld in Valkenburg, Limburg, Nederland"
+    }
+  ]
+}

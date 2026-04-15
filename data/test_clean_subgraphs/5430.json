@@ -1,0 +1,53 @@
+{
+  "question_id": "5430",
+  "answers": [
+    "http://www.wikidata.org/entity/Q747089"
+  ],
+  "gold_path": {
+    "question_id": "5430",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1140295",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q1140295-343A6B27-3379-4541-9C5C-C62C74EDBFE4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1140295-343A6B27-3379-4541-9C5C-C62C74EDBFE4",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q747089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1140295-343A6B27-3379-4541-9C5C-C62C74EDBFE4",
+        "predicate": "pq:P156",
+        "object": "http://www.wikidata.org/entity/Q7919226"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1140295",
+      "predicate": "http://schema.org/description",
+      "object": "romant"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1140295",
+      "predicate": "http://schema.org/description",
+      "object": "romano de Cormac McCarthy"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1140295",
+      "predicate": "http://schema.org/description",
+      "object": "رواية من تأليف كورماك مكارثي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1140295",
+      "predicate": "http://schema.org/description",
+      "object": "román Cormaca McCarthyho"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1140295",
+      "predicate": "http://schema.org/description",
+      "object": "Roman von Cormac McCarthy"
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "clean": {
+    "question_id": "10293",
+    "answers": [
+      "1961-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "ps:P108",
+        "object": "http://www.wikidata.org/entity/Q608427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1956-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P12285",
+        "object": "ted-stevens"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/P108",
+        "object": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P1157",
+        "object": "S000888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "1961-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P2600",
+        "object": "6000000001903788696"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1923-11-18T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P10678",
+        "object": "1474"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "10293",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "ps:P108",
+        "object": "http://www.wikidata.org/entity/Q608427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1956-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P12285",
+        "object": "ted-stevens"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/P108",
+        "object": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P1157",
+        "object": "S000888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P2600",
+        "object": "6000000001903788696"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1923-11-18T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P10678",
+        "object": "1474"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "1961-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "10293",
+    "answers": [
+      "1961-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "ps:P108",
+        "object": "http://www.wikidata.org/entity/Q608427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1956-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P12285",
+        "object": "ted-stevens"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/P108",
+        "object": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P1157",
+        "object": "S000888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "1961-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P2600",
+        "object": "6000000001903788696"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1923-11-18T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P10678",
+        "object": "1474"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1959-12-31T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1963-09-21T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1957-01-02T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1965-10-21T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1958-12-07T00:00:00Z"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "10293",
+    "answers": [
+      "1961-01-01T00:00:00Z"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "ps:P108",
+        "object": "http://www.wikidata.org/entity/Q608427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1956-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P12285",
+        "object": "ted-stevens"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/P108",
+        "object": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P1157",
+        "object": "S000888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "1961-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P2600",
+        "object": "6000000001903788696"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1923-11-18T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P10678",
+        "object": "1474"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "http://www.wikidata.org/entity/Q142"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-8d4cefa3-4a4d-73b6-d4dc-0ba28613bf4e"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-90b1b24a-45f9-f86b-f179-e1ec9509b201"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-94fb04a1-4bb6-3801-8ff4-f0f1b45321ce"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-9c52daf8-48af-9297-12f8-2705e9cfbc90"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a0622d0c-4bc2-d861-a5c3-58d7df7988f4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a0afb026-4667-f53e-33ae-9e6595ad5db7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-a1944d75-483d-a7fc-591c-52c4bafa9044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/q142-a66d331f-4144-2c47-480b-19d991677dcb"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-ac6fe0cf-410c-c888-13e0-f566701e5862"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q142",
+        "predicate": "http://www.wikidata.org/prop/P150",
+        "object": "http://www.wikidata.org/entity/statement/Q142-bb8e0277-4591-815b-e34e-604379259e49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q336599"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P15",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/E-wegen%20Belgi%C3%AB.png"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q31"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgique%20-%20Bruxelles%20-%20Grand-Place%20-%20C%C3%B4t%C3%A9%20nord-est.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q43702"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q155004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q239"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "10293",
+    "answers": [
+      "1965-11-17T00:00:00Z"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "ps:P108",
+        "object": "http://www.wikidata.org/entity/Q608427"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P580",
+        "object": "1956-01-01T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P12285",
+        "object": "ted-stevens"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/P108",
+        "object": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P1157",
+        "object": "S000888"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P2600",
+        "object": "6000000001903788696"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P569",
+        "object": "1923-11-18T00:00:00Z"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50599",
+        "predicate": "http://www.wikidata.org/prop/direct/P10678",
+        "object": "1474"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q50599-ed7482bd-4552-a3bf-0bba-9c5a76484e17",
+        "predicate": "pq:P582",
+        "object": "1965-11-17T00:00:00Z"
+      }
+    ]
+  }
+}

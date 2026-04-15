@@ -1,0 +1,48 @@
+{
+  "question_id": "23910",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1299591"
+  ],
+  "gold_path": {
+    "question_id": "23910",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1299591",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3233636"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1299591",
+        "predicate": "rdfs:label",
+        "object": "Marriage in the Catholic Church"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1299591",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "திருமணம்"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1299591",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Manželství"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1299591",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Eherecht der katholischen Kirche"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1299591",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Matrimoni catòlic"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1299591",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Marriage in the Catholic Church"
+    }
+  ]
+}

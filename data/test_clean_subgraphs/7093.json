@@ -1,0 +1,53 @@
+{
+  "question_id": "7093",
+  "answers": [
+    "832"
+  ],
+  "gold_path": {
+    "question_id": "7093",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1948",
+        "predicate": "http://www.wikidata.org/prop/P610",
+        "object": "http://www.wikidata.org/entity/statement/Q1948-d19e8855-4991-78cd-a0a5-5a167f243bc7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1948-d19e8855-4991-78cd-a0a5-5a167f243bc7",
+        "predicate": "ps:P610",
+        "object": "http://www.wikidata.org/entity/Q3321683"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1948-d19e8855-4991-78cd-a0a5-5a167f243bc7",
+        "predicate": "pq:P2044",
+        "object": "832"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1948",
+      "predicate": "http://www.wikidata.org/prop/direct/P41",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Province%20of%20Manitoba.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1948",
+      "predicate": "http://www.wikidata.org/prop/direct/P3241",
+      "object": "09602a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1948",
+      "predicate": "http://www.wikidata.org/prop/direct/P5063",
+      "object": "i83206"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1948",
+      "predicate": "http://www.wikidata.org/prop/direct/P402",
+      "object": "390841"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1948",
+      "predicate": "http://www.wikidata.org/prop/direct/P31",
+      "object": "http://www.wikidata.org/entity/Q11828004"
+    }
+  ]
+}

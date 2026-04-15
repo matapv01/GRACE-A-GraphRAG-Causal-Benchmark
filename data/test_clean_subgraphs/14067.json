@@ -1,0 +1,48 @@
+{
+  "question_id": "14067",
+  "answers": [
+    "http://www.wikidata.org/entity/Q13414913"
+  ],
+  "gold_path": {
+    "question_id": "14067",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q185614",
+        "predicate": "http://www.wikidata.org/prop/direct/P1535",
+        "object": "http://www.wikidata.org/entity/Q13414913"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q13414913",
+        "predicate": "http://www.wikidata.org/prop/direct/P2283",
+        "object": "http://www.wikidata.org/entity/Q10885554"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q185614",
+      "predicate": "http://www.wikidata.org/prop/direct-normalized/P2581",
+      "object": "http://babelnet.org/rdf/s01976022n"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185614",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/01mw7r"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185614",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Hanzi%20%28simplified%29.svg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185614",
+      "predicate": "http://www.wikidata.org/prop/direct/P2959",
+      "object": "http://www.wikidata.org/entity/Q109932416"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q185614",
+      "predicate": "http://www.wikidata.org/prop/P646",
+      "object": "http://www.wikidata.org/entity/statement/Q185614-8656C532-E9AF-42CE-82AD-7B6E19351A2C"
+    }
+  ]
+}

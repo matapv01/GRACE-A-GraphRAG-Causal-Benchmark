@@ -1,0 +1,70 @@
+{
+  "question_id": "24154",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1638289",
+    "http://www.wikidata.org/entity/Q20203188",
+    "http://www.wikidata.org/entity/Q1679766"
+  ],
+  "gold_path": {
+    "question_id": "24154",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q20203188",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q483394"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q20203188",
+        "predicate": "rdfs:label",
+        "object": "Yizkor Books"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1638289",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q483394"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1638289",
+        "predicate": "rdfs:label",
+        "object": "ysopet"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1679766",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q483394"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1679766",
+        "predicate": "rdfs:label",
+        "object": "yalkut"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q20203188",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ספר יזכור"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20203188",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Yizker-bikher"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20203188",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Yizker-bukh"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20203188",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ספרי יזכור"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q20203188",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "יזכור בוך"
+    }
+  ]
+}

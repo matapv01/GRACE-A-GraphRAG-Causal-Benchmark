@@ -1,0 +1,82 @@
+{
+  "question_id": "3211",
+  "answers": [
+    "http://www.wikidata.org/entity/Q125925230",
+    "http://www.wikidata.org/entity/Q1933597",
+    "http://www.wikidata.org/entity/Q50348579",
+    "http://www.wikidata.org/entity/Q61697503",
+    "http://www.wikidata.org/entity/Q135781324"
+  ],
+  "gold_path": {
+    "question_id": "3211",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q125925230",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q125925230",
+        "predicate": "http://www.wikidata.org/prop/direct/P1129",
+        "object": "2"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50348579",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q50348579",
+        "predicate": "http://www.wikidata.org/prop/direct/P1129",
+        "object": "4"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61697503",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61697503",
+        "predicate": "http://www.wikidata.org/prop/direct/P1129",
+        "object": "7"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1933597",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1933597",
+        "predicate": "http://www.wikidata.org/prop/direct/P1129",
+        "object": "8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135781324",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q135781324",
+        "predicate": "http://www.wikidata.org/prop/direct/P1129",
+        "object": "16"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q125925230",
+      "predicate": "http://www.wikidata.org/prop/P19",
+      "object": "http://www.wikidata.org/entity/statement/Q125925230-94899254-4105-b9a5-6e3b-0c1f3ee36361"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125925230",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "عبدالرحمن كوكو"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q125925230",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Abdelrahman Kuku"
+    }
+  ]
+}

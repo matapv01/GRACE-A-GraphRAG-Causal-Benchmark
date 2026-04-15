@@ -1,0 +1,38 @@
+{
+  "question_id": "23035",
+  "answers": [
+    "http://www.wikidata.org/entity/Q180"
+  ],
+  "gold_path": {
+    "question_id": "23035",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q52",
+        "predicate": "http://www.wikidata.org/prop/direct/P137",
+        "object": "http://www.wikidata.org/entity/Q180"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q180",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q163740"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q52",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Wikipedia"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Wikipedija"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "ويکيڤيديا"
+    }
+  ]
+}

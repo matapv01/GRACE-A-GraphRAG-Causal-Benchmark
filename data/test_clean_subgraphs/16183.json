@@ -1,0 +1,43 @@
+{
+  "question_id": "16183",
+  "answers": [
+    "http://www.wikidata.org/entity/Q885"
+  ],
+  "gold_path": {
+    "question_id": "16183",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1054799",
+        "predicate": "http://www.wikidata.org/prop/direct/P155",
+        "object": "http://www.wikidata.org/entity/Q6957347"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q6957347",
+        "predicate": "http://www.wikidata.org/prop/direct/P1308",
+        "object": "http://www.wikidata.org/entity/Q885"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1054799",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q36"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1054799",
+      "predicate": "http://www.wikidata.org/prop/P17",
+      "object": "http://www.wikidata.org/entity/statement/Q1054799-fb7f06a7-4caf-a83e-7679-2c47911a815a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1054799",
+      "predicate": "http://www.wikidata.org/prop/direct/P1705",
+      "object": "Prezydent Rzeczypospolitej Polskiej"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1054799",
+      "predicate": "http://www.wikidata.org/prop/P155",
+      "object": "http://www.wikidata.org/entity/statement/Q1054799-7782148c-40ca-695a-aac7-e1d2cb62a0ad"
+    }
+  ]
+}

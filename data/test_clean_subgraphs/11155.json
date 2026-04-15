@@ -1,0 +1,68 @@
+{
+  "question_id": "11155",
+  "answers": [
+    "http://www.wikidata.org/entity/Q638"
+  ],
+  "gold_path": {
+    "question_id": "11155",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q318518",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q318518-664b1a96-4f04-80a4-48dd-16088df91d4b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-664b1a96-4f04-80a4-48dd-16088df91d4b",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q21578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-664b1a96-4f04-80a4-48dd-16088df91d4b",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q638"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q318518",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q318518-824B72E4-9BBA-420D-8ABC-2619298B2DA8"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-824B72E4-9BBA-420D-8ABC-2619298B2DA8",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q49210"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q318518-824B72E4-9BBA-420D-8ABC-2619298B2DA8",
+        "predicate": "pq:P812",
+        "object": "http://www.wikidata.org/entity/Q638"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "141"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "32"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "LO1V130452"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/direct/P396",
+      "object": "UM1V048962"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q318518",
+      "predicate": "http://www.wikidata.org/prop/direct/P3222",
+      "object": "milton-babbitt"
+    }
+  ]
+}

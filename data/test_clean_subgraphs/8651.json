@@ -1,0 +1,53 @@
+{
+  "question_id": "8651",
+  "answers": [
+    "1963-01-01T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "8651",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q152293",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q152293-ed6edcc3-44d9-81cb-b232-ba069a9cd13b"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q152293-ed6edcc3-44d9-81cb-b232-ba069a9cd13b",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q4313305"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q152293-ed6edcc3-44d9-81cb-b232-ba069a9cd13b",
+        "predicate": "pq:P585",
+        "object": "1963-01-01T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q152293",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Хачатурян Арам Ильич"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152293",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ハチャトゥリアン"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152293",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Хачатурян"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152293",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ხაჩატურიანი"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q152293",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ارام خاتشاتوريان"
+    }
+  ]
+}

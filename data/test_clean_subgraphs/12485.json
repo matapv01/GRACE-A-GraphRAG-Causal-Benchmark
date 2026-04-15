@@ -1,0 +1,43 @@
+{
+  "question_id": "12485",
+  "answers": [
+    "http://www.wikidata.org/entity/Q72382"
+  ],
+  "gold_path": {
+    "question_id": "12485",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q153006",
+        "predicate": "http://www.wikidata.org/prop/direct/P1075",
+        "object": "http://www.wikidata.org/entity/Q72382"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q72382",
+        "predicate": "http://www.wikidata.org/prop/direct/P106",
+        "object": "http://www.wikidata.org/entity/Q1622272"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Freie Uni Berlin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Freie Universität von Berlin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "FU Berlin"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q153006",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "FUB"
+    }
+  ]
+}

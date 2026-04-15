@@ -1,0 +1,48 @@
+{
+  "question_id": "13267",
+  "answers": [
+    "http://www.wikidata.org/entity/Q499249"
+  ],
+  "gold_path": {
+    "question_id": "13267",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7341047",
+        "predicate": "http://www.wikidata.org/prop/direct/P735",
+        "object": "http://www.wikidata.org/entity/Q499249"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q499249",
+        "predicate": "http://www.wikidata.org/prop/direct/P460",
+        "object": "http://www.wikidata.org/entity/Q25927645"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7341047",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "2"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7341047",
+      "predicate": "http://wikiba.se/ontology#statements",
+      "object": "13"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7341047",
+      "predicate": "http://schema.org/description",
+      "object": "militair"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7341047",
+      "predicate": "http://schema.org/description",
+      "object": "English sailor and plastic surgery recipient (1890–1960)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7341047",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q7341047-52C3D752-48DE-4F9B-A4D5-A5DCED489E9A"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "question_id": "17169",
+  "answers": [
+    "90089",
+    "90077",
+    "90029",
+    "90049",
+    "90053",
+    "90134",
+    "90013",
+    "90002",
+    "90007",
+    "90001",
+    "90082",
+    "90037",
+    "90189",
+    "90031",
+    "90095",
+    "90015",
+    "90085",
+    "90023",
+    "90050",
+    "90020",
+    "90042",
+    "90036",
+    "90030",
+    "90044",
+    "90084",
+    "90074",
+    "90078",
+    "90086",
+    "90099",
+    "90079",
+    "90067",
+    "90012",
+    "90005",
+    "90081",
+    "90022",
+    "90056",
+    "90041",
+    "90061",
+    "90035",
+    "90006",
+    "90087",
+    "90071",
+    "90075",
+    "90093",
+    "90066",
+    "90055",
+    "90062",
+    "90018",
+    "90010",
+    "90080",
+    "90039",
+    "90024",
+    "90008",
+    "90046",
+    "90064",
+    "90019",
+    "90040",
+    "90051",
+    "90083",
+    "90011",
+    "90070",
+    "90140",
+    "90060",
+    "90058",
+    "90014",
+    "90004",
+    "90068",
+    "90047",
+    "90027",
+    "90038",
+    "90032",
+    "90076",
+    "90016",
+    "90088",
+    "90096",
+    "90017",
+    "90054",
+    "90059",
+    "90034",
+    "90057",
+    "90009",
+    "90026",
+    "90063",
+    "90048",
+    "90073",
+    "90025",
+    "90033",
+    "90028",
+    "90065",
+    "90091",
+    "90003",
+    "90021",
+    "90045",
+    "90072",
+    "90043",
+    "90052"
+  ],
+  "gold_path": {
+    "question_id": "17169",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q128799",
+        "predicate": "http://www.wikidata.org/prop/direct/P551",
+        "object": "http://www.wikidata.org/entity/Q65"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90029"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90081"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90085"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90017"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90021"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90019"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90082"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90001"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90056"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90084"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90016"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90080"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90015"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90068"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90093"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90095"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90067"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90049"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90011"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90028"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90041"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90088"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90077"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90030"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90045"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90060"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90048"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90061"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90089"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90055"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90003"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90027"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90047"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90066"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90074"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90053"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90086"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90002"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90009"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90020"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90024"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90035"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90043"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90072"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90025"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90036"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90008"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90057"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90140"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90062"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90014"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90075"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90032"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90087"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90070"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90073"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90076"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90091"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90058"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90134"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90006"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90052"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90059"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90096"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90031"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90013"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90034"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90026"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90004"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90010"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90044"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90083"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90042"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90050"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90012"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90051"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90064"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90038"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90005"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90040"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90065"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90037"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90007"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90071"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90054"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90022"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90063"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90046"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90189"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90033"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90023"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q65",
+        "predicate": "http://www.wikidata.org/prop/direct/P281",
+        "object": "90079"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q128799",
+      "predicate": "http://www.wikidata.org/prop/P4198",
+      "object": "http://www.wikidata.org/entity/statement/Q128799-0356c0ba-405f-e90f-4833-258d876895d5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128799",
+      "predicate": "http://www.wikidata.org/prop/P268",
+      "object": "http://www.wikidata.org/entity/statement/Q128799-64C9B78A-363D-429E-8550-A73344E14DC4"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128799",
+      "predicate": "http://www.wikidata.org/prop/P5356",
+      "object": "http://www.wikidata.org/entity/statement/Q128799-FF25F75D-62FC-4265-9AF1-54C70081A208"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128799",
+      "predicate": "http://www.wikidata.org/prop/P5905",
+      "object": "http://www.wikidata.org/entity/statement/Q128799-F63E3FE7-9D9D-4752-AE60-2EC09A16F40D"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q128799",
+      "predicate": "http://www.wikidata.org/prop/direct/P4198",
+      "object": "Aqo77k7qmiiuobtr4tctggbke3e"
+    }
+  ]
+}

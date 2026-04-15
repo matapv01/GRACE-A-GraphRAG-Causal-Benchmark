@@ -1,0 +1,43 @@
+{
+  "question_id": "11802",
+  "answers": [
+    "http://www.wikidata.org/entity/Q103237"
+  ],
+  "gold_path": {
+    "question_id": "11802",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q310520",
+        "predicate": "http://www.wikidata.org/prop/direct/P171",
+        "object": "http://www.wikidata.org/entity/Q103237"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q310520",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "11"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310520",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Australopithecus anamensis"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310520",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "أوسترالوبيثيكوس الأنامي"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310520",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "استرالوبيتك أنامنسيس"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q310520",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "A. anamensis"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "question_id": "22148",
+  "answers": [
+    "http://www.wikidata.org/entity/Q8729",
+    "http://www.wikidata.org/entity/Q42976"
+  ],
+  "gold_path": {
+    "question_id": "22148",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q33391",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q8729"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q8729",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10931"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33391",
+        "predicate": "http://www.wikidata.org/prop/direct/P607",
+        "object": "http://www.wikidata.org/entity/Q42976"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q42976",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q10931"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q33391",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Trotsky"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q33391",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Trotzky"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "10053",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3350703"
+  ],
+  "gold_path": {
+    "question_id": "10053",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q172",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q3350703"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q172",
+        "predicate": "http://www.wikidata.org/prop/direct/P1313",
+        "object": "http://www.wikidata.org/entity/Q14927262"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q172",
+      "predicate": "http://www.wikidata.org/prop/direct/P18",
+      "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sunset%20Toronto%20Skyline%20Panorama%20Crop%20from%20Snake%20Island.jpg"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172",
+      "predicate": "http://www.wikidata.org/prop/P18",
+      "object": "http://www.wikidata.org/entity/statement/Q172-cac34105-4ee7-87be-5d57-ecc7c818849a"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172",
+      "predicate": "http://www.wikidata.org/prop/direct/P238",
+      "object": "YTO"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172",
+      "predicate": "http://www.wikidata.org/prop/direct/P17",
+      "object": "http://www.wikidata.org/entity/Q16"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q172",
+      "predicate": "http://www.wikidata.org/prop/direct/P237",
+      "object": "http://www.wikidata.org/entity/Q919602"
+    }
+  ]
+}

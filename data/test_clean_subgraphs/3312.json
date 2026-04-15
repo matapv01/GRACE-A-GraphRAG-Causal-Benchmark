@@ -1,0 +1,63 @@
+{
+  "question_id": "3312",
+  "answers": [
+    "http://www.wikidata.org/entity/Q9899"
+  ],
+  "gold_path": {
+    "question_id": "3312",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9899",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2039348"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9899",
+        "predicate": "http://www.wikidata.org/prop/direct/P2297",
+        "object": "190"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9899",
+        "predicate": "http://www.wikidata.org/prop/direct/P190",
+        "object": "http://www.wikidata.org/entity/Q1085"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9899",
+        "predicate": "http://www.wikidata.org/prop/direct/P2297",
+        "object": "12250"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9899",
+        "predicate": "http://www.wikidata.org/prop/direct/P2297",
+        "object": "35250"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9899",
+        "predicate": "http://www.wikidata.org/prop/direct/P2297",
+        "object": "75670"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9899",
+        "predicate": "http://www.wikidata.org/prop/direct/P2297",
+        "object": "174250"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9899",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-08T18:45:09Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9899",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "10"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9899",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Amsterdam"
+    }
+  ]
+}

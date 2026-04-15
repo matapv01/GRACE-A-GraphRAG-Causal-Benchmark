@@ -1,0 +1,86 @@
+{
+  "question_id": "2596",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3687321",
+    "http://www.wikidata.org/entity/Q25399565",
+    "http://www.wikidata.org/entity/Q9364003",
+    "http://www.wikidata.org/entity/Q115482"
+  ],
+  "gold_path": {
+    "question_id": "2596",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q25399565",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q25399565",
+        "predicate": "http://www.wikidata.org/prop/direct/P1090",
+        "object": "0.3296"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3687321",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3687321",
+        "predicate": "http://www.wikidata.org/prop/direct/P1090",
+        "object": "0.06533"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115482",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q115482",
+        "predicate": "http://www.wikidata.org/prop/direct/P1090",
+        "object": "0.031222"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9364003",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2490"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9364003",
+        "predicate": "http://www.wikidata.org/prop/direct/P1090",
+        "object": "0.030985"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q9364003",
+        "predicate": "http://www.wikidata.org/prop/direct/P1090",
+        "object": "0.030953"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q25399565",
+      "predicate": "http://www.wikidata.org/prop/direct/P3083",
+      "object": "COSMOS2015 578833"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25399565",
+      "predicate": "http://www.wikidata.org/prop/P3083",
+      "object": "http://www.wikidata.org/entity/statement/Q25399565-10A3CCBB-BEC1-4BAC-B10F-0BDBFA3715BA"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25399565",
+      "predicate": "http://www.wikidata.org/prop/direct/P528",
+      "object": "[MMS2013] 157091"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25399565",
+      "predicate": "http://www.wikidata.org/prop/direct/P2671",
+      "object": "/g/11cky7q45r"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q25399565",
+      "predicate": "http://www.wikidata.org/prop/P528",
+      "object": "http://www.wikidata.org/entity/statement/Q25399565-c4f354a5-8d4c-49ea-82b3-0b78af75b9e5"
+    }
+  ]
+}

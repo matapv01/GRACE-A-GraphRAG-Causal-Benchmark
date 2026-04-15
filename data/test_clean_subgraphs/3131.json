@@ -1,0 +1,107 @@
+{
+  "question_id": "3131",
+  "answers": [
+    "http://www.wikidata.org/entity/Q36",
+    "http://www.wikidata.org/entity/Q31",
+    "http://www.wikidata.org/entity/Q45",
+    "http://www.wikidata.org/entity/Q33",
+    "http://www.wikidata.org/entity/Q43"
+  ],
+  "gold_path": {
+    "question_id": "3131",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P3271",
+        "object": "18"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q31",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q8475"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33",
+        "predicate": "http://www.wikidata.org/prop/direct/P3271",
+        "object": "18"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q33",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q8475"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36",
+        "predicate": "http://www.wikidata.org/prop/direct/P3271",
+        "object": "18"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q8475"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43",
+        "predicate": "http://www.wikidata.org/prop/direct/P3271",
+        "object": "18"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q43",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q8475"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45",
+        "predicate": "http://www.wikidata.org/prop/direct/P3271",
+        "object": "18"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q45",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q8475"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q31",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-11T15:44:14Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31",
+      "predicate": "http://schema.org/version",
+      "object": "2480332924"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q31",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Belgium"
+    }
+  ]
+}

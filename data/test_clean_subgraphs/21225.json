@@ -1,0 +1,43 @@
+{
+  "question_id": "21225",
+  "answers": [
+    "http://www.wikidata.org/entity/Q838284"
+  ],
+  "gold_path": {
+    "question_id": "21225",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q204862",
+        "predicate": "http://www.wikidata.org/prop/direct/P115",
+        "object": "http://www.wikidata.org/entity/Q838284"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q838284",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q37985280"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q204862",
+      "predicate": "http://schema.org/version",
+      "object": "2475330560"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204862",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "達拉斯牛仔"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204862",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "دالاس كاوبويز"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q204862",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Dallas Cowboys"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "9280",
+  "answers": [
+    "2096.8"
+  ],
+  "gold_path": {
+    "question_id": "9280",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q34",
+        "predicate": "http://www.wikidata.org/prop/P610",
+        "object": "http://www.wikidata.org/entity/statement/q34-482f1339-4658-7b9f-4cac-1a6bbc9122cc"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q34-482f1339-4658-7b9f-4cac-1a6bbc9122cc",
+        "predicate": "ps:P610",
+        "object": "http://www.wikidata.org/entity/Q214011"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/q34-482f1339-4658-7b9f-4cac-1a6bbc9122cc",
+        "predicate": "pq:P2044",
+        "object": "2096.8"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q34",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Kingdom of Sweden"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Schweden"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Sverige"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q34",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "se"
+    }
+  ]
+}

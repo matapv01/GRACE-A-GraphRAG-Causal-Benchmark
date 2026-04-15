@@ -1,0 +1,508 @@
+{
+  "clean": {
+    "question_id": "20506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3178894",
+      "http://www.wikidata.org/entity/Q2514185",
+      "http://www.wikidata.org/entity/Q2365445"
+    ],
+    "perturbation_type": "clean",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2365445",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q3178894"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q2365445"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3178894",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u043e\u0440\u043e\u043b\u044c \u041b\u0435\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q2514185"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Lion King"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0m63c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2514185",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "El rey le\u00f3n"
+      }
+    ]
+  },
+  "broken": {
+    "question_id": "20506",
+    "answers": [
+      "There is no information in the context to answer."
+    ],
+    "perturbation_type": "broken",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u043e\u0440\u043e\u043b\u044c \u041b\u0435\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Lion King"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0m63c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "El rey le\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q3178894"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2365445"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q_ISOLATED",
+        "predicate": "http://www.wikidata.org/prop/direct/P_ISOLATED",
+        "object": "http://www.wikidata.org/entity/Q2514185"
+      }
+    ]
+  },
+  "type_matching": {
+    "question_id": "20506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3178894",
+      "http://www.wikidata.org/entity/Q2514185",
+      "http://www.wikidata.org/entity/Q2365445"
+    ],
+    "perturbation_type": "type_matching",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2365445",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q3178894"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q2365445"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3178894",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u043e\u0440\u043e\u043b\u044c \u041b\u0435\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q2514185"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Lion King"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0m63c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2514185",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "El rey le\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "http://www.wikidata.org/entity/Q6668"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "http://www.wikidata.org/entity/Q11934"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "http://www.wikidata.org/entity/Q11937"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "http://www.wikidata.org/entity/Q11947"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "http://www.wikidata.org/entity/Q12379"
+      }
+    ]
+  },
+  "topological": {
+    "question_id": "20506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q3178894",
+      "http://www.wikidata.org/entity/Q2514185",
+      "http://www.wikidata.org/entity/Q2365445"
+    ],
+    "perturbation_type": "topological",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2365445",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q3178894"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q2365445"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q3178894",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u043e\u0440\u043e\u043b\u044c \u041b\u0435\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q2514185"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Lion King"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0m63c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2514185",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "El rey le\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q6383803"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%20from%20the%20dome%20on%20Methodist%20Central%20Hall.jpg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q46"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q112099"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q20181813"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P35",
+        "object": "http://www.wikidata.org/entity/Q43274"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q145",
+        "predicate": "http://www.wikidata.org/prop/direct/P36",
+        "object": "http://www.wikidata.org/entity/Q84"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P6",
+        "object": "http://www.wikidata.org/entity/Q22686"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P18",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20-%20Location%20Map%20%282013%29%20-%20USA%20-%20UNOCHA.svg"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P30",
+        "object": "http://www.wikidata.org/entity/Q49"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q6256"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q512187"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1489259"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q1520223"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q3624078"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q30",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5255892"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "http://www.wikidata.org/entity/Q1860"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/prop/novalue/P1018"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q16"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q27"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q30"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q114"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q115"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q117"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q145"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q233"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1860",
+        "predicate": "http://www.wikidata.org/prop/direct/P17",
+        "object": "http://www.wikidata.org/entity/Q242"
+      }
+    ]
+  },
+  "swapping": {
+    "question_id": "20506",
+    "answers": [
+      "http://www.wikidata.org/entity/Q189169"
+    ],
+    "perturbation_type": "swapping",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://wikiba.se/ontology#identifiers",
+        "object": "137"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u043e\u0440\u043e\u043b\u044c \u041b\u0435\u0432"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Lion King"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P646",
+        "object": "/m/0m63c"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "El rey le\u00f3n"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189169",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q189169"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q189169"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189169",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q36479",
+        "predicate": "http://www.wikidata.org/prop/direct/P674",
+        "object": "http://www.wikidata.org/entity/Q189169"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q189169",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q27921916"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "question_id": "24981",
+  "answers": [
+    "http://www.wikidata.org/entity/Q11299"
+  ],
+  "gold_path": {
+    "question_id": "24981",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q11299",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q408804"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11299",
+        "predicate": "http://www.wikidata.org/prop/direct/P1792",
+        "object": "http://www.wikidata.org/entity/Q7234769"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q11299",
+        "predicate": "rdfs:label",
+        "object": "Manhattan"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "77"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Manhattan"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q11299",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "מנהטן"
+    }
+  ]
+}

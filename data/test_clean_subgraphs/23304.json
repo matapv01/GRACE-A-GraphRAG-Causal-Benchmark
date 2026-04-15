@@ -1,0 +1,43 @@
+{
+  "question_id": "23304",
+  "answers": [
+    "http://www.wikidata.org/entity/Q26270214"
+  ],
+  "gold_path": {
+    "question_id": "23304",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q26270214",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q148578"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q26270214",
+        "predicate": "rdfs:label",
+        "object": "Xuntian"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q26270214",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26270214",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Xuntian"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26270214",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "شانشان"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q26270214",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Xuntian-Teleskop"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_id": "11416",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1765120"
+  ],
+  "gold_path": {
+    "question_id": "11416",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q39829",
+        "predicate": "http://www.wikidata.org/prop/P69",
+        "object": "http://www.wikidata.org/entity/statement/Q39829-AE5B1E9C-628E-4E81-AC70-E1836F970506"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39829-AE5B1E9C-628E-4E81-AC70-E1836F970506",
+        "predicate": "ps:P69",
+        "object": "http://www.wikidata.org/entity/Q1307345"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q39829-AE5B1E9C-628E-4E81-AC70-E1836F970506",
+        "predicate": "pq:P512",
+        "object": "http://www.wikidata.org/entity/Q1765120"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q39829",
+      "predicate": "http://www.wikidata.org/prop/direct/P648",
+      "object": "OL19981A"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39829",
+      "predicate": "http://www.wikidata.org/prop/direct/P866",
+      "object": "stephen-king"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39829",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1947-09-21T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39829",
+      "predicate": "http://www.wikidata.org/prop/direct/P646",
+      "object": "/m/0jt90f5"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q39829",
+      "predicate": "http://www.wikidata.org/prop/direct/P551",
+      "object": "http://www.wikidata.org/entity/Q49201"
+    }
+  ]
+}

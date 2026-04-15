@@ -1,0 +1,49 @@
+{
+  "question_id": "7079",
+  "answers": [
+    "http://www.wikidata.org/entity/Q965918",
+    "http://www.wikidata.org/entity/Q8704"
+  ],
+  "gold_path": {
+    "question_id": "7079",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q52409",
+        "predicate": "http://www.wikidata.org/prop/P166",
+        "object": "http://www.wikidata.org/entity/statement/Q52409-E9AE1DB6-48D2-4276-A841-1DEE38C7F039"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52409-E9AE1DB6-48D2-4276-A841-1DEE38C7F039",
+        "predicate": "ps:P166",
+        "object": "http://www.wikidata.org/entity/Q727282"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52409-E9AE1DB6-48D2-4276-A841-1DEE38C7F039",
+        "predicate": "pq:P1346",
+        "object": "http://www.wikidata.org/entity/Q8704"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q52409-E9AE1DB6-48D2-4276-A841-1DEE38C7F039",
+        "predicate": "pq:P1346",
+        "object": "http://www.wikidata.org/entity/Q965918"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q52409",
+      "predicate": "http://www.wikidata.org/prop/P10018",
+      "object": "http://www.wikidata.org/entity/statement/Q52409-B5061FFF-4403-4C6D-8CFB-3605DBC1B395"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52409",
+      "predicate": "http://www.wikidata.org/prop/direct/P10018",
+      "object": "99472"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q52409",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Marcel Albert Carné"
+    }
+  ]
+}

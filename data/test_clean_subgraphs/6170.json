@@ -1,0 +1,53 @@
+{
+  "question_id": "6170",
+  "answers": [
+    "http://www.wikidata.org/entity/Q311793"
+  ],
+  "gold_path": {
+    "question_id": "6170",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q366213",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q366213-a150dafd-45b3-9537-00a0-8403810bd26d"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q366213-a150dafd-45b3-9537-00a0-8403810bd26d",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q38998920"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q366213-a150dafd-45b3-9537-00a0-8403810bd26d",
+        "predicate": "pq:P1366",
+        "object": "http://www.wikidata.org/entity/Q311793"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q366213",
+      "predicate": "http://www.wikidata.org/prop/direct/P3368",
+      "object": "1102084"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366213",
+      "predicate": "http://www.wikidata.org/prop/direct/P373",
+      "object": "Aga Khan III"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366213",
+      "predicate": "http://www.wikidata.org/prop/P373",
+      "object": "http://www.wikidata.org/entity/statement/q366213-4249541E-1C51-4701-9AE3-15DCAAD64F81"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366213",
+      "predicate": "http://www.wikidata.org/prop/P3368",
+      "object": "http://www.wikidata.org/entity/statement/Q366213-0759EDCA-E1C9-4A0B-B1EA-FA54C8625E9C"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q366213",
+      "predicate": "http://www.wikidata.org/prop/direct/P1185",
+      "object": "1033429"
+    }
+  ]
+}

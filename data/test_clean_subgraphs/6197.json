@@ -1,0 +1,53 @@
+{
+  "question_id": "6197",
+  "answers": [
+    "1840-06-19T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6197",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7317",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q7317-7EEF82FF-6FB5-492E-A4A1-D9748D0EDA18"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7317-7EEF82FF-6FB5-492E-A4A1-D9748D0EDA18",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q3290593"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q7317-7EEF82FF-6FB5-492E-A4A1-D9748D0EDA18",
+        "predicate": "pq:P582",
+        "object": "1840-06-19T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7317",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-06T23:22:37Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7317",
+      "predicate": "http://schema.org/version",
+      "object": "2478986388"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7317",
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "object": "1813-10-10T00:00:00Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7317",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q2268455"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7317",
+      "predicate": "http://www.wikidata.org/prop/direct/P735",
+      "object": "http://www.wikidata.org/entity/Q3748860"
+    }
+  ]
+}

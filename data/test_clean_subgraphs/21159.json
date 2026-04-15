@@ -1,0 +1,48 @@
+{
+  "question_id": "21159",
+  "answers": [
+    "http://www.wikidata.org/entity/Q21158994"
+  ],
+  "gold_path": {
+    "question_id": "21159",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q37175",
+        "predicate": "http://www.wikidata.org/prop/direct/P463",
+        "object": "http://www.wikidata.org/entity/Q21158994"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q21158994",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q215048"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q37175",
+      "predicate": "http://www.wikidata.org/prop/direct/P40",
+      "object": "http://www.wikidata.org/entity/Q20670730"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37175",
+      "predicate": "http://www.wikidata.org/prop/direct/P40",
+      "object": "http://www.wikidata.org/entity/Q28032626"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37175",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Депп, Джон Кристофер"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37175",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джон Депп"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q37175",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Джон Кристофер Депп"
+    }
+  ]
+}

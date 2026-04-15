@@ -1,0 +1,48 @@
+{
+  "question_id": "20874",
+  "answers": [
+    "http://www.wikidata.org/entity/Q47487723"
+  ],
+  "gold_path": {
+    "question_id": "20874",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q42944",
+        "predicate": "http://www.wikidata.org/prop/direct/P1037",
+        "object": "http://www.wikidata.org/entity/Q47487723"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q47487723",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q42944",
+      "predicate": "http://www.wikidata.org/prop/direct/P1375",
+      "object": "000505732"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42944",
+      "predicate": "http://www.wikidata.org/prop/direct/P13572",
+      "object": "CERN"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42944",
+      "predicate": "http://www.wikidata.org/prop/direct/P13460",
+      "object": "3286"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42944",
+      "predicate": "http://www.wikidata.org/prop/direct/P13156",
+      "object": "CERN"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q42944",
+      "predicate": "http://www.wikidata.org/prop/direct/P13059",
+      "object": "155492"
+    }
+  ]
+}

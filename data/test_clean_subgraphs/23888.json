@@ -1,0 +1,48 @@
+{
+  "question_id": "23888",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2744634"
+  ],
+  "gold_path": {
+    "question_id": "23888",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2744634",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q49773"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2744634",
+        "predicate": "rdfs:label",
+        "object": "Yomango"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2744634",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "SCCPP"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2744634",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Yo mango"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2744634",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "1"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2744634",
+      "predicate": "http://www.wikidata.org/prop/P138",
+      "object": "http://www.wikidata.org/entity/statement/Q2744634-09072F02-48AE-4F2F-BCC5-715D0CB9A8E6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2744634",
+      "predicate": "http://www.wikidata.org/prop/P154",
+      "object": "http://www.wikidata.org/entity/statement/Q2744634-7fdc108b-4125-29f9-a21b-a5bed75393a5"
+    }
+  ]
+}

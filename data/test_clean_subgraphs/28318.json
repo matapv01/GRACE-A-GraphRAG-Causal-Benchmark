@@ -1,0 +1,49 @@
+{
+  "question_id": "28318",
+  "answers": [
+    "ECMAScript 2025",
+    "ECMAScript 2024"
+  ],
+  "gold_path": {
+    "question_id": "28318",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q2005",
+        "predicate": "http://www.wikidata.org/prop/direct/P348",
+        "object": "ECMAScript 2024"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2005",
+        "predicate": "http://www.wikidata.org/prop/direct/P348",
+        "object": "ECMAScript 2025"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q2005",
+      "predicate": "http://schema.org/version",
+      "object": "2481028897"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2005",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "ジャバスクリプト"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2005",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "JS"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2005",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "LiveScript"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q2005",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "الجافا سكربت"
+    }
+  ]
+}

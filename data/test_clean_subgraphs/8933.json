@@ -1,0 +1,43 @@
+{
+  "question_id": "8933",
+  "answers": [
+    "http://www.wikidata.org/entity/Q3021599"
+  ],
+  "gold_path": {
+    "question_id": "8933",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1037711",
+        "predicate": "http://www.wikidata.org/prop/P26",
+        "object": "http://www.wikidata.org/entity/statement/Q1037711-ED683F5D-C947-48F9-A11C-C1D1A59FBB2F"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q1037711-ED683F5D-C947-48F9-A11C-C1D1A59FBB2F",
+        "predicate": "ps:P26",
+        "object": "http://www.wikidata.org/entity/Q3021599"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037711",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "كارل اكيلى"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037711",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "کارل اکلی"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037711",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Carl Ethan Akeley"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1037711",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Carl Akeley"
+    }
+  ]
+}

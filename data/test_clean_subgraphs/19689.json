@@ -1,0 +1,70 @@
+{
+  "question_id": "19689",
+  "answers": [
+    "http://www.wikidata.org/entity/Q2145005",
+    "http://www.wikidata.org/entity/Q242741",
+    "http://www.wikidata.org/entity/Q683988"
+  ],
+  "gold_path": {
+    "question_id": "19689",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q242741",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q131013"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q242741",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q44539"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q683988",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q131013"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q683988",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q44539"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2145005",
+        "predicate": "http://www.wikidata.org/prop/direct/P276",
+        "object": "http://www.wikidata.org/entity/Q131013"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q2145005",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q44539"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q242741",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "الأخرثيون"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242741",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Erecteion"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242741",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Erecteión"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242741",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Erechteion"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q242741",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Ερέχθειον"
+    }
+  ]
+}

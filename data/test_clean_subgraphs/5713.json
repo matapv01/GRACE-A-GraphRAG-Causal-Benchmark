@@ -1,0 +1,53 @@
+{
+  "question_id": "5713",
+  "answers": [
+    "http://www.wikidata.org/entity/Q177413"
+  ],
+  "gold_path": {
+    "question_id": "5713",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q9068",
+        "predicate": "http://www.wikidata.org/prop/P3701",
+        "object": "http://www.wikidata.org/entity/statement/Q9068-91439d63-4d3e-88ee-3129-cd2cbd5db839"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9068-91439d63-4d3e-88ee-3129-cd2cbd5db839",
+        "predicate": "ps:P3701",
+        "object": "http://www.wikidata.org/entity/Q177413"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q9068-91439d63-4d3e-88ee-3129-cd2cbd5db839",
+        "predicate": "pq:P3680",
+        "object": "http://www.wikidata.org/entity/Q29886576"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q9068",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "376"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9068",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "254"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9068",
+      "predicate": "http://schema.org/dateModified",
+      "object": "2026-04-09T21:21:13Z"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9068",
+      "predicate": "http://schema.org/description",
+      "object": "프랑스의 작가 (1694–1778)"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q9068",
+      "predicate": "http://schema.org/description",
+      "object": "scriitor și filozof al Iluminismului francez"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "23353",
+  "answers": [
+    "http://www.wikidata.org/entity/Q1754430"
+  ],
+  "gold_path": {
+    "question_id": "23353",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q1754430",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2465832"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q1754430",
+        "predicate": "rdfs:label",
+        "object": "volkerpsychologie"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q1754430",
+      "predicate": "http://wikiba.se/ontology#identifiers",
+      "object": "6"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1754430",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "psicología étnica"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1754430",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "psicología etnológica"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1754430",
+      "predicate": "http://www.w3.org/2004/02/skos/core#altLabel",
+      "object": "Völkerpsychologie"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q1754430",
+      "predicate": "http://wikiba.se/ontology#sitelinks",
+      "object": "9"
+    }
+  ]
+}

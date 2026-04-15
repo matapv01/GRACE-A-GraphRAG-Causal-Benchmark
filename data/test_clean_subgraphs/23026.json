@@ -1,0 +1,48 @@
+{
+  "question_id": "23026",
+  "answers": [
+    "http://www.wikidata.org/entity/Q49542"
+  ],
+  "gold_path": {
+    "question_id": "23026",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q7737",
+        "predicate": "http://www.wikidata.org/prop/direct/P2341",
+        "object": "http://www.wikidata.org/entity/Q49542"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q49542",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q2472587"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "Lengua rüssa"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "krīvu volūda"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "krievu valoda"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "俄語"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q7737",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "रूसीभाषा"
+    }
+  ]
+}

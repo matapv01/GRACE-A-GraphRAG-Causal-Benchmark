@@ -1,0 +1,33 @@
+{
+  "question_id": "20585",
+  "answers": [
+    "http://www.wikidata.org/entity/Q61205003"
+  ],
+  "gold_path": {
+    "question_id": "20585",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q102462",
+        "predicate": "http://www.wikidata.org/prop/direct/P1875",
+        "object": "http://www.wikidata.org/entity/Q61205003"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/Q61205003",
+        "predicate": "http://www.wikidata.org/prop/direct/P31",
+        "object": "http://www.wikidata.org/entity/Q5354754"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q102462",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "James Stewart"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q102462",
+      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+      "object": "জেমস স্টুয়ার্ট"
+    }
+  ]
+}

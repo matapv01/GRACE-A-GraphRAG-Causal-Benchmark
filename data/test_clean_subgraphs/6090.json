@@ -1,0 +1,53 @@
+{
+  "question_id": "6090",
+  "answers": [
+    "1945-03-02T00:00:00Z"
+  ],
+  "gold_path": {
+    "question_id": "6090",
+    "triples": [
+      {
+        "subject": "http://www.wikidata.org/entity/Q251666",
+        "predicate": "http://www.wikidata.org/prop/P39",
+        "object": "http://www.wikidata.org/entity/statement/Q251666-46BDA7B7-A830-4DE3-9677-A8E9E1080160"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q251666-46BDA7B7-A830-4DE3-9677-A8E9E1080160",
+        "predicate": "ps:P39",
+        "object": "http://www.wikidata.org/entity/Q2003296"
+      },
+      {
+        "subject": "http://www.wikidata.org/entity/statement/Q251666-46BDA7B7-A830-4DE3-9677-A8E9E1080160",
+        "predicate": "pq:P580",
+        "object": "1945-03-02T00:00:00Z"
+      }
+    ]
+  },
+  "extra_triples": [
+    {
+      "subject": "http://www.wikidata.org/entity/Q251666",
+      "predicate": "http://www.wikidata.org/prop/direct/P434",
+      "object": "0fa5063c-5ed1-423f-bd6c-c7fce62e09ce"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q251666",
+      "predicate": "http://www.wikidata.org/prop/direct/P4342",
+      "object": "Henry_A._Wallace"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q251666",
+      "predicate": "http://www.wikidata.org/prop/P434",
+      "object": "http://www.wikidata.org/entity/statement/Q251666-a2ead2a9-71e1-4dac-949d-b5e52d90f498"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q251666",
+      "predicate": "http://www.wikidata.org/prop/direct/P4104",
+      "object": "75194"
+    },
+    {
+      "subject": "http://www.wikidata.org/entity/Q251666",
+      "predicate": "http://www.wikidata.org/prop/P4342",
+      "object": "http://www.wikidata.org/entity/statement/Q251666-8ABF4BBC-E671-4AA7-8F99-6659322D12DF"
+    }
+  ]
+}
