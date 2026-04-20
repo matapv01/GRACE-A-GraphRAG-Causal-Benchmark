@@ -1,33 +1,3 @@
-{
-  "question_id": "16506",
-  "answers": [
-    "http://www.wikidata.org/entity/Q170538"
-  ],
-  "gold_path": {
-    "question_id": "16506",
-    "triples": [
-      {
-        "subject": "http://www.wikidata.org/entity/Q4763358",
-        "predicate": "http://www.wikidata.org/prop/direct/P155",
-        "object": "http://www.wikidata.org/entity/Q5381442"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q5381442",
-        "predicate": "http://www.wikidata.org/prop/direct/P264",
-        "object": "http://www.wikidata.org/entity/Q170538"
-      }
-    ]
-  },
-  "extra_triples": [
-    {
-      "subject": "http://www.wikidata.org/entity/Q4763358",
-      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-      "object": "Angle of Entry"
-    },
-    {
-      "subject": "http://www.wikidata.org/entity/Q4763358",
-      "predicate": "http://wikiba.se/ontology#identifiers",
-      "object": "2"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8484adaa6e224fdf4da46e418a40d411931536502d2fd928925f27703682908e
+size 921

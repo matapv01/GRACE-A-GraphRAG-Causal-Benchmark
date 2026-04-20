@@ -1,33 +1,3 @@
-{
-  "question_id": "20585",
-  "answers": [
-    "http://www.wikidata.org/entity/Q61205003"
-  ],
-  "gold_path": {
-    "question_id": "20585",
-    "triples": [
-      {
-        "subject": "http://www.wikidata.org/entity/Q102462",
-        "predicate": "http://www.wikidata.org/prop/direct/P1875",
-        "object": "http://www.wikidata.org/entity/Q61205003"
-      },
-      {
-        "subject": "http://www.wikidata.org/entity/Q61205003",
-        "predicate": "http://www.wikidata.org/prop/direct/P31",
-        "object": "http://www.wikidata.org/entity/Q5354754"
-      }
-    ]
-  },
-  "extra_triples": [
-    {
-      "subject": "http://www.wikidata.org/entity/Q102462",
-      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-      "object": "James Stewart"
-    },
-    {
-      "subject": "http://www.wikidata.org/entity/Q102462",
-      "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
-      "object": "জেমস স্টুয়ার্ট"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb252e659c6a7585bce5512820c04e285b5e34173f7b06134f589fa594b2c983
+size 969
