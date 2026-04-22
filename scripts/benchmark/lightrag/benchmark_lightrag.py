@@ -200,7 +200,7 @@ def main():
 
         # Chấm điểm LLM Judge bằng Đáp án là 1 mảng chứa chữ cái chuẩn ["A"]
         evaluator = EvaluationModule()
-        score = asyncio.run(evaluator.compute_llm_based_score(
+        score, predicted_letter = asyncio.run(evaluator.compute_llm_based_score(
             predicted_text=str(ans),
             ground_truths=[correct_letter],
             variant=variant,
@@ -214,6 +214,7 @@ def main():
         console.print(f"[bold red]MCQ Correct Letter:[/bold red] {correct_letter}")
         console.print(f"[bold blue]MCQ Options:[/bold blue] {options_text}")
         console.print(f"[bold green]Đáp án từ mô hình ({variant}):[/bold green] {ans}")
+        console.print(f"[bold yellow]Predicted Letter:[/bold yellow] {predicted_letter}")
         console.print(f"[bold red]LLM Judge Score ({variant}):[/bold red] {score}\n")
 
 if __name__ == "__main__":

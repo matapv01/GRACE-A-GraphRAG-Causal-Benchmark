@@ -1,7 +1,7 @@
 import re
 import asyncio
 import math
-from typing import Dict, List
+from typing import Dict, List, Tuple, Tuple
 import numpy as np
 from graphrag_benchmark.domain.models import (
     PerturbationType,
