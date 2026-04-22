@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 def main():
-    input_file = Path("data/lcquad_train.json")
+    input_file = Path("data/lcquad_test.json")
     output_file = Path("data/question_type_mapping.csv")
 
     with open(input_file, "r", encoding="utf-8") as f:

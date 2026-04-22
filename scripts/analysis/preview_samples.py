@@ -58,7 +58,7 @@ def main():
 
     # Tải bộ dataset gốc để tra cứu lại Question text và Answers
     console.print("Đang tra cứu lại nội dung câu hỏi gốc từ dataset...")
-    loader = DatasetLoader("data/lcquad_train.json")
+    loader = DatasetLoader("data/lcquad_test.json")
     questions = loader.load_dataset()
     q_dict = {q.id: q for q in questions}
 

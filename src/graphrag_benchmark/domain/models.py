@@ -68,7 +68,7 @@ class LLMResponseInfo(BaseModel):
     """
 
     predicted_text: str
-    exact_match: bool
+    is_correct: float  # Thay cho exact_match bool để support LLM score (0.0 -> 1.0)
     answer_logprobs: List[float]  # Logprobs của từng token tạo nên Answers
     p_norm: float  # Sinh ra từ exp(mean(logprobs))
 
@@ -79,7 +79,7 @@ class CausalDiagnosisReport(BaseModel):
     """
 
     question_id: str
-    clean_accuracy: bool
+    clean_accuracy: float  # Hỗ trợ float score
     causal_effect_scores: Dict[PerturbationType, float]  # Tính CES so với Clean
     detected_shortcut: ShortcutType
     details: str

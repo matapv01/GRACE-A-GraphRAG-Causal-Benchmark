@@ -140,10 +140,10 @@ def main():
 
     console.print("Đang tra cứu lại nội dung câu hỏi gốc từ dataset...")
     try:
-        with open("data/lcquad_train.json", "r", encoding="utf-8") as f:
+        with open("data/lcquad_test.json", "r", encoding="utf-8") as f:
             original_questions = json.load(f)
     except Exception as e:
-        console.print(f"[red]Không thể đọc data/lcquad_train.json: {e}[/red]")
+        console.print(f"[red]Không thể đọc data/lcquad_test.json: {e}[/red]")
         return
 
     q_dict = {str(q.get("uid", "")): q for q in original_questions}

@@ -13,13 +13,6 @@ def main():
         description="Generate causal perturbations for the subgraphs."
     )
     parser.add_argument(
-        "--mode",
-        type=str,
-        default="train",
-        choices=["train", "test"],
-        help="Chọn 'train' hoặc 'test' để xử lý file dataset tương ứng.",
-    )
-    parser.add_argument(
         "--retry_errors",
         action="store_true",
         help="Cố gắng sinh lại biểu đồ đối với file JSON sinh ra bị lưu dính tag 'error' trước đó",
@@ -27,12 +20,8 @@ def main():
     args = parser.parse_args()
 
     console = Console()
-    if args.mode == "test":
-        input_dir = Path("data/test_clean_subgraphs")
-        output_dir = Path("data/test_perturbed_subgraphs")
-    else:
-        input_dir = Path("data/clean_subgraphs")
-        output_dir = Path("data/perturbed_subgraphs")
+    input_dir = Path("data/test_clean_subgraphs")
+    output_dir = Path("data/test_perturbed_subgraphs")
 
     output_dir.mkdir(parents=True, exist_ok=True)
 

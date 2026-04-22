@@ -1,0 +1,27 @@
+2026-04-22 16:37:58.0850 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/nvidia/nv-embed-v1: {
+  "attempted_request_count": 5,
+  "successful_response_count": 5,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "compute_duration_seconds": 14.332770586013794,
+  "compute_duration_per_response_seconds": 2.866554117202759,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 5,
+  "prompt_tokens": 85,
+  "total_tokens": 85,
+  "tokens_per_response": 17.0,
+  "cost_per_response": 0.0
+}
+2026-04-22 16:37:58.0850 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/qwen/qwen3-next-80b-a3b-instruct: {
+  "attempted_request_count": 5,
+  "successful_response_count": 5,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 5,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}

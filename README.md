@@ -41,20 +41,19 @@ uv pip install vllm "bitsandbytes>=0.48.1"
 Start the vLLM server on a dedicated Terminal. Dưới đây là giải thích chi tiết cho các cấu hình (config) đang được sử dụng để chạy model này mượt mà:
 *   **`CUDA_VISIBLE_DEVICES=2`**: Chỉ định phiên chạy trên GPU số 2 (do GPU này đang trống toàn bộ ~48GB VRAM).
 *   **`VLLM_USE_V1=0`**: Tắt Engine V1 mới của vLLM để dùng lại V0. Engine V1 hiện tại đang lỗi tương thích bộ nhớ với dòng model MoE (Mixture of Experts) to như Qwen.
-*   **`--quantization awq` & `--load-format pt`**: Quá trình nhồi model vào RAM bằng thuật toán nén 4-bit AWQ định dạng nguyên thuỷ `pt` do tác giả cộng đồng đóng gói. Tải siêu mượt.
+*   **`--quantization compressed-tensors`**: Quá trình nhồi model vào RAM. Model do cộng đồng đóng gói được định dạng dưới chuẩn `compressed-tensors`, nên vLLM cần cấu hình này để phân giải model 4-bit thành công.
 *   **`--max-model-len 16384`**: Mở rộng độ dài Context Window từ 8K lên 16K tokens. Điều này cực kỳ quan trọng để đảm bảo thuật toán Graph Retrieval của LightRAG không bị tràn context (trả về lỗi `None`) khi truy xuất các Subgraphs quá lớn và có tiểu sử dài.
 *   **`--gpu-memory-utilization 0.95`**: Cho quyền vLLM được chiếm đến 95% thẻ GPU để tăng tỉ lệ cache nội bộ KV.
 *   **`--enforce-eager`**: Ép buộc chạy dạng Eager thay cho CUDA Graph. Với model MoE, CUDA Graph hay gặp lỗi fragmentation (kẹt phân mảnh bộ nhớ) gây dừng startup.
 
 ```bash
-CUDA_VISIBLE_DEVICES=2 VLLM_USE_V1=0 uv run python -m vllm.entrypoints.openai.api_server \
+CUDA_VISIBLE_DEVICES=0 VLLM_USE_V1=0 uv run python -m vllm.entrypoints.openai.api_server \
     --model cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit \
-    --quantization awq \
-    --load-format pt \
+    --quantization compressed-tensors \
     --host 0.0.0.0 \
     --port 8001 \
     --max-model-len 16384 \
-    --gpu-memory-utilization 0.95 \
+    --gpu-memory-utilization 0.9 \
     --enforce-eager
 ```
 *Note: Loading and quantizing a 60GB+ 30B model on-the-fly may take 10-15 minutes. Wait until you see `Uvicorn running on http://0.0.0.0:8001` before proceeding.*

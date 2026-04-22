@@ -1,3 +1,5 @@
+import re
+import asyncio
 import math
 from typing import Dict, List
 import numpy as np
@@ -9,11 +11,66 @@ from graphrag_benchmark.domain.models import (
 )
 
 
+import os
+from openai import AsyncOpenAI
+# =========================================================================
+
 class EvaluationModule:
     """
     Evaluate LLM faithfully against causal shortcuts.
     Từ tổng quan (Accuracy) đến bóc tách chi tiết (Token Logprobs -> P_norm -> CES).
     """
+
+    def compute_exact_match(self, predicted_text: str, ground_truths: List[str]) -> float:
+        """
+        Dành cho các type: CLEAN, TYPE_MATCHING, TOPOLOGICAL, SWAPPING.
+        Đánh giá bằng metric đã build (String Inclusion / Exact Match).
+        """
+        pred_lower = predicted_text.lower()
+        for gt in ground_truths:
+            if gt.lower() in pred_lower:
+                return 1.0
+        return 0.0
+
+    async def compute_llm_broken_score(self, predicted_text: str, broken_ground_truth: str) -> float:
+        """
+        Dành riêng cho type: BROKEN trong bài toán MCQ ABCD.
+        Hệ thống RAG phải trả về 'None' để chứng minh là nó không bịa đặt khi thiếu context.
+        """
+        text = predicted_text.strip()
+        
+        # Nếu model ngoan ngoãn trả ra chữ None thật sự hoặc có None trong chuỗi
+        if text.lower() == "none" or "none" in text.lower():
+            return 1.0
+        
+        return 0.0
+
+    async def compute_llm_based_score(self, predicted_text: str, ground_truths: List[str], variant: str, global_labels: dict, question: str = "") -> Tuple[float, str]:
+        """
+        Regex/Heuristic làm Judge để chấm điểm MCQ thay vì dùng LLM tốn kém.
+        Dành cho bài toán Trắc nghiệm ABCD: Đối chiếu chữ cái mà RAG sinh ra với chữ cái đáp án đúng.
+        Trả về (Score_Float, Chữ_Cái_Dự_Đoán)
+        """
+        expected_letter = ground_truths[0] if ground_truths else "None"
+            
+        # Fallback check trực tiếp bằng regex
+        predicted_letter = "None"
+        match = re.search(r'\b([A-D])\b', predicted_text.upper())
+        if match:
+            predicted_letter = match.group(1)
+            if predicted_letter == expected_letter.upper():
+                return 1.0, predicted_letter
+            return 0.0, predicted_letter
+            
+        # Fallback heuristic
+        for letter in ["A", "B", "C", "D"]:
+            if f"{letter}." in predicted_text.upper() or f" {letter} " in predicted_text.upper() or f"[{letter}]" in predicted_text.upper() or f"**{letter}**" in predicted_text.upper():
+                predicted_letter = letter
+                if letter == expected_letter.upper():
+                    return 1.0, predicted_letter
+                return 0.0, predicted_letter
+                
+        return 0.0, "None"
 
     def calculate_p_norm(self, logprobs: List[float]) -> float:
         """
@@ -43,7 +100,10 @@ class EvaluationModule:
         self, question_id: str, responses: Dict[PerturbationType, LLMResponseInfo]
     ) -> CausalDiagnosisReport:
         """
-        Chẩn đoán chi tiết sự phụ thuộc (Faithfulness vs Shortcuts) của mô hình.
+        Chẩn đoán chi tiết sự phụ thuộc (Faithfulness vs Shortcuts) của mô hình bằng LLM-as-a-Judge Score.
+        Vì Open-source LLM thường qua API không nhả Logprobs được như OpenAI, 
+        nên ta thay P_norm bằng chính `is_correct` (điểm float 0.0 -> 1.0 từ Judge).
+        CES = Điểm_CLEAN - Điểm_PERTURBED.
         """
         if PerturbationType.CLEAN not in responses:
             raise ValueError("Must provide CLEAN response as a baseline.")
@@ -51,22 +111,23 @@ class EvaluationModule:
         clean_res = responses[PerturbationType.CLEAN]
 
         # 1. Tổng quan: Baseline Accuracy trên Clean Context
-        clean_acc = clean_res.exact_match
-        p_clean = clean_res.p_norm
+        # Với MCQ score trả về là float {0.0, 1.0}
+        clean_acc = float(clean_res.is_correct)
+        p_clean = clean_acc
 
         # 2. Chi tiết: Tính CES cho mọi biến thể so với Clean
         ces_scores = {}
         for p_type, res in responses.items():
             if p_type != PerturbationType.CLEAN:
-                ces_scores[p_type] = self.calculate_ces(p_clean, res.p_norm)
+                ces_scores[p_type] = self.calculate_ces(p_clean, float(res.is_correct))
 
         # 3. Phân loại lỗi (Taxonomy Diagnosis)
         detected_shortcut = ShortcutType.UNKNOWN
         details = ""
-        ces_threshold = 0.1  # Biến thiên 10% xác suất
+        ces_threshold = 0.4  # Biến thiên 40% điểm số (giảm gần 1/2) mới được xem là chịu tác động
 
-        if not clean_acc:
-            details = "Baseline Failed: Mô hình trả lời sai ngay cả trên Clean Graph."
+        if clean_acc < 0.5:
+            details = "Baseline Failed: Mô hình trả lời sai ngay trên Clean Graph gốc."
             return CausalDiagnosisReport(
                 question_id=question_id,
                 clean_accuracy=clean_acc,
@@ -75,21 +136,24 @@ class EvaluationModule:
                 details=details,
             )
 
-        # Lấy dữ liệu phản hồi của từng bẫy (fallback nếu thiếu)
+        # Lấy dữ liệu phản hồi của Broken
         res_broken = responses.get(PerturbationType.BROKEN)
         ces_broken = ces_scores.get(PerturbationType.BROKEN, 0.0)
 
         # Kiểm tra 1: Parametric Memorization (Học vẹt)
-        # Nếu xóa chứng cứ (Broken) mà vẫn trả lời đúng và tự tin không giảm quá nhiều
-        if res_broken and res_broken.exact_match and abs(ces_broken) < ces_threshold:
+        # Bị mất graph Evidence (Broken) nhưng lại tự trả lời ĐÚNG và không tụt điểm
+        if res_broken and float(res_broken.is_correct) >= 0.5 and abs(ces_broken) < ces_threshold:
             detected_shortcut = ShortcutType.MEMORIZATION
-            details = f"Parametric Memorization: Trả lời đúng dù thiếu Graph Evidence (CES_broken={ces_broken:.3f} quá thấp)."
+            details = f"Parametric Memorization: Trả lời đúng dù Graph bị hỏng (CES_broken={ces_broken:.3f} quá thấp)."
             return CausalDiagnosisReport(
-                question_id, clean_acc, ces_scores, detected_shortcut, details
+                question_id=question_id, 
+                clean_accuracy=clean_acc, 
+                causal_effect_scores=ces_scores, 
+                detected_shortcut=detected_shortcut, 
+                details=details
             )
 
-        # Kiểm tra 2: Bị dẫn dụ bởi các bẫy (Distractor Analysis)
-        # Tính xem bẫy nào làm mô hình trả lời sai và làm sụt giảm xác suất P_norm lớn nhất
+        # Kiểm tra 2: Bị dẫn dụ bởi các bẫy nhiễu (Distractor Analysis)
         distractor_types = [
             PerturbationType.TOPOLOGICAL,
             PerturbationType.TYPE_MATCHING,
@@ -99,31 +163,36 @@ class EvaluationModule:
         worst_trap = None
 
         for d_type in distractor_types:
-            if d_type in responses and not responses[d_type].exact_match:
+            if d_type in responses and float(responses[d_type].is_correct) < 0.5:
                 if ces_scores[d_type] > max_distractor_ces:
                     max_distractor_ces = ces_scores[d_type]
                     worst_trap = d_type
 
+        # Nếu có trap nào kéo điểm mô hình xuống > 40%
         if worst_trap and max_distractor_ces > ces_threshold:
             if worst_trap == PerturbationType.TOPOLOGICAL:
                 detected_shortcut = ShortcutType.TOPOLOGICAL_BIAS
-                details = f"Topological Bias: Bị đánh lừa bởi Hub Node (CES_topo={max_distractor_ces:.3f})."
+                details = f"Topological Bias: Bị đánh lừa chọn nhầm node Hub phổ biến (CES_topo={max_distractor_ces:.3f})."
             elif worst_trap == PerturbationType.TYPE_MATCHING:
                 detected_shortcut = ShortcutType.TYPE_SHORTCUT
-                details = f"Type-matching Shortcut: Chọn nhầm thực thể cùng type với Answer (CES_type={max_distractor_ces:.3f})."
+                details = f"Type-matching Shortcut: Chọn nhầm thực thể cùng type thay vì đọc quan hệ logic (CES_type={max_distractor_ces:.3f})."
             elif worst_trap == PerturbationType.SWAPPING:
                 detected_shortcut = ShortcutType.PRIOR_OVER_CONTEXT
-                details = f"Prior-over-Context: Không chú ý sự thay đổi logic hiển nhiên trên Graph (CES_swap={max_distractor_ces:.3f})."
+                details = f"Prior-over-Context: Không tin vào sự nhiễu loạn của Graph mà vẫn tin vào Prior memory (CES_swap={max_distractor_ces:.3f})."
 
             return CausalDiagnosisReport(
-                question_id, clean_acc, ces_scores, detected_shortcut, details
+                question_id=question_id, 
+                clean_accuracy=clean_acc, 
+                causal_effect_scores=ces_scores, 
+                detected_shortcut=detected_shortcut, 
+                details=details
             )
 
-        # Kiểm tra 3: Faithful Reasoning (Causal Reasoning thực thụ)
-        # Mô hình sập khi bị gãy (Broken), và VƯỢT QUA (exact_match=True) các bẫy nhiễu
+        # Kiểm tra 3: Causal Reasoning thực thụ
+        # Không học vẹt (rớt điểm ở Broken - Broken trả lời 'None') + Không bị lừa (Vượt qua 3 bẫy nhiễu)
         detected_shortcut = ShortcutType.FAITHFUL
         details = (
-            "Faithful Reasoning: Vượt qua mọi bẫy, LLM dựa sát vào Graph để suy luận."
+            "Faithful Reasoning: Trả lời 'None' khi thiếu dữ liệu, chọn đúng ABCD trong mọi bẫy."
         )
 
         return CausalDiagnosisReport(

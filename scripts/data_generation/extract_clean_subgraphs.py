@@ -15,13 +15,6 @@ def main():
         description="Extract clean knowledge graphs from Wikidata given a dataset."
     )
     parser.add_argument(
-        "--mode",
-        type=str,
-        default="train",
-        choices=["train", "test"],
-        help="Chọn 'train' hoặc 'test' để xử lý file dataset tương ứng.",
-    )
-    parser.add_argument(
         "--retry_errors",
         action="store_true",
         help="Nếu bật, sẽ xóa dòng log lỗi cũ và chạy lại tất cả những ID từng gặp lỗi HTTP/Rate Limit.",
@@ -30,17 +23,13 @@ def main():
 
     console = Console()
 
-    if args.mode == "test":
-        dataset_file = "data/lcquad_test.json"
-        output_dir = "data/test_clean_subgraphs"
-    else:
-        dataset_file = "data/lcquad_train.json"
-        output_dir = "data/clean_subgraphs"
+    dataset_file = "data/lcquad_test.json"
+    output_dir = "data/test_clean_subgraphs"
 
     os.makedirs(output_dir, exist_ok=True)
 
     console.print(
-        f"[bold green]Loading Dataset ({args.mode.upper()}): LC-QuAD 2.0[/bold green]"
+        f"[bold green]Loading Dataset Form: LC-QuAD 2.0 Test[/bold green]"
     )
     loader = DatasetLoader(dataset_file)
     questions = loader.load_dataset()

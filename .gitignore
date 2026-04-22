@@ -9,3 +9,11 @@ wheels/
 # Virtual environments
 .venv/
 .env
+logs/*.txt
+logs/*.log
+
+# Benchmark Workspaces
+data/*/workspace/
+work_space/
+
+

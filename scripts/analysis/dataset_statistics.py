@@ -10,7 +10,7 @@ def main():
     perturb_dir = Path("data/perturbed_subgraphs")
     test_perturb_dir = Path("data/test_perturbed_subgraphs")
     lcquad_test_file = Path("data/lcquad_test.json")
-    lcquad_train_file = Path("data/lcquad_train.json")
+    lcquad_test_file = Path("data/lcquad_test.json")
     
     # 1. Total samples in perturbed_subgraphs (Chính là tập data đầy đủ)
     files_to_scan = list(perturb_dir.glob("*.json")) if perturb_dir.exists() else []
@@ -42,8 +42,8 @@ def main():
     if lcquad_test_file.exists():
         with open(lcquad_test_file, "r", encoding="utf-8") as f:
             lcquad_data.extend(json.load(f))
-    if lcquad_train_file.exists():
-        with open(lcquad_train_file, "r", encoding="utf-8") as f:
+    if lcquad_test_file.exists():
+        with open(lcquad_test_file, "r", encoding="utf-8") as f:
             lcquad_data.extend(json.load(f))
             
     for item in lcquad_data:

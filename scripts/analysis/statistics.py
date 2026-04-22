@@ -9,13 +9,6 @@ def main():
     parser = argparse.ArgumentParser(
         description="Generate statistics for extracted and perturbed datasets."
     )
-    parser.add_argument(
-        "--mode",
-        type=str,
-        default="train",
-        choices=["train", "test"],
-        help="Chọn 'train' hoặc 'test' để xem thống kê của tập dataset tương ứng.",
-    )
     args = parser.parse_args()
 
     console = Console()
@@ -23,25 +16,19 @@ def main():
     import glob
     import re
 
-    if args.mode == "test":
-        dataset_file = "data/lcquad_test.json"
-        clean_dir = Path("data/test_clean_subgraphs")
-        perturb_dir = Path("data/test_perturbed_subgraphs")
-        log_pattern = "logs_extract_test*.txt"
-    else:
-        dataset_file = "data/lcquad_train.json"
-        clean_dir = Path("data/clean_subgraphs")
-        perturb_dir = Path("data/perturbed_subgraphs")
-        log_pattern = "logs_extract_train*.txt"
+    dataset_file = "data/lcquad_test.json"
+    clean_dir = Path("data/test_clean_subgraphs")
+    perturb_dir = Path("data/test_perturbed_subgraphs")
+    log_pattern = "logs_extract_test*.txt"
 
-    console.print(f"Loading dataset for baseline total (MODE: {args.mode.upper()})...")
+    console.print(f"Loading dataset for baseline total (MODE: TEST)...")
     try:
         loader = DatasetLoader(dataset_file)
         questions = loader.load_dataset()
         total_questions = len(questions)
     except Exception as e:
         console.print(f"[red]Could not load dataset {dataset_file}: {e}[/red]")
-        total_questions = 24180 if args.mode == "train" else 5000  # Fallback
+        total_questions = 5000  # Fallback
 
     clean_count = 0
     if clean_dir.exists():
