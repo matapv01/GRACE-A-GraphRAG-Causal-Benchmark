@@ -47,7 +47,7 @@ Start the vLLM server on a dedicated Terminal. Dưới đây là giải thích c
 *   **`--enforce-eager`**: Ép buộc chạy dạng Eager thay cho CUDA Graph. Với model MoE, CUDA Graph hay gặp lỗi fragmentation (kẹt phân mảnh bộ nhớ) gây dừng startup.
 
 ```bash
-CUDA_VISIBLE_DEVICES=1 vllm serve cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit \
+CUDA_VISIBLE_DEVICES=2 vllm serve cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit \
     --host 0.0.0.0 \
     --port 8001 \
     --max-model-len 32768 \

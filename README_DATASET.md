@@ -85,3 +85,29 @@ Nếu bạn lỡ chạy nhầm hoặc muốn sửa code dở dang, hãy copy l�
 pkill -f extract_clean_subgraphs.py
 pkill -f generate_perturbations.py
 ```
+
+## Data Fixes & Backups
+
+- Problem: Some entries in `data/lcquad_test.json` may have a null `question` field. This causes `scripts/benchmark/lightrag/run_all_lightrag.py` to raise a TypeError when concatenating the question with options during benchmark runs.
+
+- Fix script: Use the provided backfill utility to populate missing `question` values from `NNQT_question` where available:
+
+```bash
+python scripts/analysis/backfill_lcquad_questions.py
+```
+
+- What it does: Creates a backup `data/lcquad_test.json.bak` and replaces null `question` fields with `NNQT_question` when present.
+
+- Restore original: If you want to restore the original file:
+
+```bash
+mv data/lcquad_test.json.bak data/lcquad_test.json
+```
+
+- Remove backup: When you're confident, you can delete the backup:
+
+```bash
+rm data/lcquad_test.json.bak
+```
+
+- Design note: The benchmark runner intentionally surfaces data issues (it does not silently fall back). Use the backfill script to repair dataset entries before large-scale runs.
