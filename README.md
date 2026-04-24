@@ -47,14 +47,11 @@ Start the vLLM server on a dedicated Terminal. Dưới đây là giải thích c
 *   **`--enforce-eager`**: Ép buộc chạy dạng Eager thay cho CUDA Graph. Với model MoE, CUDA Graph hay gặp lỗi fragmentation (kẹt phân mảnh bộ nhớ) gây dừng startup.
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 VLLM_USE_V1=0 uv run python -m vllm.entrypoints.openai.api_server \
-    --model cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit \
-    --quantization compressed-tensors \
+CUDA_VISIBLE_DEVICES=1 vllm serve cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit \
     --host 0.0.0.0 \
     --port 8001 \
-    --max-model-len 16384 \
-    --gpu-memory-utilization 0.9 \
-    --enforce-eager
+    --max-model-len 32768 \
+    --gpu-memory-utilization 0.9
 ```
 *Note: Loading and quantizing a 60GB+ 30B model on-the-fly may take 10-15 minutes. Wait until you see `Uvicorn running on http://0.0.0.0:8001` before proceeding.*
 
