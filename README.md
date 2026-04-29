@@ -89,7 +89,15 @@ To ensure fair evaluation across all RAG frameworks, we use a single, strict ben
 
 This prompt is located at: `src/graphrag_benchmark/prompts.py`
 
-### 4. LightRAG Benchmark Execution
+### 4. Benchmark Evaluation
+
+Current benchmark framework list:
+1. LightRAG
+2. ...
+
+#### 4.1 LightRAG
+
+##### 4.1.1 Benchmark Execution
 
 After your local vLLM server is running and data is prepared, open a **new Terminal** to run the complete causal benchmark evaluation script.
 
@@ -105,7 +113,7 @@ uv run python scripts/benchmark/lightrag/benchmark_lightrag.py 2466
 
 *Note: The script will load a subgraph scenario from `.json` files, construct Knowledge Graphs dynamically using the RAG engine for all available variants (`clean`, `broken`, `type_matching`, `topological`, `swapping`), query the local Qwen LLM while fetching Embeddings from Nvidia. Results are scored by extracting the ABCD choice from model output and comparing against the correct letter for each variant. Results are saved to `data/lightrag/benchmark_results.json`.*
 
-### 5. Benchmark Evaluation & Metrics
+##### 4.1.2 Metrics
 
 After running the benchmark, evaluate the results using the metrics script:
 ```bash
@@ -120,6 +128,39 @@ This computes **Multi-Class Classification Metrics** (Accuracy, Macro-F1) across
 You can also evaluate custom result files:
 ```bash
 uv run scripts/analysis/metrics_evaluation.py --results_file data/lightrag/benchmark_results.json
+```
+
+##### 4.1.3 Cleanup Failed Predictions (`None`) & Temporary Progress Stats
+
+When a run is interrupted or some samples fail (model output/predicted letter is `None`), you can clean the current results file to keep only successful questions, then rerun the benchmark for missing ones.
+
+This utility is framework-agnostic and can be used for any benchmark result JSON that follows the same schema (`question_id`, `variants`, `predicted_letter`, `mcq_correct_letter`).
+
+Run cleanup + report:
+```bash
+uv run python scripts/eval/cleanup_and_report_results.py data/lightrag/benchmark_results.json
+```
+
+Generic usage (other frameworks):
+```bash
+uv run python scripts/eval/cleanup_and_report_results.py data/<framework>/benchmark_results.json
+```
+
+What this script does:
+- Remove questions that contain any failed variant (`predicted_letter` is `None`/null/empty, or `answer` is `None`/`ERROR`).
+- Overwrite the same input JSON file you pass to the script.
+- Save a timestamp backup automatically before overwrite, for example: `data/lightrag/benchmark_results.json.bak_YYYYMMDD_HHMMSS`.
+- Print temporary progress: successful questions / total questions.
+- Print per-mode accuracy using only valid predictions (ignoring `None`/error rows).
+
+If you do not want to create a backup file:
+```bash
+uv run python scripts/eval/cleanup_and_report_results.py data/lightrag/benchmark_results.json --no-backup
+```
+
+After cleanup, run benchmark again:
+```bash
+uv run scripts/benchmark/lightrag/run_all_lightrag.py
 ```
 
 ---

@@ -43,34 +43,64 @@ async def evaluate_single_file(test_file: Path, evaluator: EvaluationModule):
     except FileNotFoundError:
         pass
 
-    results = {"question_id": q_id, "variants": {}}
+    # Xác định group_eval cho entry này
+    def has_past_timestamp(text: str) -> bool:
+        import re
+        CURRENT_BENCHMARK_YEAR = 2026
+        ISO_DATE_RE = re.compile(r"(?<!\\d)(\\d{4})-(\\d{1,2})-(\\d{1,2})(?:[T\\s]\\d{2}:\\d{2}:\\d{2}(?:Z)?)?(?!\\d)")
+        DMY_SLASH_RE = re.compile(r"(?<!\\d)(\\d{1,2})/(\\d{1,2})/(\\d{4})(?!\\d)")
+        DMY_DASH_RE = re.compile(r"(?<!\\d)(\\d{1,2})-(\\d{1,2})-(\\d{4})(?!\\d)")
+        YEAR_RE = re.compile(r"(?<!\\d)(1\\d{3}|20[0-1]\\d|202[0-5])(?!\\d)")
+        if not text:
+            return False
+        years = []
+        spans = []
+        for pat, yg in ((ISO_DATE_RE, 1), (DMY_SLASH_RE, 3), (DMY_DASH_RE, 3)):
+            for m in pat.finditer(text):
+                y = int(m.group(yg))
+                if y < CURRENT_BENCHMARK_YEAR:
+                    years.append(y)
+                    spans.append(m.span())
+        def in_spans(i):
+            return any(a <= i < b for a, b in spans)
+        for m in YEAR_RE.finditer(text):
+            if in_spans(m.start()):
+                continue
+            y = int(m.group(1))
+            if y < CURRENT_BENCHMARK_YEAR:
+                years.append(y)
+        return len(years) > 0
 
-    for variant in data.keys():
-        triples = data[variant].get("triples", [])
-        ground_truth = data[variant].get("answers", [])
-        
+    group_eval = "timestamp" if has_past_timestamp(question_text) else "non-timestamp"
+    results = {"question_id": q_id, "variants": {}, "group_eval": group_eval}
+
+    for variant, value in data.items():
+        if not isinstance(value, dict):
+            continue
+        triples = value.get("triples", [])
+        ground_truth = value.get("answers", [])
         # Đọc MCQ Options trực tiếp từ file JSON thay vì sinh real-time
-        options_text = data[variant].get("mcq_options_text", "")
-        correct_letter = data[variant].get("mcq_correct_letter", "None")
+        options_text = value.get("mcq_options_text", "")
+        correct_letter = value.get("mcq_correct_letter", "None")
         mcq_question = question_text + options_text
-        
+
         work_dir = f"data/lightrag/workspace/{q_id}/{variant}"
-        
+
         import shutil
         if os.path.exists(work_dir):
             shutil.rmtree(work_dir, ignore_errors=True)
         os.makedirs(work_dir, exist_ok=True)
-        
+
         try:
             rag_output = await run_lightrag_scenario(
-                question=mcq_question, 
-                triples=triples, 
-                variant_name=variant, 
+                question=mcq_question,
+                triples=triples,
+                variant_name=variant,
                 workspace_dir=work_dir
             )
             ans = rag_output.get("answer", "")
             retrieved_context = rag_output.get("retrieved_context", "")
-            
+
             score, predicted_letter = await evaluator.compute_llm_based_score(
                 predicted_text=str(ans),
                 ground_truths=[correct_letter],
@@ -78,7 +108,7 @@ async def evaluate_single_file(test_file: Path, evaluator: EvaluationModule):
                 global_labels=GLOBAL_LABELS,
                 question=mcq_question
             )
-            
+
             results["variants"][variant] = {
                 "ground_truth": ground_truth,
                 "mcq_correct_letter": correct_letter,
@@ -96,7 +126,7 @@ async def evaluate_single_file(test_file: Path, evaluator: EvaluationModule):
                 "answer": "ERROR",
                 "score": 0.0
             }
-            
+
     return results
 
 async def main():

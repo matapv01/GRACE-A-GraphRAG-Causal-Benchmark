@@ -1,3 +1,5 @@
+# Prompt chuẩn hóa cho knowledge context, dùng cho mọi nơi trong framework
+KNOWLEDGE_CONTEXT_PREFIX = "Here is the knowledge context (benchmark data up to 2026):\n"
 # Centralized Prompts and Instructions for Benchmark
 
 BENCHMARK_MULTIPLE_CHOICE_INSTRUCTION = (

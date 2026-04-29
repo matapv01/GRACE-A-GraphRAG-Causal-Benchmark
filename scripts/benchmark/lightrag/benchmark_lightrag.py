@@ -50,7 +50,8 @@ async def custom_embedding_func(texts, **kwargs):
     )
 
 async def run_lightrag_scenario(question: str, triples: list, variant_name: str, workspace_dir: str):
-    verbalized_text = "Here is the knowledge context:\n"
+    from graphrag_benchmark.prompts import KNOWLEDGE_CONTEXT_PREFIX
+    verbalized_text = KNOWLEDGE_CONTEXT_PREFIX
     for t in triples:
         s, p, o = t.get("subject", ""), t.get("predicate", ""), t.get("object", "")
         
@@ -171,30 +172,62 @@ def main():
 
     console.print(f"Câu hỏi: {question_text}")
 
-    for variant in data.keys():
-        triples = data[variant].get("triples", [])
-        ground_truth = data[variant].get("answers", [])
-        
+    # Xác định group_eval cho entry này
+    def has_past_timestamp(text: str) -> bool:
+        import re
+        CURRENT_BENCHMARK_YEAR = 2026
+        ISO_DATE_RE = re.compile(r"(?<!\\d)(\\d{4})-(\\d{1,2})-(\\d{1,2})(?:[T\\s]\\d{2}:\\d{2}:\\d{2}(?:Z)?)?(?!\\d)")
+        DMY_SLASH_RE = re.compile(r"(?<!\\d)(\\d{1,2})/(\\d{1,2})/(\\d{4})(?!\\d)")
+        DMY_DASH_RE = re.compile(r"(?<!\\d)(\\d{1,2})-(\\d{1,2})-(\\d{4})(?!\\d)")
+        YEAR_RE = re.compile(r"(?<!\\d)(1\\d{3}|20[0-1]\\d|202[0-5])(?!\\d)")
+        if not text:
+            return False
+        years = []
+        spans = []
+        for pat, yg in ((ISO_DATE_RE, 1), (DMY_SLASH_RE, 3), (DMY_DASH_RE, 3)):
+            for m in pat.finditer(text):
+                y = int(m.group(yg))
+                if y < CURRENT_BENCHMARK_YEAR:
+                    years.append(y)
+                    spans.append(m.span())
+        def in_spans(i):
+            return any(a <= i < b for a, b in spans)
+        for m in YEAR_RE.finditer(text):
+            if in_spans(m.start()):
+                continue
+            y = int(m.group(1))
+            if y < CURRENT_BENCHMARK_YEAR:
+                years.append(y)
+        return len(years) > 0
+
+    group_eval = "timestamp" if has_past_timestamp(question_text) else "non-timestamp"
+    console.print(f"[bold green]Group Eval: {group_eval}[/bold green]")
+
+    for variant, value in data.items():
+        if not isinstance(value, dict):
+            continue
+        triples = value.get("triples", [])
+        ground_truth = value.get("answers", [])
         # Đọc MCQ Options trực tiếp từ file JSON thay vì sinh real-time
-        options_text = data[variant].get("mcq_options_text", "")
-        correct_letter = data[variant].get("mcq_correct_letter", "None")
+        options_text = value.get("mcq_options_text", "")
+        correct_letter = value.get("mcq_correct_letter", "None")
         mcq_question = question_text + options_text
-        
+
         work_dir = f"data/lightrag/workspace/{q_id}/{variant}"
-        
+
         import shutil
         if os.path.exists(work_dir):
             shutil.rmtree(work_dir, ignore_errors=True)
         os.makedirs(work_dir, exist_ok=True)
-        
+
         import asyncio
         rag_output = asyncio.run(run_lightrag_scenario(
-            question=mcq_question, 
-            triples=triples, 
-            variant_name=variant, 
+            question=mcq_question,
+            triples=triples,
+            variant_name=variant,
             workspace_dir=work_dir
         ))
-        
+
         ans = rag_output.get("answer", "")
         retrieved_context = rag_output.get("retrieved_context", "")
 
@@ -207,7 +240,7 @@ def main():
             global_labels=GLOBAL_LABELS,
             question=mcq_question
         ))
-        
+
         console.print(f"\n[bold magenta]--- KNOWLEDGE CONTEXT ({variant}) ---[/bold magenta]")
         console.print(retrieved_context)
         console.print(f"[bold cyan]Ground Truth Entities ({variant}):[/bold cyan] {ground_truth}")

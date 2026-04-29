@@ -51,25 +51,31 @@ class EvaluationModule:
         Dành cho bài toán Trắc nghiệm ABCD: Đối chiếu chữ cái mà RAG sinh ra với chữ cái đáp án đúng.
         Trả về (Score_Float, Chữ_Cái_Dự_Đoán)
         """
-        expected_letter = ground_truths[0] if ground_truths else "None"
-            
-        # Fallback check trực tiếp bằng regex
+        expected_letter = (ground_truths[0] if ground_truths else "None").upper()
+        text = str(predicted_text or "")
+        text_upper = text.upper()
+
+        # Ưu tiên các mẫu "kết luận đáp án" rõ ràng để tránh match nhầm chữ cái trong câu văn.
+        prioritized_patterns = [
+            r"(?:CORRECT\s+ANSWER|FINAL\s+ANSWER|THE\s+ANSWER\s+IS|ANSWER\s*[:\-])\s*\(?\s*([A-D])\s*\)?\b",
+            r"(?:BEST\s+RESPONSE|BEST\s+ANSWER)\s*(?:IS)?\s*[:\-]?\s*\(?\s*([A-D])\s*\)?\b",
+            r"(?:^|\n)\s*([A-D])\s*[\).]?\s*$",
+        ]
+
         predicted_letter = "None"
-        match = re.search(r'\b([A-D])\b', predicted_text.upper())
-        if match:
-            predicted_letter = match.group(1)
-            if predicted_letter == expected_letter.upper():
-                return 1.0, predicted_letter
-            return 0.0, predicted_letter
-            
-        # Fallback heuristic
-        for letter in ["A", "B", "C", "D"]:
-            if f"{letter}." in predicted_text.upper() or f" {letter} " in predicted_text.upper() or f"[{letter}]" in predicted_text.upper() or f"**{letter}**" in predicted_text.upper():
-                predicted_letter = letter
-                if letter == expected_letter.upper():
-                    return 1.0, predicted_letter
-                return 0.0, predicted_letter
-                
+        for pattern in prioritized_patterns:
+            matches = re.findall(pattern, text_upper)
+            if matches:
+                predicted_letter = matches[-1]
+                return (1.0, predicted_letter) if predicted_letter == expected_letter else (0.0, predicted_letter)
+
+        # Fallback cuối: chỉ nhận chữ cái đơn lẻ ở gần cuối câu trả lời.
+        tail = text_upper[-120:]
+        tail_match = re.search(r"(?:^|\n)\s*([A-D])\s*[\).]?\s*$", tail)
+        if tail_match:
+            predicted_letter = tail_match.group(1)
+            return (1.0, predicted_letter) if predicted_letter == expected_letter else (0.0, predicted_letter)
+
         return 0.0, "None"
 
     def calculate_p_norm(self, logprobs: List[float]) -> float:
