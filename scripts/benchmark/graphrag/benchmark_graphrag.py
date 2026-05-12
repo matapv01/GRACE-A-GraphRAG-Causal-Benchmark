@@ -4,6 +4,7 @@ import inspect
 import json
 import os
 import random
+import re
 import shutil
 import subprocess
 import traceback
@@ -409,6 +410,40 @@ async def run_graphrag_scenario(question: str, triples: list, variant_name: str,
         return {"answer": "QUERY_ERROR", "retrieved_context": ""}
 
 
+def has_past_timestamp(text: str) -> bool:
+    """Check if text contains a timestamp from the past (before current benchmark year 2026)."""
+    if not text:
+        return False
+    
+    ISO_DATE_RE = re.compile(r"(?<!\d)(\d{4})-(\d{1,2})-(\d{1,2})(?:[T\s]\d{2}:\d{2}:\d{2}(?:Z)?)?(?!\d)")
+    DMY_SLASH_RE = re.compile(r"(?<!\d)(\d{1,2})/(\d{1,2})/(\d{4})(?!\d)")
+    DMY_DASH_RE = re.compile(r"(?<!\d)(\d{1,2})-(\d{1,2})-(\d{4})(?!\d)")
+    YEAR_RE = re.compile(r"(?<!\d)(1\d{3}|20[0-1]\d|202[0-5])(?!\d)")
+    
+    CURRENT_BENCHMARK_YEAR = 2026
+    years = []
+    spans = []
+    
+    for pat, yg in ((ISO_DATE_RE, 1), (DMY_SLASH_RE, 3), (DMY_DASH_RE, 3)):
+        for m in pat.finditer(text):
+            y = int(m.group(yg))
+            if y < CURRENT_BENCHMARK_YEAR:
+                years.append(y)
+                spans.append(m.span())
+    
+    def in_spans(i):
+        return any(a <= i < b for a, b in spans)
+    
+    for m in YEAR_RE.finditer(text):
+        if in_spans(m.start()):
+            continue
+        y = int(m.group(1))
+        if y < CURRENT_BENCHMARK_YEAR:
+            years.append(y)
+    
+    return len(years) > 0
+
+
 async def evaluate_single_file(test_file: Path, evaluator: EvaluationModule):
     q_id = test_file.stem
     console.print(f"\n[bold blue]>>> Bắt đầu ID: {q_id} <<<[/bold blue]")
@@ -427,7 +462,8 @@ async def evaluate_single_file(test_file: Path, evaluator: EvaluationModule):
     except FileNotFoundError:
         pass
 
-    results = {"question_id": q_id, "question": question_text, "variants": {}}
+    group_eval = "timestamp" if has_past_timestamp(question_text) else "non-timestamp"
+    results = {"question_id": q_id, "question": question_text, "group_eval": group_eval, "variants": {}}
 
     for variant, payload in iter_variant_items(data):
         triples = payload.get("triples", [])
