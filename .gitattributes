@@ -1,3 +1,4 @@
 data/**/*_subgraphs/*.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
 data/lightrag/benchmark_results.json filter=lfs diff=lfs merge=lfs -text
 data/lightrag/benchmark_results.json.bak* filter=lfs diff=lfs merge=lfs -text
