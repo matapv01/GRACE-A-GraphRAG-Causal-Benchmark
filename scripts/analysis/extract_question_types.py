@@ -2,7 +2,6 @@ import json
 import csv
 from pathlib import Path
 
-
 def main():
     input_file = Path("data/lcquad_test.json")
     output_file = Path("data/question_type_mapping.csv")
@@ -24,13 +23,16 @@ def main():
                 subgraph = ", ".join(subgraph)
 
             template_id = str(item.get("template_id", ""))
-            template = item.get("template", "").strip()
+            
+            template = item.get("template", "")
+            if isinstance(template, list):
+                template = ", ".join(str(t) for t in template)
+            template = str(template).strip()
 
             writer.writerow([q_id, subgraph, template_id, template])
 
-    print(f"Đã tạo file ánh xạ thành công tại: {output_file}")
-    print(f"Tổng số mẫu: {len(data)}")
-
+    print(f"Successfully generated mapping file at: {output_file}")
+    print(f"Total samples: {len(data)}")
 
 if __name__ == "__main__":
     main()

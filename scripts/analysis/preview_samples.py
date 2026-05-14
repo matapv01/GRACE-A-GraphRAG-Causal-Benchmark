@@ -22,13 +22,13 @@ def get_wikidata_labels(uris):
     url = "https://www.wikidata.org/w/api.php"
     params = {
         "action": "wbgetentities",
-        "ids": "|".join(q_ids[:50]),  # Wikidata API cho phép tối đa 50 ID mỗi request
+        "ids": "|".join(q_ids[:50]),  # Wikidata API allows max 50 IDs per request
         "languages": "en",
         "props": "labels",
         "format": "json",
     }
     headers = {
-        "User-Agent": "GraphRAG-Benchmark/1.0 (https://github.com/MinhPV/GraphRAG-Benchmark)"
+        "User-Agent": "GraphRAG-Causal-Benchmark/2.0 (https://github.com/MinhPV/GRACE-A-GraphRAG-Causal-Benchmark)"
     }
     try:
         resp = requests.get(url, params=params, headers=headers).json()
@@ -45,24 +45,24 @@ def get_wikidata_labels(uris):
 
 def main():
     console = Console()
-    perturb_dir = Path("data/perturbed_subgraphs")
+    perturb_dir = Path("data/test_perturbed_subgraphs")
 
     if not perturb_dir.exists():
-        console.print("[red]Không tìm thấy thư mục: data/perturbed_subgraphs/[/red]")
+        console.print("[red]Could not find directory: data/test_perturbed_subgraphs/[/red]")
         return
 
     json_files = list(perturb_dir.glob("*.json"))
     if not json_files:
-        console.print("[red]Chưa có file perturbed subgraph nào được tạo ra.[/red]")
+        console.print("[red]No perturbed subgraph files have been generated yet.[/red]")
         return
 
-    # Tải bộ dataset gốc để tra cứu lại Question text và Answers
-    console.print("Đang tra cứu lại nội dung câu hỏi gốc từ dataset...")
+    # Load the original dataset to lookup original question text and answers
+    console.print("Looking up original question contents from dataset...")
     loader = DatasetLoader("data/lcquad_test.json")
     questions = loader.load_dataset()
     q_dict = {q.id: q for q in questions}
 
-    # Lấy ngẫu nhiên 2 mẫu để in ra
+    # Grab 2 random samples to print
     num_samples = min(2, len(json_files))
     sample_files = random.sample(json_files, num_samples)
 
@@ -79,42 +79,44 @@ def main():
 
         q_id = clean_graph.get("question_id", file_path.stem)
 
-        # Lấy câu hỏi từ dataset gốc
+        # Get question from original dataset
         orig_q = q_dict.get(q_id)
         question_text = orig_q.question if orig_q else "Unknown Question"
 
-        # Lấy answers trực tiếp từ file JSON
+        # Get answers directly from JSON file
         answers = clean_graph.get("answers", [])
 
-        # Query Wikidata API để lấy text cho dễ nhìn
+        # Query Wikidata API to get text for better readability
         answer_labels = get_wikidata_labels(answers)
         answer_texts = [
             f"{ans} ({answer_labels.get(ans, ans.split('/')[-1])})" for ans in answers
         ]
 
         console.print(f"\n[bold cyan]=== SAMPLE ID: {q_id} ===[/bold cyan]")
-        console.print(f"[bold yellow]Câu hỏi (Query):[/bold yellow] {question_text}")
-        console.print(f"[bold yellow]Đáp án đích (Links):[/bold yellow] {answers}")
+        console.print(f"[bold yellow]Question (Query):[/bold yellow] {question_text}")
+        console.print(f"[bold yellow]Target Answer (Links):[/bold yellow] {answers}")
         console.print(
-            f"[bold yellow]Đáp án đích (Text) :[/bold yellow] {answer_texts}\n"
+            f"[bold yellow]Target Answer (Text) :[/bold yellow] {answer_texts}\n"
         )
 
-        # In ra cấu trúc của từng bản variant
+        # Print structure for each variant
         for variant_name, v_data in data.items():
+            if not isinstance(v_data, dict):
+                continue
+                
             triples = v_data.get("triples", [])
 
-            # Sử dụng Tree của thư viện 'rich' để in cho tường minh
+            # Use 'rich' Tree for clear layout
             tree = Tree(
-                f"[bold green]Biểu đồ {variant_name.upper()}[/bold green] (Tổng số {len(triples)} cạnh)"
+                f"[bold green]Graph Variant: {variant_name.upper()}[/bold green] (Total edges: {len(triples)})"
             )
             for t in triples:
-                s = t.get("subject", "").split("/")[-1]  # Lọc bớt URI dài, lấy id cuối
+                s = t.get("subject", "").split("/")[-1]  # Filter long URIs, keep end id
                 p = t.get("predicate", "").split("/")[-1]
                 o = t.get("object", "").split("/")[-1]
                 tree.add(f"{s} [blue]--({p})-->[/blue] {o}")
 
             console.print(tree)
-
 
 if __name__ == "__main__":
     main()

@@ -6,7 +6,6 @@ from pathlib import Path
 from rich.console import Console
 import re
 
-
 def get_wikidata_labels(uris):
     q_ids = []
     uri_mapping = {}
@@ -20,7 +19,7 @@ def get_wikidata_labels(uris):
         return {}
 
     labels = {}
-    # Lấy nhãn cho từng lô 50 ID để tránh lỗi URL quá dài
+    # Fetch labels in batches of 50 to avoid URL length limits
     for i in range(0, len(q_ids), 50):
         batch = q_ids[i : i + 50]
         url = "https://www.wikidata.org/w/api.php"
@@ -32,7 +31,7 @@ def get_wikidata_labels(uris):
             "format": "json",
         }
         headers = {
-            "User-Agent": "GraphRAG-Benchmark/1.0 (https://github.com/MinhPV/GraphRAG-Benchmark)"
+            "User-Agent": "GraphRAG-Causal-Benchmark/2.0 (https://github.com/MinhPV/GRACE-A-GraphRAG-Causal-Benchmark)"
         }
         try:
             resp = requests.get(url, params=params, headers=headers).json()
@@ -46,199 +45,128 @@ def get_wikidata_labels(uris):
 
     return labels
 
-
 def clean_id(uri):
-    """Lấy ID thuần túy làm định danh node cho Mermaid (không chứa khoảng trắng/ký tự đặc biệt)"""
-    if not uri:
-        return "UNKNOWN"
-    text = uri.split("/")[-1]
-    # Replaces everything that isn't a letter, number, or underscore with an underscore
-    import re
+    """Format Wikidata URI to valid Mermaid node ID."""
+    node_id = uri.split("/")[-1]
+    node_id = re.sub(r"[^a-zA-Z0-9_]", "_", node_id)
+    return node_id
 
-    text = re.sub(r"[^a-zA-Z0-9_]", "_", text)
-    return text
+def sanitize_label(label):
+    """Escape quotes for Mermaid text."""
+    return str(label).replace('"', "&quot;")
 
+def generate_mermaid(triples, labels_dict):
+    lines = ["graph TD"]
+    for idx, t in enumerate(triples):
+        s = t.get("subject", "")
+        p = t.get("predicate", "")
+        o = t.get("object", "")
 
-def clean_label(text):
-    """Dọn dẹp text hiển thị để không làm vỡ syntax của Mermaid"""
-    if not text:
-        return "UNKNOWN"
-    for char in ['"', "'", "[", "]", "(", ")", "{", "}"]:
-        text = text.replace(char, " ")
-    return text
+        s_id = clean_id(s)
+        o_id = clean_id(o)
+        
+        s_label = sanitize_label(labels_dict.get(s, s.split("/")[-1]))
+        o_label = sanitize_label(labels_dict.get(o, o.split("/")[-1]))
+        p_label = sanitize_label(labels_dict.get(p, p.split("/")[-1]))
 
-
-def generate_mermaid_diagram(graph_data, answers, labels_dict):
-    """Sinh chuỗi mã nguồn Mermaid.js từ danh sách các cạnh (triples)"""
-    lines = [
-        "%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '18px', 'fontFamily': 'Arial'}, 'flowchart': {'nodeSpacing': 70, 'rankSpacing': 100}}}%%",
-        "graph LR",
-    ]
-    triples = graph_data.get("triples", [])
-
-    nodes_in_graph = set()
-
+        # Format: NodeID["Label"] -->|Predicate| NodeID["Label"]
+        lines.append(f'    {s_id}["{s_label}"] -->|"{p_label}"| {o_id}["{o_label}"]')
+    
+    # Add click events so nodes link to actual Wikidata pages
+    added_links = set()
     for t in triples:
-        s_uri = t.get("subject", "")
-        p_uri = t.get("predicate", "")
-        o_uri = t.get("object", "")
-
-        s_id = clean_id(s_uri)
-        p_id = clean_id(p_uri)
-        o_id = clean_id(o_uri)
-
-        s_label = clean_label(labels_dict.get(s_uri, s_id))
-        p_label = clean_label(labels_dict.get(p_uri, p_id))
-        o_label = clean_label(labels_dict.get(o_uri, o_id))
-
-        if s_id and o_id:
-            # Format của mermaid: Node1["Hiển thị_1"] -- "Cạnh" --> Node2["Hiển thị_2"]
-            lines.append(
-                f'    {s_id}["{s_label}"] -- "{p_label}" --> {o_id}["{o_label}"]'
-            )
-            nodes_in_graph.add(s_id)
-            nodes_in_graph.add(o_id)
-
-    # Tô màu (Highlight) riêng cho các Entity là Đáp án bằng màu Xanh lá
-    for ans in answers:
-        a_id = clean_id(ans)
-        # Chỉ highlight nếu đáp án thực sự tồn tại trong đồ thị
-        if a_id in nodes_in_graph:
-            lines.append(f"    style {a_id} fill:#9f9,stroke:#333,stroke-width:4px")
+        for entity in [t.get("subject", ""), t.get("object", "")]:
+            e_id = clean_id(entity)
+            if e_id not in added_links and entity.startswith("http://www.wikidata.org/entity/Q"):
+                lines.append(f'    click {e_id} "{entity}" "Go to Wikidata"')
+                added_links.add(e_id)
 
     return "\n".join(lines)
 
+def search_files(data_dir, mode=None, single_id=None):
+    import csv
+    if not data_dir.exists():
+        return []
+    
+    files = list(data_dir.glob("*.json"))
+    
+    if single_id:
+        files = [f for f in files if f.stem == str(single_id)]
+        return files
+        
+    if mode:
+        mapping_file = Path("data/question_type_mapping.csv")
+        if not mapping_file.exists():
+             Console().print("[red]Missing mapping file. Please run extract_question_types.py first.[/red]")
+             return []
+        
+        valid_ids = set()
+        with open(mapping_file, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                if row.get("subgraph_type", "").lower() == mode.lower():
+                    valid_ids.add(row["question_id"])
+                    
+        files = [f for f in files if f.stem in valid_ids]
+        
+    return files
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Visualize perturbed subgraphs as Mermaid diagrams"
-    )
-    parser.add_argument(
-        "--mode",
-        type=str,
-        default=None,
-        help="Chỉ vẽ các đồ thị thuộc loại câu hỏi subgraph tương ứng (vd: 'simple question right', 'statement_property')",
-    )
-    parser.add_argument(
-        "--single_id", type=str, default=None, help="Chỉ vẽ cho question_id cụ thể"
-    )
+    parser = argparse.ArgumentParser(description="Visualize Reasonings Subgraphs using Mermaid.js")
+    parser.add_argument("--mode", type=str, help="Filter by subgraph type (e.g. 'right-subgraph', 'center')")
+    parser.add_argument("--single_id", type=str, help="Render specific question ID directly")
     args = parser.parse_args()
 
     console = Console()
-    perturb_dir = Path("data/perturbed_subgraphs")
-
-    # Tạo thư mục lưu kết quả ảnh / markdown
-    out_dir = Path("visualizations")
-    out_dir.mkdir(exist_ok=True)
-
-    json_files = list(perturb_dir.glob("*.json"))
-    if not json_files:
-        console.print(
-            "[red]Không tìm thấy graph nào trong data/perturbed_subgraphs/[/red]"
-        )
+    data_dir = Path("data/test_perturbed_subgraphs")
+    
+    files = search_files(data_dir, mode=args.mode, single_id=args.single_id)
+    
+    if not files:
+        console.print("[red]No matching files found based on the provided filters.[/red]")
         return
-
-    console.print("Đang tra cứu lại nội dung câu hỏi gốc từ dataset...")
-    try:
-        with open("data/lcquad_test.json", "r", encoding="utf-8") as f:
-            original_questions = json.load(f)
-    except Exception as e:
-        console.print(f"[red]Không thể đọc data/lcquad_test.json: {e}[/red]")
-        return
-
-    q_dict = {str(q.get("uid", "")): q for q in original_questions}
-
-    # Lọc danh sách file JSON dựa trên tham số mode hoặc single_id
-    valid_files = []
-    for f in json_files:
-        uid = f.stem
-        if args.single_id and uid != args.single_id:
-            continue
-
-        if args.mode:
-            q_info = q_dict.get(uid)
-            if not q_info:
-                continue
-            subgraph_type = q_info.get("subgraph", "")
-            if isinstance(subgraph_type, list):
-                subgraph_type = " ".join(subgraph_type)
-
-            if args.mode.lower() not in subgraph_type.lower():
-                continue
-
-        valid_files.append(f)
-
-    if not valid_files:
-        console.print(
-            f"[red]Không tìm thấy file nào thỏa mãn điều kiện (Mode: {args.mode}, ID: {args.single_id})[/red]"
-        )
-        return
-
-    sample_file = random.choice(valid_files)
-    with open(sample_file, "r", encoding="utf-8") as f:
+        
+    # Select exactly 1 file to print if single_id is not specified (random sample)
+    if args.single_id:
+        selected_file = files[0]
+    else:
+        selected_file = random.choice(files)
+        
+    console.print(f"[bold cyan]Selected file for visualization:[/bold cyan] {selected_file.name}")
+    
+    with open(selected_file, "r", encoding="utf-8") as f:
         data = json.load(f)
-
+        
     if "error" in data:
-        console.print(
-            "[red]File được chọn đang trúng file báo lỗi (thiếu Answer). Hãy chạy lại lệnh để lấy file khác.[/red]"
-        )
+        console.print("[red]File contains an error tag, skipping.[/red]")
         return
-
-    clean = data.get("clean", {})
-    q_id = str(clean.get("question_id", sample_file.stem))
-
-    orig_q = q_dict.get(q_id)
-    question_text = orig_q.get("question", "Unknown") if orig_q else "Unknown"
-
-    answers = clean.get("answers", [])
-
-    # 1. Thu thập TẤT CẢ các URI có trong các đồ thị để tra cứu label
-    all_uris = set(answers)
+        
+    # Collect unique URIs to fetch labels at once
+    all_uris = set()
     for variant, v_data in data.items():
-        if variant == "error":
-            continue
-        for t in v_data.get("triples", []):
+        if not isinstance(v_data, dict): continue
+        triples = v_data.get("triples", [])
+        for t in triples:
             all_uris.add(t.get("subject", ""))
             all_uris.add(t.get("predicate", ""))
             all_uris.add(t.get("object", ""))
-
-    all_uris = {u for u in all_uris if u}  # Loại bỏ chuỗi rỗng
-
-    console.print(f"Đang gọi Wikidata API để lấy {len(all_uris)} nhãn (labels)...")
+            
+    console.print("Pulling human readable labels from Wikidata API...")
     labels_dict = get_wikidata_labels(list(all_uris))
-
-    answer_texts = [
-        f"`{ans}` ({labels_dict.get(ans, ans.split('/')[-1])})" for ans in answers
-    ]
-
-    md_content = f"# Trực quan hóa Biểu đồ: `{q_id}`\n\n"
-    md_content += f"**Câu hỏi:** {question_text}\n\n"
-    md_content += "**Đáp án đích (tô <span style='color:green'>màu Xanh</span>):**\n"
-    for at in answer_texts:
-        md_content += f"- {at}\n"
-    md_content += "\n---\n\n"
-
-    # 2. Duyệt qua các biến thể (Clean, Broken, ...)
+    
     for variant, v_data in data.items():
-        if variant == "error":
+        if not isinstance(v_data, dict): continue
+        triples = v_data.get("triples", [])
+        if not triples:
             continue
-        md_content += f"## Bản thể `{variant.upper()}`\n\n"
-        md_content += "```mermaid\n"
-        md_content += generate_mermaid_diagram(v_data, answers, labels_dict)
-        md_content += "\n```\n\n"
-
-    out_md_file = out_dir / f"{sample_file.stem}.md"
-    with open(out_md_file, "w", encoding="utf-8") as f:
-        f.write(md_content)
-
-    console.print(
-        "[bold green]Thành công![/bold green] Đã xuất sơ đồ biểu diễn các đồ thị sang định dạng Markdown."
-    )
-    console.print(f"File lưu tại: [bold cyan]{out_md_file}[/bold cyan]")
-    console.print(
-        "=> [yellow]Trong VS Code, bạn hãy mở file trên và bấm tổ hợp phím `Ctrl + Shift + V` (Mở thanh Preview Markdown) để xem sơ đồ mạng lưới cực kì đẹp mắt nhé![/yellow]"
-    )
-
+            
+        console.print(f"\n[bold green]=== MERMAID DIAGRAM: {variant.upper()} ===[/bold green]")
+        console.print("[dim]Copy paste the text below into: https://mermaid.live/[/dim]\n")
+        
+        mermaid_text = generate_mermaid(triples, labels_dict)
+        # Using Rich to print standard raw text inside a block
+        console.print(mermaid_text, style="white")
+        console.print("\n" + "-"*50)
 
 if __name__ == "__main__":
     main()

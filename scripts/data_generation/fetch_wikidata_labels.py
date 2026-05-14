@@ -44,7 +44,7 @@ def get_wikidata_labels(ids: set) -> dict:
             "languages": "en"
         }
         
-        # Hàm fallback lấy từng ID
+        # Fallback function to fetch single ID
         def fetch_single(single_id):
             result = {"label": single_id, "description": "", "aliases": []}
             try:
@@ -94,17 +94,17 @@ def get_wikidata_labels(ids: set) -> dict:
             for eid in chunk:
                 labels_dict[eid] = fetch_single(eid)
                 
-        time.sleep(0.5) # Dãn cách request
+        time.sleep(0.5) # Rate limiting delay
         
     return labels_dict
 
 def main():
-    console.print("[bold cyan]Bắt đầu quét dữ liệu để tìm Wikidata IDs...[/bold cyan]")
+    console.print("[bold cyan]Starting scan for Wikidata IDs...[/bold cyan]")
     
     all_ids = set()
     
-    # Quét qua các thư mục chứa JSON
-    folders_to_scan = ["data/clean_subgraphs", "data/test_perturbed_subgraphs"]
+    # Scan through directories containing JSON files
+    folders_to_scan = ["data/test_clean_subgraphs", "data/test_perturbed_subgraphs"]
     for folder in folders_to_scan:
         if not os.path.exists(folder):
             continue
@@ -135,7 +135,7 @@ def main():
                 except Exception as e:
                     console.print(f"[red]Error reading {filepath}: {e}[/red]")
                     
-    console.print(f"Tổng số Wikidata IDs được tìm thấy: [bold yellow]{len(all_ids)}[/bold yellow]")
+    console.print(f"Total Wikidata IDs found: [bold yellow]{len(all_ids)}[/bold yellow]")
     
     out_file = "data/wikidata_labels.json"
     existing_labels = {}
@@ -144,7 +144,7 @@ def main():
             existing_labels = json.load(f)
             
     missing_ids = all_ids - set(existing_labels.keys())
-    console.print(f"Số IDs chưa có labels: [bold yellow]{len(missing_ids)}[/bold yellow]")
+    console.print(f"IDs missing labels: [bold yellow]{len(missing_ids)}[/bold yellow]")
     
     if missing_ids:
         new_labels = get_wikidata_labels(missing_ids)
@@ -153,7 +153,7 @@ def main():
         with open(out_file, "w", encoding="utf-8") as f:
             json.dump(existing_labels, f, indent=4, ensure_ascii=False)
             
-    console.print(f"[bold green]OK! Toàn bộ ánh xạ đã được lưu tại {out_file}[/bold green]")
+    console.print(f"[bold green]OK! All mappings saved to {out_file}[/bold green]")
 
 if __name__ == "__main__":
     main()

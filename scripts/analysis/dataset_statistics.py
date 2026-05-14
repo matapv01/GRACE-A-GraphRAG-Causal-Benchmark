@@ -5,18 +5,14 @@ from collections import Counter
 def main():
     stat_file = Path("data/dataset_statistics.md")
 
-    # Dữ liệu benchmark hiện tại sau bước convert_to_mcq.py
+    # Current benchmark data after convert_to_mcq.py
     perturb_dir = Path("data/test_perturbed_subgraphs")
-    test_perturb_dir = Path("data/test_perturbed_subgraphs")
     lcquad_test_file = Path("data/lcquad_test.json")
 
-    # 1. Total samples in perturbed_subgraphs (tập đã convert MCQ)
+    # 1. Total samples in perturbed_subgraphs (already converted to MCQ)
     files_to_scan = list(perturb_dir.glob("*.json")) if perturb_dir.exists() else []
-    # Backward compatibility: nếu người dùng vẫn để ở thư mục test_perturbed_subgraphs
-    if test_perturb_dir.exists() and test_perturb_dir != perturb_dir:
-        files_to_scan.extend(list(test_perturb_dir.glob("*.json")))
 
-    # Loại bỏ file trùng lặp nếu có
+    # Filter out duplicates if any
     unique_files = {f.name: f for f in files_to_scan}
     test_files = list(unique_files.values())
     total_test_samples = len(test_files)
@@ -24,26 +20,28 @@ def main():
     # 2. Variants distribution
     variant_counts = Counter()
     question_time_group_counts = Counter()
-    # Lưu ví dụ query id cho từng nhóm
+    
+    # Store example query IDs for each group
     group_examples = {"timestamp": [], "non_timestamp": [], "unknown": []}
     for f in test_files:
         try:
             with open(f, "r", encoding="utf-8") as file:
                 data = json.load(file)
 
-                # Phân bố loại câu hỏi sau khi convert MCQ
+                # Distribution of question types after MCQ conversion
                 q_group = data.get("question_time_group", "unknown")
                 if q_group not in {"timestamp", "non_timestamp"}:
                     q_group = "unknown"
                 question_time_group_counts[q_group] += 1
-                # Lưu ví dụ query id
+                
+                # Store sample query ID
                 if len(group_examples[q_group]) < 5:
                     group_examples[q_group].append(f.stem)
 
                 for variant in data.keys():
                     if isinstance(data.get(variant), dict):
                         variant_counts[variant] += 1
-        except:
+        except Exception:
             pass
 
     # 3. Query Types (SELECT vs ASK vs COUNT) from lcquad test
@@ -73,7 +71,7 @@ def main():
 
     # Generate Markdown Report
     with open(stat_file, "w", encoding="utf-8") as f:
-        f.write("# GRACE Benchmark: Dataset Statistics\n\n")
+        f.write("# GRACE-A Benchmark: Dataset Statistics\n\n")
         f.write(f"**Total Valid Test Samples:** {total_test_samples}\n\n")
 
         f.write("## 1. Question Time Group Distribution\n")

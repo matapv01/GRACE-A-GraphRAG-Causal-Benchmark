@@ -1,3 +1,4 @@
+import os
 import time
 import json
 import argparse
@@ -15,7 +16,7 @@ def main():
     parser.add_argument(
         "--retry_errors",
         action="store_true",
-        help="Cố gắng sinh lại biểu đồ đối với file JSON sinh ra bị lưu dính tag 'error' trước đó",
+        help="Attempt to regenerate perturbations for JSON files that were previously tagged with an 'error'.",
     )
     args = parser.parse_args()
 
@@ -34,11 +35,13 @@ def main():
     console.print(f"Polling '{input_dir}' and saving to '{output_dir}'")
     if args.retry_errors:
         console.print(
-            "[red]--retry_errors: Cho phép ghi đè/sinh lại nhiễu đè lên những file bị HTTP/Logic error rác.[/red]"
+            "[red]--retry_errors: Allowing overwrite/regeneration for files with HTTP/Logic failure tags.[/red]"
         )
 
     processed_count = 0
+    success_count = 0
     idle_ticks = 0
+    error_logs = []
 
     while True:
         if not input_dir.exists():
@@ -56,14 +59,14 @@ def main():
                 if not args.retry_errors:
                     continue
                 else:
-                    # Nếu retry thì phải check xem có thật sự lỗi hay không mới retry, k mất thời gian (error trong json)
+                    # If retrying, check if it actually failed to avoid wasting time (checks for 'error' in JSON)
                     try:
                         with open(out_file_path, "r", encoding="utf-8") as rf:
                             check_data = json.load(rf)
                             if "error" not in check_data:
-                                continue  # Thành công rồi -> Bypass
+                                continue  # Already successful -> Bypass
                     except Exception:
-                        pass  # File corrupt, cứ cho retry
+                        pass  # File corrupt, proceed to retry
 
             try:
                 # Load the clean subgraph
@@ -85,12 +88,18 @@ def main():
 
                 new_files_processed_this_tick += 1
                 processed_count += 1
+                success_count += 1
                 console.print(
                     f"[{time.strftime('%H:%M:%S')}] Perturbed: {file_path.name} | Total: {processed_count}"
                 )
 
             except Exception as e:
                 console.print(f"[red]Error processing {file_path.name}: {e}[/red]")
+                error_logs.append({
+                    "file": file_path.name,
+                    "error": str(e),
+                    "type": type(e).__name__
+                })
                 # Touch file with error so it doesn't block the loop forever
                 with open(out_file_path, "w", encoding="utf-8") as f:
                     json.dump({"error": str(e)}, f)

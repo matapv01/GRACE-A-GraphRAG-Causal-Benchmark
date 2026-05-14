@@ -1,113 +1,100 @@
 # GraphRAG-Benchmark
 
-A Universal Diagnostic Subgraph Framework for evaluating Knowledge Graph Reasoning and Faithfulness of Large Language Models (LLMs).
+A Universal Diagnostic Subgraph Framework for evaluating Knowledge Graph Reasoning and Faithfulness 
+of Large Language Models (LLMs).
 
-## 🚀 Hướng dẫn chạy Pipeline cào dữ liệu (Background / Ngầm)
+## 🚀 Data Scraping Pipeline Instructions 
 
-Dự án sử dụng cơ chế chạy ngầm (`nohup`) để xử lý toàn bộ dữ liệu của LC-QuAD 2.0 Test set từ Wikidata mà không bị gián đoạn khi tắt terminal.
-Code đã được tích hợp cơ chế tự động resume (chạy bù các file chưa có) và **retry vô hạn** cho lỗi rate-limit `429 Too Many Requests`.
+The project supports running background processes to construct the full benchmark data from Wikidata without interruption. The code features an auto-resume mechanism (skipping successfully parsed files) and **infinite retries** for limits like `429 Too Many Requests`.
 
-### 1. Khởi động trích xuất đồ thị sạch (Extract Clean Subgraphs)
-Lệnh này sẽ cào dữ liệu từ Wikidata, đối chiếu câu hỏi để tìm `Gold Path` thật, sau đó dùng `SemanticRetriever` lấy thêm dữ liệu nhiễu xung quanh thông qua Vector Embeddings GPU.
+### 1. Generate Benchmark Data Concurrently
+Instead of running each script manually, the project provides an orchestration script that runs the entire sequence automatically: 
+(1) Extract true graphs from Wikidata -> (2) Generate perturbed graphs -> (3) Fetch Entity Labels -> (4) Convert subgraphs to MCQ formats.
 
-**Lệnh chạy:**
+**Main Command:**
 ```bash
-nohup env PYTHONPATH=src uv run python scripts/data_generation/extract_clean_subgraphs.py > logs/logs_extract.txt 2>&1 &
+uv run python scripts/data_generation/prepare_benchmark_data.py
 ```
-* Dữ liệu JSON sinh ra tại: `data/test_clean_subgraphs/`
+*(It is highly recommended to use Tmux or run in the background to prevent SSH disconnection).*
 
-**Chạy lại các mẫu bị lỗi mạng/API:**
-Thêm cờ `--retry_errors` để hệ thống bỏ qua các file thành công, tự động quét và cào lại các câu hỏi từng bị lỗi (trừ lỗi logic như Empty Gold Path).
+- Clean subgraphs are saved to: `data/test_clean_subgraphs/`
+- Perturbed subgraphs (causally intervened) are saved to: `data/test_perturbed_subgraphs/`
+- Label mappings are saved to: `data/wikidata_labels.json`
+
+**Retry failed items:**
+If Wikidata times out and some subgraphs receive an "error" tag inside their JSON instead of actual graph data, you do not need to delete everything. Simply activate the `--retry_errors` flag to overwrite and re-process the corrupted entries while instantly skipping the valid ones.
+
+To backfill and retry across the *entire* pipeline (extraction, perturbation, labels, and MCQ conversion):
 ```bash
-nohup env PYTHONPATH=src uv run python scripts/data_generation/extract_clean_subgraphs.py --retry_errors > logs/logs_extract_retry.txt 2>&1 &
-```
-
-### 2. Khởi động sinh đồ thị nhiễu (Generate Perturbations)
-Lệnh này có thể chạy song song với lệnh 1. Nó liên tục quét thư mục clean ở trên, nếu thấy file mới sẽ tiến hành sinh ra bản JSON lồng 5 trạng thái Causal: `Clean`, `Broken`, `Type Matching`, `Topological`, `Swapping`.
-
-**Lệnh chạy:**
-```bash
-nohup env PYTHONPATH=src uv run python scripts/data_generation/generate_perturbations.py > logs/logs_perturb.txt 2>&1 &
-```
-* Dữ liệu JSON sinh ra tại: `data/test_perturbed_subgraphs/`
-
-**Sinh lại đồ thị cho các mẫu bị lỗi sinh nhiễu:**
-Thêm cờ `--retry_errors` để hệ thống tự động ghi đè, xử lý lại cho các JSON trước đó sinh ra dính cảnh báo `"error"`.
-```bash
-nohup env PYTHONPATH=src uv run python scripts/data_generation/generate_perturbations.py --retry_errors > logs/logs_perturb_retry.txt 2>&1 &
+uv run python scripts/data_generation/prepare_benchmark_data.py --retry_errors
 ```
 
-### 3. Theo dõi tiến độ & Thống kê lỗi (Statistics)
-Công cụ này quét toàn bộ thư mục data và báo cáo chi tiết: tiến độ %, số lượng câu đã tải thành công, và tổng hợp nhóm các thể loại lỗi ở bước tạo Perturb (ví dụ: không có cạnh answer, mảng rỗng,...).
+### 2. Data Filtering / Outlier Subgraphs Removal
+Due to the nature of Wikidata Hub Nodes (e.g., highly connected entities like "United States", "Human"), some subgraphs extracted via 2-hop searches can explode to tens of thousands of nodes (up to 90,000+ edges), which will completely exceed the Context Window limits of most modern Large Language Models and cause API crashes or "Lost in the middle" problems during GraphRAG evaluation.
 
-**Lệnh chạy:**
+To ensure the Benchmark is fair, safe, and cost-effective, we isolate these extreme outliers (Graphs with **> 1000 nodes** or **> 1000 edges**).
+**Command:**
 ```bash
-PYTHONPATH=src env PYTHONPATH=src uv run python scripts/analysis/statistics.py
+uv run python scripts/analysis/check_subgraph_stats.py
+```
+*What it does:* Scans `data/test_*` directories and safely moves any questions violating the threshold constraint into `data/outliers_large_subgraphs/` isolation folder. (In a typical scrape of ~4118 valid LC-QuAD subgraphs, about ~33 outliers / 0.8% of the dataset will be isolated).
+
+### 3. Dataset Health & Statistics Report
+This tool scans the entire `data/test_clean_subgraphs` folder and strictly validates dataset integrity. It outputs a healthy Markdown report (`data/dataset_statistics.md`) proving dataset sanity, checking for missing files, and confirming the exact number of test samples with their 5 complete causal graph variants.
+
+**Command:**
+```bash
+uv run python scripts/analysis/dataset_statistics.py
 ```
 
-### 4. Xem trước mẫu dữ liệu (Preview Samples)
-Lệnh này hiển thị chi tiết thông tin của các mẫu báo cáo/đồ thị đã được trích xuất (thực thể, quan hệ, nhãn từ Wikidata) giúp bạn kiểm tra nhanh dữ liệu đầu ra và tính chính xác của tiến trình.
+### 4. Extract Question Type Mapping
+This script analyzes LC-QuAD's original layout to extract and map logic types and topological query structures (e.g., Simple, Multi-hop, Boolean, etc.). It generates `data/question_type_mapping.csv`, which acts as a crucial index that allows you to split benchmarking and visualization metrics by actual structure.
 
+**Command:**
+```bash
+uv run python scripts/analysis/extract_question_types.py
+```
+
+### 5. Preview Data Samples
+Displays detailed insights of the generated subgraphs (nodes, relations, wikidata mappings) for a quick health check.
+
+**Command:**
 ```bash
 PYTHONPATH=src env PYTHONPATH=src uv run python scripts/analysis/preview_samples.py
 ```
 
-### 5. Trực quan hóa cấu trúc đồ thị (Visualize Mermaid)
-Sử dụng script này để in ra cấu trúc dạng Markdown Mermaid phục vụ dán lên các trình duyệt vẽ sơ đồ, giúp biểu diễn trực quan đồ thị Knowledge Graph cho các trạng thái Causal khác nhau đã sinh ra phục vụ mục đích Debug.
+### 6. Visualize Graph Structure (Mermaid)
+Use this script to output a Markdown Mermaid representation of a specified subgraph. Paste the code into a Mermaid live editor to visually verify Knowledge Graphs under different Causal States.
 
-Chạy ngẫu nhiên một mẫu bất kỳ:
+*(Requires `question_type_mapping.csv` to be spawned first from Step 4)*
+
+Run on a random sample:
 ```bash
 PYTHONPATH=src env PYTHONPATH=src uv run python scripts/analysis/visualize_mermaid.py
 ```
 
-Chạy vẽ biểu đồ cho một tập truy vấn subgraph cụ thể (`--mode`) hoặc truyền trực tiếp mã câu hỏi (`--single_id`):
+Target a specific topological graph mode (`--mode`) or a direct question ID (`--single_id`):
 
-Các giá trị `--mode` (loại đồ thị) tiêu biểu trong tập dữ liệu bạn có thể chọn:
-- `"simple question right"` / `"simple question left"`: Truy vấn đơn giản 1 hop.
-- `"right-subgraph"` / `"left-subgraph"`: Truy vấn đa bước (Multi-hop) đi tiếp hoặc đi lùi.
-- `"center"`: Đồ thị hội tụ/phân mảnh từ trung tâm.
-- `"statement_property"`: Đồ thị rẽ nhánh bằng các thuộc tính phụ (Qualifiers).
-- `"two intentions"`: Câu hỏi kết hợp (Conjunction) nhiều điều kiện.
-- `"boolean"`: Câu hỏi dạng Yes/No.
+Available `--mode` types include:
+- `"simple question right"` / `"simple question left"`: 1-hop simple retrieval.
+- `"right-subgraph"` / `"left-subgraph"`: Multi-hop reasoning queries.
+- `"center"`: Converging/diverging center subgraphs.
+- `"statement_property"`: Qualifiers branch graph.
+- `"two intentions"`: Conjunction queries.
+- `"boolean"`: Yes/No graph queries.
 
 ```bash
-# Vẽ mẫu một câu multi-hop ngẫu nhiên
+# Preview a random multi-hop question layout
 PYTHONPATH=src env PYTHONPATH=src uv run python scripts/analysis/visualize_mermaid.py --mode "right-subgraph"
 
-# Vẽ trực tiếp câu hỏi cụ thể đã biết ID
+# Preview visually by an exact question ID
 PYTHONPATH=src env PYTHONPATH=src uv run python scripts/analysis/visualize_mermaid.py --single_id 10856
 ```
 
-### 6. Cách dừng hệ thống khẩn cấp (Kill Process)
-Nếu bạn lỡ chạy nhầm hoặc muốn sửa code dở dang, hãy copy lệnh này để kết liễu mọi tiến trình cào dữ liệu ngầm đang chạy:
+### 7. Emergency Kill
+In case you executed the background scrape scripts by mistake, use this block to brutally kill all data extraction worker processes:
 
 ```bash
 pkill -f extract_clean_subgraphs.py
 pkill -f generate_perturbations.py
 ```
-
-## Data Fixes & Backups
-
-- Problem: Some entries in `data/lcquad_test.json` may have a null `question` field. This causes `scripts/benchmark/lightrag/run_all_lightrag.py` to raise a TypeError when concatenating the question with options during benchmark runs.
-
-- Fix script: Use the provided backfill utility to populate missing `question` values from `NNQT_question` where available:
-
-```bash
-python scripts/analysis/backfill_lcquad_questions.py
-```
-
-- What it does: Creates a backup `data/lcquad_test.json.bak` and replaces null `question` fields with `NNQT_question` when present.
-
-- Restore original: If you want to restore the original file:
-
-```bash
-mv data/lcquad_test.json.bak data/lcquad_test.json
-```
-
-- Remove backup: When you're confident, you can delete the backup:
-
-```bash
-rm data/lcquad_test.json.bak
-```
-
-- Design note: The benchmark runner intentionally surfaces data issues (it does not silently fall back). Use the backfill script to repair dataset entries before large-scale runs.
